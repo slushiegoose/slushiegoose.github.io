@@ -17,7 +17,8 @@
             "ru_RU": "\u0428\u043a\u043e\u043b\u044c\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 \u0410",
             "it_IT": "Uniforme scolastica A",
             "ja_JP": "\u30b9\u30af\u30fc\u30eb\u30d6\u30ec\u30b6\u30fcL"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 1,
@@ -37,7 +38,8 @@
             "ru_RU": "\u0414\u043e\u0441\u043f\u0435\u0445\u0438 \u0441\u0430\u043c\u0443\u0440\u0430\u044f",
             "it_IT": "Armatura samurai",
             "ja_JP": "\u30b5\u30e0\u30e9\u30a4\u30b8\u30e3\u30b1\u30c3\u30c8"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 2,
@@ -57,7 +59,8 @@
             "ru_RU": "\u0421\u0438\u043b\u043e\u0432\u044b\u0435 \u0434\u043e\u0441\u043f\u0435\u0445\u0438",
             "it_IT": "Armatura hi-tech",
             "ja_JP": "\u30d1\u30ef\u30fc\u30c9\u30b9\u30fc\u30c4"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 3,
@@ -77,7 +80,8 @@
             "ru_RU": "\u0428\u043a\u043e\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u0444\u0442\u0430 \u0410",
             "it_IT": "Cardigan scolastico A",
             "ja_JP": "\u30b9\u30af\u30fc\u30eb\u30ab\u30fc\u30c7 \u30ea\u30dc\u30f3"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 4,
@@ -97,7 +101,8 @@
             "ru_RU": "\u041a\u043e\u0441\u0442\u044e\u043c \u043d\u0438\u043d\u0434\u0437\u044f\u043b\u0438\u043d\u0433\u0430",
             "it_IT": "Giacca ninja",
             "ja_JP": "\u30cb\u30f3\u30b8\u30e3\u30b9\u30fc\u30c4"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 5,
@@ -117,7 +122,8 @@
             "ru_RU": "\u0421\u0438\u043b\u043e\u0432\u044b\u0435 \u0434\u043e\u0441\u043f\u0435\u0445\u0438 \u041c-1",
             "it_IT": "Prototipo di armatura hi-tech",
             "ja_JP": "\u30d1\u30ef\u30fc\u30c9\u30b9\u30fc\u30c4 \u30aa\u30ea\u30b8\u30f3"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 6,
@@ -137,7 +143,8 @@
             "ru_RU": "\u0416\u0435\u043c-\u0442\u043e\u043b\u0441\u0442\u043e\u0432\u043a\u0430",
             "it_IT": "Parka di Alga",
             "ja_JP": "\u30d2\u30e1\u30a4\u30c8\u30d1\u30fc\u30ab\u30fc"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 7,
@@ -157,7 +164,8 @@
             "ru_RU": "\u0420\u0438\u0448-\u0442\u043e\u043f\u0438\u043a",
             "it_IT": "Top di Nori",
             "ja_JP": "\u30a4\u30a4\u30c0\u30c1\u30c8\u30c3\u30d7\u30b9"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 8,
@@ -177,7 +185,8 @@
             "ru_RU": "\u0411\u0430\u043b\u0430\u0445\u043e\u043d \u043a\u043e\u043b\u0434\u0443\u043d\u044c\u0438 \u0410",
             "it_IT": "Vestito stregonesco A",
             "ja_JP": "\u30a8\u30f3\u30c1\u30e3\u30f3\u30c8\u30ed\u30fc\u30d6S"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 9,
@@ -197,7 +206,8 @@
             "ru_RU": "\u041b\u0430\u0442\u044b \u043e\u0441\u044c\u043c\u043e\u0440\u044b\u0446\u0430\u0440\u044f",
             "it_IT": "Corazza da octoguerriero",
             "ja_JP": "\u30bf\u30b3\u30c6\u30a3\u30ab\u30eb\u306a\u3088\u308d\u3044"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 10,
@@ -217,7 +227,8 @@
             "ru_RU": "\u041f\u0435\u0440\u0447\u0430\u0442\u043a\u0438 \u041f\u043b\u0430\u0432\u043d\u0438\u0448\u043a\u0438",
             "it_IT": "Manone da mascotte",
             "ja_JP": "\u3072\u308c\u304a\u304f\u3093\u306e\u3066"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 11,
@@ -237,7 +248,8 @@
             "ru_RU": "\u0428\u043a\u043e\u043b\u044c\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 \u0411",
             "it_IT": "Uniforme scolastica B",
             "ja_JP": "\u30b9\u30af\u30fc\u30eb\u30d6\u30ec\u30b6\u30fcR"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 12,
@@ -257,7 +269,8 @@
             "ru_RU": "\u0428\u043a\u043e\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u0444\u0442\u0430 \u0411",
             "it_IT": "Cardigan scolastico B",
             "ja_JP": "\u30b9\u30af\u30fc\u30eb\u30ab\u30fc\u30c7 \u30cd\u30af\u30bf\u30a4"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 13,
@@ -277,150 +290,11 @@
             "ru_RU": "\u0411\u0430\u043b\u0430\u0445\u043e\u043d \u043a\u043e\u043b\u0434\u0443\u043d\u044c\u0438 \u0411",
             "it_IT": "vestito stregonesco B",
             "ja_JP": "\u30a8\u30f3\u30c1\u30e3\u30f3\u30c8\u30ed\u30fc\u30d6L"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 14,
-        "name": "Orange Slopsuit",
-        "image": "../common/assets/img/gear/clothes/Clt_COP001.png",
-        "main": "Quick Respawn",
-        "stars": 2,
-        "localizedName": {
-            "en_GB": "Orange Slopsuit",
-            "en_US": "Orange Slopsuit",
-            "es_ES": "Mono de trabajo naranja",
-            "es_MX": "Uniforme de trabajo naranja",
-            "fr_FR": "Salopette orange",
-            "fr_CA": "Salopette orange",
-            "de_DE": "Orange Arbeitsklamotten",
-            "nl_NL": "Oranje werkkloffie",
-            "ru_RU": "\u041e\u0440\u0430\u043d\u0436\u0435\u0432\u044b\u0439 \u043a\u043e\u043c\u0431\u0438\u043d\u0435\u0437\u043e\u043d",
-            "it_IT": "Salopette arancione",
-            "ja_JP": "\u30d0\u30a4\u30c8\u30c4\u30ca\u30ae \u30aa\u30ec\u30f3\u30b8"
-        }
-    },
-    {
-        "id": 15,
-        "name": "Green Slopsuit",
-        "image": "../common/assets/img/gear/clothes/Clt_COP002.png",
-        "main": "Quick Respawn",
-        "stars": 2,
-        "localizedName": {
-            "en_GB": "Green Slopsuit",
-            "en_US": "Green Slopsuit",
-            "es_ES": "Mono de trabajo verde",
-            "es_MX": "Uniforme de trabajo verde",
-            "fr_FR": "Salopette verte",
-            "fr_CA": "Salopette verte",
-            "de_DE": "Gr\u00fcne Arbeitsklamotten",
-            "nl_NL": "Groen werkkloffie",
-            "ru_RU": "\u0417\u0435\u043b\u0435\u043d\u044b\u0439 \u043a\u043e\u043c\u0431\u0438\u043d\u0435\u0437\u043e\u043d",
-            "it_IT": "Salopette verde",
-            "ja_JP": "\u30d0\u30a4\u30c8\u30c4\u30ca\u30ae \u30b0\u30ea\u30fc\u30f3"
-        }
-    },
-    {
-        "id": 16,
-        "name": "Yellow Slopsuit",
-        "image": "../common/assets/img/gear/clothes/Clt_COP003.png",
-        "main": "Quick Respawn",
-        "stars": 2,
-        "localizedName": {
-            "en_GB": "Yellow Slopsuit",
-            "en_US": "Yellow Slopsuit",
-            "es_ES": "Mono de trabajo amarillo",
-            "es_MX": "Uniforme de trabajo amarillo",
-            "fr_FR": "Salopette jaune",
-            "fr_CA": "Salopette jaune",
-            "de_DE": "Gelbe Arbeitsklamotten",
-            "nl_NL": "Geel werkkloffie",
-            "ru_RU": "\u0416\u0435\u043b\u0442\u044b\u0439 \u043a\u043e\u043c\u0431\u0438\u043d\u0435\u0437\u043e\u043d",
-            "it_IT": "Salopette gialla",
-            "ja_JP": "\u30d0\u30a4\u30c8\u30c4\u30ca\u30ae \u30a4\u30a8\u30ed\u30fc"
-        }
-    },
-    {
-        "id": 17,
-        "name": "Pink Slopsuit",
-        "image": "../common/assets/img/gear/clothes/Clt_COP004.png",
-        "main": "Quick Respawn",
-        "stars": 2,
-        "localizedName": {
-            "en_GB": "Pink Slopsuit",
-            "en_US": "Pink Slopsuit",
-            "es_ES": "Mono de trabajo rosa",
-            "es_MX": "Uniforme de trabajo rosa",
-            "fr_FR": "Salopette rose",
-            "fr_CA": "Salopette rose",
-            "de_DE": "Rosa Arbeitsklamotten",
-            "nl_NL": "Roze werkkloffie",
-            "ru_RU": "\u0420\u043e\u0437\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u0431\u0438\u043d\u0435\u0437\u043e\u043d",
-            "it_IT": "Salopette rosa",
-            "ja_JP": "\u30d0\u30a4\u30c8\u30c4\u30ca\u30ae \u30d4\u30f3\u30af"
-        }
-    },
-    {
-        "id": 18,
-        "name": "Blue Slopsuit",
-        "image": "../common/assets/img/gear/clothes/Clt_COP005.png",
-        "main": "Quick Respawn",
-        "stars": 2,
-        "localizedName": {
-            "en_GB": "Blue Slopsuit",
-            "en_US": "Blue Slopsuit",
-            "es_ES": "Mono de trabajo azul",
-            "es_MX": "Uniforme de trabajo azul",
-            "fr_FR": "Salopette bleue",
-            "fr_CA": "Salopette bleue",
-            "de_DE": "Blaue Arbeitsklamotten",
-            "nl_NL": "Blauw werkkloffie",
-            "ru_RU": "\u0413\u043e\u043b\u0443\u0431\u043e\u0439 \u043a\u043e\u043c\u0431\u0438\u043d\u0435\u0437\u043e\u043d",
-            "it_IT": "Salopette blu",
-            "ja_JP": "\u30d0\u30a4\u30c8\u30c4\u30ca\u30ae \u30d6\u30eb\u30fc"
-        }
-    },
-    {
-        "id": 19,
-        "name": "Black Slopsuit",
-        "image": "../common/assets/img/gear/clothes/Clt_COP006.png",
-        "main": "Quick Respawn",
-        "stars": 2,
-        "localizedName": {
-            "en_GB": "Black Slopsuit",
-            "en_US": "Black Slopsuit",
-            "es_ES": "Mono de trabajo negro",
-            "es_MX": "Uniforme de trabajo negro",
-            "fr_FR": "Salopette noire",
-            "fr_CA": "Salopette noire",
-            "de_DE": "Schwarze Arbeitsklamotten",
-            "nl_NL": "Zwart werkkloffie",
-            "ru_RU": "\u0427\u0435\u0440\u043d\u044b\u0439 \u043a\u043e\u043c\u0431\u0438\u043d\u0435\u0437\u043e\u043d",
-            "it_IT": "Salopette nera",
-            "ja_JP": "\u30d0\u30a4\u30c8\u30c4\u30ca\u30ae \u30d6\u30e9\u30c3\u30af"
-        }
-    },
-    {
-        "id": 20,
-        "name": "White Slopsuit",
-        "image": "../common/assets/img/gear/clothes/Clt_COP007.png",
-        "main": "Quick Respawn",
-        "stars": 2,
-        "localizedName": {
-            "en_GB": "White Slopsuit",
-            "en_US": "White Slopsuit",
-            "es_ES": "Mono de trabajo blanco",
-            "es_MX": "Uniforme de trabajo blanco",
-            "fr_FR": "Salopette blanche",
-            "fr_CA": "Salopette blanche",
-            "de_DE": "Wei\u00dfe Arbeitsklamotten",
-            "nl_NL": "Wit werkkloffie",
-            "ru_RU": "\u0411\u0435\u043b\u044b\u0439 \u043a\u043e\u043c\u0431\u0438\u043d\u0435\u0437\u043e\u043d",
-            "it_IT": "Salopette bianca",
-            "ja_JP": "\u30d0\u30a4\u30c8\u30c4\u30ca\u30ae \u30db\u30ef\u30a4\u30c8"
-        }
-    },
-    {
-        "id": 21,
         "name": "Splatfest Tee",
         "image": "../common/assets/img/gear/clothes/Clt_HAP001.png",
         "main": "Ability Doubler",
@@ -437,10 +311,11 @@
             "ru_RU": "\u0421\u043f\u043b\u0430\u0442\u0444\u0435\u0441\u0442-\u043c\u0430\u0439\u043a\u0430",
             "it_IT": "T-shirt festival",
             "ja_JP": "\u30d5\u30a7\u30b9\uff34"
-        }
+        },
+        "brand": "SquidForce"
     },
     {
-        "id": 22,
+        "id": 15,
         "name": "Olive Ski Jacket",
         "image": "../common/assets/img/gear/clothes/Clt_JKT000.png",
         "main": "Run Speed Up",
@@ -457,10 +332,11 @@
             "ru_RU": "\u0417\u0435\u043b\u0435\u043d\u0430\u044f \u043b\u044b\u0436\u043d\u0430\u044f \u043a\u0443\u0440\u0442\u043a\u0430",
             "it_IT": "Giacca da sci verde",
             "ja_JP": "\u30de\u30a6\u30f3\u30c6\u30f3\u30aa\u30ea\u30fc\u30d6"
-        }
+        },
+        "brand": "Inkline"
     },
     {
-        "id": 23,
+        "id": 16,
         "name": "Takoroka Nylon Vintage",
         "image": "../common/assets/img/gear/clothes/Clt_JKT001.png",
         "main": "Thermal Ink",
@@ -477,10 +353,11 @@
             "ru_RU": "\u0421\u043f\u043e\u0440\u0442\u0438\u0432\u043a\u0430 \u043e\u0442 \u00ab\u0420\u044b\u0431\u043e\u043a\u00bb",
             "it_IT": "Tuta acetata Sepia",
             "ja_JP": "\u30e4\u30b3\u30ca\u30a4\u30ed\u30f3 \u30f4\u30a3\u30f3\u30c6\u30fc\u30b8"
-        }
+        },
+        "brand": "Takoroka"
     },
     {
-        "id": 24,
+        "id": 17,
         "name": "Black Inky Rider",
         "image": "../common/assets/img/gear/clothes/Clt_JKT006.png",
         "main": "Sub Power Up",
@@ -497,10 +374,11 @@
             "ru_RU": "\u0427\u0435\u0440\u043d\u0430\u044f \u043a\u043e\u0441\u0443\u0445\u0430",
             "it_IT": "Chiodo nero",
             "ja_JP": "\u30a4\u30ab\u30e9\u30a4\u30c0\u30fcBLACK"
-        }
+        },
+        "brand": "Rockenberg"
     },
     {
-        "id": 25,
+        "id": 18,
         "name": "Squid Satin Jacket",
         "image": "../common/assets/img/gear/clothes/Clt_JKT014.png",
         "main": "Quick Respawn",
@@ -517,10 +395,11 @@
             "ru_RU": "\u041a\u0443\u0440\u0442\u043a\u0430 \u00ab\u0425\u0438\u0449\u043d\u0438\u043a\u00bb",
             "it_IT": "Giubbino furia",
             "ja_JP": "\u30a4\u30ab\u30b9\u30ab\u30b8\u30e3\u30f3"
-        }
+        },
+        "brand": "Zekko"
     },
     {
-        "id": 26,
+        "id": 19,
         "name": "Zapfish Satin Jacket",
         "image": "../common/assets/img/gear/clothes/Clt_JKT015.png",
         "main": "Special Charge Up",
@@ -537,10 +416,11 @@
             "ru_RU": "\u041a\u0443\u0440\u0442\u043a\u0430 \u00ab\u0412\u043e\u043b\u044c\u0442\u043e\u0440\u044b\u0431\u00bb",
             "it_IT": "Giubbino pesciscossa",
             "ja_JP": "\u30a6\u30e9\u30b9\u30ab\u30b8\u30e3\u30f3"
-        }
+        },
+        "brand": "Zekko"
     },
     {
-        "id": 27,
+        "id": 20,
         "name": "Matcha Down Jacket",
         "image": "../common/assets/img/gear/clothes/Clt_JKT019.png",
         "main": "Ninja Squid",
@@ -557,10 +437,11 @@
             "ru_RU": "\u041a\u0443\u0440\u0442\u043a\u0430 \u00ab\u0427\u0430\u0439\u043d\u0430\u044f\u00bb",
             "it_IT": "Giacca maccha",
             "ja_JP": "\u30de\u30c3\u30c1\u30e3 \u30e9\u30a4\u30c8\u30c0\u30a6\u30f3"
-        }
+        },
+        "brand": "Inkline"
     },
     {
-        "id": 28,
+        "id": 21,
         "name": "Kensa Coat",
         "image": "../common/assets/img/gear/clothes/Clt_JKT023.png",
         "main": "Respawn Punisher",
@@ -577,10 +458,11 @@
             "ru_RU": "\u041a\u0443\u0440\u0442\u043a\u0430 \u00ab\u0421\u0443\u0448\u0430\u043a\u0438 \u041a\u0443\u0441\u0430\u043a\u0438\u00bb",
             "it_IT": "Giacca Nero Marlin",
             "ja_JP": "\u30b1\u30f3\u30b5\u30ad\u30b3\u30fc\u30c1"
-        }
+        },
+        "brand": "Toni Kensa"
     },
     {
-        "id": 29,
+        "id": 22,
         "name": "Arctic Monster Parka",
         "image": "../common/assets/img/gear/clothes/Clt_JKT045.png",
         "main": "Sub Power Up",
@@ -597,10 +479,11 @@
             "ru_RU": "\u041f\u0443\u0445\u043e\u0432\u0438\u043a \u00ab\u0419\u0435\u0442\u0438\u00bb",
             "it_IT": "Parka mostro artico",
             "ja_JP": "\u30e2\u30f3\u30b9\u30bf\u30fc PCU56"
-        }
+        },
+        "brand": "Barazushi"
     },
     {
-        "id": 30,
+        "id": 23,
         "name": "Barazushi Anorak",
         "image": "../common/assets/img/gear/clothes/Clt_JKT046.png",
         "main": "Special Power Up",
@@ -617,10 +500,11 @@
             "ru_RU": "\u0410\u043d\u043e\u0440\u0430\u043a \u043e\u0442 \u00ab\u0421\u0443\u0441\u0438-\u0412\u0435\u0441\u043b\u0430\u00bb",
             "it_IT": "Anorak BaraS",
             "ja_JP": "\u30d0\u30e9\u30ba\u30b7\u30e4\u30c3\u30b1"
-        }
+        },
+        "brand": "Barazushi"
     },
     {
-        "id": 31,
+        "id": 24,
         "name": "Patchwork Bomber",
         "image": "../common/assets/img/gear/clothes/Clt_JKT047.png",
         "main": "Ink Saver (Main)",
@@ -637,10 +521,11 @@
             "ru_RU": "\u041b\u043e\u0441\u043a\u0443\u0442\u043d\u044b\u0439 \u0431\u043e\u043c\u0431\u0435\u0440",
             "it_IT": "Giubbotto patchwork",
             "ja_JP": "\u30d5\u30a3\u30ec\u30b8\u30e3\u30b1\u30c3\u30c8"
-        }
+        },
+        "brand": "Emberz"
     },
     {
-        "id": 32,
+        "id": 25,
         "name": "Airflow & Hustle Jacket",
         "image": "../common/assets/img/gear/clothes/Clt_JKT048.png",
         "main": "Intensify Action",
@@ -657,10 +542,11 @@
             "ru_RU": "\u041f\u0440\u043e\u0432\u0435\u0442\u0440\u043e\u0432\u043a\u0430",
             "it_IT": "Giacca refrigerante",
             "ja_JP": "\u30aa\u30fc\u30eb\u30a6\u30a7\u30a4\u30ba\u30d5\u30a1\u30f3"
-        }
+        },
+        "brand": "Forge"
     },
     {
-        "id": 33,
+        "id": 26,
         "name": "Ink-Black Paddle Jack",
         "image": "../common/assets/img/gear/clothes/Clt_JKT049.png",
         "main": "Ink Saver (Sub)",
@@ -677,10 +563,11 @@
             "ru_RU": "\u0413\u0438\u0434\u0440\u043e\u0432\u043a\u0430 \u00ab\u0410\u043d\u0442\u0430\u0433\u043e\u043d\u0438\u0441\u0442\u00bb",
             "it_IT": "Giacca imbottita nera",
             "ja_JP": "\u30d1\u30c9\u30ea\u30f3\u30b0\u30b8\u30e3\u30b1\u30c3\u30c8 \u30cd\u30ac"
-        }
+        },
+        "brand": "Toni Kensa"
     },
     {
-        "id": 34,
+        "id": 27,
         "name": "Orca Bolero",
         "image": "../common/assets/img/gear/clothes/Clt_JKT050.png",
         "main": "Ink Recovery Up",
@@ -697,10 +584,11 @@
             "ru_RU": "\u041a\u0443\u0440\u0441\u0430\u0442\u043a\u0430 \u00ab\u0410\u043d\u0442\u0430\u0433\u043e\u043d\u0438\u0441\u0442\u00bb",
             "it_IT": "Maglia con bolero nero",
             "ja_JP": "\u30b3\u30c6\u30dc\u30ec\u30ed \u30cd\u30ac"
-        }
+        },
+        "brand": "Toni Kensa"
     },
     {
-        "id": 35,
+        "id": 28,
         "name": "Cream Tundra Fleece",
         "image": "../common/assets/img/gear/clothes/Clt_JKT051.png",
         "main": "Ink Saver (Main)",
@@ -717,10 +605,11 @@
             "ru_RU": "\u0411\u0435\u0436\u0435\u0432\u0430\u044f \u0444\u043b\u0438\u0441-\u0442\u043e\u043b\u0441\u0442\u043e\u0432\u043a\u0430",
             "it_IT": "Pile tundra crema",
             "ja_JP": "\u30aa\u30b9\u30e2\u30eb \u30a2\u30a4\u30dc\u30ea\u30fc"
-        }
+        },
+        "brand": "Inkline"
     },
     {
-        "id": 36,
+        "id": 29,
         "name": "Dusty Field Jacket",
         "image": "../common/assets/img/gear/clothes/Clt_JKT054.png",
         "main": "Intensify Action",
@@ -737,230 +626,11 @@
             "ru_RU": "\u041f\u043e\u043b\u0435\u0432\u0430\u044f \u043a\u0443\u0440\u0442\u043a\u0430 \u00ab\u0425\u0430\u043a\u0438\u00bb",
             "it_IT": "Impermeabile cachi",
             "ja_JP": "\u30cf\u30f3\u30c6\u30a3\u30f3\u30b0\u30b8\u30e3\u30b1\u30c3\u30c8KK"
-        }
+        },
+        "brand": "Inkline"
     },
     {
-        "id": 37,
-        "name": "Hero Jacket Replica",
-        "image": "../common/assets/img/gear/clothes/Clt_MSN000.png",
-        "main": "Swim Speed Up",
-        "stars": 1,
-        "localizedName": {
-            "en_GB": "Hero Jacket Replica",
-            "en_US": "Hero Jacket Replica",
-            "es_ES": "Sudadera de \u00e9lite (r\u00e9plica)",
-            "es_MX": "Sudadera de \u00e9lite r\u00e9plica",
-            "fr_FR": "Veste h\u00e9ro\u00efque (r\u00e9plique)",
-            "fr_CA": "Veste h\u00e9ro\u00efque (r\u00e9p.)",
-            "de_DE": "Heldenjacke Replik",
-            "nl_NL": "Heldenjack (replica)",
-            "ru_RU": "\u0416\u0438\u043b\u0435\u0442 \u0433\u0435\u0440\u043e\u044f (\u043a\u043b\u043e\u043d)",
-            "it_IT": "Giubbino \u00e9lite replica",
-            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30b8\u30e3\u30b1\u30c3\u30c8 \u30ec\u30d7\u30ea\u30ab"
-        }
-    },
-    {
-        "id": 38,
-        "name": "Armor Jacket Replica",
-        "image": "../common/assets/img/gear/clothes/Clt_MSN004.png",
-        "main": "Special Charge Up",
-        "stars": 1,
-        "localizedName": {
-            "en_GB": "Armor Jacket Replica",
-            "en_US": "Armor Jacket Replica",
-            "es_ES": "Chaqueta reforzada (r\u00e9plica)",
-            "es_MX": "Chaqueta armadura r\u00e9plica",
-            "fr_FR": "Anorak encrifug\u00e9 (r\u00e9plique)",
-            "fr_CA": "Anorak encrifug\u00e9 (r\u00e9p.)",
-            "de_DE": "R\u00fcstungsjacke Replik",
-            "nl_NL": "Pantserjack (replica)",
-            "ru_RU": "\u0411\u0440\u043e\u043d\u0435\u043a\u0443\u0440\u0442\u043a\u0430 (\u043a\u043b\u043e\u043d)",
-            "it_IT": "Giacca d'armatura replica",
-            "ja_JP": "\u30a2\u30fc\u30de\u30fc\u30b8\u30e3\u30b1\u30c3\u30c8 \u30ec\u30d7\u30ea\u30ab"
-        }
-    },
-    {
-        "id": 39,
-        "name": "Fuzz-Octoling Armor",
-        "image": "../common/assets/img/gear/clothes/Clt_MSN110.png",
-        "main": "Haunt",
-        "stars": 1,
-        "localizedName": {
-            "en_GB": "Fuzz-Octoling Armor",
-            "en_US": "Fuzz-Octoling Armor",
-            "es_ES": "Pulpoarmadura capilar",
-            "es_MX": "Octoarmadura capilar",
-            "fr_FR": "Armure octabouille",
-            "fr_CA": "Armure octabouille",
-            "de_DE": "Flausch-Okto-R\u00fcstung",
-            "nl_NL": "Vacht-Octarianenpantser",
-            "ru_RU": "\u0414\u043e\u0441\u043f\u0435\u0445\u0438 \u0448\u0435\u0440\u0441\u0442\u043e\u043b\u0438\u043d\u0433\u0430",
-            "it_IT": "Corazza Octoling pelosa",
-            "ja_JP": "\u30b1\u30bf\u30b3\u30be\u30cd\u30b9\u30d7\u30ed\u30c6\u30af\u30bf\u30fc"
-        }
-    },
-    {
-        "id": 40,
-        "name": "\u30bf\u30b3\u30fb\u30a2\u30fc\u30de\u30fc",
-        "image": "../common/assets/img/gear/clothes/Clt_MSN200.png",
-        "main": "Haunt",
-        "stars": 1,
-        "localizedName": {
-            "en_GB": "\u30bf\u30b3\u30fb\u30a2\u30fc\u30de\u30fc",
-            "en_US": "\u30bf\u30b3\u30fb\u30a2\u30fc\u30de\u30fc",
-            "es_ES": "\u30bf\u30b3\u30fb\u30a2\u30fc\u30de\u30fc",
-            "es_MX": "\u30bf\u30b3\u30fb\u30a2\u30fc\u30de\u30fc",
-            "fr_FR": "\u30bf\u30b3\u30fb\u30a2\u30fc\u30de\u30fc",
-            "fr_CA": "\u30bf\u30b3\u30fb\u30a2\u30fc\u30de\u30fc",
-            "de_DE": "\u30bf\u30b3\u30fb\u30a2\u30fc\u30de\u30fc",
-            "nl_NL": "\u30bf\u30b3\u30fb\u30a2\u30fc\u30de\u30fc",
-            "ru_RU": "\u30bf\u30b3\u30fb\u30a2\u30fc\u30de\u30fc",
-            "it_IT": "\u30bf\u30b3\u30fb\u30a2\u30fc\u30de\u30fc",
-            "ja_JP": "\u30bf\u30b3\u30fb\u30a2\u30fc\u30de\u30fc"
-        }
-    },
-    {
-        "id": 41,
-        "name": "Survival Suit",
-        "image": "../common/assets/img/gear/clothes/Clt_MSN301.png",
-        "main": "",
-        "stars": 0,
-        "localizedName": {
-            "en_GB": "Survival Suit",
-            "en_US": "Survival Suit",
-            "es_ES": "Survival Suit",
-            "es_MX": "Survival Suit",
-            "fr_FR": "Survival Suit",
-            "fr_CA": "Survival Suit",
-            "de_DE": "Survival Suit",
-            "nl_NL": "Survival Suit",
-            "ru_RU": "Survival Suit",
-            "it_IT": "Survival Suit",
-            "ja_JP": "\u30b5\u30d0\u30a4\u30d0\u30eb\u30b9\u30fc\u30c4"
-        }
-    },
-    {
-        "id": 42,
-        "name": "Hero Suit Lv1",
-        "image": "../common/assets/img/gear/clothes/Clt_MSN302.png",
-        "main": "Thermal Ink",
-        "stars": 0,
-        "localizedName": {
-            "en_GB": "Hero Suit Lv1",
-            "en_US": "Hero Suit Lv1",
-            "es_ES": "Hero Suit Lv1",
-            "es_MX": "Hero Suit Lv1",
-            "fr_FR": "Hero Suit Lv1",
-            "fr_CA": "Hero Suit Lv1",
-            "de_DE": "Hero Suit Lv1",
-            "nl_NL": "Hero Suit Lv1",
-            "ru_RU": "Hero Suit Lv1",
-            "it_IT": "Hero Suit Lv1",
-            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30b9\u30fc\u30c4Lv1"
-        }
-    },
-    {
-        "id": 43,
-        "name": "Hero Suit Lv2",
-        "image": "../common/assets/img/gear/clothes/Clt_MSN303.png",
-        "main": "Thermal Ink",
-        "stars": 0,
-        "localizedName": {
-            "en_GB": "Hero Suit Lv2",
-            "en_US": "Hero Suit Lv2",
-            "es_ES": "Hero Suit Lv2",
-            "es_MX": "Hero Suit Lv2",
-            "fr_FR": "Hero Suit Lv2",
-            "fr_CA": "Hero Suit Lv2",
-            "de_DE": "Hero Suit Lv2",
-            "nl_NL": "Hero Suit Lv2",
-            "ru_RU": "Hero Suit Lv2",
-            "it_IT": "Hero Suit Lv2",
-            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30b9\u30fc\u30c4Lv2"
-        }
-    },
-    {
-        "id": 44,
-        "name": "Hero Suit Lv3",
-        "image": "../common/assets/img/gear/clothes/Clt_MSN304.png",
-        "main": "Thermal Ink",
-        "stars": 0,
-        "localizedName": {
-            "en_GB": "Hero Suit Lv3",
-            "en_US": "Hero Suit Lv3",
-            "es_ES": "Hero Suit Lv3",
-            "es_MX": "Hero Suit Lv3",
-            "fr_FR": "Hero Suit Lv3",
-            "fr_CA": "Hero Suit Lv3",
-            "de_DE": "Hero Suit Lv3",
-            "nl_NL": "Hero Suit Lv3",
-            "ru_RU": "Hero Suit Lv3",
-            "it_IT": "Hero Suit Lv3",
-            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30b9\u30fc\u30c4Lv3"
-        }
-    },
-    {
-        "id": 45,
-        "name": "Hero Suit ST",
-        "image": "../common/assets/img/gear/clothes/Clt_MSN305.png",
-        "main": "Thermal Ink",
-        "stars": 0,
-        "localizedName": {
-            "en_GB": "Hero Suit ST",
-            "en_US": "Hero Suit ST",
-            "es_ES": "Hero Suit ST",
-            "es_MX": "Hero Suit ST",
-            "fr_FR": "Hero Suit ST",
-            "fr_CA": "Hero Suit ST",
-            "de_DE": "Hero Suit ST",
-            "nl_NL": "Hero Suit ST",
-            "ru_RU": "Hero Suit ST",
-            "it_IT": "Hero Suit ST",
-            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30b9\u30fc\u30c4ST"
-        }
-    },
-    {
-        "id": 46,
-        "name": "Hero Suit Replica",
-        "image": "../common/assets/img/gear/clothes/Clt_MSN306.png",
-        "main": "Quick Respawn",
-        "stars": 0,
-        "localizedName": {
-            "en_GB": "Hero Suit Replica",
-            "en_US": "Hero Suit Replica",
-            "es_ES": "Traje de \u00e9lite (r\u00e9plica)",
-            "es_MX": "Traje de \u00e9lite r\u00e9plica",
-            "fr_FR": "Panoplie h\u00e9ro\u00efque (r\u00e9plique)",
-            "fr_CA": "Tenue h\u00e9ro\u00efque (r\u00e9plique)",
-            "de_DE": "Heldenanzug Replik",
-            "nl_NL": "Heldenpak (replica)",
-            "ru_RU": "\u041a\u043e\u0441\u0442\u044e\u043c \u0433\u0435\u0440\u043e\u044f (\u043a\u043b\u043e\u043d)",
-            "it_IT": "Divisa \u00e9lite replica",
-            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30b9\u30fc\u30c4 \u30ec\u30d7\u30ea\u30ab"
-        }
-    },
-    {
-        "id": 47,
-        "name": "Legendary Cape",
-        "image": "../common/assets/img/gear/clothes/Clt_MSN310.png",
-        "main": "",
-        "stars": 0,
-        "localizedName": {
-            "en_GB": "Legendary Cape",
-            "en_US": "Legendary Cape",
-            "es_ES": "Legendary Cape",
-            "es_MX": "Legendary Cape",
-            "fr_FR": "Legendary Cape",
-            "fr_CA": "Legendary Cape",
-            "de_DE": "Legendary Cape",
-            "nl_NL": "Legendary Cape",
-            "ru_RU": "Legendary Cape",
-            "it_IT": "Legendary Cape",
-            "ja_JP": "\u3067\u3093\u305b\u3064\u306e\u30de\u30f3\u30c8"
-        }
-    },
-    {
-        "id": 48,
+        "id": 30,
         "name": "Black Polo",
         "image": "../common/assets/img/gear/clothes/Clt_PLO004.png",
         "main": "Ninja Squid",
@@ -977,10 +647,11 @@
             "ru_RU": "\u0427\u0435\u0440\u043d\u043e\u0435 \u043f\u043e\u043b\u043e",
             "it_IT": "Polo nera",
             "ja_JP": "\u30d4\u30f3\u30dd\u30f3\u30dd\u30ed"
-        }
+        },
+        "brand": "Zekko"
     },
     {
-        "id": 49,
+        "id": 31,
         "name": "Cycling Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_PLO005.png",
         "main": "Intensify Action",
@@ -997,10 +668,11 @@
             "ru_RU": "\u0412\u0435\u043b\u043e\u043c\u0430\u0439\u043a\u0430",
             "it_IT": "Maglia da ciclista",
             "ja_JP": "\u30c6\u30c3\u30ab\u30b5\u30a4\u30af\u30eb\u30b7\u30e3\u30c4"
-        }
+        },
+        "brand": "Zink"
     },
     {
-        "id": 50,
+        "id": 32,
         "name": "Rugby King 10",
         "image": "../common/assets/img/gear/clothes/Clt_PLO009.png",
         "main": "Ink Saver (Sub)",
@@ -1017,10 +689,11 @@
             "ru_RU": "\u0420\u0435\u0433\u0431\u0438\u0439\u043a\u0430 \u00ab\u0414\u0435\u0441\u044f\u0442\u043a\u0430\u00bb",
             "it_IT": "Maglia rugby 10",
             "ja_JP": "\u30ad\u30f3\u30b0\u30e9\u30ac\u30fc010"
-        }
+        },
+        "brand": "Enperry"
     },
     {
-        "id": 51,
+        "id": 33,
         "name": "Rugby King 08",
         "image": "../common/assets/img/gear/clothes/Clt_PLO010.png",
         "main": "Quick Super Jump",
@@ -1037,10 +710,11 @@
             "ru_RU": "\u0420\u0435\u0433\u0431\u0438\u0439\u043a\u0430 \u00ab\u0412\u043e\u0441\u044c\u043c\u0435\u0440\u043a\u0430\u00bb",
             "it_IT": "Maglia rugby 8",
             "ja_JP": "\u30ad\u30f3\u30b0\u30e9\u30ac\u30fc008"
-        }
+        },
+        "brand": "Enperry"
     },
     {
-        "id": 52,
+        "id": 34,
         "name": "Gray Hoodie",
         "image": "../common/assets/img/gear/clothes/Clt_PRK006.png",
         "main": "Sub Power Up",
@@ -1057,10 +731,11 @@
             "ru_RU": "\u0421\u0435\u0440\u0430\u044f \u0442\u043e\u043b\u0441\u0442\u043e\u0432\u043a\u0430",
             "it_IT": "Felpa grigia con cappuccio",
             "ja_JP": "\u30db\u30bf\u30d1\u30fc\u30ab\u30fc \u30b0\u30ec\u30fc"
-        }
+        },
+        "brand": "Skalop"
     },
     {
-        "id": 53,
+        "id": 35,
         "name": "Sudadera Roja",
         "image": "../common/assets/img/gear/clothes/Clt_PRK012.png",
         "main": "Quick Respawn",
@@ -1077,10 +752,11 @@
             "ru_RU": "\u0412\u0438\u0448\u043d\u0435\u0432\u043e\u0435 \u044d\u0442\u043d\u043e-\u0445\u0443\u0434\u0438",
             "it_IT": "Maglia baja rossa",
             "ja_JP": "\u30d0\u30cf\u30d5\u30fc\u30c7\u30a3\u30fc \u30ed\u30db"
-        }
+        },
+        "brand": "Krak-On"
     },
     {
-        "id": 54,
+        "id": 36,
         "name": "Sudadera Celeste",
         "image": "../common/assets/img/gear/clothes/Clt_PRK014.png",
         "main": "Ninja Squid",
@@ -1097,10 +773,11 @@
             "ru_RU": "\u041b\u0430\u0437\u0443\u0440\u043d\u043e\u0435 \u044d\u0442\u043d\u043e-\u0445\u0443\u0434\u0438",
             "it_IT": "Maglia baja celeste",
             "ja_JP": "\u30d0\u30cf\u30d5\u30fc\u30c7\u30a3\u30fc \u30bb\u30ec\u30b9\u30c6"
-        }
+        },
+        "brand": "Krak-On"
     },
     {
-        "id": 55,
+        "id": 37,
         "name": "Lumberjack Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT000.png",
         "main": "Ink Saver (Main)",
@@ -1117,10 +794,11 @@
             "ru_RU": "\u0428\u043e\u0442\u043b\u0430\u043d\u0434\u043a\u0430 \u00ab\u041b\u0435\u0441\u043d\u0430\u044f\u00bb",
             "it_IT": "Camicia scozzese",
             "ja_JP": "\u30aa\u30fc\u30bf\u30e0\u30cd\u30eb"
-        }
+        },
+        "brand": "Rockenberg"
     },
     {
-        "id": 56,
+        "id": 38,
         "name": "White Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT003.png",
         "main": "Ink Recovery Up",
@@ -1137,10 +815,11 @@
             "ru_RU": "\u0411\u0435\u043b\u0430\u044f \u0440\u0443\u0431\u0430\u0448\u043a\u0430",
             "it_IT": "Camicia bianca",
             "ja_JP": "\u30b7\u30ed\u30b7\u30e3\u30c4"
-        }
+        },
+        "brand": "Splash Mob"
     },
     {
-        "id": 57,
+        "id": 39,
         "name": "Aloha Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT005.png",
         "main": "Ink Recovery Up",
@@ -1157,10 +836,11 @@
             "ru_RU": "\u0413\u043e\u043b\u0443\u0431\u0430\u044f \u0433\u0430\u0432\u0430\u0439\u043a\u0430",
             "it_IT": "Camicia floreale",
             "ja_JP": "\u304a\u3069\u308b\u30a4\u30ab\u30a2\u30ed\u30cf"
-        }
+        },
+        "brand": "Forge"
     },
     {
-        "id": 58,
+        "id": 40,
         "name": "Logo Aloha Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT012.png",
         "main": "Ink Recovery Up",
@@ -1177,10 +857,11 @@
             "ru_RU": "\u0413\u0430\u0432\u0430\u0439\u043a\u0430 \u0441 \u043b\u043e\u0433\u043e\u0442\u0438\u043f\u0430\u043c\u0438",
             "it_IT": "Camicia hawaiana",
             "ja_JP": "\u30ed\u30b4\u30de\u30b7\u30de\u30b7\u30a2\u30ed\u30cf"
-        }
+        },
+        "brand": "Zekko"
     },
     {
-        "id": 59,
+        "id": 41,
         "name": "Hula Punk Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT017.png",
         "main": "Ink Saver (Main)",
@@ -1197,10 +878,11 @@
             "ru_RU": "\u0413\u0430\u0432\u0430\u0439\u043a\u0430 \u00ab\u041f\u043b\u0430\u043d\u043a-\u043f\u0430\u043d\u043a\u00bb",
             "it_IT": "Camicia da turista",
             "ja_JP": "\u30d4\u30fc\u30bf\u30fc\u30d1\u30f3\u30af\u30b7\u30e3\u30c4"
-        }
+        },
+        "brand": "Annaki"
     },
     {
-        "id": 60,
+        "id": 42,
         "name": "Octobowler Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT018.png",
         "main": "Ink Saver (Main)",
@@ -1217,10 +899,11 @@
             "ru_RU": "\u041f\u043e\u043b\u043e \u00ab\u041e\u0441\u044c\u043c\u043e\u0431\u043e\u0443\u043b\u0438\u043d\u0433\u00bb",
             "it_IT": "Camicia da octobowling",
             "ja_JP": "\u30bf\u30b3\u30dc\u30a6\u30e9\u30fc\u30b7\u30e3\u30c4"
-        }
+        },
+        "brand": "Krak-On"
     },
     {
-        "id": 61,
+        "id": 43,
         "name": "Inkfall Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT019.png",
         "main": "Special Charge Up",
@@ -1237,10 +920,11 @@
             "ru_RU": "\u0420\u0443\u0431\u0430\u0448\u043a\u0430 \u00ab\u041a\u043b\u044f\u043a\u0441\u0430\u00bb",
             "it_IT": "Camicia inchiostrata",
             "ja_JP": "\u30b9\u30df\u30ab\u30b1\u30b7\u30e3\u30c4"
-        }
+        },
+        "brand": "Toni Kensa"
     },
     {
-        "id": 62,
+        "id": 44,
         "name": "Crimson Parashooter",
         "image": "../common/assets/img/gear/clothes/Clt_SHT020.png",
         "main": "Special Charge Up",
@@ -1257,10 +941,11 @@
             "ru_RU": "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u043f\u0430\u0440\u0430\u0448\u044e\u0442\u043a\u0430",
             "it_IT": "Giacca paracadute cremisi",
             "ja_JP": "\u30d1\u30e9\u30b7\u30e5\u30fc\u30bf\u30fc \u30b6\u30af\u30ed"
-        }
+        },
+        "brand": "Annaki"
     },
     {
-        "id": 63,
+        "id": 45,
         "name": "Chili Octo Aloha",
         "image": "../common/assets/img/gear/clothes/Clt_SHT024.png",
         "main": "Sub Resistance Up",
@@ -1277,10 +962,11 @@
             "ru_RU": "\u0413\u0430\u0432\u0430\u0439\u043a\u0430 \u00ab\u0421\u043f\u0440\u0443\u0442\u00bb",
             "it_IT": "Camicia piovre piccanti",
             "ja_JP": "\u30c1\u30ea\u30e1\u30f3\u30bf\u30b3\u30a2\u30ed\u30cf"
-        }
+        },
+        "brand": "Krak-On"
     },
     {
-        "id": 64,
+        "id": 46,
         "name": "Annaki Flannel Hoodie",
         "image": "../common/assets/img/gear/clothes/Clt_SHT025.png",
         "main": "Sub Resistance Up",
@@ -1297,10 +983,11 @@
             "ru_RU": "\u00ab\u0420\u0443\u0431\u0430\u043a\u0430\u00bb \u043e\u0442 \u041f\u0430\u043d\u043a\u0430\u0441\u0438\u0443\u0441\u0430",
             "it_IT": "Flanella Annak",
             "ja_JP": "\u30a2\u30ca\u30a2\u30ad\u30aa\u30f3\u30d6\u30ec\u30cd\u30eb"
-        }
+        },
+        "brand": "Annaki"
     },
     {
-        "id": 65,
+        "id": 47,
         "name": "Seahorse Shoreliner",
         "image": "../common/assets/img/gear/clothes/Clt_SHT030.png",
         "main": "Special Saver",
@@ -1317,10 +1004,11 @@
             "ru_RU": "\u0420\u0443\u0431\u0430\u0448\u043a\u0430 \u00ab\u041c\u043e\u0439 \u043a\u043e\u043d\u0435\u043a\u00bb",
             "it_IT": "Camicia ippocampi",
             "ja_JP": "\u30bf\u30c4\u30ce\u30b3\u30ad\u30e5\u30fc\u30d0"
-        }
+        },
+        "brand": "Krak-On"
     },
     {
-        "id": 66,
+        "id": 48,
         "name": "Button-Clown Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT031.png",
         "main": "Special Saver",
@@ -1337,10 +1025,11 @@
             "ru_RU": "\u041a\u043b\u043e\u0443\u043d\u0441\u043a\u0430\u044f \u0440\u0443\u0431\u0430\u0448\u043a\u0430",
             "it_IT": "Camicia da clown",
             "ja_JP": "\u30d4\u30a8\u30ed\u30b7\u30e3\u30c4"
-        }
+        },
+        "brand": "Emberz"
     },
     {
-        "id": 67,
+        "id": 49,
         "name": "Business Animal",
         "image": "../common/assets/img/gear/clothes/Clt_SHT033.png",
         "main": "Ninja Squid",
@@ -1357,10 +1046,11 @@
             "ru_RU": "\u0420\u0443\u0431\u0430\u0448\u043a\u0430 \u00ab\u0421\u0430\u0444\u0430\u0440\u0438\u00bb",
             "it_IT": "Camicia animalesca",
             "ja_JP": "\u30d5\u30a3\u30ec\u30b7\u30e3\u30c4 \u30b5\u30d5\u30a1\u30ea"
-        }
+        },
+        "brand": "Emberz"
     },
     {
-        "id": 68,
+        "id": 50,
         "name": "Fancyfish Stitch",
         "image": "../common/assets/img/gear/clothes/Clt_SHT034.png",
         "main": "Sub Power Up",
@@ -1377,10 +1067,11 @@
             "ru_RU": "\u0420\u0443\u0431\u0430\u0448\u043a\u0430 \u0441 \u0440\u044b\u0431\u043a\u0430\u043c\u0438",
             "it_IT": "Camicia ricamata",
             "ja_JP": "\u30b9\u30c6\u30c3\u30c1\u30b7\u30e3\u30c4 \u30e4\u30ac\u30e9"
-        }
+        },
+        "brand": "Krak-On"
     },
     {
-        "id": 69,
+        "id": 51,
         "name": "Fashion Splash Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT036.png",
         "main": "Quick Respawn",
@@ -1397,10 +1088,11 @@
             "ru_RU": "\u0420\u0443\u0431\u0430\u0448\u043a\u0430 \u00ab\u041a\u043b\u044f\u043a\u0441\u0430\u00bb",
             "it_IT": "Camicia schizzata",
             "ja_JP": "\u30b9\u30df\u30c1\u30e9\u30b7\u30b7\u30e3\u30c4"
-        }
+        },
+        "brand": "Toni Kensa"
     },
     {
-        "id": 70,
+        "id": 52,
         "name": "Urban Upcycle Top",
         "image": "../common/assets/img/gear/clothes/Clt_SHT040.png",
         "main": "Respawn Punisher",
@@ -1417,10 +1109,11 @@
             "ru_RU": "\u0420\u0443\u0431\u0430\u0448\u043a\u0430 \u00ab\u041d\u0435\u043e\u043f\u044d\u0447\u0432\u043e\u0440\u043a\u00bb",
             "it_IT": "Camicia urbana",
             "ja_JP": "\u30d5\u30a3\u30ec\u30b7\u30e3\u30c4 \u30a2\u30fc\u30d0\u30f3"
-        }
+        },
+        "brand": "Emberz"
     },
     {
-        "id": 71,
+        "id": 53,
         "name": "Squidmark Sweat",
         "image": "../common/assets/img/gear/clothes/Clt_SWT001.png",
         "main": "Sub Power Up",
@@ -1437,10 +1130,11 @@
             "ru_RU": "\u0421\u0432\u0438\u0442\u0435\u0440 \u00ab\u0411\u043e\u0435\u0446\u00bb",
             "it_IT": "Maglione CalamaX",
             "ja_JP": "\u30a4\u30ab\u30d0\u30c3\u30c6\u30f3 \u30de\u30b9\u30bf\u30fc\u30c9"
-        }
+        },
+        "brand": "SquidForce"
     },
     {
-        "id": 72,
+        "id": 54,
         "name": "Annaki Blue Cuff",
         "image": "../common/assets/img/gear/clothes/Clt_SWT010.png",
         "main": "Special Saver",
@@ -1457,10 +1151,11 @@
             "ru_RU": "\u0421\u0432\u0438\u0442\u0435\u0440 \u0441 \u0441\u0438\u043d\u0438\u043c \u0440\u0443\u043a\u0430\u0432\u043e\u043c",
             "it_IT": "Maglione polsino blu Annak",
             "ja_JP": "\u30a2\u30ca\u30a2\u30ad\u30cb\u30c3\u30c8 \u30a2\u30aa\u30bd\u30c7"
-        }
+        },
+        "brand": "Annaki"
     },
     {
-        "id": 73,
+        "id": 55,
         "name": "Manatee Swag Sweat",
         "image": "../common/assets/img/gear/clothes/Clt_SWT016.png",
         "main": "Respawn Punisher",
@@ -1477,10 +1172,11 @@
             "ru_RU": "\u0421\u0432\u0438\u0442\u0435\u0440 \u00ab\u041b\u0430\u043c\u0430\u043d\u0442\u0438\u043d\u00bb",
             "it_IT": "Felpa lamantino",
             "ja_JP": "\u30af\u30e9\u30de\u30ca\u30b9\u30a6\u30a7\u30c3\u30c8"
-        }
+        },
+        "brand": "Krak-On"
     },
     {
-        "id": 74,
+        "id": 56,
         "name": "Apex Sweater",
         "image": "../common/assets/img/gear/clothes/Clt_SWT017.png",
         "main": "Thermal Ink",
@@ -1497,10 +1193,11 @@
             "ru_RU": "\u0421\u0432\u0438\u0442\u0435\u0440 \u00ab\u0410\u043a\u0443\u043b\u0438\u0439\u00bb",
             "it_IT": "Maglione squali",
             "ja_JP": "3D\u30cb\u30c3\u30c8 \u30b7\u30e3\u30fc\u30af"
-        }
+        },
+        "brand": "Krak-On"
     },
     {
-        "id": 75,
+        "id": 57,
         "name": "Octo Jumper Away",
         "image": "../common/assets/img/gear/clothes/Clt_SWT018.png",
         "main": "Swim Speed Up",
@@ -1517,10 +1214,11 @@
             "ru_RU": "\u041e\u0441\u044c\u043c\u043e\u0434\u0436\u0435\u043c\u043f\u0435\u0440 (\u0437\u0430\u043f\u0430\u0441)",
             "it_IT": "Octomaglia (trasferta)",
             "ja_JP": "\u30bf\u30b3\u30d4\u30b9\u30c6 \u30d6\u30eb\u30fc"
-        }
+        },
+        "brand": "Takoroka"
     },
     {
-        "id": 76,
+        "id": 58,
         "name": "Zekko Baseball LS",
         "image": "../common/assets/img/gear/clothes/Clt_TEL004.png",
         "main": "Sub Resistance Up",
@@ -1537,10 +1235,11 @@
             "ru_RU": "\u0424\u0443\u0442\u0431\u043e\u043b\u043a\u0430 \u043e\u0442 \u00ab\u0419\u043e\u0436\u043a\u043e\u00bb",
             "it_IT": "Maglia Ezko",
             "ja_JP": "\u30a8\u30be\u30c3\u30b3\u30e9\u30b0\u30e9\u30f3"
-        }
+        },
+        "brand": "Zekko"
     },
     {
-        "id": 77,
+        "id": 59,
         "name": "White Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES000.png",
         "main": "Ink Saver (Sub)",
@@ -1557,10 +1256,11 @@
             "ru_RU": "\u0411\u0435\u043b\u0430\u044f \u043c\u0430\u0439\u043a\u0430",
             "it_IT": "T-shirt bianca",
             "ja_JP": "\u30a4\u30ab\u30db\u30ef\u30a4\u30c8"
-        }
+        },
+        "brand": "SquidForce"
     },
     {
-        "id": 78,
+        "id": 60,
         "name": "Black Squideye",
         "image": "../common/assets/img/gear/clothes/Clt_TES001.png",
         "main": "Run Speed Up",
@@ -1577,10 +1277,11 @@
             "ru_RU": "\u0427\u0435\u0440\u043d\u0430\u044f \u043a\u0430\u043b\u044c\u043c\u0430\u0440\u043a\u0430",
             "it_IT": "T-shirt neroseppia",
             "ja_JP": "\u30a4\u30ab\u30ce\u30e1\uff34 \u30d6\u30e9\u30c3\u30af"
-        }
+        },
+        "brand": "Tentatek"
     },
     {
-        "id": 79,
+        "id": 61,
         "name": "Rockenberg White",
         "image": "../common/assets/img/gear/clothes/Clt_TES004.png",
         "main": "Ink Recovery Up",
@@ -1597,10 +1298,11 @@
             "ru_RU": "\u0411\u0435\u043b\u0430\u044f \u043c\u0430\u0439\u043a\u0430 \u00ab\u0423\u0433\u0440\u043e\u043a\u00bb",
             "it_IT": "Rockenburg bianca",
             "ja_JP": "\u30ed\u30c3\u30b1\u30f3\u30d9\u30eb\u30b0\uff34 \u30db\u30ef\u30a4\u30c8"
-        }
+        },
+        "brand": "Rockenberg"
     },
     {
-        "id": 80,
+        "id": 62,
         "name": "Rockenberg Black",
         "image": "../common/assets/img/gear/clothes/Clt_TES005.png",
         "main": "Respawn Punisher",
@@ -1617,10 +1319,11 @@
             "ru_RU": "\u0427\u0435\u0440\u043d\u0430\u044f \u043c\u0430\u0439\u043a\u0430 \u00ab\u0423\u0433\u0440\u043e\u043a\u00bb",
             "it_IT": "Rockenburg nera",
             "ja_JP": "\u30ed\u30c3\u30b1\u30f3\u30d9\u30eb\u30b0\uff34 \u30d6\u30e9\u30c3\u30af"
-        }
+        },
+        "brand": "Rockenberg"
     },
     {
-        "id": 81,
+        "id": 63,
         "name": "Black Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES006.png",
         "main": "Special Power Up",
@@ -1637,10 +1340,11 @@
             "ru_RU": "\u0427\u0435\u0440\u043d\u0430\u044f \u043c\u0430\u0439\u043a\u0430",
             "it_IT": "T-shirt nera",
             "ja_JP": "\u30a4\u30ab\u30d6\u30e9\u30c3\u30af"
-        }
+        },
+        "brand": "SquidForce"
     },
     {
-        "id": 82,
+        "id": 64,
         "name": "Red Vector Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES013.png",
         "main": "Ink Saver (Main)",
@@ -1657,10 +1361,11 @@
             "ru_RU": "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u043c\u0430\u0439\u043a\u0430 \u0441 \u0443\u0437\u043e\u0440\u043e\u043c",
             "it_IT": "T-shirt rossa frecce",
             "ja_JP": "\u30d9\u30af\u30c8\u30eb\u30d1\u30bf\u30fc\u30f3 \u30ec\u30c3\u30c9"
-        }
+        },
+        "brand": "Takoroka"
     },
     {
-        "id": 83,
+        "id": 65,
         "name": "Gray Vector Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES014.png",
         "main": "Quick Super Jump",
@@ -1677,10 +1382,11 @@
             "ru_RU": "\u0421\u0435\u0440\u0430\u044f \u043c\u0430\u0439\u043a\u0430 \u0441 \u0443\u0437\u043e\u0440\u043e\u043c",
             "it_IT": "T-shirt grigia frecce",
             "ja_JP": "\u30d9\u30af\u30c8\u30eb\u30d1\u30bf\u30fc\u30f3 \u30b0\u30ec\u30fc"
-        }
+        },
+        "brand": "Takoroka"
     },
     {
-        "id": 84,
+        "id": 66,
         "name": "Blue Peaks Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES015.png",
         "main": "Ink Saver (Sub)",
@@ -1697,10 +1403,11 @@
             "ru_RU": "\u0421\u0438\u043d\u044f\u044f \u043c\u0430\u0439\u043a\u0430 \u0441 \u0433\u043e\u0440\u0430\u043c\u0438",
             "it_IT": "T-shirt cime blu",
             "ja_JP": "\u30e4\u30de\u30d3\u30b3\uff34 \u30d6\u30eb\u30fc"
-        }
+        },
+        "brand": "Inkline"
     },
     {
-        "id": 85,
+        "id": 67,
         "name": "Ivory Peaks Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES016.png",
         "main": "Haunt",
@@ -1717,10 +1424,11 @@
             "ru_RU": "\u0421\u0432\u0435\u0442\u043b\u0430\u044f \u043c\u0430\u0439\u043a\u0430 \u0441 \u0433\u043e\u0440\u0430\u043c\u0438",
             "it_IT": "T-shirt cime avorio",
             "ja_JP": "\u30e4\u30de\u30d3\u30b3\uff34 \u30a2\u30a4\u30dc\u30ea\u30fc"
-        }
+        },
+        "brand": "Inkline"
     },
     {
-        "id": 86,
+        "id": 68,
         "name": "Pirate-Stripe Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES018.png",
         "main": "Special Power Up",
@@ -1737,10 +1445,11 @@
             "ru_RU": "\u041c\u0430\u0439\u043a\u0430 \u00ab\u041f\u0438\u0440\u0430\u0442\u043a\u0430\u00bb",
             "it_IT": "T-shirt da pirata",
             "ja_JP": "\u30d1\u30a4\u30ec\u30fc\u30c4\u30dc\u30fc\u30c0\u30fc"
-        }
+        },
+        "brand": "Splash Mob"
     },
     {
-        "id": 87,
+        "id": 69,
         "name": "Sailor-Stripe Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES019.png",
         "main": "Run Speed Up",
@@ -1757,10 +1466,11 @@
             "ru_RU": "\u041c\u0430\u0439\u043a\u0430 \u00ab\u041c\u043e\u0440\u044f\u0447\u043a\u0430\u00bb",
             "it_IT": "T-shirt da marinaio",
             "ja_JP": "\u30de\u30ea\u30f3\u30dc\u30fc\u30c0\u30fc"
-        }
+        },
+        "brand": "Splash Mob"
     },
     {
-        "id": 88,
+        "id": 70,
         "name": "White 8-Bit FishFry",
         "image": "../common/assets/img/gear/clothes/Clt_TES020.png",
         "main": "Sub Power Up",
@@ -1777,10 +1487,11 @@
             "ru_RU": "\u00ab\u0424\u0443\u0433\u0430\u0441\u0438\u043a-\u0440\u0435\u0442\u0440\u043e\u00bb \u0431\u0435\u043b\u0430\u044f",
             "it_IT": "T-shirt 8 bit bianca",
             "ja_JP": "\u30e4\u30ad\u30d5\u30b08bit \u30db\u30ef\u30a4\u30c8"
-        }
+        },
+        "brand": "Firefin"
     },
     {
-        "id": 89,
+        "id": 71,
         "name": "Black 8-Bit FishFry",
         "image": "../common/assets/img/gear/clothes/Clt_TES021.png",
         "main": "Sub Resistance Up",
@@ -1797,10 +1508,11 @@
             "ru_RU": "\u00ab\u0424\u0443\u0433\u0430\u0441\u0438\u043a-\u0440\u0435\u0442\u0440\u043e\u00bb \u0447\u0435\u0440\u043d\u0430\u044f",
             "it_IT": "T-shirt 8 bit nera",
             "ja_JP": "\u30e4\u30ad\u30d5\u30b08bit \u30d6\u30e9\u30c3\u30af"
-        }
+        },
+        "brand": "Firefin"
     },
     {
-        "id": 90,
+        "id": 72,
         "name": "Black V-Neck Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES030.png",
         "main": "Thermal Ink",
@@ -1817,10 +1529,11 @@
             "ru_RU": "\u0427\u0435\u0440\u043d\u0430\u044f \u043c\u0430\u0439\u043a\u0430 \u0441 \u0432\u044b\u0440\u0435\u0437\u043e\u043c",
             "it_IT": "T-shirt nera ciclista",
             "ja_JP": "\u30a4\u30ab\u30d6\u30e9\u30c3\u30afV"
-        }
+        },
+        "brand": "SquidForce"
     },
     {
-        "id": 91,
+        "id": 73,
         "name": "White V-Neck Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES035.png",
         "main": "Special Saver",
@@ -1837,10 +1550,11 @@
             "ru_RU": "\u0411\u0435\u043b\u0430\u044f \u043c\u0430\u0439\u043a\u0430 \u0441 \u0432\u044b\u0440\u0435\u0437\u043e\u043c",
             "it_IT": "T-shirt bianca ciclista",
             "ja_JP": "\u30a4\u30ab\u30db\u30ef\u30a4\u30c8V"
-        }
+        },
+        "brand": "SquidForce"
     },
     {
-        "id": 92,
+        "id": 74,
         "name": "Tri-Shred Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES063.png",
         "main": "Quick Respawn",
@@ -1857,10 +1571,11 @@
             "ru_RU": "\u041c\u0430\u0439\u043a\u0430 \u00ab\u0420\u044b\u0431\u0430-\u043f\u0438\u043b\u0430\u00bb",
             "it_IT": "Cala-shirt strappata",
             "ja_JP": "\u30b5\u30ad\u30a4\u30ab\u30db\u30ef\u30a4\u30c8"
-        }
+        },
+        "brand": "SquidForce"
     },
     {
-        "id": 93,
+        "id": 75,
         "name": "Tentatek Tandem",
         "image": "../common/assets/img/gear/clothes/Clt_TES064.png",
         "main": "Ink Saver (Main)",
@@ -1877,10 +1592,11 @@
             "ru_RU": "\u041c\u0430\u0439\u043a\u0430-\u0434\u0443\u043e \u00ab\u0429\u0443\u0447\u0447\u0438\u00bb",
             "it_IT": "T-shirt bivalve Arome",
             "ja_JP": "\u30a2\u30ed\u30e1T \u30b4\u30d6\u30b4\u30d6"
-        }
+        },
+        "brand": "Tentatek"
     },
     {
-        "id": 94,
+        "id": 76,
         "name": "Annaki Choker Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES066.png",
         "main": "Special Power Up",
@@ -1897,10 +1613,11 @@
             "ru_RU": "\u00ab\u0427\u043e\u043a\u0435\u0440\u00bb \u043e\u0442 \u041f\u0430\u043d\u043a\u0430\u0441\u0438\u0443\u0441\u0430",
             "it_IT": "T-shirt Annak (collare)",
             "ja_JP": "\u30a2\u30ca\u30a2\u30adT \u30c1\u30e7\u30fc\u30ab\u30fc"
-        }
+        },
+        "brand": "Annaki"
     },
     {
-        "id": 95,
+        "id": 77,
         "name": "Annaki Bracelet Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES067.png",
         "main": "Haunt",
@@ -1917,10 +1634,11 @@
             "ru_RU": "\u00ab\u041c\u0430\u043d\u0436\u0435\u0442\u044b\u00bb \u043e\u0442 \u041f\u0430\u043d\u043a\u0430\u0441\u0438\u0443\u0441\u0430",
             "it_IT": "T-shirt Annak (bracciali)",
             "ja_JP": "\u30a2\u30ca\u30a2\u30adT \u30a2\u30b7\u30e1\u30d6\u30ec\u30b9"
-        }
+        },
+        "brand": "Annaki"
     },
     {
-        "id": 96,
+        "id": 78,
         "name": "Blue Retro Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES069.png",
         "main": "Special Saver",
@@ -1937,10 +1655,11 @@
             "ru_RU": "\u0413\u043e\u043b\u0443\u0431\u0430\u044f \u0440\u0435\u0442\u0440\u043e-\u043c\u0430\u0439\u043a\u0430",
             "it_IT": "T-shirt azzurra r\u00e9tro",
             "ja_JP": "\u30ea\u30a4\u30b7\u30e5\u30fcT \u30d6\u30eb\u30fc"
-        }
+        },
+        "brand": "Tentatek"
     },
     {
-        "id": 97,
+        "id": 79,
         "name": "Tan Retro Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES070.png",
         "main": "Ninja Squid",
@@ -1957,10 +1676,11 @@
             "ru_RU": "\u0411\u0435\u0436\u0435\u0432\u0430\u044f \u0440\u0435\u0442\u0440\u043e-\u043c\u0430\u0439\u043a\u0430",
             "it_IT": "T-shirt cachi r\u00e9tro",
             "ja_JP": "\u30ea\u30a4\u30b7\u30e5\u30fcT \u30d6\u30e9\u30a6\u30f3"
-        }
+        },
+        "brand": "Tentatek"
     },
     {
-        "id": 98,
+        "id": 80,
         "name": "Barazushi Wrap",
         "image": "../common/assets/img/gear/clothes/Clt_TES071.png",
         "main": "Ink Saver (Main)",
@@ -1977,10 +1697,11 @@
             "ru_RU": "\u0428\u0430\u043b\u044c \u00ab\u041d\u043e\u0440\u0438-\u0440\u043e\u043b\u043b\u00bb",
             "it_IT": "Scialle BaraS",
             "ja_JP": "\u30d0\u30e9\u30ba\u30b7 \u30ce\u30ea\u30de\u30ad"
-        }
+        },
+        "brand": "Barazushi"
     },
     {
-        "id": 99,
+        "id": 81,
         "name": "Barazushi Rice Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES072.png",
         "main": "Haunt",
@@ -1997,10 +1718,11 @@
             "ru_RU": "\u041c\u0430\u0439\u043a\u0430 \u00ab\u0421\u0443\u0441\u0438-\u0440\u0438\u0441\u00bb",
             "it_IT": "T-shirt riso BaraS",
             "ja_JP": "\u30d0\u30e9\u30ba\u30b7T \u30cf\u30af\u30de\u30a4"
-        }
+        },
+        "brand": "Barazushi"
     },
     {
-        "id": 100,
+        "id": 82,
         "name": "Barazushi Black Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES073.png",
         "main": "Ink Resistance Up",
@@ -2017,10 +1739,11 @@
             "ru_RU": "\u041c\u0430\u0439\u043a\u0430 \u00ab\u0427\u0435\u0440\u043d\u044b\u0439 \u0440\u0438\u0441\u00bb",
             "it_IT": "T-shirt t\u00e8 BaraS",
             "ja_JP": "\u30d0\u30e9\u30ba\u30b7T \u30b2\u30f3\u30de\u30a4"
-        }
+        },
+        "brand": "Barazushi"
     },
     {
-        "id": 101,
+        "id": 83,
         "name": "Barazushi Sakura Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES074.png",
         "main": "Sub Resistance Up",
@@ -2037,10 +1760,11 @@
             "ru_RU": "\u041c\u0430\u0439\u043a\u0430 \u00ab\u0421\u0430\u043a\u0443\u0440\u0430\u00bb",
             "it_IT": "T-shirt ciliegio BaraS",
             "ja_JP": "\u30d0\u30e9\u30ba\u30b7T \u30bb\u30ad\u30cf\u30f3"
-        }
+        },
+        "brand": "Barazushi"
     },
     {
-        "id": 102,
+        "id": 84,
         "name": "Octosquid Tandem Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES075.png",
         "main": "Intensify Action",
@@ -2057,10 +1781,11 @@
             "ru_RU": "\u041c\u0430\u0439\u043a\u0430-\u0434\u0443\u043e \u00ab\u041e\u0441\u044c\u043c\u043e\u041c\u0430\u0440\u00bb",
             "it_IT": "T-shirt bivalve CalaOcto",
             "ja_JP": "\u30a4\u30b3T \u30b4\u30d6\u30b4\u30d6"
-        }
+        },
+        "brand": "SquidForce"
     },
     {
-        "id": 103,
+        "id": 85,
         "name": "Tri-Squid Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES076.png",
         "main": "Quick Respawn",
@@ -2077,10 +1802,11 @@
             "ru_RU": "\u041a\u0430\u043b\u044c\u043c\u0430\u0439\u043a\u0430 \u00ab\u0422\u0440\u043e\u0439\u043a\u0430\u00bb",
             "it_IT": "Cala-shirt",
             "ja_JP": "\u30a4\u30ab\u30b5\u30f3T"
-        }
+        },
+        "brand": "SquidForce"
     },
     {
-        "id": 104,
+        "id": 86,
         "name": "Tri-Octo Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES077.png",
         "main": "Ink Saver (Sub)",
@@ -2097,10 +1823,11 @@
             "ru_RU": "\u041e\u0441\u044c\u043c\u043e\u043c\u0430\u0439\u043a\u0430 \u00ab\u0422\u0440\u043e\u0439\u043a\u0430\u00bb",
             "it_IT": "Octo-shirt",
             "ja_JP": "\u30bf\u30b3\u30b5\u30f3T"
-        }
+        },
+        "brand": "SquidForce"
     },
     {
-        "id": 105,
+        "id": 87,
         "name": "Pineapple Ringer",
         "image": "../common/assets/img/gear/clothes/Clt_TES082.png",
         "main": "Ink Recovery Up",
@@ -2117,10 +1844,11 @@
             "ru_RU": "\u041c\u0430\u0439\u043a\u0430 \u00ab\u0410\u043d\u0430\u043d\u0430\u0441\u0438\u043a\u00bb",
             "it_IT": "T-shirt similananas",
             "ja_JP": "\u30ea\u30f3\u30ac\u30fcT \u30d1\u30a4\u30f3"
-        }
+        },
+        "brand": "Zink"
     },
     {
-        "id": 106,
+        "id": 88,
         "name": "Apple Ringer",
         "image": "../common/assets/img/gear/clothes/Clt_TES083.png",
         "main": "Sub Power Up",
@@ -2137,10 +1865,11 @@
             "ru_RU": "\u041c\u0430\u0439\u043a\u0430 \u00ab\u042f\u0431\u043b\u043e\u0447\u043a\u043e\u00bb",
             "it_IT": "T-shirt similmela",
             "ja_JP": "\u30ea\u30f3\u30ac\u30fcT \u30a2\u30c3\u30d7\u30eb"
-        }
+        },
+        "brand": "Zink"
     },
     {
-        "id": 107,
+        "id": 89,
         "name": "Vaporwave Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES084.png",
         "main": "Thermal Ink",
@@ -2157,10 +1886,11 @@
             "ru_RU": "\u041c\u0430\u0439\u043a\u0430 \u00ab\u0417\u0430\u043a\u0430\u0442\u00bb",
             "it_IT": "T-shirt vaporosa",
             "ja_JP": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b0\u30e9\u30c7T"
-        }
+        },
+        "brand": "Skalop"
     },
     {
-        "id": 108,
+        "id": 90,
         "name": "Duskwave Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES085.png",
         "main": "Special Power Up",
@@ -2177,10 +1907,11 @@
             "ru_RU": "\u041c\u0430\u0439\u043a\u0430 \u00ab\u0420\u0430\u0441\u0441\u0432\u0435\u0442\u00bb",
             "it_IT": "T-shirt crepuscolare",
             "ja_JP": "\u30b5\u30f3\u30bb\u30c3\u30c8\u30b0\u30e9\u30c7T"
-        }
+        },
+        "brand": "Skalop"
     },
     {
-        "id": 109,
+        "id": 91,
         "name": "Eelzebub Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES088.png",
         "main": "Intensify Action",
@@ -2197,10 +1928,11 @@
             "ru_RU": "\u041c\u0430\u0439\u043a\u0430 \u00ab\u0423-\u0433\u0440\u0430\u043d\u0436\u00bb",
             "it_IT": "T-shirt draganguilla",
             "ja_JP": "\u30ac\u30d6\u30ea\u30a8\u30ebT"
-        }
+        },
+        "brand": "Skalop"
     },
     {
-        "id": 110,
+        "id": 92,
         "name": "Lime BlobMob Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES090.png",
         "main": "Sub Power Up",
@@ -2217,10 +1949,11 @@
             "ru_RU": "\u041b\u0430\u0439\u043c\u043e\u0432\u0430\u044f \u0441\u043c\u0430\u0439\u043b-\u043c\u0430\u0439\u043a\u0430",
             "it_IT": "T-shirt SmileMob verde",
             "ja_JP": "\u30b9\u30b7\u30ba\u30e1\u30d6\u30ed\u30d6 \u30e9\u30a4\u30e0"
-        }
+        },
+        "brand": "Emberz"
     },
     {
-        "id": 111,
+        "id": 93,
         "name": "Berry BlobMob Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES091.png",
         "main": "Run Speed Up",
@@ -2237,10 +1970,11 @@
             "ru_RU": "\u042f\u0433\u043e\u0434\u043d\u0430\u044f \u0441\u043c\u0430\u0439\u043b-\u043c\u0430\u0439\u043a\u0430",
             "it_IT": "T-shirt SmileMob fucsia",
             "ja_JP": "\u30b9\u30b7\u30ba\u30e1\u30d6\u30ed\u30d6 \u30d9\u30ea\u30fc"
-        }
+        },
+        "brand": "Emberz"
     },
     {
-        "id": 112,
+        "id": 94,
         "name": "White Layered LS",
         "image": "../common/assets/img/gear/clothes/Clt_TLY000.png",
         "main": "Special Saver",
@@ -2257,10 +1991,11 @@
             "ru_RU": "\u0411\u0435\u043b\u0430\u044f \u0434\u0432\u043e\u0439\u043a\u0430",
             "it_IT": "A strati bianca",
             "ja_JP": "\u30ec\u30a4\u30e4\u30fc\u30c9 \u30db\u30ef\u30a4\u30c8"
-        }
+        },
+        "brand": "SquidForce"
     },
     {
-        "id": 113,
+        "id": 95,
         "name": "Yellow Layered LS",
         "image": "../common/assets/img/gear/clothes/Clt_TLY001.png",
         "main": "Quick Super Jump",
@@ -2277,10 +2012,11 @@
             "ru_RU": "\u0416\u0435\u043b\u0442\u0430\u044f \u0434\u0432\u043e\u0439\u043a\u0430",
             "it_IT": "A strati gialla",
             "ja_JP": "\u30de\u30b9\u30bf\u30fc\u30c9\u30ac\u30b5\u30cd"
-        }
+        },
+        "brand": "SquidForce"
     },
     {
-        "id": 114,
+        "id": 96,
         "name": "Zink Layered LS",
         "image": "../common/assets/img/gear/clothes/Clt_TLY004.png",
         "main": "Respawn Punisher",
@@ -2297,10 +2033,11 @@
             "ru_RU": "\u0414\u0432\u043e\u0439\u043a\u0430 \u043e\u0442 \u00ab\u0428\u043f\u0440\u043e\u0442\u0443\u0441\u00bb",
             "it_IT": "A strati Totanic",
             "ja_JP": "\u30a2\u30a4\u30ed\u30cb\u30c3\u30af\u30ec\u30a4\u30e4\u30fc\u30c9"
-        }
+        },
+        "brand": "Zink"
     },
     {
-        "id": 115,
+        "id": 97,
         "name": "Choco Layered LS",
         "image": "../common/assets/img/gear/clothes/Clt_TLY006.png",
         "main": "Ink Saver (Sub)",
@@ -2317,10 +2054,11 @@
             "ru_RU": "\u041a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u0430\u044f \u0434\u0432\u043e\u0439\u043a\u0430",
             "it_IT": "A strati marrone",
             "ja_JP": "\u30c1\u30e7\u30b3\u30ac\u30b5\u30cd"
-        }
+        },
+        "brand": "Takoroka"
     },
     {
-        "id": 116,
+        "id": 98,
         "name": "Layered Vector LS",
         "image": "../common/assets/img/gear/clothes/Clt_TLY008.png",
         "main": "Special Saver",
@@ -2337,10 +2075,11 @@
             "ru_RU": "\u0414\u0432\u043e\u0439\u043a\u0430 \u0441 \u0443\u0437\u043e\u0440\u043e\u043c",
             "it_IT": "A strati frecce",
             "ja_JP": "\u30d9\u30af\u30c8\u30eb\u30e9\u30a4\u30f3\u30ac\u30b5\u30cd"
-        }
+        },
+        "brand": "Takoroka"
     },
     {
-        "id": 117,
+        "id": 99,
         "name": "Green Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TLY009.png",
         "main": "Special Saver",
@@ -2357,10 +2096,11 @@
             "ru_RU": "\u041a\u043e\u0440\u043e\u0442\u043a\u0430\u044f \u0445\u0430\u043a\u0438 \u0434\u0432\u043e\u0439\u043a\u0430",
             "it_IT": "T-shirt verde",
             "ja_JP": "\u30b0\u30ea\u30fc\u30f3\uff34"
-        }
+        },
+        "brand": "Forge"
     },
     {
-        "id": 118,
+        "id": 100,
         "name": "B-ball Jersey (Home)",
         "image": "../common/assets/img/gear/clothes/Clt_TNK000.png",
         "main": "Special Saver",
@@ -2377,10 +2117,11 @@
             "ru_RU": "\u0411\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u043a\u0430 (\u043e\u0441\u043d\u043e\u0432\u043d\u0430\u044f)",
             "it_IT": "Canotta (casa)",
             "ja_JP": "\u30d0\u30b9\u30b1\u30b8\u30e3\u30fc\u30b8 \u30db\u30fc\u30e0"
-        }
+        },
+        "brand": "Zink"
     },
     {
-        "id": 119,
+        "id": 101,
         "name": "White King Tank",
         "image": "../common/assets/img/gear/clothes/Clt_TNK003.png",
         "main": "Haunt",
@@ -2397,10 +2138,11 @@
             "ru_RU": "\u0411\u0435\u043b\u044b\u0439 \u0442\u0430\u043d\u043a-\u0442\u043e\u043f \u00abVIP\u00bb",
             "it_IT": "Canotta bianca Calamars",
             "ja_JP": "\u30ad\u30f3\u30b0\u30bf\u30f3\u30af \u30db\u30ef\u30a4\u30c8"
-        }
+        },
+        "brand": "Enperry"
     },
     {
-        "id": 120,
+        "id": 102,
         "name": "Umibozu Home Jersey",
         "image": "../common/assets/img/gear/clothes/Clt_TNK008.png",
         "main": "Haunt",
@@ -2417,10 +2159,11 @@
             "ru_RU": "\u00ab\u0423\u043c\u0438\u0431\u043e\u0434\u0437\u0443\u00bb (\u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439)",
             "it_IT": "Maglia Umibozu",
             "ja_JP": "\u30a6\u30df\u30dc\u30fc\u30ba \u30db\u30fc\u30e0"
-        }
+        },
+        "brand": "Takoroka"
     },
     {
-        "id": 121,
+        "id": 103,
         "name": "Khaki Ranger Vest",
         "image": "../common/assets/img/gear/clothes/Clt_VST010.png",
         "main": "Sub Power Up",
@@ -2437,10 +2180,11 @@
             "ru_RU": "\u041f\u043e\u043b\u0435\u0432\u043e\u0439 \u0436\u0438\u043b\u0435\u0442 \u00ab\u0425\u0430\u043a\u0438\u00bb",
             "it_IT": "Gilet militare cachi",
             "ja_JP": "\u30cf\u30f3\u30c6\u30a3\u30f3\u30b0\u30d9\u30b9\u30c8KK"
-        }
+        },
+        "brand": "Inkline"
     },
     {
-        "id": 122,
+        "id": 104,
         "name": "Red Battlecrab Shell",
         "image": "../common/assets/img/gear/clothes/Clt_VST011.png",
         "main": "Sub Resistance Up",
@@ -2457,10 +2201,11 @@
             "ru_RU": "\u0416\u0438\u043b\u0435\u0442 \u00ab\u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0430\u043d\u0446\u0438\u0440\u044c\u00bb",
             "it_IT": "Granchiorazza rossa",
             "ja_JP": "\u30bf\u30ab\u30a2\u30b7\u30d7\u30ed\u30c6\u30af\u30bf\u30fc\u30ec\u30c3\u30c9"
-        }
+        },
+        "brand": "Enperry"
     },
     {
-        "id": 123,
+        "id": 105,
         "name": "Lime Battlecrab Shell",
         "image": "../common/assets/img/gear/clothes/Clt_VST012.png",
         "main": "Swim Speed Up",
@@ -2477,10 +2222,11 @@
             "ru_RU": "\u0416\u0438\u043b\u0435\u0442 \u00ab\u0417\u0435\u043b\u0435\u043d\u044b\u0439 \u043f\u0430\u043d\u0446\u0438\u0440\u044c\u00bb",
             "it_IT": "Granchiorazza verde",
             "ja_JP": "\u30bf\u30ab\u30a2\u30b7\u30d7\u30ed\u30c6\u30af\u30bf\u30fc\u30e9\u30a4\u30e0"
-        }
+        },
+        "brand": "Enperry"
     },
     {
-        "id": 124,
+        "id": 106,
         "name": "Distressed Vest",
         "image": "../common/assets/img/gear/clothes/Clt_VST013.png",
         "main": "Sub Resistance Up",
@@ -2497,6 +2243,7 @@
             "ru_RU": "\u0411\u0435\u0437\u0440\u0443\u043a\u0430\u0432\u043a\u0430 \u00ab\u041a\u043b\u044f\u043a\u0441\u0430\u00bb",
             "it_IT": "Maglia schizzata con gilet",
             "ja_JP": "\u30b9\u30df\u30c1\u30e9\u30b7\u30d9\u30b9\u30c8"
-        }
+        },
+        "brand": "Toni Kensa"
     }
 ]

@@ -4,7 +4,7 @@
         "type": "Blasters",
         "weapons": [
             {
-                "id": 1,
+                "id": 0,
                 "name": "Rapid Blaster Pro",
                 "image": "../common/assets/img/weapons/Blaster_LightLong_00.png",
                 "class": "Blaster",
@@ -25,7 +25,7 @@
                 }
             },
             {
-                "id": 4,
+                "id": 1,
                 "name": "Clash Blaster",
                 "image": "../common/assets/img/weapons/Blaster_LightShort_00.png",
                 "class": "Blaster",
@@ -46,7 +46,7 @@
                 }
             },
             {
-                "id": 7,
+                "id": 2,
                 "name": "Rapid Blaster",
                 "image": "../common/assets/img/weapons/Blaster_Light_00.png",
                 "class": "Blaster",
@@ -67,7 +67,7 @@
                 }
             },
             {
-                "id": 10,
+                "id": 3,
                 "name": "Range Blaster",
                 "image": "../common/assets/img/weapons/Blaster_Long_00.png",
                 "class": "Blaster",
@@ -88,7 +88,7 @@
                 }
             },
             {
-                "id": 13,
+                "id": 4,
                 "name": "Blaster",
                 "image": "../common/assets/img/weapons/Blaster_Middle_00.png",
                 "class": "Blaster",
@@ -109,7 +109,7 @@
                 }
             },
             {
-                "id": 18,
+                "id": 5,
                 "name": "Luna Blaster",
                 "image": "../common/assets/img/weapons/Blaster_Short_00.png",
                 "class": "Blaster",
@@ -129,14 +129,27 @@
                     "ja_JP": "\u30ce\u30f4\u30a1\u30d6\u30e9\u30b9\u30bf\u30fc"
                 }
             }
-        ]
+        ],
+        "localizedName": {
+            "en_GB": "Blasters",
+            "en_US": "Blasters",
+            "es_ES": "Devastadores",
+            "es_MX": "Lanzamotas",
+            "fr_FR": "Blasters",
+            "fr_CA": "Blasteurs",
+            "de_DE": "Blaster",
+            "nl_NL": "Blasters",
+            "ru_RU": "\u0411\u043b\u0430\u0441\u0442\u0435\u0440\u044b",
+            "it_IT": "Blaster",
+            "ja_JP": "\u30d6\u30e9\u30b9\u30bf\u30fc"
+        }
     },
     {
         "id": 1,
         "type": "Brushes",
         "weapons": [
             {
-                "id": 21,
+                "id": 0,
                 "name": "Inkbrush",
                 "image": "../common/assets/img/weapons/Brush_Mini_00.png",
                 "class": "Brush",
@@ -157,7 +170,7 @@
                 }
             },
             {
-                "id": 24,
+                "id": 1,
                 "name": "Octobrush",
                 "image": "../common/assets/img/weapons/Brush_Normal_00.png",
                 "class": "Brush",
@@ -177,14 +190,27 @@
                     "ja_JP": "\u30db\u30af\u30b5\u30a4"
                 }
             }
-        ]
+        ],
+        "localizedName": {
+            "en_GB": "Brushes",
+            "en_US": "Brushes",
+            "es_ES": "Pinceles",
+            "es_MX": "Pinceles",
+            "fr_FR": "Pinceaux",
+            "fr_CA": "Pinceaux",
+            "de_DE": "Pinsel",
+            "nl_NL": "Kwasten",
+            "ru_RU": "\u041a\u0438\u0441\u0442\u0438",
+            "it_IT": "Pennelli",
+            "ja_JP": "\u30d5\u30c7"
+        }
     },
     {
         "id": 2,
         "type": "Chargers",
         "weapons": [
             {
-                "id": 30,
+                "id": 0,
                 "name": "Goo Tuber",
                 "image": "../common/assets/img/weapons/Charger_Keeper_00.png",
                 "class": "Charger",
@@ -205,7 +231,7 @@
                 }
             },
             {
-                "id": 33,
+                "id": 1,
                 "name": "Bamboozler 14 Mk I",
                 "image": "../common/assets/img/weapons/Charger_Light_00.png",
                 "class": "Charger",
@@ -226,7 +252,7 @@
                 }
             },
             {
-                "id": 36,
+                "id": 2,
                 "name": "E-liter 4K Scope",
                 "image": "../common/assets/img/weapons/Charger_LongScope_00.png",
                 "class": "Charger",
@@ -247,7 +273,7 @@
                 }
             },
             {
-                "id": 38,
+                "id": 3,
                 "name": "E-liter 4K",
                 "image": "../common/assets/img/weapons/Charger_Long_00.png",
                 "class": "Charger",
@@ -268,7 +294,7 @@
                 }
             },
             {
-                "id": 42,
+                "id": 4,
                 "name": "Splatterscope",
                 "image": "../common/assets/img/weapons/Charger_NormalScope_00.png",
                 "class": "Charger",
@@ -289,7 +315,7 @@
                 }
             },
             {
-                "id": 44,
+                "id": 5,
                 "name": "Splat Charger",
                 "image": "../common/assets/img/weapons/Charger_Normal_00.png",
                 "class": "Charger",
@@ -310,7 +336,7 @@
                 }
             },
             {
-                "id": 47,
+                "id": 6,
                 "name": "Classic Squiffer",
                 "image": "../common/assets/img/weapons/Charger_Quick_00.png",
                 "class": "Charger",
@@ -330,14 +356,27 @@
                     "ja_JP": "\u30b9\u30af\u30a4\u30c3\u30af\u30ea\u30f3\u03b1"
                 }
             }
-        ]
+        ],
+        "localizedName": {
+            "en_GB": "Chargers",
+            "en_US": "Chargers",
+            "es_ES": "Cargatintas",
+            "es_MX": "Cargatintas",
+            "fr_FR": "Fusils",
+            "fr_CA": "Fusils",
+            "de_DE": "Konzentratoren",
+            "nl_NL": "Laders",
+            "ru_RU": "\u041d\u0430\u0433\u043d\u0435\u0442\u0430\u0442\u0435\u043b\u0438",
+            "it_IT": "Armi a carica",
+            "ja_JP": "\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc"
+        }
     },
     {
         "id": 3,
         "type": "Dualies",
         "weapons": [
             {
-                "id": 51,
+                "id": 0,
                 "name": "Dualie Squelchers",
                 "image": "../common/assets/img/weapons/Maneuver_Dual_00.png",
                 "class": "Maneuver",
@@ -358,7 +397,7 @@
                 }
             },
             {
-                "id": 54,
+                "id": 1,
                 "name": "Glooga Dualies",
                 "image": "../common/assets/img/weapons/Maneuver_Gallon_00.png",
                 "class": "Maneuver",
@@ -379,7 +418,7 @@
                 }
             },
             {
-                "id": 57,
+                "id": 2,
                 "name": "Splat Dualies",
                 "image": "../common/assets/img/weapons/Maneuver_Normal_00.png",
                 "class": "Maneuver",
@@ -400,7 +439,7 @@
                 }
             },
             {
-                "id": 62,
+                "id": 3,
                 "name": "Dapple Dualies",
                 "image": "../common/assets/img/weapons/Maneuver_Short_00.png",
                 "class": "Maneuver",
@@ -421,7 +460,7 @@
                 }
             },
             {
-                "id": 65,
+                "id": 4,
                 "name": "Dark Tetra Dualies",
                 "image": "../common/assets/img/weapons/Maneuver_Stepper_00.png",
                 "class": "Maneuver",
@@ -441,14 +480,27 @@
                     "ja_JP": "\u30af\u30a2\u30c3\u30c9\u30db\u30c3\u30d1\u30fc\u30d6\u30e9\u30c3\u30af"
                 }
             }
-        ]
+        ],
+        "localizedName": {
+            "en_GB": "Dualies",
+            "en_US": "Dualies",
+            "es_ES": "Armas duales",
+            "es_MX": "Armas duales",
+            "fr_FR": "Armes doubles",
+            "fr_CA": "Armes doubles",
+            "de_DE": "Sprenkler",
+            "nl_NL": "Dubbelknallers",
+            "ru_RU": "\u0421\u043f\u0443\u0440\u0442\u043e\u043c\u0435\u0442\u044b",
+            "it_IT": "Repolper",
+            "ja_JP": "\u30de\u30cb\u30e5\u30fc\u30d0\u30fc"
+        }
     },
     {
         "id": 4,
         "type": "Rollers",
         "weapons": [
             {
-                "id": 68,
+                "id": 0,
                 "name": "Carbon Roller",
                 "image": "../common/assets/img/weapons/Roller_Compact_00.png",
                 "class": "Roller",
@@ -469,7 +521,7 @@
                 }
             },
             {
-                "id": 71,
+                "id": 1,
                 "name": "Dynamo Roller",
                 "image": "../common/assets/img/weapons/Roller_Heavy_00.png",
                 "class": "Roller",
@@ -490,7 +542,7 @@
                 }
             },
             {
-                "id": 74,
+                "id": 2,
                 "name": "Flingza Roller",
                 "image": "../common/assets/img/weapons/Roller_Hunter_00.png",
                 "class": "Roller",
@@ -511,7 +563,7 @@
                 }
             },
             {
-                "id": 77,
+                "id": 3,
                 "name": "Splat Roller",
                 "image": "../common/assets/img/weapons/Roller_Normal_00.png",
                 "class": "Roller",
@@ -531,14 +583,27 @@
                     "ja_JP": "\u30b9\u30d7\u30e9\u30ed\u30fc\u30e9\u30fc"
                 }
             }
-        ]
+        ],
+        "localizedName": {
+            "en_GB": "Rollers",
+            "en_US": "Rollers",
+            "es_ES": "Rodillos",
+            "es_MX": "Rodillos",
+            "fr_FR": "Rouleaux",
+            "fr_CA": "Rouleaux",
+            "de_DE": "Roller",
+            "nl_NL": "Rollers",
+            "ru_RU": "\u0412\u0430\u043b\u0438\u043a\u0438",
+            "it_IT": "Rulli",
+            "ja_JP": "\u30ed\u30fc\u30e9\u30fc"
+        }
     },
     {
         "id": 5,
         "type": "Splatanas",
         "weapons": [
             {
-                "id": 82,
+                "id": 0,
                 "name": "Splatana Wiper",
                 "image": "../common/assets/img/weapons/Saber_Lite_00.png",
                 "class": "Saber",
@@ -559,7 +624,7 @@
                 }
             },
             {
-                "id": 84,
+                "id": 1,
                 "name": "Splatana Stamper",
                 "image": "../common/assets/img/weapons/Saber_Normal_00.png",
                 "class": "Saber",
@@ -579,14 +644,27 @@
                     "ja_JP": "\u30b8\u30e0\u30ef\u30a4\u30d1\u30fc"
                 }
             }
-        ]
+        ],
+        "localizedName": {
+            "en_GB": "Splatanas",
+            "en_US": "Splatanas",
+            "es_ES": "Azotintadores",
+            "es_MX": "Azotintadores",
+            "fr_FR": "\u00c9clatanas",
+            "fr_CA": "\u00c9clatanas",
+            "de_DE": "Splatanas",
+            "nl_NL": "Zwiepers",
+            "ru_RU": "\u0421\u043f\u043b\u0430\u0442-\u043a\u0430\u0442\u0430\u043d\u044b",
+            "it_IT": "Lame",
+            "ja_JP": "\u30ef\u30a4\u30d1\u30fc"
+        }
     },
     {
         "id": 6,
         "type": "Brellas",
         "weapons": [
             {
-                "id": 88,
+                "id": 0,
                 "name": "Undercover Brella",
                 "image": "../common/assets/img/weapons/Shelter_Compact_00.png",
                 "class": "Shelter",
@@ -607,7 +685,7 @@
                 }
             },
             {
-                "id": 91,
+                "id": 1,
                 "name": "Splat Brella",
                 "image": "../common/assets/img/weapons/Shelter_Normal_00.png",
                 "class": "Shelter",
@@ -628,7 +706,7 @@
                 }
             },
             {
-                "id": 96,
+                "id": 2,
                 "name": "Tenta Brella",
                 "image": "../common/assets/img/weapons/Shelter_Wide_00.png",
                 "class": "Shelter",
@@ -648,14 +726,27 @@
                     "ja_JP": "\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30b7\u30a7\u30eb\u30bf\u30fc"
                 }
             }
-        ]
+        ],
+        "localizedName": {
+            "en_GB": "Brellas",
+            "en_US": "Brellas",
+            "es_ES": "Paratintas",
+            "es_MX": "Paratintas",
+            "fr_FR": "Para-encres",
+            "fr_CA": "Para-encres",
+            "de_DE": "Pluviatoren",
+            "nl_NL": "Plenzers",
+            "ru_RU": "\u0421\u043f\u043b\u0430\u0442-\u0437\u043e\u043d\u0442\u044b",
+            "it_IT": "Sparasole",
+            "ja_JP": "\u30b7\u30a7\u30eb\u30bf\u30fc"
+        }
     },
     {
         "id": 7,
         "type": "Shooters",
         "weapons": [
             {
-                "id": 99,
+                "id": 0,
                 "name": "Aerospray MG",
                 "image": "../common/assets/img/weapons/Shooter_Blaze_00.png",
                 "class": "Shooter",
@@ -676,7 +767,7 @@
                 }
             },
             {
-                "id": 102,
+                "id": 1,
                 "name": "Splattershot Pro",
                 "image": "../common/assets/img/weapons/Shooter_Expert_00.png",
                 "class": "Shooter",
@@ -697,7 +788,7 @@
                 }
             },
             {
-                "id": 105,
+                "id": 2,
                 "name": "Splattershot Jr.",
                 "image": "../common/assets/img/weapons/Shooter_First_00.png",
                 "class": "Shooter",
@@ -718,7 +809,7 @@
                 }
             },
             {
-                "id": 108,
+                "id": 3,
                 "name": "Squeezer",
                 "image": "../common/assets/img/weapons/Shooter_Flash_00.png",
                 "class": "Shooter",
@@ -739,7 +830,7 @@
                 }
             },
             {
-                "id": 111,
+                "id": 4,
                 "name": ".52 Gal",
                 "image": "../common/assets/img/weapons/Shooter_Gravity_00.png",
                 "class": "Shooter",
@@ -760,7 +851,7 @@
                 }
             },
             {
-                "id": 114,
+                "id": 5,
                 "name": ".96 Gal",
                 "image": "../common/assets/img/weapons/Shooter_Heavy_00.png",
                 "class": "Shooter",
@@ -781,7 +872,7 @@
                 }
             },
             {
-                "id": 117,
+                "id": 6,
                 "name": "Jet Squelcher",
                 "image": "../common/assets/img/weapons/Shooter_Long_00.png",
                 "class": "Shooter",
@@ -802,7 +893,7 @@
                 }
             },
             {
-                "id": 123,
+                "id": 7,
                 "name": "Splattershot",
                 "image": "../common/assets/img/weapons/Shooter_Normal_00.png",
                 "class": "Shooter",
@@ -823,7 +914,7 @@
                 }
             },
             {
-                "id": 128,
+                "id": 8,
                 "name": "Hero Shot Replica",
                 "image": "../common/assets/img/weapons/Shooter_Normal_H.png",
                 "class": "Shooter",
@@ -844,7 +935,7 @@
                 }
             },
             {
-                "id": 130,
+                "id": 9,
                 "name": "Splash-o-matic",
                 "image": "../common/assets/img/weapons/Shooter_Precision_00.png",
                 "class": "Shooter",
@@ -865,7 +956,7 @@
                 }
             },
             {
-                "id": 133,
+                "id": 10,
                 "name": "N-ZAP '85",
                 "image": "../common/assets/img/weapons/Shooter_QuickMiddle_00.png",
                 "class": "Shooter",
@@ -886,7 +977,7 @@
                 }
             },
             {
-                "id": 138,
+                "id": 11,
                 "name": "Sploosh-o-matic",
                 "image": "../common/assets/img/weapons/Shooter_Short_00.png",
                 "class": "Shooter",
@@ -907,7 +998,7 @@
                 }
             },
             {
-                "id": 141,
+                "id": 12,
                 "name": "H-3 Nozzlenose",
                 "image": "../common/assets/img/weapons/Shooter_TripleMiddle_00.png",
                 "class": "Shooter",
@@ -928,7 +1019,7 @@
                 }
             },
             {
-                "id": 144,
+                "id": 13,
                 "name": "L-3 Nozzlenose",
                 "image": "../common/assets/img/weapons/Shooter_TripleQuick_00.png",
                 "class": "Shooter",
@@ -948,14 +1039,27 @@
                     "ja_JP": "L3\u30ea\u30fc\u30eb\u30ac\u30f3"
                 }
             }
-        ]
+        ],
+        "localizedName": {
+            "en_GB": "Shooters",
+            "en_US": "Shooters",
+            "es_ES": "Lanzatintas",
+            "es_MX": "Rociadores",
+            "fr_FR": "Lanceurs",
+            "fr_CA": "Lanceurs",
+            "de_DE": "Kleckser",
+            "nl_NL": "Spetters",
+            "ru_RU": "\u041a\u0440\u0430\u0441\u043a\u043e\u043c\u0430\u0442\u044b",
+            "it_IT": "Armi a ripetizione",
+            "ja_JP": "\u30b7\u30e5\u30fc\u30bf\u30fc"
+        }
     },
     {
         "id": 8,
         "type": "Sloshers",
         "weapons": [
             {
-                "id": 147,
+                "id": 0,
                 "name": "Bloblobber",
                 "image": "../common/assets/img/weapons/Slosher_Bathtub_00.png",
                 "class": "Slosher",
@@ -976,7 +1080,7 @@
                 }
             },
             {
-                "id": 151,
+                "id": 1,
                 "name": "Tri-Slosher",
                 "image": "../common/assets/img/weapons/Slosher_Diffusion_00.png",
                 "class": "Slosher",
@@ -997,7 +1101,7 @@
                 }
             },
             {
-                "id": 154,
+                "id": 2,
                 "name": "Sloshing Machine",
                 "image": "../common/assets/img/weapons/Slosher_Launcher_00.png",
                 "class": "Slosher",
@@ -1018,7 +1122,7 @@
                 }
             },
             {
-                "id": 159,
+                "id": 3,
                 "name": "Slosher",
                 "image": "../common/assets/img/weapons/Slosher_Strong_00.png",
                 "class": "Slosher",
@@ -1039,7 +1143,7 @@
                 }
             },
             {
-                "id": 162,
+                "id": 4,
                 "name": "Explosher",
                 "image": "../common/assets/img/weapons/Slosher_Washtub_00.png",
                 "class": "Slosher",
@@ -1059,14 +1163,27 @@
                     "ja_JP": "\u30a8\u30af\u30b9\u30d7\u30ed\u30c3\u30b7\u30e3\u30fc"
                 }
             }
-        ]
+        ],
+        "localizedName": {
+            "en_GB": "Sloshers",
+            "en_US": "Sloshers",
+            "es_ES": "Derramatic",
+            "es_MX": "Derramatic",
+            "fr_FR": "Seaux",
+            "fr_CA": "Seaux",
+            "de_DE": "Schwapper",
+            "nl_NL": "Morsers",
+            "ru_RU": "\u0412\u0435\u0434\u0440\u043e\u0433\u0430\u043d\u044b",
+            "it_IT": "Secchiostri",
+            "ja_JP": "\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc"
+        }
     },
     {
         "id": 9,
         "type": "Splatlings",
         "weapons": [
             {
-                "id": 165,
+                "id": 0,
                 "name": "Ballpoint Splatling",
                 "image": "../common/assets/img/weapons/Spinner_Downpour_00.png",
                 "class": "Spinner",
@@ -1087,7 +1204,7 @@
                 }
             },
             {
-                "id": 168,
+                "id": 1,
                 "name": "Hydra Splatling",
                 "image": "../common/assets/img/weapons/Spinner_Hyper_00.png",
                 "class": "Spinner",
@@ -1108,7 +1225,7 @@
                 }
             },
             {
-                "id": 171,
+                "id": 2,
                 "name": "Mini Splatling",
                 "image": "../common/assets/img/weapons/Spinner_Quick_00.png",
                 "class": "Spinner",
@@ -1129,7 +1246,7 @@
                 }
             },
             {
-                "id": 174,
+                "id": 3,
                 "name": "Nautilus 47",
                 "image": "../common/assets/img/weapons/Spinner_Serein_00.png",
                 "class": "Spinner",
@@ -1150,7 +1267,7 @@
                 }
             },
             {
-                "id": 177,
+                "id": 4,
                 "name": "Heavy Splatling",
                 "image": "../common/assets/img/weapons/Spinner_Standard_00.png",
                 "class": "Spinner",
@@ -1170,14 +1287,27 @@
                     "ja_JP": "\u30d0\u30ec\u30eb\u30b9\u30d4\u30ca\u30fc"
                 }
             }
-        ]
+        ],
+        "localizedName": {
+            "en_GB": "Splatlings",
+            "en_US": "Splatlings",
+            "es_ES": "Tintralladoras",
+            "es_MX": "Garabateadores",
+            "fr_FR": "Badigeonneurs",
+            "fr_CA": "Badigeonneurs",
+            "de_DE": "Splatlings",
+            "nl_NL": "Spetlingen",
+            "ru_RU": "\u0411\u0440\u044b\u0437\u0433\u043e\u043c\u0435\u0442\u044b",
+            "it_IT": "Splatling",
+            "ja_JP": "\u30b9\u30d4\u30ca\u30fc"
+        }
     },
     {
         "id": 10,
         "type": "Stringers",
         "weapons": [
             {
-                "id": 181,
+                "id": 0,
                 "name": "Tri-Stringer",
                 "image": "../common/assets/img/weapons/Stringer_Normal_00.png",
                 "class": "Stringer",
@@ -1198,7 +1328,7 @@
                 }
             },
             {
-                "id": 184,
+                "id": 1,
                 "name": "REEF-LUX 450",
                 "image": "../common/assets/img/weapons/Stringer_Short_00.png",
                 "class": "Stringer",
@@ -1218,6 +1348,19 @@
                     "ja_JP": "LACT-450"
                 }
             }
-        ]
+        ],
+        "localizedName": {
+            "en_GB": "Stringers",
+            "en_US": "Stringers",
+            "es_ES": "Arcromatizadores",
+            "es_MX": "Arcromatizadores",
+            "fr_FR": "Transperceurs",
+            "fr_CA": "Transperceurs",
+            "de_DE": "Stringer",
+            "nl_NL": "Spanners",
+            "ru_RU": "\u0422\u0435\u0442\u0438\u0432\u0430\u0442\u043e\u0440\u044b",
+            "it_IT": "Calamarchi",
+            "ja_JP": "\u30b9\u30c8\u30ea\u30f3\u30ac\u30fc"
+        }
     }
 ]

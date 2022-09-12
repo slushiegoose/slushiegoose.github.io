@@ -17,7 +17,8 @@
             "ru_RU": "\u0428\u043a\u043e\u043b\u044c\u043d\u044b\u0435 \u0431\u043e\u0442\u0438\u043d\u043a\u0438 + \u0447\u0443\u043b\u043a\u0438",
             "it_IT": "Mocassini neri (calze)",
             "ja_JP": "\u30b9\u30af\u30fc\u30eb\u30ed\u30fc\u30d5\u30a1\u30fc \u30cf\u30a4\u30bd"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 1,
@@ -37,7 +38,8 @@
             "ru_RU": "\u0421\u0430\u043c\u0443\u0440\u0430\u0439\u0441\u043a\u0438\u0435 \u0441\u0430\u043d\u0434\u0430\u043b\u0438\u0438",
             "it_IT": "Calzature da samurai",
             "ja_JP": "\u30b5\u30e0\u30e9\u30a4\u30b7\u30e5\u30fc\u30ba"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 2,
@@ -57,7 +59,8 @@
             "ru_RU": "\u0421\u0438\u043b\u043e\u0432\u044b\u0435 \u0431\u043e\u0442\u044b",
             "it_IT": "Stivali hi-tech",
             "ja_JP": "\u30d1\u30ef\u30fc\u30c9\u30ec\u30c3\u30b0\u30b9"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 3,
@@ -77,7 +80,8 @@
             "ru_RU": "\u041b\u043e\u0444\u0435\u0440\u044b \u0441 \u0431\u0430\u0445\u0440\u043e\u043c\u043e\u0439",
             "it_IT": "Mocassini con frangia (calze)",
             "ja_JP": "\u30ad\u30eb\u30c8\u30ed\u30fc\u30d5\u30a1\u30fc \u30eb\u30fc\u30ba"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 4,
@@ -97,7 +101,8 @@
             "ru_RU": "\u0422\u0430\u0431\u0438 \u043d\u0438\u043d\u0434\u0437\u044f\u043b\u0438\u043d\u0433\u0430",
             "it_IT": "Stivali ninja",
             "ja_JP": "\u30b7\u30ce\u30d3\u30a2\u30b7"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 5,
@@ -117,7 +122,8 @@
             "ru_RU": "\u0421\u0438\u043b\u043e\u0432\u044b\u0435 \u0431\u043e\u0442\u044b \u041c-1",
             "it_IT": "Prototipo di stivali hi-tech",
             "ja_JP": "\u30d1\u30ef\u30fc\u30c9\u30ec\u30c3\u30b0\u30b9 \u30aa\u30ea\u30b8\u30f3"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 6,
@@ -137,7 +143,8 @@
             "ru_RU": "\u0416\u0435\u043c-\u043a\u0440\u043e\u0441\u0441\u044b",
             "it_IT": "Scarpe di Alga",
             "ja_JP": "\u30d2\u30e1\u30a4\u30c8\u30b9\u30cb\u30fc\u30ab\u30fc"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 7,
@@ -157,7 +164,8 @@
             "ru_RU": "\u0420\u0438\u0448-\u0441\u043b\u0438\u043f\u043e\u043d\u044b",
             "it_IT": "Scarpe di Nori",
             "ja_JP": "\u30a4\u30a4\u30c0\u30c1\u30b9\u30ea\u30c3\u30dd\u30f3"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 8,
@@ -177,7 +185,8 @@
             "ru_RU": "\u0421\u0430\u043f\u043e\u0433\u0438 \u043a\u043e\u043b\u0434\u0443\u043d\u044c\u0438",
             "it_IT": "Stivaletti stregoneschi",
             "ja_JP": "\u30a8\u30f3\u30c1\u30e3\u30f3\u30c8\u30d6\u30fc\u30c4"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 9,
@@ -197,7 +206,8 @@
             "ru_RU": "\u0421\u0430\u043f\u043e\u0433\u0438 \u043e\u0441\u044c\u043c\u043e\u0440\u044b\u0446\u0430\u0440\u044f",
             "it_IT": "Calzari da octoguerriero",
             "ja_JP": "\u30bf\u30b3\u30c6\u30a3\u30ab\u30eb\u306a\u3059\u306d\u3042\u3066"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 10,
@@ -217,7 +227,8 @@
             "ru_RU": "\u0411\u0430\u0448\u043c\u0430\u043a\u0438 \u041f\u043b\u0430\u0432\u043d\u0438\u0448\u043a\u0438",
             "it_IT": "Piedoni da mascotte",
             "ja_JP": "\u3072\u308c\u304a\u304f\u3093\u306e\u3042\u3057"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 11,
@@ -237,7 +248,8 @@
             "ru_RU": "\u041f\u0440\u043e\u0441\u0442\u044b\u0435 \u0448\u043a\u043e\u043b\u044c\u043d\u044b\u0435 \u0431\u043e\u0442\u0438\u043d\u043a\u0438",
             "it_IT": "Mocassini neri (base)",
             "ja_JP": "\u30b9\u30af\u30fc\u30eb\u30ed\u30fc\u30d5\u30a1\u30fc \u30b9\u30b2\u30bd"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 12,
@@ -257,7 +269,8 @@
             "ru_RU": "\u041f\u0440\u043e\u0441\u0442\u044b\u0435 \u043b\u043e\u0444\u0435\u0440\u044b \u0441 \u0431\u0430\u0445\u0440\u043e\u043c\u043e\u0439",
             "it_IT": "Mocassini con frangia (base)",
             "ja_JP": "\u30ad\u30eb\u30c8\u30ed\u30fc\u30d5\u30a1\u30fc \u30b9\u30b2\u30bd"
-        }
+        },
+        "brand": "amiibo"
     },
     {
         "id": 13,
@@ -277,7 +290,8 @@
             "ru_RU": "\u041c\u043e\u0442\u043e\u0431\u043e\u0442\u0438\u043d\u043a\u0438",
             "it_IT": "Stivali da moto",
             "ja_JP": "\u30e2\u30c8\u30af\u30ed\u30b9\u30d6\u30fc\u30c4"
-        }
+        },
+        "brand": "Rockenberg"
     },
     {
         "id": 14,
@@ -297,7 +311,8 @@
             "ru_RU": "\u0411\u0435\u0436\u0435\u0432\u044b\u0435 \u0440\u0430\u0431\u043e\u0447\u0438\u0435 \u0431\u043e\u0442\u044b",
             "it_IT": "Scarponi marroni",
             "ja_JP": "\u30cc\u30d0\u30c3\u30af\u30d6\u30fc\u30c4 \u30a4\u30a8\u30ed\u30fc"
-        }
+        },
+        "brand": "Rockenberg"
     },
     {
         "id": 15,
@@ -317,7 +332,8 @@
             "ru_RU": "\u0411\u0435\u043b\u044b\u0435 \u0431\u0435\u0440\u0446\u044b",
             "it_IT": "Anfibi bianchi",
             "ja_JP": "\u30ed\u30c3\u30ad\u30f3\u30db\u30ef\u30a4\u30c8"
-        }
+        },
+        "brand": "Rockenberg"
     },
     {
         "id": 16,
@@ -337,7 +353,8 @@
             "ru_RU": "\u0412\u0438\u0448\u043d\u0435\u0432\u044b\u0435 \u0431\u0435\u0440\u0446\u044b",
             "it_IT": "Anfibi melanzana",
             "ja_JP": "\u30ed\u30c3\u30ad\u30f3\u30c1\u30a7\u30ea\u30fc"
-        }
+        },
+        "brand": "Rockenberg"
     },
     {
         "id": 17,
@@ -357,7 +374,8 @@
             "ru_RU": "\u0411\u043e\u043b\u043e\u0442\u043d\u044b\u0435 \u0431\u043e\u0442\u0438\u043d\u043a\u0438",
             "it_IT": "Stivali da caccia",
             "ja_JP": "\u30cf\u30f3\u30c6\u30a3\u30f3\u30b0\u30d6\u30fc\u30c4"
-        }
+        },
+        "brand": "Splash Mob"
     },
     {
         "id": 18,
@@ -377,7 +395,8 @@
             "ru_RU": "\u0420\u0430\u0431\u043e\u0447\u0438\u0435 \u0431\u043e\u0442\u044b \u00ab\u0413\u0440\u0430\u0444\u0444\u0438\u0442\u0438\u00bb",
             "it_IT": "Scarponi SkipJack",
             "ja_JP": "\u30cc\u30d0\u30c3\u30af\u30d6\u30fc\u30c4xSJ"
-        }
+        },
+        "brand": "Rockenberg"
     },
     {
         "id": 19,
@@ -397,7 +416,8 @@
             "ru_RU": "\u041f\u043e\u043b\u044f\u0440\u043d\u044b\u0435 \u0443\u0442\u043a\u043e\u0431\u043e\u0442\u044b",
             "it_IT": "Anfibi artici",
             "ja_JP": "\u30c0\u30c3\u30af\u30d6\u30fc\u30c4 \u30b9\u30ce\u30a6"
-        }
+        },
+        "brand": "Barazushi"
     },
     {
         "id": 20,
@@ -417,7 +437,8 @@
             "ru_RU": "\u041a\u0440\u0430\u0441\u043d\u044b\u0435 \u00ab\u041c\u043e\u043b\u043e\u0442\u043e\u0433\u043e\u043b\u043e\u0432\u044b\u00bb",
             "it_IT": "Stivali squalo martello",
             "ja_JP": "\u30ab\u30bb\u30d6\u30ab\u30d6\u30fc\u30c4 \u30ec\u30c3\u30c9"
-        }
+        },
+        "brand": "Annaki"
     },
     {
         "id": 21,
@@ -437,7 +458,8 @@
             "ru_RU": "\u0420\u043e\u0437\u043e\u0432\u044b\u0435 \u0431\u0435\u0440\u0446\u044b",
             "it_IT": "Anfibi rosa",
             "ja_JP": "\u30ed\u30c3\u30ad\u30f3\u30d4\u30f3\u30af"
-        }
+        },
+        "brand": "Rockenberg"
     },
     {
         "id": 22,
@@ -457,7 +479,8 @@
             "ru_RU": "\u041a\u0440\u0430\u0441\u043d\u044b\u0435 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b",
             "it_IT": "Eleganti Annak",
             "ja_JP": "\u30a2\u30ca\u30a2\u30ad\u30e9\u30d0\u30fc \u30cf\u30d0\u30cd\u30ed"
-        }
+        },
+        "brand": "Annaki"
     },
     {
         "id": 23,
@@ -477,7 +500,8 @@
             "ru_RU": "\u0421\u0432\u0435\u0442\u043b\u044b\u0435 \u0431\u043e\u0442\u0438\u043d\u043a\u0438 \u0447\u0443\u043a\u043a\u0430",
             "it_IT": "Scarpe da deserto",
             "ja_JP": "\u30c1\u30e3\u30c3\u30ab\u30d6\u30fc\u30c4 \u30b5\u30f3\u30c9"
-        }
+        },
+        "brand": "Barazushi"
     },
     {
         "id": 24,
@@ -497,230 +521,11 @@
             "ru_RU": "\u0422\u043e\u043f-\u0441\u0430\u0439\u0434\u0435\u0440\u044b \u00ab\u042d\u0441\u043f\u0440\u0435\u0441\u0441\u043e\u00bb",
             "it_IT": "Scarpe da vela marroni",
             "ja_JP": "\u30c7\u30c3\u30ad\u30b7\u30e5\u30fc\u30ba \u30d5\u30ab\u30a4\u30ea"
-        }
+        },
+        "brand": "Rockenberg"
     },
     {
         "id": 25,
-        "name": "Hero Runner Replicas",
-        "image": "../common/assets/img/gear/shoes/Shs_MSN000.png",
-        "main": "Quick Super Jump",
-        "stars": 1,
-        "localizedName": {
-            "en_GB": "Hero Runner Replicas",
-            "en_US": "Hero Runner Replicas",
-            "es_ES": "Deportiva de \u00e9lite (r\u00e9plica)",
-            "es_MX": "Deportivos de \u00e9lite r\u00e9plica",
-            "fr_FR": "Baskets h\u00e9ro\u00efques (r\u00e9pliques)",
-            "fr_CA": "Espadrilles h\u00e9ro\u00efques (r\u00e9p.)",
-            "de_DE": "Heldenschuhe Replik",
-            "nl_NL": "Heldenschoenen (replica)",
-            "ru_RU": "\u041a\u0440\u043e\u0441\u0441\u044b \u0433\u0435\u0440\u043e\u044f (\u043a\u043b\u043e\u043d)",
-            "it_IT": "Runner \u00e9lite replica",
-            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30ad\u30c3\u30af\u30b9 \u30ec\u30d7\u30ea\u30ab"
-        }
-    },
-    {
-        "id": 26,
-        "name": "Armor Boot Replicas",
-        "image": "../common/assets/img/gear/shoes/Shs_MSN004.png",
-        "main": "Ink Saver (Main)",
-        "stars": 1,
-        "localizedName": {
-            "en_GB": "Armor Boot Replicas",
-            "en_US": "Armor Boot Replicas",
-            "es_ES": "Bota reforzada (r\u00e9plica)",
-            "es_MX": "Botas armadura r\u00e9plica",
-            "fr_FR": "Bottes encrifug\u00e9es (r\u00e9pl.)",
-            "fr_CA": "Bottes encrifug\u00e9es (r\u00e9p.)",
-            "de_DE": "R\u00fcstungsstiefel Replik",
-            "nl_NL": "Pantserschoenen (replica)",
-            "ru_RU": "\u0411\u0440\u043e\u043d\u0435\u0431\u043e\u0442\u044b (\u043a\u043b\u043e\u043d)",
-            "it_IT": "Stivali d'armatura replica",
-            "ja_JP": "\u30a2\u30fc\u30de\u30fc\u30d6\u30fc\u30c4 \u30ec\u30d7\u30ea\u30ab"
-        }
-    },
-    {
-        "id": 27,
-        "name": "Fuzz-Octoling Boots",
-        "image": "../common/assets/img/gear/shoes/Shs_MSN110.png",
-        "main": "Object Shredder",
-        "stars": 1,
-        "localizedName": {
-            "en_GB": "Fuzz-Octoling Boots",
-            "en_US": "Fuzz-Octoling Boots",
-            "es_ES": "Pulpobota capilar",
-            "es_MX": "Octobota capilar",
-            "fr_FR": "Bottes octabouilles",
-            "fr_CA": "Bottes octabouilles",
-            "de_DE": "Flausch-Okto-Kampfstiefel",
-            "nl_NL": "Vacht-Octolaarzen",
-            "ru_RU": "\u0413\u0440\u0438\u043d\u0434\u0435\u0440\u0441\u044b \u0448\u0435\u0440\u0441\u0442\u043e\u043b\u0438\u043d\u0433\u0430",
-            "it_IT": "Stivali Octoling pelosi",
-            "ja_JP": "\u30b1\u30bf\u30b3\u30be\u30cd\u30b9\u30d6\u30fc\u30c4"
-        }
-    },
-    {
-        "id": 28,
-        "name": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
-        "image": "../common/assets/img/gear/shoes/Shs_MSN200.png",
-        "main": "Object Shredder",
-        "stars": 1,
-        "localizedName": {
-            "en_GB": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
-            "en_US": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
-            "es_ES": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
-            "es_MX": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
-            "fr_FR": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
-            "fr_CA": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
-            "de_DE": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
-            "nl_NL": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
-            "ru_RU": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
-            "it_IT": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
-            "ja_JP": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4"
-        }
-    },
-    {
-        "id": 29,
-        "name": "Survival Foot",
-        "image": "../common/assets/img/gear/shoes/Shs_MSN301.png",
-        "main": "Ink Saver (Main)",
-        "stars": 1,
-        "localizedName": {
-            "en_GB": "Survival Foot",
-            "en_US": "Survival Foot",
-            "es_ES": "Survival Foot",
-            "es_MX": "Survival Foot",
-            "fr_FR": "Survival Foot",
-            "fr_CA": "Survival Foot",
-            "de_DE": "Survival Foot",
-            "nl_NL": "Survival Foot",
-            "ru_RU": "Survival Foot",
-            "it_IT": "Survival Foot",
-            "ja_JP": "\u30b5\u30d0\u30a4\u30d0\u30eb\u30d5\u30c3\u30c8"
-        }
-    },
-    {
-        "id": 30,
-        "name": "Hero Boots Lv1",
-        "image": "../common/assets/img/gear/shoes/Shs_MSN302.png",
-        "main": "Ink Saver (Main)",
-        "stars": 2,
-        "localizedName": {
-            "en_GB": "Hero Boots Lv1",
-            "en_US": "Hero Boots Lv1",
-            "es_ES": "Hero Boots Lv1",
-            "es_MX": "Hero Boots Lv1",
-            "fr_FR": "Hero Boots Lv1",
-            "fr_CA": "Hero Boots Lv1",
-            "de_DE": "Hero Boots Lv1",
-            "nl_NL": "Hero Boots Lv1",
-            "ru_RU": "Hero Boots Lv1",
-            "it_IT": "Hero Boots Lv1",
-            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30d6\u30fc\u30c4Lv1"
-        }
-    },
-    {
-        "id": 31,
-        "name": "Hero Boots Lv2",
-        "image": "../common/assets/img/gear/shoes/Shs_MSN303.png",
-        "main": "Ink Saver (Main)",
-        "stars": 1,
-        "localizedName": {
-            "en_GB": "Hero Boots Lv2",
-            "en_US": "Hero Boots Lv2",
-            "es_ES": "Hero Boots Lv2",
-            "es_MX": "Hero Boots Lv2",
-            "fr_FR": "Hero Boots Lv2",
-            "fr_CA": "Hero Boots Lv2",
-            "de_DE": "Hero Boots Lv2",
-            "nl_NL": "Hero Boots Lv2",
-            "ru_RU": "Hero Boots Lv2",
-            "it_IT": "Hero Boots Lv2",
-            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30d6\u30fc\u30c4Lv2"
-        }
-    },
-    {
-        "id": 32,
-        "name": "Hero Boots Lv3",
-        "image": "../common/assets/img/gear/shoes/Shs_MSN304.png",
-        "main": "Ink Saver (Main)",
-        "stars": 1,
-        "localizedName": {
-            "en_GB": "Hero Boots Lv3",
-            "en_US": "Hero Boots Lv3",
-            "es_ES": "Hero Boots Lv3",
-            "es_MX": "Hero Boots Lv3",
-            "fr_FR": "Hero Boots Lv3",
-            "fr_CA": "Hero Boots Lv3",
-            "de_DE": "Hero Boots Lv3",
-            "nl_NL": "Hero Boots Lv3",
-            "ru_RU": "Hero Boots Lv3",
-            "it_IT": "Hero Boots Lv3",
-            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30d6\u30fc\u30c4Lv3"
-        }
-    },
-    {
-        "id": 33,
-        "name": "Hero Boots ST",
-        "image": "../common/assets/img/gear/shoes/Shs_MSN305.png",
-        "main": "Ink Saver (Main)",
-        "stars": 1,
-        "localizedName": {
-            "en_GB": "Hero Boots ST",
-            "en_US": "Hero Boots ST",
-            "es_ES": "Hero Boots ST",
-            "es_MX": "Hero Boots ST",
-            "fr_FR": "Hero Boots ST",
-            "fr_CA": "Hero Boots ST",
-            "de_DE": "Hero Boots ST",
-            "nl_NL": "Hero Boots ST",
-            "ru_RU": "Hero Boots ST",
-            "it_IT": "Hero Boots ST",
-            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30d6\u30fc\u30c4ST"
-        }
-    },
-    {
-        "id": 34,
-        "name": "Hero Boot Replicas",
-        "image": "../common/assets/img/gear/shoes/Shs_MSN306.png",
-        "main": "Ink Resistance Up",
-        "stars": 2,
-        "localizedName": {
-            "en_GB": "Hero Boot Replicas",
-            "en_US": "Hero Boot Replicas",
-            "es_ES": "Bota de \u00e9lite (r\u00e9plica)",
-            "es_MX": "Botas de \u00e9lite r\u00e9plica",
-            "fr_FR": "Boots h\u00e9ro\u00efques (r\u00e9pliques)",
-            "fr_CA": "Bottines h\u00e9ro\u00efques (r\u00e9plique)",
-            "de_DE": "Heldenstiefel Replik",
-            "nl_NL": "Heldensneakers (replica)",
-            "ru_RU": "\u0411\u043e\u0442\u044b \u0433\u0435\u0440\u043e\u044f (\u043a\u043b\u043e\u043d)",
-            "it_IT": "Stivali \u00e9lite replica",
-            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30d6\u30fc\u30c4 \u30ec\u30d7\u30ea\u30ab"
-        }
-    },
-    {
-        "id": 35,
-        "name": "Legendary Sandals",
-        "image": "../common/assets/img/gear/shoes/Shs_MSN310.png",
-        "main": "",
-        "stars": 1,
-        "localizedName": {
-            "en_GB": "Legendary Sandals",
-            "en_US": "Legendary Sandals",
-            "es_ES": "Legendary Sandals",
-            "es_MX": "Legendary Sandals",
-            "fr_FR": "Legendary Sandals",
-            "fr_CA": "Legendary Sandals",
-            "de_DE": "Legendary Sandals",
-            "nl_NL": "Legendary Sandals",
-            "ru_RU": "Legendary Sandals",
-            "it_IT": "Legendary Sandals",
-            "ja_JP": "\u3067\u3093\u305b\u3064\u306e\u30be\u30fc\u30ea"
-        }
-    },
-    {
-        "id": 36,
         "name": "Oyster Clogs",
         "image": "../common/assets/img/gear/shoes/Shs_SDL000.png",
         "main": "Run Speed Up",
@@ -737,10 +542,11 @@
             "ru_RU": "\u0421\u0435\u0440\u044b\u0435 \u043a\u043b\u043e\u0433\u0438",
             "it_IT": "Zoccoli grigi",
             "ja_JP": "\u30aa\u30a4\u30b9\u30bf\u30fc\u30af\u30ed\u30c3\u30b0"
-        }
+        },
+        "brand": "Krak-On"
     },
     {
-        "id": 37,
+        "id": 26,
         "name": "Choco Clogs",
         "image": "../common/assets/img/gear/shoes/Shs_SDL001.png",
         "main": "Quick Respawn",
@@ -757,10 +563,11 @@
             "ru_RU": "\u041a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u044b\u0435 \u043a\u043b\u043e\u0433\u0438",
             "it_IT": "Zoccoli marroni",
             "ja_JP": "\u30c1\u30e7\u30b3\u30af\u30ed\u30c3\u30b0"
-        }
+        },
+        "brand": "Krak-On"
     },
     {
-        "id": 38,
+        "id": 27,
         "name": "Neon Delta Straps",
         "image": "../common/assets/img/gear/shoes/Shs_SDL003.png",
         "main": "Sub Power Up",
@@ -777,10 +584,11 @@
             "ru_RU": "\u041d\u0435\u043e\u043d\u043e\u0432\u044b\u0435 \u0441\u0430\u043d\u0434\u0430\u043b\u0438\u0438",
             "it_IT": "Sandali a strappo neon",
             "ja_JP": "\u30c7\u30eb\u30bf\u30b9\u30c8\u30e9\u30c3\u30d7 \u30cd\u30aa\u30f3"
-        }
+        },
+        "brand": "Inkline"
     },
     {
-        "id": 39,
+        "id": 28,
         "name": "Black Flip-Flops",
         "image": "../common/assets/img/gear/shoes/Shs_SDL004.png",
         "main": "Object Shredder",
@@ -797,10 +605,11 @@
             "ru_RU": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0448\u043b\u0435\u043f\u043a\u0438",
             "it_IT": "Ciabatte da mare",
             "ja_JP": "BB\u30b5\u30f3\u30c0\u30eb"
-        }
+        },
+        "brand": "Zekko"
     },
     {
-        "id": 40,
+        "id": 29,
         "name": "Snow Delta Straps",
         "image": "../common/assets/img/gear/shoes/Shs_SDL005.png",
         "main": "Swim Speed Up",
@@ -817,10 +626,11 @@
             "ru_RU": "\u0421\u043d\u0435\u0436\u043d\u044b\u0435 \u0441\u0430\u043d\u0434\u0430\u043b\u0438\u0438",
             "it_IT": "Sandali a strappo neve",
             "ja_JP": "\u30c7\u30eb\u30bf\u30b9\u30c8\u30e9\u30c3\u30d7 \u30b9\u30ce\u30fc"
-        }
+        },
+        "brand": "Inkline"
     },
     {
-        "id": 41,
+        "id": 30,
         "name": "Red FishFry Sandals",
         "image": "../common/assets/img/gear/shoes/Shs_SDL007.png",
         "main": "Object Shredder",
@@ -837,10 +647,11 @@
             "ru_RU": "\u0428\u043b\u0435\u043f\u043a\u0438 \u00ab\u0424\u0443\u0433\u0430\u0441\u0438\u043a\u00bb",
             "it_IT": "Ciabatte rosse",
             "ja_JP": "\u30e4\u30ad\u30d5\u30b0\u30b7\u30e3\u30ef\u30b5\u30f3 \u30a2\u30ab"
-        }
+        },
+        "brand": "Firefin"
     },
     {
-        "id": 42,
+        "id": 31,
         "name": "Yellow FishFry Sandals",
         "image": "../common/assets/img/gear/shoes/Shs_SDL008.png",
         "main": "Intensify Action",
@@ -857,10 +668,11 @@
             "ru_RU": "\u0416\u0435\u043b\u0442\u044b\u0435 \u0448\u043b\u0435\u043f\u043a\u0438 \u00ab\u0424\u0443\u0433\u0430\u0441\u0438\u043a\u00bb",
             "it_IT": "Ciabatte cool",
             "ja_JP": "\u30e4\u30ad\u30d5\u30b0\u30b7\u30e3\u30ef\u30b5\u30f3 \u30ad"
-        }
+        },
+        "brand": "Firefin"
     },
     {
-        "id": 43,
+        "id": 32,
         "name": "Cuttlefish Sandies",
         "image": "../common/assets/img/gear/shoes/Shs_SDL010.png",
         "main": "Ink Recovery Up",
@@ -877,10 +689,11 @@
             "ru_RU": "\u0421\u0430\u043d\u0434\u0430\u043b\u0438\u0438 \u00ab\u0420\u044b\u0431\u044c\u044f \u043a\u043e\u0441\u0442\u044c\u00bb",
             "it_IT": "Sandalisca di pesce",
             "ja_JP": "\u30d5\u30a3\u30c3\u30b7\u30e5\u30dc\u30fc\u30f3\u30ef\u30e9\u30c1"
-        }
+        },
+        "brand": "Rockenberg"
     },
     {
-        "id": 44,
+        "id": 33,
         "name": "Arrow Toesies Blu",
         "image": "../common/assets/img/gear/shoes/Shs_SDL011.png",
         "main": "Ink Recovery Up",
@@ -897,10 +710,11 @@
             "ru_RU": "\u0421\u0438\u043d\u0438\u0435 \u00ab\u0421\u0442\u0440\u0435\u043b\u044b-\u043b\u0430\u0439\u0442\u00bb",
             "it_IT": "Open toe blu",
             "ja_JP": "\u30a2\u30ed\u30fc\u30ba\u30b5\u30f3\u30c0\u30eb \u30a2\u30aa\u30ad"
-        }
+        },
+        "brand": "Takoroka"
     },
     {
-        "id": 45,
+        "id": 34,
         "name": "BlobMob Flip-Flops",
         "image": "../common/assets/img/gear/shoes/Shs_SDL012.png",
         "main": "Ink Resistance Up",
@@ -917,10 +731,11 @@
             "ru_RU": "\u0428\u043b\u0435\u043f\u043a\u0438 \u0441\u043e \u0441\u043c\u0430\u0439\u043b\u043e\u043c",
             "it_IT": "Ciabatte SmileMob",
             "ja_JP": "BS\u30b5\u30f3\u30c0\u30eb"
-        }
+        },
+        "brand": "Emberz"
     },
     {
-        "id": 46,
+        "id": 35,
         "name": "Orange Dadfoot Sandals",
         "image": "../common/assets/img/gear/shoes/Shs_SDL013.png",
         "main": "Run Speed Up",
@@ -937,10 +752,11 @@
             "ru_RU": "\u041e\u0440\u0430\u043d\u0436\u0435\u0432\u044b\u0435 \u0448\u043b\u0435\u043f\u043e\u0434\u044b",
             "it_IT": "Fluosandali arancioni",
             "ja_JP": "\u3079\u30ea\u3079\u30ea\u30b5\u30f3 \u30aa\u30ec\u30f3\u30b8"
-        }
+        },
+        "brand": "Zink"
     },
     {
-        "id": 47,
+        "id": 36,
         "name": "Pink Dadfoot Sandals",
         "image": "../common/assets/img/gear/shoes/Shs_SDL017.png",
         "main": "Intensify Action",
@@ -957,10 +773,11 @@
             "ru_RU": "\u0420\u043e\u0437\u043e\u0432\u044b\u0435 \u0448\u043b\u0435\u043f\u043e\u0434\u044b",
             "it_IT": "Fluosandali rosa",
             "ja_JP": "\u3079\u30ea\u3079\u30ea\u30b5\u30f3 \u30de\u30bc\u30f3\u30bf"
-        }
+        },
+        "brand": "Zink"
     },
     {
-        "id": 48,
+        "id": 37,
         "name": "Cyan Dadfoot Sandals",
         "image": "../common/assets/img/gear/shoes/Shs_SDL018.png",
         "main": "Special Saver",
@@ -977,10 +794,11 @@
             "ru_RU": "\u0411\u0438\u0440\u044e\u0437\u043e\u0432\u044b\u0435 \u0448\u043b\u0435\u043f\u043e\u0434\u044b",
             "it_IT": "Fluosandali celesti",
             "ja_JP": "\u3079\u30ea\u3079\u30ea\u30b5\u30f3 \u30b7\u30a2\u30f3"
-        }
+        },
+        "brand": "Zink"
     },
     {
-        "id": 49,
+        "id": 38,
         "name": "Red Hi-Horses",
         "image": "../common/assets/img/gear/shoes/Shs_SHI000.png",
         "main": "Ink Saver (Main)",
@@ -997,10 +815,11 @@
             "ru_RU": "\u041a\u0440\u0430\u0441\u043d\u044b\u0435 \u0431\u043b\u0438\u043d\u0433-\u043a\u0435\u0434\u044b",
             "it_IT": "Alte biancorosse",
             "ja_JP": "\u30b7\u30fc\u30db\u30fc\u30b9Hi \u30ec\u30c3\u30c9"
-        }
+        },
+        "brand": "Zink"
     },
     {
-        "id": 50,
+        "id": 39,
         "name": "Zombie Hi-Horses",
         "image": "../common/assets/img/gear/shoes/Shs_SHI001.png",
         "main": "Special Charge Up",
@@ -1017,10 +836,11 @@
             "ru_RU": "\u0411\u043b\u0438\u043d\u0433-\u043a\u0435\u0434\u044b \u00ab\u0417\u043e\u043c\u0431\u0438\u00bb",
             "it_IT": "Alte zombie",
             "ja_JP": "\u30b7\u30fc\u30db\u30fc\u30b9Hi \u30be\u30f3\u30d3"
-        }
+        },
+        "brand": "Zink"
     },
     {
-        "id": 51,
+        "id": 40,
         "name": "Purple Hi-Horses",
         "image": "../common/assets/img/gear/shoes/Shs_SHI003.png",
         "main": "Special Power Up",
@@ -1037,10 +857,11 @@
             "ru_RU": "\u041b\u0438\u043b\u043e\u0432\u044b\u0435 \u0431\u043b\u0438\u043d\u0433-\u043a\u0435\u0434\u044b",
             "it_IT": "Alte gialloviola",
             "ja_JP": "\u30b7\u30fc\u30db\u30fc\u30b9Hi \u30d1\u30fc\u30d7\u30eb"
-        }
+        },
+        "brand": "Zink"
     },
     {
-        "id": 52,
+        "id": 41,
         "name": "Hunter Hi-Tops",
         "image": "../common/assets/img/gear/shoes/Shs_SHI004.png",
         "main": "Ink Recovery Up",
@@ -1057,10 +878,11 @@
             "ru_RU": "\u041a\u0435\u0434\u044b \u00ab\u041e\u0445\u043e\u0442\u043d\u0438\u043a\u00bb",
             "it_IT": "Sneaker verde scuro",
             "ja_JP": "\u30ad\u30e3\u30f3\u30d0\u30b9Hi \u30e2\u30ed\u30d8\u30a4\u30e4"
-        }
+        },
+        "brand": "Krak-On"
     },
     {
-        "id": 53,
+        "id": 42,
         "name": "Red Hi-Tops",
         "image": "../common/assets/img/gear/shoes/Shs_SHI005.png",
         "main": "Ink Resistance Up",
@@ -1077,10 +899,11 @@
             "ru_RU": "\u041a\u0440\u0430\u0441\u043d\u044b\u0435 \u043a\u0435\u0434\u044b",
             "it_IT": "Sneaker rosse",
             "ja_JP": "\u30ad\u30e3\u30f3\u30d0\u30b9Hi \u30c8\u30de\u30c8"
-        }
+        },
+        "brand": "Krak-On"
     },
     {
-        "id": 54,
+        "id": 43,
         "name": "Gold Hi-Horses",
         "image": "../common/assets/img/gear/shoes/Shs_SHI006.png",
         "main": "Run Speed Up",
@@ -1097,10 +920,11 @@
             "ru_RU": "\u0417\u043e\u043b\u043e\u0442\u0438\u0441\u0442\u044b\u0435 \u0431\u043b\u0438\u043d\u0433-\u043a\u0435\u0434\u044b",
             "it_IT": "Alte dorate",
             "ja_JP": "\u30b7\u30fc\u30db\u30fc\u30b9Hi \u30b4\u30fc\u30eb\u30c9"
-        }
+        },
+        "brand": "Zink"
     },
     {
-        "id": 55,
+        "id": 44,
         "name": "Cyan Dakroniks",
         "image": "../common/assets/img/gear/shoes/Shs_SHI011.png",
         "main": "Drop Roller",
@@ -1117,10 +941,11 @@
             "ru_RU": "\u0411\u0438\u0440\u044e\u0437\u043e\u0432\u044b\u0435 \u043a\u0440\u043e\u0441\u0441-\u043a\u0435\u0434\u044b",
             "it_IT": "Dakroniks celesti",
             "ja_JP": "\u30c7\u30ab\u30ed\u30cb\u30c3\u30af\u30df\u30f3\u30c8"
-        }
+        },
+        "brand": "Zink"
     },
     {
-        "id": 56,
+        "id": 45,
         "name": "Sunset Orca Hi-Tops",
         "image": "../common/assets/img/gear/shoes/Shs_SHI016.png",
         "main": "Drop Roller",
@@ -1137,10 +962,11 @@
             "ru_RU": "\u041e\u0440\u0430\u043d\u0436\u0435\u0432\u044b\u0435 \u00ab\u041a\u043e\u0441\u0430\u0442\u043a\u0438\u00bb",
             "it_IT": "Sneaker orca tramonto",
             "ja_JP": "\u30aa\u30eb\u30abHi \u30b5\u30f3\u30bb\u30c3\u30c8"
-        }
+        },
+        "brand": "Takoroka"
     },
     {
-        "id": 57,
+        "id": 46,
         "name": "Red & Black Squidkid IV",
         "image": "../common/assets/img/gear/shoes/Shs_SHI017.png",
         "main": "Special Charge Up",
@@ -1157,10 +983,11 @@
             "ru_RU": "\u041a\u0440\u0430\u0441\u043d\u043e-\u0447\u0435\u0440\u043d\u044b\u0435 \u0448\u0443\u0437\u044b",
             "it_IT": "Mitilik rosse e nere",
             "ja_JP": "\u30a8\u30ae\u30f3\u30b04 \u30a2\u30ab\u30af\u30ed"
-        }
+        },
+        "brand": "Enperry"
     },
     {
-        "id": 58,
+        "id": 47,
         "name": "Blue & Black Squidkid IV",
         "image": "../common/assets/img/gear/shoes/Shs_SHI018.png",
         "main": "Quick Super Jump",
@@ -1177,10 +1004,11 @@
             "ru_RU": "\u0421\u0438\u043d\u0435-\u0447\u0435\u0440\u043d\u044b\u0435 \u0448\u0443\u0437\u044b",
             "it_IT": "Mitilik blu e nere",
             "ja_JP": "\u30a8\u30ae\u30f3\u30b04 \u30a2\u30aa\u30af\u30ed"
-        }
+        },
+        "brand": "Enperry"
     },
     {
-        "id": 59,
+        "id": 48,
         "name": "Force ReBoots",
         "image": "../common/assets/img/gear/shoes/Shs_SHI042.png",
         "main": "Special Saver",
@@ -1197,10 +1025,11 @@
             "ru_RU": "\u0421\u0442\u0430\u043b\u044c\u043d\u044b\u0435 \u0440\u0435\u0431\u0443\u0442\u0441\u044b",
             "it_IT": "Stivali Reboot",
             "ja_JP": "\u30d1\u30ef\u30fc\u30ea\u30bb\u30c3\u30c8Hi"
-        }
+        },
+        "brand": "Takoroka"
     },
     {
-        "id": 60,
+        "id": 49,
         "name": "Tenya OctoReds",
         "image": "../common/assets/img/gear/shoes/Shs_SHI043.png",
         "main": "Quick Respawn",
@@ -1217,10 +1046,11 @@
             "ru_RU": "\u041e\u0441\u044c\u043c\u043e\u043a\u0440\u043e\u0441\u0441\u044b \u00ab\u0420\u0443\u0431\u0438\u043d\u00bb",
             "it_IT": "Octosneaker rosse",
             "ja_JP": "\u30c6\u30f3\u30e48 \u30ec\u30c3\u30c9"
-        }
+        },
+        "brand": "Tentatek"
     },
     {
-        "id": 61,
+        "id": 50,
         "name": "Pearl 01STERs",
         "image": "../common/assets/img/gear/shoes/Shs_SHI045.png",
         "main": "Special Saver",
@@ -1237,10 +1067,11 @@
             "ru_RU": "\u041f\u0435\u0440\u043b-\u043a\u0440\u043e\u0441\u0441\u044b \u00ab\u0423\u0421-3\u00bb",
             "it_IT": "OSTR1K color perla",
             "ja_JP": "01STER \u30b3\u30cf\u30af"
-        }
+        },
+        "brand": "Toni Kensa"
     },
     {
-        "id": 62,
+        "id": 51,
         "name": "Pink Trainers",
         "image": "../common/assets/img/gear/shoes/Shs_SHT000.png",
         "main": "Sub Power Up",
@@ -1257,10 +1088,11 @@
             "ru_RU": "\u0420\u043e\u0437\u043e\u0432\u044b\u0435 \u043a\u0440\u043e\u0441\u0441\u043e\u0432\u043a\u0438",
             "it_IT": "Runner rosa",
             "ja_JP": "\u30d4\u30f3\u30af\u30d3\u30fc\u30f3\u30ba"
-        }
+        },
+        "brand": "Tentatek"
     },
     {
-        "id": 63,
+        "id": 52,
         "name": "Orange Arrows",
         "image": "../common/assets/img/gear/shoes/Shs_SHT001.png",
         "main": "Ink Saver (Main)",
@@ -1277,10 +1109,11 @@
             "ru_RU": "\u041e\u0440\u0430\u043d\u0436\u0435\u0432\u044b\u0435 \u00ab\u0421\u0442\u0440\u0435\u043b\u044b\u00bb",
             "it_IT": "Arrow arancioblu",
             "ja_JP": "\u30aa\u30ec\u30f3\u30b8\u30a2\u30ed\u30fc\u30ba"
-        }
+        },
+        "brand": "Takoroka"
     },
     {
-        "id": 64,
+        "id": 53,
         "name": "Cyan Trainers",
         "image": "../common/assets/img/gear/shoes/Shs_SHT004.png",
         "main": "Stealth Jump",
@@ -1297,10 +1130,11 @@
             "ru_RU": "\u0411\u0438\u0440\u044e\u0437\u043e\u0432\u044b\u0435 \u043a\u0440\u043e\u0441\u0441\u043e\u0432\u043a\u0438",
             "it_IT": "Runner verdeacqua",
             "ja_JP": "\u30b7\u30a2\u30f3\u30d3\u30fc\u30f3\u30ba"
-        }
+        },
+        "brand": "Tentatek"
     },
     {
-        "id": 65,
+        "id": 54,
         "name": "Black Trainers",
         "image": "../common/assets/img/gear/shoes/Shs_SHT009.png",
         "main": "Quick Respawn",
@@ -1317,10 +1151,11 @@
             "ru_RU": "\u0427\u0435\u0440\u043d\u044b\u0435 \u043a\u0440\u043e\u0441\u0441\u043e\u0432\u043a\u0438",
             "it_IT": "Runner nere",
             "ja_JP": "\u30d6\u30e9\u30c3\u30af\u30d3\u30fc\u30f3\u30ba"
-        }
+        },
+        "brand": "Tentatek"
     },
     {
-        "id": 66,
+        "id": 55,
         "name": "Yellow-Mesh Sneakers",
         "image": "../common/assets/img/gear/shoes/Shs_SHT012.png",
         "main": "Intensify Action",
@@ -1337,10 +1172,11 @@
             "ru_RU": "\u0416\u0435\u043b\u0442\u044b\u0435 \u043a\u0440\u043e\u0441\u0441\u044b \u00ab\u0421\u0435\u0442\u044c\u00bb",
             "it_IT": "Sportive giallo fluo",
             "ja_JP": "\u30a2\u30ed\u30e1\u30c3\u30b7\u30e5\u30a4\u30a8\u30ed\u30fc"
-        }
+        },
+        "brand": "Tentatek"
     },
     {
-        "id": 67,
+        "id": 56,
         "name": "Arrow Pull-Ons",
         "image": "../common/assets/img/gear/shoes/Shs_SHT013.png",
         "main": "Drop Roller",
@@ -1357,10 +1193,11 @@
             "ru_RU": "\u041a\u0440\u043e\u0441\u0441\u043e\u0432\u043a\u0438 \u0431\u0435\u0437 \u0448\u043d\u0443\u0440\u043e\u0432\u043a\u0438",
             "it_IT": "Arrow eleganti",
             "ja_JP": "\u30a2\u30ed\u30fc\u30ba \u30bf\u30bf\u30ad\u30d9\u30c3\u30c1\u30e5\u30fc"
-        }
+        },
+        "brand": "Toni Kensa"
     },
     {
-        "id": 68,
+        "id": 57,
         "name": "U Jellys",
         "image": "../common/assets/img/gear/shoes/Shs_SHT020.png",
         "main": "Special Charge Up",
@@ -1377,10 +1214,11 @@
             "ru_RU": "\u041a\u0440\u043e\u0441\u0441\u044b-\u0436\u0435\u043b\u0435\u0439\u043a\u0438",
             "it_IT": "Sneaker medusa",
             "ja_JP": "\u30a4\u30ab\u30b5\u30b7 \u30b9\u30af\u30e9\u30f3\u30d6\u30eb"
-        }
+        },
+        "brand": "Tentatek"
     },
     {
-        "id": 69,
+        "id": 58,
         "name": "Turbo Tabi Red",
         "image": "../common/assets/img/gear/shoes/Shs_SHT022.png",
         "main": "Sub Power Up",
@@ -1397,10 +1235,11 @@
             "ru_RU": "\u0422\u0443\u0440\u0431\u043e\u0442\u0430\u0431\u0438 \u00ab\u041b\u043e\u0441\u043e\u0441\u044c\u00bb",
             "it_IT": "Sneaker turbo rosse",
             "ja_JP": "MOVE\u30ec\u30c3\u30c9"
-        }
+        },
+        "brand": "Tentatek"
     },
     {
-        "id": 70,
+        "id": 59,
         "name": "E-JECT 30XX",
         "image": "../common/assets/img/gear/shoes/Shs_SHT023.png",
         "main": "Special Power Up",
@@ -1417,10 +1256,11 @@
             "ru_RU": "\u041a\u0440\u043e\u0441\u0441\u044b \u00ab\u041c-\u0415\u0425\u0410\u00bb",
             "it_IT": "AL-GA 30XX",
             "ja_JP": "MODZ-9"
-        }
+        },
+        "brand": "Emberz"
     },
     {
-        "id": 71,
+        "id": 60,
         "name": "Slamgerine Slip-Ons",
         "image": "../common/assets/img/gear/shoes/Shs_SHT024.png",
         "main": "Ink Saver (Main)",
@@ -1437,10 +1277,11 @@
             "ru_RU": "\u0421\u043b\u0438\u043f-\u043a\u0440\u043e\u0441\u0441\u044b \u00ab\u041e\u0440\u0430\u043d\u0436\u00bb",
             "it_IT": "Zeppe tangerine",
             "ja_JP": "\u30b7\u30a7\u30eb\u30d0\u30b7\u30e9WO"
-        }
+        },
+        "brand": "Takoroka"
     },
     {
-        "id": 72,
+        "id": 61,
         "name": "Mako Bucket Hi-Tops",
         "image": "../common/assets/img/gear/shoes/Shs_SHT025.png",
         "main": "Sub Power Up",
@@ -1457,10 +1298,11 @@
             "ru_RU": "\u00ab\u0410\u043a\u0443\u043b\u044c\u0438 \u043f\u043b\u0430\u0432\u043d\u0438\u043a\u0438\u00bb",
             "it_IT": "Sneaker predatrici",
             "ja_JP": "\u30d5\u30ab\u30d2\u30ec\u30cb\u30de\u30a4\u30d0"
-        }
+        },
+        "brand": "Emberz"
     },
     {
-        "id": 73,
+        "id": 62,
         "name": "Blue Shrimpsiders",
         "image": "../common/assets/img/gear/shoes/Shs_SHT026.png",
         "main": "Ink Resistance Up",
@@ -1477,10 +1319,11 @@
             "ru_RU": "\u0421\u0438\u043d\u0438\u0435 \u00ab\u043a\u0440\u0435\u0432\u0435\u0442\u043a\u0438\u00bb",
             "it_IT": "Sneakeretti blu",
             "ja_JP": "\u30b7\u30e3\u30b3\u30ca\u30c3\u30af\u30eb"
-        }
+        },
+        "brand": "Enperry"
     },
     {
-        "id": 74,
+        "id": 63,
         "name": "Blue Lo-Tops",
         "image": "../common/assets/img/gear/shoes/Shs_SLO000.png",
         "main": "Sub Resistance Up",
@@ -1497,10 +1340,11 @@
             "ru_RU": "\u0421\u0438\u043d\u0438\u0435 \u0441\u043d\u0438\u043a\u0435\u0440\u044b",
             "it_IT": "Basse blu",
             "ja_JP": "\u30b0\u30ea\u30c3\u30c1\u30e7 \u30d6\u30eb\u30fc"
-        }
+        },
+        "brand": "Zekko"
     },
     {
-        "id": 75,
+        "id": 64,
         "name": "White 3-Straps",
         "image": "../common/assets/img/gear/shoes/Shs_SLO008.png",
         "main": "Ink Saver (Sub)",
@@ -1517,10 +1361,11 @@
             "ru_RU": "\u0411\u0435\u043b\u044b\u0435 \u0441\u043d\u0438\u043a\u0435\u0440\u044b",
             "it_IT": "Ultrabianche a strappo",
             "ja_JP": "\u30d9\u30ea\u30d9\u30ea\u30db\u30ef\u30a4\u30c8"
-        }
+        },
+        "brand": "Splash Mob"
     },
     {
-        "id": 76,
+        "id": 65,
         "name": "Red 3-Straps",
         "image": "../common/assets/img/gear/shoes/Shs_SLO009.png",
         "main": "Ink Resistance Up",
@@ -1537,10 +1382,11 @@
             "ru_RU": "\u041a\u0440\u0430\u0441\u043d\u044b\u0435 \u0441\u043d\u0438\u043a\u0435\u0440\u044b",
             "it_IT": "Ultrarosse a strappo",
             "ja_JP": "\u30d9\u30ea\u30d9\u30ea\u30ec\u30c3\u30c9"
-        }
+        },
+        "brand": "Splash Mob"
     },
     {
-        "id": 77,
+        "id": 66,
         "name": "Wasabi Tabi",
         "image": "../common/assets/img/gear/shoes/Shs_SLO021.png",
         "main": "Intensify Action",
@@ -1557,10 +1403,11 @@
             "ru_RU": "\u0422\u0430\u0431\u0438 \u00ab\u0412\u0430\u0441\u0430\u0431\u0438\u00bb",
             "it_IT": "Sneaker senza lacci",
             "ja_JP": "NNJ\u30b0\u30ea\u30fc\u30f3"
-        }
+        },
+        "brand": "Tentatek"
     },
     {
-        "id": 78,
+        "id": 67,
         "name": "Suede Basics",
         "image": "../common/assets/img/gear/shoes/Shs_SLO022.png",
         "main": "Run Speed Up",
@@ -1577,10 +1424,11 @@
             "ru_RU": "\u041f\u043e\u043b\u0443\u043a\u0435\u0434\u044b \u00ab\u041d\u0443\u0431\u0438\u043a\u00bb",
             "it_IT": "Scamosciate semplici",
             "ja_JP": "\u30b6\u30fb\u30d9\u30fc\u30b9 \u30eb\u30fc\u30ad\u30fc"
-        }
+        },
+        "brand": "Barazushi"
     },
     {
-        "id": 79,
+        "id": 68,
         "name": "Ink-Black Clam 600s",
         "image": "../common/assets/img/gear/shoes/Shs_SLO023.png",
         "main": "Quick Super Jump",
@@ -1597,10 +1445,11 @@
             "ru_RU": "\u0422\u0435\u043c\u043d\u044b\u0435 \u0443\u0441\u0442\u0440\u043e\u043a\u0440\u043e\u0441\u0441\u044b",
             "it_IT": "Vongosneaker nere",
             "ja_JP": "\u30af\u30e9\u30e0600 \u30ab\u30f3\u30ed"
-        }
+        },
+        "brand": "Toni Kensa"
     },
     {
-        "id": 80,
+        "id": 69,
         "name": "Suede Bosses",
         "image": "../common/assets/img/gear/shoes/Shs_SLO024.png",
         "main": "Object Shredder",
@@ -1617,10 +1466,11 @@
             "ru_RU": "\u041f\u043e\u043b\u0443\u043a\u0435\u0434\u044b \u00ab\u041f\u0440\u043e\u0444\u0438\u00bb",
             "it_IT": "Scamosciate boss",
             "ja_JP": "\u30b6\u30fb\u30d9\u30fc\u30b9 \u30dc\u30b9"
-        }
+        },
+        "brand": "Barazushi"
     },
     {
-        "id": 81,
+        "id": 70,
         "name": "Squid-Stitch Slip-Ons",
         "image": "../common/assets/img/gear/shoes/Shs_SLP002.png",
         "main": "Sub Resistance Up",
@@ -1637,10 +1487,11 @@
             "ru_RU": "\u0421\u043b\u0438\u043f\u043e\u043d\u044b \u0441\u043e \u0441\u0442\u0440\u0435\u043b\u043a\u0430\u043c\u0438",
             "it_IT": "Espadrillas hip-hop",
             "ja_JP": "\u30b9\u30ea\u30c3\u30dd\u30f3 \u30c1\u30c9\u30ea"
-        }
+        },
+        "brand": "Krak-On"
     },
     {
-        "id": 82,
+        "id": 71,
         "name": "Trail Boots",
         "image": "../common/assets/img/gear/shoes/Shs_TRS000.png",
         "main": "Ink Recovery Up",
@@ -1657,10 +1508,11 @@
             "ru_RU": "\u0413\u043e\u0440\u043d\u044b\u0435 \u0431\u043e\u0442\u0438\u043d\u043a\u0438",
             "it_IT": "Scarpe da trekking",
             "ja_JP": "\u30c8\u30ec\u30c3\u30ad\u30f3\u30b0\u30e9\u30a4\u30c8"
-        }
+        },
+        "brand": "Inkline"
     },
     {
-        "id": 83,
+        "id": 72,
         "name": "Custom Trail Boots",
         "image": "../common/assets/img/gear/shoes/Shs_TRS001.png",
         "main": "Special Power Up",
@@ -1677,6 +1529,7 @@
             "ru_RU": "\u041c\u043e\u0434\u043d\u044b\u0435 \u0433\u043e\u0440\u043d\u044b\u0435 \u0431\u043e\u0442\u0438\u043d\u043a\u0438",
             "it_IT": "Trekking colorate",
             "ja_JP": "\u30c8\u30ec\u30c3\u30ad\u30f3\u30b0\u30ab\u30b9\u30bf\u30e0"
-        }
+        },
+        "brand": "Inkline"
     }
 ]

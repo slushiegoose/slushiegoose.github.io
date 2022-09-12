@@ -1,5 +1,5 @@
-[
-    {
+{
+    "SquidForce": {
         "name": "SquidForce",
         "image": "../common/assets/img/brands/B00.png",
         "common": "Ink Resistance Up",
@@ -18,7 +18,7 @@
             "ja_JP": "\u30d0\u30c8\u30ed\u30a4\u30ab"
         }
     },
-    {
+    "Zink": {
         "name": "Zink",
         "image": "../common/assets/img/brands/B01.png",
         "common": "Quick Super Jump",
@@ -37,7 +37,7 @@
             "ja_JP": "\u30a2\u30a4\u30ed\u30cb\u30c3\u30af"
         }
     },
-    {
+    "Krak-On": {
         "name": "Krak-On",
         "image": "../common/assets/img/brands/B02.png",
         "common": "Swim Speed Up",
@@ -56,7 +56,7 @@
             "ja_JP": "\u30af\u30e9\u30fc\u30b2\u30b9"
         }
     },
-    {
+    "Rockenberg": {
         "name": "Rockenberg",
         "image": "../common/assets/img/brands/B03.png",
         "common": "Run Speed Up",
@@ -75,7 +75,7 @@
             "ja_JP": "\u30ed\u30c3\u30b1\u30f3\u30d9\u30eb\u30b0"
         }
     },
-    {
+    "Zekko": {
         "name": "Zekko",
         "image": "../common/assets/img/brands/B04.png",
         "common": "Special Saver",
@@ -94,7 +94,7 @@
             "ja_JP": "\u30a8\u30be\u30c3\u30b3"
         }
     },
-    {
+    "Forge": {
         "name": "Forge",
         "image": "../common/assets/img/brands/B05.png",
         "common": "Special Power Up",
@@ -113,7 +113,7 @@
             "ja_JP": "\u30d5\u30a9\u30fc\u30ea\u30de"
         }
     },
-    {
+    "Firefin": {
         "name": "Firefin",
         "image": "../common/assets/img/brands/B06.png",
         "common": "Ink Saver (Sub)",
@@ -132,7 +132,7 @@
             "ja_JP": "\u30db\u30c3\u30b3\u30ea\u30fc"
         }
     },
-    {
+    "Skalop": {
         "name": "Skalop",
         "image": "../common/assets/img/brands/B07.png",
         "common": "Quick Respawn",
@@ -151,7 +151,7 @@
             "ja_JP": "\u30db\u30bf\u30c3\u30af\u30b9"
         }
     },
-    {
+    "Splash Mob": {
         "name": "Splash Mob",
         "image": "../common/assets/img/brands/B08.png",
         "common": "Ink Saver (Main)",
@@ -170,7 +170,7 @@
             "ja_JP": "\u30b8\u30e2\u30f3"
         }
     },
-    {
+    "Inkline": {
         "name": "Inkline",
         "image": "../common/assets/img/brands/B09.png",
         "common": "Sub Resistance Up",
@@ -189,7 +189,7 @@
             "ja_JP": "\u30b7\u30b0\u30ec\u30cb"
         }
     },
-    {
+    "Tentatek": {
         "name": "Tentatek",
         "image": "../common/assets/img/brands/B10.png",
         "common": "Ink Recovery Up",
@@ -208,7 +208,7 @@
             "ja_JP": "\u30a2\u30ed\u30e1"
         }
     },
-    {
+    "Takoroka": {
         "name": "Takoroka",
         "image": "../common/assets/img/brands/B11.png",
         "common": "Special Charge Up",
@@ -227,7 +227,7 @@
             "ja_JP": "\u30e4\u30b3"
         }
     },
-    {
+    "Annaki": {
         "name": "Annaki",
         "image": "../common/assets/img/brands/B15.png",
         "common": "Ink Saver (Sub)",
@@ -246,7 +246,7 @@
             "ja_JP": "\u30a2\u30ca\u30a2\u30ad"
         }
     },
-    {
+    "Enperry": {
         "name": "Enperry",
         "image": "../common/assets/img/brands/B16.png",
         "common": "Sub Power Up",
@@ -265,7 +265,7 @@
             "ja_JP": "\u30a8\u30f3\u30da\u30ea\u30fc"
         }
     },
-    {
+    "Toni Kensa": {
         "name": "Toni Kensa",
         "image": "../common/assets/img/brands/B17.png",
         "common": "Ink Saver (Main)",
@@ -284,7 +284,7 @@
             "ja_JP": "\u30bf\u30bf\u30ad\u30b1\u30f3\u30b5\u30ad"
         }
     },
-    {
+    "Barazushi": {
         "name": "Barazushi",
         "image": "../common/assets/img/brands/B19.png",
         "common": "Intensify Action",
@@ -303,7 +303,7 @@
             "ja_JP": "\u30d0\u30e9\u30ba\u30b7"
         }
     },
-    {
+    "Emberz": {
         "name": "Emberz",
         "image": "../common/assets/img/brands/B20.png",
         "common": "Intensify Action",
@@ -322,7 +322,7 @@
             "ja_JP": "\u30b7\u30c1\u30ea\u30f3"
         }
     },
-    {
+    "Grizzco": {
         "name": "Grizzco",
         "image": "../common/assets/img/brands/B97.png",
         "common": "",
@@ -341,7 +341,7 @@
             "ja_JP": "\u30af\u30de\u30b5\u30f3\u5546\u4f1a"
         }
     },
-    {
+    "Cuttlegear": {
         "name": "Cuttlegear",
         "image": "../common/assets/img/brands/B98.png",
         "common": "",
@@ -360,7 +360,7 @@
             "ja_JP": "\u30a2\u30bf\u30ea\u30e1\u30a4\u30c9"
         }
     },
-    {
+    "amiibo": {
         "name": "amiibo",
         "image": "../common/assets/img/brands/B99.png",
         "common": "",
@@ -379,4 +379,4 @@
             "ja_JP": "amiibo"
         }
     }
-]
+}

@@ -3,6 +3,18 @@
 
 angular.module('splatApp').weapons = function($scope) {
     $scope.weaponSets = weapons()
+
+    $scope.getWeaponSetById = function(setid) {
+        return $scope.weaponSets.filter(function(set) {
+            return set.id == setid
+        })[0]
+    }
+
+    $scope.getWeaponById = function(setid, weaponid) {
+        return $scope.getWeaponSetById(setid).weapons.filter(function(weapon) {
+            return weapon.id == weaponid
+        })[0]
+    }
 }
 
 

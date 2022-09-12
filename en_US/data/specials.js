@@ -3,6 +3,17 @@
 
 angular.module('splatApp').specials = function($scope) {
     $scope.specials = specials()
+    $scope.getSpecialByName = function(name) {
+        return $scope.specials.filter(function(special) {
+            return special.name == name;
+        })[0]
+    }
+
+    $scope.getDamagingSpecials = function() {
+        return $scope.specials.filter(function(special) {
+            return special.hasOwnProperty("damage")
+        })
+    }
 }
 
 
