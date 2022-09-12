@@ -955,14 +955,6 @@ angular.module('splatApp').controller('WeaponPickerCtrl', function($scope, $root
     $scope.weaponSets = weaponSets;
     $scope.selectedWeapon = selectedWeapon;
 
-    $scope.$watch('selectedWeapon', function(newValue, oldValue, scope) {
-        if ($rootScope.splatController.weaponRanks.indexOf(newValue.name) != -1) {
-            $scope.weaponRank = 100 - $rootScope.splatController.weaponRanks.indexOf(newValue.name);
-        } else {
-            $scope.weaponRank = 0;
-        }
-    });
-
     $scope.weaponSearchFilter = function(value) {
         var current_lang = $rootScope.splatController.getCurrentLang();
         var searchText = document.getElementById("weaponSearchFilterText").value;

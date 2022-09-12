@@ -61,7 +61,7 @@ function SplashTag() {
 
     this.getTitle = function() {
         if (this.subject == null) return 'No Title';
-        return this.adjective.localizedName["en_US"] + " " + this.subject.localizedName["en_US"];
+        return this.adjective.localizedName["ja_JP"] + " " + this.subject.localizedName["ja_JP"];
     }
 
     this.getTextColor = function() {

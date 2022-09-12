@@ -285,7 +285,7 @@ async def adjective(listie, locale_data, info_data):
         try:
             for locale, ldata in locale_data.items():
                 localizedName[locale] = ldata["CommonMsg/Byname/BynameAdjective"].get(f"{eyedee:04}", str(eyedee))
-                localizedName[locale] = re.sub(r"\[group.*\]", "", localizedName[locale])
+                localizedName[locale] = re.sub(r"\[.*\]", "", localizedName[locale])
                 available[locale] = f"{eyedee:04}" in info_data[locale]["Labels"]
         except KeyError:
             print(eyedee)
@@ -309,7 +309,7 @@ async def subject(listie, locale_data, info_data):
         try:
             for locale, ldata in locale_data.items():
                 localizedName[locale] = ldata["CommonMsg/Byname/BynameSubject"].get(f"{eyedee:04}_0", str(eyedee))
-                localizedName[locale] = re.sub(r"\[group.*\]", "", localizedName[locale])
+                localizedName[locale] = re.sub(r"\[.*\]", "", localizedName[locale])
                 available[locale] = f"{eyedee:04}" in info_data[locale]["Labels"]
         except KeyError:
             print(eyedee)
