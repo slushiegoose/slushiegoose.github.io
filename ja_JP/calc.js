@@ -110,6 +110,11 @@ angular
         $scope.loadout.splashtag.bg = $scope.splashtags[0];
         $scope.loadout.splashtag.discriminator = 0;
         $scope.loadout.splashtag.name = "Player";
+        for (var i = 0; i < 3; i++) {
+
+            $scope.loadout.splashtag.badges[i] = $scope.badges[0]
+
+        }
 
         $scope.$watch('loadout', function() {
             history.replaceState(undefined, undefined, "#" + $scope.encodeLoadout());
@@ -176,6 +181,16 @@ angular
             $scope.loadout.clothes.equipped = $scope.clothes[0];
             $scope.loadout.shoes.equipped = $scope.shoes[0];
             $scope.loadout.clearAbilities();
+            $scope.loadout.splashtag.adjective = $scope.adjectives[0];
+            $scope.loadout.splashtag.subject = $scope.subjects[0];
+            $scope.loadout.splashtag.bg = $scope.splashtags[0];
+            $scope.loadout.splashtag.discriminator = 0;
+            $scope.loadout.splashtag.name = "Player";
+            for (var i = 0; i < 3; i++) {
+
+                $scope.loadout.splashtag.badges[i] = $scope.badges[0]
+
+            }
         }
 
         if (window.location.hash) {

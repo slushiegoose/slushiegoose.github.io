@@ -29,28 +29,48 @@ body:not(.show-focus-outlines) [tabindex]:focus {
     padding: 0px !important;
 }
 
+.weaponstripes {
+    background-image: url("../assets/img/ui/weapon.png");
+    background-size: 100% 100%;
+}
+
+.hatstripes {
+    background-image: url("../assets/img/ui/hat.png");
+    background-size: 100% 100%;
+}
+
+.clothesprites {
+    background-image: url("../assets/img/ui/shirt.png");
+    background-size: 100% 100%;
+}
+
+.shoesprites {
+    background-image: url("../assets/img/ui/shoes.png");
+    background-size: 100% 100%;
+}
+
 .neonstripes {
-    background: repeating-linear-gradient( 45deg, #dbe826, #dbe826 20px, #c4d412 20px, #c4d412 40px);
+    background: #fe866e
 }
 
 .redstripes {
-    background: repeating-linear-gradient( 45deg, #d63e53, #d63e53 20px, #f0624a 20px, #f0624a 40px);
+    background: #6079d8
 }
 
 .tealstripes {
-    background: repeating-linear-gradient( 45deg, #19e1ba, #19e1ba 20px, #06be8a 20px, #06be8a 40px);
+    background: #46ae98;
 }
 
 .orangestripes {
-    background: repeating-linear-gradient( 45deg, #f07807, #f07807 20px, #d25012 20px, #d25012 40px);
+    background: #8a6bd5;
 }
 
 .blackstripes {
-    background: repeating-linear-gradient( 45deg, #222, #222 30px, #444 30px, #444 60px);
+    background: repeating-linear-gradient( 90deg, #222, #222 30px, #444 30px, #444 60px);
 }
 
 .purplestripes {
-    background: repeating-linear-gradient( 45deg, #842cd6, #842cd6 20px, #6b01bb 20px, #6b01bb 40px);
+    background: #ccc902;
 }
 
 #splat-header {
@@ -216,6 +236,10 @@ body:not(.show-focus-outlines) [tabindex]:focus {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
+}
+
+.itemcard .gear-wrapper .gear-icon {
+    top: 40%;
 }
 
 .gear-wrapper .main-icon {
@@ -739,6 +763,7 @@ body:not(.show-focus-outlines) [tabindex]:focus {
     position: absolute;
     width: 100%;
     top: 30px;
+    font-family: "Splat1";
 }
 
 #splashtag #discrim {
@@ -823,5 +848,10 @@ body:not(.show-focus-outlines) [tabindex]:focus {
 
 #splashtag-selected {
     max-width: 150px;
-    padding-top: 150px;
+}
+
+@media (min-width: 768px) {
+    #splashtag-selected {
+        padding-top: 150px;
+    }
 }

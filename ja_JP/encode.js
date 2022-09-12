@@ -134,7 +134,9 @@ function decodeSplashtag(code) {
         adjective: null,
         subject: null,
         bg: null,
-        badges: [null, null, null]
+        badges: [null, null, null],
+        name: "",
+        discriminator: 0
     }
     var title = hexToBinary(code.substring(0, 5)).result
     splashtag.adjective = parseInt(title.substring(0, 10), 2)
@@ -222,7 +224,7 @@ function decode(code) {
         var head = decodeGear(code.substring(4, 11))
         var clothes = decodeGear(code.substring(11, 18))
         var shoes = decodeGear(code.substring(18, 25))
-        var splashtag = decodeSplashtag(code.substring(25, 43))
+        var splashtag = decodeSplashtag(code.substring(25))
     } catch (err) {
         console.log("Invalid code: " + err.message)
         return false;

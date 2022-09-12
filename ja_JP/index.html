@@ -3,9 +3,9 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>loadout.ink - Stat Calculator + Gear Planner for Splatoon 2</title>
+    <title>loadout.ink - Splashtag Customizer + Gear Planner for Splatoon 3</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Gear planner and stat calculator for Splatoon 2. Create gear configurations and see the effects on your stats.">
+    <meta name="description" content="Gear planner and Splashtag Customizer for Splatoon 3. Create gear configurations and see the effects on your stats.">
     <meta name="robots" content="index, follow">
 
     <script src="../common/lib/jquery/jquery.js"></script>
@@ -120,7 +120,7 @@
                                                 <div class="row" ng-hide="screenshotMode">
                                                     <div class="col-xs-12">
                                                         <span id="version">
-                                                    ギア揃え ｖ2.3.0
+                                                    ギア揃え ｖ1.0.0
                                                     <span class="icon-button fa fa-question-circle-o" ng-controller="ModalCtrl" uib-tooltip="更新内容" ng-click="openChangelog()" tooltip-append-to-body="true"></span>
                                                         <span id="tutorial" class="icon-button fa fa-magic" ng-controller="splatController" uib-tooltip="チュートリアル" ng-click="tutorial()" tooltip-append-to-body="true"></span>
                                                         </span>
@@ -140,7 +140,7 @@
                                 <div class="col-md-12">
                                     <div class="row">
                                         <div class="col-md-3 col-sm-3 nopadding">
-                                            <div class="card itemcard neonstripes" id="weapon">
+                                            <div class="card itemcard weaponstripes" id="weapon">
                                                 <div class="row cardheader">
                                                     <button class="icon-button" ng-hide="screenshotMode" ng-controller="ModalCtrl" ng-click="openWeaponPicker()"><span class="glyphicon glyphicon-pencil"></span></button> ブキ
                                                 </div>
@@ -167,7 +167,7 @@
                                             </div>
                                         </div>
                                         <div class="col-md-3 col-sm-3 nopadding">
-                                            <div class="card itemcard redstripes">
+                                            <div class="card itemcard hatstripes">
                                                 <div class="row cardheader">
                                                     <button class="icon-button" ng-hide="screenshotMode" ng-controller="ModalCtrl" ng-click="openGearPicker(hats,loadout.head.equipped,'head')"><span class="glyphicon glyphicon-pencil"></span></button> アタマ
                                                 </div>
@@ -196,7 +196,7 @@
                                             </div>
                                         </div>
                                         <div class="col-md-3 col-sm-3 nopadding">
-                                            <div class="card itemcard tealstripes">
+                                            <div class="card itemcard clothesprites">
                                                 <div class="row cardheader">
                                                     <button class="icon-button" ng-hide="screenshotMode" ng-controller="ModalCtrl" ng-click="openGearPicker(clothes,loadout.clothes.equipped,'clothes')"><span class="glyphicon glyphicon-pencil"></span></button>                                                    フク
                                                 </div>
@@ -225,7 +225,7 @@
                                             </div>
                                         </div>
                                         <div class="col-md-3 col-sm-3 nopadding">
-                                            <div class="card itemcard orangestripes">
+                                            <div class="card itemcard shoesprites">
                                                 <div class="row cardheader">
                                                     <button class="icon-button" ng-hide="screenshotMode" ng-controller="ModalCtrl" ng-click="openGearPicker(shoes,loadout.shoes.equipped,'shoes')"><span class="glyphicon glyphicon-pencil"></span></button>                                                    クツ
                                                 </div>
