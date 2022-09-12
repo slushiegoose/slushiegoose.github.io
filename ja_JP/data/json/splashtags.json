@@ -1,0 +1,893 @@
+[
+    {
+        "id": 0,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv01.png",
+        "color": {
+            "r": 0.00369724,
+            "g": 0.1219857,
+            "b": 0.3992933
+        }
+    },
+    {
+        "id": 1,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv02.png",
+        "color": {
+            "r": 0.5604992,
+            "g": 0.06381488,
+            "b": 0.173439
+        }
+    },
+    {
+        "id": 2,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv03.png",
+        "color": {
+            "r": 0.7372048,
+            "g": 0.3021255,
+            "b": 0.002932319
+        }
+    },
+    {
+        "id": 3,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv04.png",
+        "color": {
+            "r": 0.2508403,
+            "g": 0.5731589,
+            "b": 0.7742273
+        }
+    },
+    {
+        "id": 4,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv05.png",
+        "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+        }
+    },
+    {
+        "id": 5,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv06.png",
+        "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+        }
+    },
+    {
+        "id": 6,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv07.png",
+        "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+        }
+    },
+    {
+        "id": 7,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv08.png",
+        "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+        }
+    },
+    {
+        "id": 8,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv09.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 9,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv10.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 10,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv11.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 11,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv12.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 12,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv13.png",
+        "color": {
+            "r": 0.0,
+            "g": 0.02899119,
+            "b": 0.02095113
+        }
+    },
+    {
+        "id": 13,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv14.png",
+        "color": {
+            "r": 0.9239933,
+            "g": 1.0,
+            "b": 0.7372048
+        }
+    },
+    {
+        "id": 14,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv15.png",
+        "color": {
+            "r": 0.02899119,
+            "g": 0.006584958,
+            "b": 0.000175124
+        }
+    },
+    {
+        "id": 15,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv16.png",
+        "color": {
+            "r": 0.9764706,
+            "g": 0.8784314,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 16,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv17.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 17,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv18.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 18,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv19.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 19,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv20.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 20,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv21.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 21,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv22.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 22,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv23.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 23,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv24.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 24,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv25.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 25,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv26.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 26,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv27.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 27,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv28.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 28,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv29.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 29,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv30.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 30,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv31.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 31,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv32.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 32,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv33.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 33,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv34.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 34,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv35.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 35,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv36.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 36,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv37.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 37,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv38.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 38,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv39.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 39,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv40.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 40,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv41.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 41,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv42.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 42,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv43.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 43,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv44.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 44,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv45.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 45,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv46.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 46,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv47.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 47,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv48.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 48,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv49.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 49,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv50.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 50,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv51.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 51,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv52.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 52,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv53.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 53,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv54.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 54,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv55.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 55,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv56.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 56,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv57.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 57,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv58.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 58,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv59.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 59,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv60.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 60,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv61.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 61,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv62.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 62,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv63.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 63,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv64.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 64,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv65.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 65,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv66.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 66,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv67.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 67,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv68.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 68,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv69.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 69,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv70.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 70,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv71.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 71,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv72.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 72,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv73.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 73,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv74.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 74,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv75.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 75,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv76.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 76,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv77.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 77,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv78.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 78,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv79.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 79,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv80.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 80,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv81.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 81,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season01_Lv82.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 82,
+        "image": "../common/assets/img/splashtags/Npl_Coop_Season01_Lv01.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 83,
+        "image": "../common/assets/img/splashtags/Npl_Coop_Season01_Lv02.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 84,
+        "image": "../common/assets/img/splashtags/Npl_Coop_Season01_Lv03.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 85,
+        "image": "../common/assets/img/splashtags/Npl_Coop_Season01_Lv04.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 86,
+        "image": "../common/assets/img/splashtags/Npl_Coop_Season01_Lv05.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 87,
+        "image": "../common/assets/img/splashtags/Npl_Coop_Season01_Lv06.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 88,
+        "image": "../common/assets/img/splashtags/Npl_Coop_Season01_Lv07.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 89,
+        "image": "../common/assets/img/splashtags/Npl_Coop_Season01_Lv08.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 90,
+        "image": "../common/assets/img/splashtags/Npl_Coop_Season01_Lv09.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 91,
+        "image": "../common/assets/img/splashtags/Npl_Coop_Season01_Lv10.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 92,
+        "image": "../common/assets/img/splashtags/Npl_Lot_Season01_Lv01.png",
+        "color": {
+            "r": 0.05882353,
+            "g": 0.02352941,
+            "b": 0.0
+        }
+    },
+    {
+        "id": 93,
+        "image": "../common/assets/img/splashtags/Npl_Mng_Lv01.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 94,
+        "image": "../common/assets/img/splashtags/Npl_Mng_Lv02.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 95,
+        "image": "../common/assets/img/splashtags/Npl_Mng_Lv03.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 96,
+        "image": "../common/assets/img/splashtags/Npl_Trg_Season01_Lv01.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 97,
+        "image": "../common/assets/img/splashtags/Npl_Trg_Season01_Lv02.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    },
+    {
+        "id": 98,
+        "image": "../common/assets/img/splashtags/Npl_Tutorial00.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        }
+    }
+]
