@@ -2,11 +2,13 @@
 
 
 angular.module('splatApp').clothes = function($scope) {
-    $scope.clothes = clothes()
+    clothes().then(data => {
+        $scope.clothes = data
+    })
 }
 
 
-async function weapons() {
+async function clothes() {
     const response = await fetch('/en_US/data/json/clothes.json')
     const data = await response.json()
     return data

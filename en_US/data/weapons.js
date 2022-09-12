@@ -2,8 +2,11 @@
 
 
 angular.module('splatApp').weapons = function($scope) {
-    $scope.weaponSets = weapons()
+    weapons().then(data => {
+        $scope.weaponSets = data
+    })
 }
+
 
 
 async function weapons() {
