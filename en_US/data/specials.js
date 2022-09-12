@@ -6,13 +6,8 @@ angular.module('splatApp').specials = function($scope) {
 }
 
 
-function specials() {
-    // get json from /en_US/data/json/specials.json
-    fetch('data/json/specials.json')
-        .then(function(response) {
-            return response.json();
-        })
-        .then(function(myJson) {
-            console.log(myJson);
-        })
+async function weapons() {
+    const response = await fetch('/en_US/data/json/specials.json')
+    const data = await response.json()
+    return data
 }
