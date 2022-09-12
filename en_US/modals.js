@@ -607,7 +607,52 @@ angular.module('splatApp').controller('ModalCtrl', function($scope, $rootScope, 
                   </div>
               </div>
           </div>
-      </div>`
+      </div>`,
+        title: `<div class="row">
+        <div class="col-md-12">
+            <div class="card orangestripes" id="dialog">
+                <div class="row cardheader">
+                    Title Picker
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                            <div class="row">
+                                <div class="col-md-12 col-sm-6">
+                                    <div class="selected-label" class="selected-label">
+                                        <span>{{selectedAdjective.localizedName['en_US']}} {{selectedSubject.localizedName['en_US']}}</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <input id="adjectiveSearchFilterText" ng-model="adjectiveSearchFilterText" class="form-control form-control-sm" type="text" placeholder="Search...">
+                        <div class="picker">
+                            <div ng-click="selectAdjective(item)" ng-repeat="item in set1 | filter:adjectiveSearchFilter track by item.id" uib-tooltip="{{::item.localizedName['en_US']}}" tooltip-append-to-body="true" class="gear-wrapper">
+                                <div class="pwrapper"><span>{{::item.localizedName['en_US']}}</span></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <input id="subjectSearchFilterText" ng-model="subjectSearchFilterText" class="form-control form-control-sm" type="text" placeholder="Search...">
+                        <div class="picker">
+                            <div ng-click="selectSubject(item)" ng-repeat="item in set2 | filter:subjectSearchFilter track by item.id" uib-tooltip="{{::item.localizedName['en_US']}}" tooltip-append-to-body="true" class="gear-wrapper">
+                                <div class="pwrapper"><span>{{::item.localizedName['en_US']}}</span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row buttons">
+                    <div class="col-xs-6 col-md-4 col-md-offset-2">
+                        <button class="btn" type="button" onclick="animateButton(this)" ng-click="cancel()"><span>Cancel</span></button>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <button class="btn" type="button" onclick="animateButton(this)" ng-click="ok()"><span>OK</span></button>
+                    </div>
+                </div>
+            </div>
+        </div>`
     }
 
     $scope.openWeaponPicker = function(size) {
@@ -778,6 +823,35 @@ angular.module('splatApp').controller('ModalCtrl', function($scope, $rootScope, 
 
         modalInstance.result.then(function(results) {
             $scope.loadout.splashtag.badges[index] = results.badge
+        }, function() {})
+    }
+
+    $scope.openTitleModal = function(selectedA, selectedS, set1, set2) {
+        var modalInstance = $uibModal.open({
+            animation: $scope.animationsEnabled,
+            template: templates["title"],
+            windowTemplateUrl: 'blankModal.html',
+            controller: 'TitleCtrl',
+            resolve: {
+                selectedAdjective: function() {
+                    return selectedA
+                },
+                selectedSubject: function() {
+                    return selectedS
+                },
+                set1: function() {
+                    return set1
+                },
+                set2: function() {
+                    return set2
+                }
+
+            }
+        });
+
+        modalInstance.result.then(function(results) {
+            $scope.loadout.splashtag.adjective = results.adjective
+            $scope.loadout.splashtag.subject = results.subject
         }, function() {})
     }
 
@@ -1051,6 +1125,61 @@ angular.module('splatApp').controller('BadgeCtrl', function($scope, $rootScope, 
         var scope = this;
         $timeout(function() {
             $uibModalInstance.close({ badge: scope.selectedBadge });
+        }, modalCloseDelay);
+    };
+
+    $scope.cancel = function() {
+        $timeout(function() {
+            $uibModalInstance.dismiss('cancel');
+        }, modalCloseDelay);
+    };
+});
+
+angular.module('splatApp').controller('TitleCtrl', function($scope, $rootScope, $uibModalInstance, selectedAdjective, selectedSubject, set1, set2, $timeout) {
+    $scope.selectedAdjective = selectedAdjective
+    $scope.selectedSubject = selectedSubject
+    $scope.set1 = set1
+    $scope.set2 = set2
+
+
+    $scope.adjectiveSearchFilter = function(value) {
+        var current_lang = $rootScope.splatController.getCurrentLang();
+        var searchText = document.getElementById("adjectiveSearchFilterText").value;
+
+        // Filter on NAME
+        if (value.localizedName[current_lang].toLowerCase().indexOf(searchText.toLowerCase()) != -1) {
+            return true;
+        }
+
+        return false;
+    };
+
+    $scope.subjectSearchFilter = function(value) {
+        var current_lang = $rootScope.splatController.getCurrentLang();
+        var searchText = document.getElementById("subjectSearchFilterText").value;
+
+        // Filter on NAME
+        if (value.localizedName[current_lang].toLowerCase().indexOf(searchText.toLowerCase()) != -1) {
+            return true;
+        }
+
+        return false;
+    };
+
+
+    $scope.selectAdjective = function(item) {
+        $scope.selectedAdjective = item;
+    }
+
+    $scope.selectSubject = function(item) {
+        $scope.selectedSubject = item;
+    }
+
+
+    $scope.ok = function() {
+        var scope = this;
+        $timeout(function() {
+            $uibModalInstance.close({ adjective: scope.selectedAdjective, subject: scope.selectedSubject });
         }, modalCloseDelay);
     };
 

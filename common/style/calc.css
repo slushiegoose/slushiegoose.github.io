@@ -176,6 +176,24 @@ body:not(.show-focus-outlines) [tabindex]:focus {
     border-radius: 10px;
     display: inline-block;
     position: relative;
+    vertical-align: middle;
+}
+
+.gear-wrapper .pwrapper {
+    display: table;
+    text-align: center;
+    padding: 2px;
+    height: 74px;
+    width: 74px;
+    position: absolute;
+    table-layout: fixed;
+}
+
+.gear-wrapper span {
+    display: table-cell;
+    vertical-align: middle;
+    word-wrap: break-word;
+    text-overflow: ellipsis;
 }
 
 #weapon-picker-selected {
@@ -336,7 +354,7 @@ body:not(.show-focus-outlines) [tabindex]:focus {
 }
 
 .subspeicon {
-    background: rgba(0, 0, 0, 1);
+    background: transparent;
     border-radius: 5px;
     height: 48px;
     padding: 2px;
@@ -541,6 +559,7 @@ body:not(.show-focus-outlines) [tabindex]:focus {
 .selected-label {
     height: 3.2em;
     line-height: 1.5em;
+    text-align: center;
 }
 
 .selected-label span {
