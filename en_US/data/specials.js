@@ -1,8 +1,9 @@
 // import /en_US/data/json/specials.json
 
+var SPECIALS = undefined;
 
 angular.module('splatApp').specials = function($scope) {
-    $scope.specials = specials()
+    $scope.specials = SPECIALS || specials()
     $scope.getSpecialByName = function(name) {
         return $scope.specials.filter(function(special) {
             return special.name == name;
@@ -22,5 +23,6 @@ function specials() {
     var xhttp = new XMLHttpRequest();
     xhttp.open("GET", "/en_US/data/json/specials.json", false)
     xhttp.send(null)
-    return JSON.parse(xhttp.responseText)
+    SPECIALS = JSON.parse(xhttp.responseText)
+    return SPECIALS
 }

@@ -1,8 +1,10 @@
 // import /en_US/data/json/weapons.json
 
 
+var WEAPONS = undefined;
+
 angular.module('splatApp').weapons = function($scope) {
-    $scope.weaponSets = weapons()
+    $scope.weaponSets = WEAPONS || weapons()
 
     $scope.getWeaponSetById = function(setid) {
         return $scope.weaponSets.filter(function(set) {
@@ -22,5 +24,6 @@ function weapons() {
     var xhttp = new XMLHttpRequest();
     xhttp.open("GET", "/en_US/data/json/weapons.json", false)
     xhttp.send(null)
-    return JSON.parse(xhttp.responseText)
+    WEAPONS = JSON.parse(xhttp.responseText)
+    return WEAPONS
 }

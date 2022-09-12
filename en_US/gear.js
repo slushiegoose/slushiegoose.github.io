@@ -3,6 +3,7 @@ angular.module('splatApp').gear = function($scope) {
     angular.module('splatApp').clothes($scope);
     angular.module('splatApp').shoes($scope);
     angular.module('splatApp').brands($scope);
+    angular.module('splatApp').badges($scope);
 
 
     $scope.filterByMain = function(set, abilityName) {
@@ -39,5 +40,32 @@ angular.module('splatApp').gear = function($scope) {
         return $scope.shoes.filter(function(item) {
             return item.id == id
         })[0]
+    }
+
+    $scope.getSplashtagById = function(id) {
+        return $scope.splashtags.filter(function(item) {
+            return item.id == id
+        })[0]
+    }
+
+    $scope.getSubjectById = function(id) {
+        return $scope.subjects.filter(function(item) {
+            return item.id == id
+        })[0]
+    }
+
+    $scope.getAdjectiveById = function(id) {
+        return $scope.adjectives.filter(function(item) {
+            return item.id == id
+        })[0]
+    }
+
+    $scope.getBadgeById = function(badgeId) {
+        var results = $scope.badges.filter(function(badge) {
+            return badge.id == badgeId
+        })[0]
+        if (results == undefined) {
+            return null;
+        } else return results;
     }
 }

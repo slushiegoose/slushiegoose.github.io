@@ -672,3 +672,121 @@ body:not(.show-focus-outlines) [tabindex]:focus {
     padding-left: 5%;
     padding-right: 5%;
 }
+
+
+/* NEW STUFF */
+
+#splashtag {
+    padding: 0;
+    height: 125px;
+    width: 407.5px;
+    text-align: center;
+    font-family: "Splat2", sans-serif;
+    font-size: 14pt;
+    color: #fff;
+    overflow: hidden;
+    border-radius: 0;
+    margin: 4px;
+    position: relative;
+    left: calc(50% - 203.75px);
+}
+
+#splashtag #title {
+    text-align: left;
+    font-size: 14pt;
+    margin-left: 3px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    z-index: 100;
+    position: absolute;
+}
+
+#splashtag #name {
+    text-align: center;
+    font-size: 30pt;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    z-index: 100;
+    position: absolute;
+    width: 100%;
+    top: 40px;
+}
+
+#splashtag #discrim {
+    text-align: left;
+    font-size: 14pt;
+    margin-left: 3px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    z-index: 100;
+    position: absolute;
+    bottom: 0px;
+}
+
+#splashtag #bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 125px;
+    width: 407.5px;
+    z-index: 0;
+}
+
+#badge1,
+#badge2,
+#badge3 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    z-index: 100;
+}
+
+#badge1 {
+    bottom: 3px;
+    right: 83px;
+}
+
+#badge2 {
+    bottom: 3px;
+    right: 43px;
+}
+
+#badge3 {
+    bottom: 3px;
+    right: 3px;
+}
+
+#splashtag .icon-button.bg {
+    position: absolute;
+    top: 0;
+    right: 3px;
+    font-size: 20pt;
+}
+
+#title .icon-button,
+#discrim .icon-button {
+    font-size: 12pt;
+    padding-left: 4px;
+}
+
+.icon-button.badge1,
+.icon-button.badge2,
+.icon-button.badge3 {
+    font-size: 9pt;
+    position: absolute
+}
+
+.icon-button.badge1 {
+    bottom: 33px;
+    right: 93px;
+}
+
+.icon-button.badge2 {
+    bottom: 33px;
+    right: 53px;
+}
+
+.icon-button.badge3 {
+    bottom: 33px;
+    right: 13px;
+}
