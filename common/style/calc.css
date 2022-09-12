@@ -709,7 +709,7 @@ body:not(.show-focus-outlines) [tabindex]:focus {
     z-index: 100;
     position: absolute;
     width: 100%;
-    top: 40px;
+    top: 30px;
 }
 
 #splashtag #discrim {
@@ -735,24 +735,24 @@ body:not(.show-focus-outlines) [tabindex]:focus {
 #badge1,
 #badge2,
 #badge3 {
-    width: 30px;
-    height: 30px;
+    width: 50px;
+    height: 50px;
     position: absolute;
     z-index: 100;
 }
 
 #badge1 {
-    bottom: 3px;
-    right: 83px;
+    bottom: 0px;
+    right: 103px;
 }
 
 #badge2 {
-    bottom: 3px;
-    right: 43px;
+    bottom: 0px;
+    right: 53px;
 }
 
 #badge3 {
-    bottom: 3px;
+    bottom: 0px;
     right: 3px;
 }
 
@@ -772,21 +772,22 @@ body:not(.show-focus-outlines) [tabindex]:focus {
 .icon-button.badge1,
 .icon-button.badge2,
 .icon-button.badge3 {
-    font-size: 9pt;
-    position: absolute
+    font-size: 12pt;
+    position: absolute;
+    z-index: 10000;
 }
 
 .icon-button.badge1 {
-    bottom: 33px;
-    right: 93px;
+    bottom: 50px;
+    right: 118px;
 }
 
 .icon-button.badge2 {
-    bottom: 33px;
-    right: 53px;
+    bottom: 50px;
+    right: 68px;
 }
 
 .icon-button.badge3 {
-    bottom: 33px;
-    right: 13px;
+    bottom: 50px;
+    right: 18px;
 }

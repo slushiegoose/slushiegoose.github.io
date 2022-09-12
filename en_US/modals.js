@@ -569,7 +569,45 @@ angular.module('splatApp').controller('ModalCtrl', function($scope, $rootScope, 
     </div>
     </div>
     </div>
-    </div>`
+    </div>`,
+        badge: `<div class="row">
+      <div class="col-md-12">
+          <div class="card redstripes" id="dialog">
+              <div class="row cardheader">
+                  Badge Picker
+              </div>
+              <div class="row">
+                  <div class="col-md-4">
+                      <div class="row">
+                          <div class="col-md-12 col-sm-6">
+                              <img fallback-img ng-src="{{selectedBadge.image}}" />
+                          </div>
+                          <div class="col-md-12 col-sm-6">
+                              <div class="selected-label" class="selected-label">
+                                  <span>{{selectedBadge.localizedName['en_US']}}</span>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-8 picker-right">
+                      <input id="badgeSearchFilterText" ng-model="badgeSearchFilterText" class="form-control form-control-sm" type="text" placeholder="Search...">
+                      <div class="picker">
+                          <div ng-click="selectBadge(item)" ng-repeat="item in set | filter:badgeSearchFilter track by item.id" uib-tooltip="{{::item.localizedName['en_US']}}" tooltip-append-to-body="true" class="gear-wrapper">
+                              <img class="gear-icon" ng-src="{{item.image}}" />
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <div class="row buttons">
+                  <div class="col-xs-6 col-md-4 col-md-offset-2">
+                      <button class="btn" type="button" onclick="animateButton(this)" ng-click="cancel()"><span>Cancel</span></button>
+                  </div>
+                  <div class="col-xs-6 col-md-4">
+                      <button class="btn" type="button" onclick="animateButton(this)" ng-click="ok()"><span>OK</span></button>
+                  </div>
+              </div>
+          </div>
+      </div>`
     }
 
     $scope.openWeaponPicker = function(size) {
@@ -716,6 +754,30 @@ angular.module('splatApp').controller('ModalCtrl', function($scope, $rootScope, 
 
         modalInstance.result.then(function(results) {
             $scope.loadout.splashtag.discriminator = results.discrim
+        }, function() {})
+    }
+
+    $scope.openBadgeModal = function(index, selected, set) {
+        console.log(index)
+        console.log(selected)
+        console.log(set)
+        var modalInstance = $uibModal.open({
+            animation: $scope.animationsEnabled,
+            template: templates["badge"],
+            windowTemplateUrl: 'blankModal.html',
+            controller: 'BadgeCtrl',
+            resolve: {
+                selectedBadge: function() {
+                    return selected
+                },
+                set: function() {
+                    return set
+                },
+            }
+        });
+
+        modalInstance.result.then(function(results) {
+            $scope.loadout.splashtag.badges[index] = results.badge
         }, function() {})
     }
 
@@ -963,3 +1025,38 @@ function animateButton(self) {
         $(".modal-backdrop").remove();
     }, modalCloseDelay);
 }
+
+angular.module('splatApp').controller('BadgeCtrl', function($scope, $rootScope, $uibModalInstance, selectedBadge, set, $timeout) {
+    $scope.selectedBadge = selectedBadge
+    $scope.set = set
+
+    $scope.badgeSearchFilter = function(value) {
+        var current_lang = $rootScope.splatController.getCurrentLang();
+        var searchText = document.getElementById("badgeSearchFilterText").value;
+
+        // Filter on NAME
+        if (value.localizedName[current_lang].toLowerCase().indexOf(searchText.toLowerCase()) != -1) {
+            return true;
+        }
+
+        return false;
+    };
+
+
+    $scope.selectBadge = function(item) {
+        $scope.selectedBadge = item;
+    }
+
+    $scope.ok = function() {
+        var scope = this;
+        $timeout(function() {
+            $uibModalInstance.close({ badge: scope.selectedBadge });
+        }, modalCloseDelay);
+    };
+
+    $scope.cancel = function() {
+        $timeout(function() {
+            $uibModalInstance.dismiss('cancel');
+        }, modalCloseDelay);
+    };
+});

@@ -97,9 +97,9 @@
                                             <img id="badge2" fallback-img ng-src="{{loadout.splashtag.getBadgeIcon(1)}}" />
                                             <img id="badge3" fallback-img ng-src="{{loadout.splashtag.getBadgeIcon(2)}}" />
                                             <button class="icon-button bg" ng-hide="screenshotMode" ng-controller="ModalCtrl" ng-click="openGearPicker(hats,loadout.head.equipped,'head')"><span class="glyphicon glyphicon-pencil"></span></button>
-                                            <button class="icon-button badge1" ng-hide="screenshotMode" ng-controller="ModalCtrl" ng-click="openGearPicker(hats,loadout.head.equipped,'head')"><span class="glyphicon glyphicon-pencil"></span></button>
-                                            <button class="icon-button badge2" ng-hide="screenshotMode" ng-controller="ModalCtrl" ng-click="openGearPicker(hats,loadout.head.equipped,'head')"><span class="glyphicon glyphicon-pencil"></span></button>
-                                            <button class="icon-button badge3" ng-hide="screenshotMode" ng-controller="ModalCtrl" ng-click="openGearPicker(hats,loadout.head.equipped,'head')"><span class="glyphicon glyphicon-pencil"></span></button>
+                                            <button class="icon-button badge1" ng-hide="screenshotMode" ng-controller="ModalCtrl" ng-click="openBadgeModal(0, loadout.splashtag.badges[0], badges)"><span class="glyphicon glyphicon-pencil"></span></button>
+                                            <button class="icon-button badge2" ng-hide="screenshotMode" ng-controller="ModalCtrl" ng-click="openBadgeModal(1, loadout.splashtag.badges[0], badges)"><span class="glyphicon glyphicon-pencil"></span></button>
+                                            <button class="icon-button badge3" ng-hide="screenshotMode" ng-controller="ModalCtrl" ng-click="openBadgeModal(2, loadout.splashtag.badges[0], badges)"><span class="glyphicon glyphicon-pencil"></span></button>
                                         </div>
                                     </div>
                                     <div class="col-sm-6 col-sm-6 nopadding">
