@@ -1,14 +1,16 @@
-// import /ja_JP/json/hats.json
+// import /en_US/data/json/hats.json
 
+var HATS = undefined
 
 angular.module('splatApp').hats = function($scope) {
-    $scope.hats = hats()
+    $scope.hats = HATS || hats()
 }
 
 
 function hats() {
     var xhttp = new XMLHttpRequest();
-    xhttp.open("GET", "/ja_JP/data/json/hats.json", false)
+    xhttp.open("GET", "/en_US/data/json/hats.json", false)
     xhttp.send(null)
-    return JSON.parse(xhttp.responseText)
+    HATS = JSON.parse(xhttp.responseText)
+    return HATS
 }

@@ -908,7 +908,7 @@ angular.module('splatApp').controller('ModalCtrl', function($scope, $rootScope, 
 
         modalInstance.result.then(function(results) {
             $scope.loadout.splashtag.bg = results.bg
-            $scope.loadout.splashtag.name = results.name || "Player"
+            $scope.loadout.splashtag.name = results.name || $scope.loadout.splashtag.name
         }, function() {})
     }
 

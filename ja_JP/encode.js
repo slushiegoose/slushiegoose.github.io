@@ -7,20 +7,24 @@
  * 
  * Format: 
  * 
- * 0 0 XX XXXXXXX XXXXXXX XXXXXXX
- * ^ ^ ^  ^       ^       ^
- * | | |  |       |       |
- * Version number |       |
- *   | |  |       |       |
- *   Weapon set   |       |
- *     |  |       |       |
- *     Weapon ID  |       |
- *        |       |       |
- *        Encoded Hat     |
- *                |       |
- *                Encoded Clothes
- *                        |
- *                        Encoded Shoes
+ * 0 0 XX XXXXXXX XXXXXXX XXXXXXX XXXXXXXXXXXXXXXXXX PlayerName
+ * ^ ^ ^  ^       ^       ^       ^    
+ * | | |  |       |       |       |     
+ * Version number |       |       |     
+ *   | |  |       |       |       |     
+ *   Weapon set   |       |       |     
+ *     |  |       |       |       |     
+ *     Weapon ID  |       |       |     
+ *        |       |       |       |     
+ *        Encoded Hat     |       |     
+ *                |       |       |     
+ *                Encoded Clothes |     
+ *                        |       |     
+ *                        Encoded Shoes 
+ *                                |     
+ *                                Encoded Splashtag
+
+ *                                                
  * 
  * Example:
  * 0 0 00 241084e 0000000 07c8000
@@ -43,7 +47,7 @@
  * 
  * Abilities format: 
  * XXXXX hex to binary 
- * XXXXX XXXXX XXXXX XXXXX (there is a trick here: hexa to binaries are then groupped by 5 digits)
+ * 00000 00000 00000 00000 (there is a trick here: hexa to binaries are then groupped by 5 digits)
  * ^    ^    ^    ^
  * |    |    |    |
  * Main |    |    |
@@ -54,47 +58,127 @@
  * Example:
  * c8000 => 11001 00000 00000 00000
  * 
+ * 
+ * Splashtag format:
+ * XXXXX XXXXXXXXX XXXX 
+ * ^     ^   ^     ^
+ * |     |   |     |
+ * Title |   |     |
+ *       |   |     |
+ *      Background and Badges
+ *                 |
+ *                 Discriminator
+ * 
+ *           
+ * 
+ * Title:
+ * XXXXX hex to binary
+ * 0000000000 0000000000 (there is a trick here: hexa to binaries are then groupped by 10 digits)
+ * ^         ^
+ * |         |
+ * Adjective |
+ *           Subject
+ * 
+ * Background +Badges:
+ * XXXXXXXXX hex to binary (there is a trick here: hexa to binaries are then groupped by 10 digits)
+ * 000000000 000000000 000000000 000000000
+ * ^          ^         ^         ^
+ * |          |         |         |
+ * Background |         |         |
+ *            |         |         |
+ *            Badge 1   |         |
+ *                      |         |
+ *                      Badge 2   |
+ *                                |
+ *                                Badge 3
+ * 
+ * 
+ *     
  */
 
-function encode(selectedSetId,loadout) {
+function encode(selectedSetId, loadout) {
     var hexString = '0' // version number
     hexString += selectedSetId
     hexString += hex8(loadout.weapon.id);
     hexString += encodeGear(loadout.head);
     hexString += encodeGear(loadout.clothes);
     hexString += encodeGear(loadout.shoes);
+    hexString += encodeSplashtag(loadout.splashtag);
     return hexString;
 };
 
-function encodeGear(item) {
-  var string = hex8(item.equipped.id);
-  var abilities = "";
-  if(item.main == null) {
-    abilities += bin5(0)
-  } else {
-    abilities += bin5(item.main.id)
-  }
-  for(var i=0; i<item.subs.length; i++) {
-    if(item.subs[i] == null) {
-      abilities += bin5(0)
-    } else {
-      abilities += bin5(item.subs[i].id)
+function encodeSplashtag(item) {
+    var string = "";
+    var title = "";
+    title += bin10(item.adjective.id)
+    title += bin10(item.subject.id)
+    string += binaryToHex(title).result
+
+    var bgbadge = "";
+    bgbadge += bin9(item.bg.id)
+    for (var i = 0; i < item.badges.length; i++) {
+        if (item.badges[i] == null) {
+            bgbadge += bin9(0)
+        } else {
+            bgbadge += bin9(item.badges[i].id)
+        }
     }
-  }
-  string += binaryToHex(abilities).result
-  return string
+    string += binaryToHex(bgbadge).result
+    string += dec4(item.discriminator)
+    string += item.name
+    return string
+}
+
+function decodeSplashtag(code) {
+    var splashtag = {
+        adjective: null,
+        subject: null,
+        bg: null,
+        badges: [null, null, null]
+    }
+    var title = hexToBinary(code.substring(0, 5)).result
+    splashtag.adjective = parseInt(title.substring(0, 10), 2)
+    splashtag.subject = parseInt(title.substring(10, 20), 2)
+
+    var bgbadge = hexToBinary(code.substring(5, 14)).result
+    splashtag.bg = parseInt(bgbadge.substring(0, 9), 2)
+    for (var i = 0; i < 3; i++) {
+        splashtag.badges[i] = parseInt(bgbadge.substring(9 + i * 9, 18 + i * 9), 2)
+    }
+    splashtag.discriminator = parseInt(code.substring(14, 18), 10)
+    splashtag.name = code.substring(18)
+    return splashtag
+}
+
+function encodeGear(item) {
+    var string = hex8(item.equipped.id);
+    var abilities = "";
+    if (item.main == null) {
+        abilities += bin5(0)
+    } else {
+        abilities += bin5(item.main.id)
+    }
+    for (var i = 0; i < item.subs.length; i++) {
+        if (item.subs[i] == null) {
+            abilities += bin5(0)
+        } else {
+            abilities += bin5(item.subs[i].id)
+        }
+    }
+    string += binaryToHex(abilities).result
+    return string
 }
 
 function decodeGear(code) {
-  var gearid = parseInt(code.substring(0,2), 16)
-  var rawAbilities = code.substring(2,8)
-  var binAbilities = hexToBinary(rawAbilities).result
-  var main = parseInt(binAbilities.substring(0,5),2)
-  var subs = []
-  for(var i=5; i<binAbilities.length; i+=5) {
-    subs.push(parseInt(binAbilities.substring(i,i+5),2))
-  }
-  return {gear: gearid, main: main, subs: subs}
+    var gearid = parseInt(code.substring(0, 2), 16)
+    var rawAbilities = code.substring(2, 8)
+    var binAbilities = hexToBinary(rawAbilities).result
+    var main = parseInt(binAbilities.substring(0, 5), 2)
+    var subs = []
+    for (var i = 5; i < binAbilities.length; i += 5) {
+        subs.push(parseInt(binAbilities.substring(i, i + 5), 2))
+    }
+    return { gear: gearid, main: main, subs: subs }
 }
 
 function hex8(val) {
@@ -109,23 +193,41 @@ function bin5(val) {
     return bin;
 }
 
+function bin10(val) {
+    var bin = val.toString(2);
+    bin = "0000000000".substr(bin.length) + bin;
+    return bin;
+}
+
+function bin9(val) {
+    var bin = val.toString(2);
+    bin = "000000000".substr(bin.length) + bin;
+    return bin;
+}
+
+function dec4(val) {
+    var dec = val.toString(10);
+    dec = "0000".substr(dec.length) + dec;
+    return dec;
+}
+
 function decode(code) {
     if (code[0] != 0) {
         console.log("invalid code")
         return false;
     }
     try {
-      var weaponset = parseInt(code[1])
-      var weaponid = parseInt(code.substring(2, 4), 16)
-      var head = decodeGear(code.substring(4,11))
-      var clothes = decodeGear(code.substring(11,18))
-      var shoes = decodeGear(code.substring(18,25))
+        var weaponset = parseInt(code[1])
+        var weaponid = parseInt(code.substring(2, 4), 16)
+        var head = decodeGear(code.substring(4, 11))
+        var clothes = decodeGear(code.substring(11, 18))
+        var shoes = decodeGear(code.substring(18, 25))
+        var splashtag = decodeSplashtag(code.substring(25, 43))
+    } catch (err) {
+        console.log("Invalid code: " + err.message)
+        return false;
     }
-    catch(err) {
-      console.log("Invalid code: " + err.message)
-      return false;
-    }
-    return {set: weaponset, weapon: weaponid, head: head, clothes: clothes, shoes: shoes};
+    return { set: weaponset, weapon: weaponid, head: head, clothes: clothes, shoes: shoes, splashtag: splashtag };
 }
 
 function binaryToHex(s) {

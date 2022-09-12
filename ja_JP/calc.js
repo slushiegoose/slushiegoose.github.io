@@ -7,6 +7,10 @@ angular
         angular.module('splatApp').subs($scope);
         angular.module('splatApp').specials($scope);
         angular.module('splatApp').gear($scope);
+        angular.module('splatApp').adjectives($scope);
+        angular.module('splatApp').badges($scope);
+        angular.module('splatApp').splashtags($scope);
+        angular.module('splatApp').subjects($scope);
         angular.module('splatApp').clipboard($scope, $timeout);
         angular.module('splatApp').util($scope);
 
@@ -56,45 +60,6 @@ angular
             $scope.toggledAbilities[weaponType][statKey] = statName;
         }
 
-        $scope.loadSavedToggledAbilities = function() {
-            var weaponNameKeys = Object.keys($scope.toggledAbilities);
-
-            for (var i = 0; i < weaponNameKeys.length; i++) {
-                if (weaponNameKeys[i] == $scope.loadout.weapon.name) {
-                    var weaponName = weaponNameKeys[i];
-                    var statKeyKeys = Object.keys($scope.toggledAbilities[weaponName]);
-
-                    for (var j = 0; j < statKeyKeys.length; j++) {
-                        var statKey = statKeyKeys[j];
-                        var statName = $scope.toggledAbilities[weaponName][statKey];
-
-                        // TODO: The value stored should be a dictionary of the Stat Name and Ability Name
-                        var abilityName = null;
-                        if (statKey.indexOf("Main Power Up") != -1) {
-                            abilityName = "Main Power Up";
-                        }
-                        if (statKey == "Special Saved") {
-                            abilityName = "Special Saver";
-                        }
-                        if (statKey == "Sub Power") {
-                            abilityName = "Sub Power Up";
-                        }
-                        if (statKey == "Run Speed (Firing)") {
-                            abilityName = "Run Speed Up";
-                        }
-                        if (statKey == "Ink Consumption (Main)") {
-                            abilityName = "Ink Saver (Main)";
-                        }
-
-                        var abilityScore = $scope.loadout.calcAbilityScore(abilityName);
-                        var statValues = $scope.calcStat(abilityScore, weaponName, statName);
-                        $scope.displayStat(statKey, statValues.name, statValues.value, statValues.percentage, statValues.label);
-                    }
-                    break;
-                }
-            }
-        }
-
         $scope.checkIfToggledAbilityActive = function(name) {
             var weaponTypeKeys = Object.keys($scope.toggledAbilities);
 
@@ -115,150 +80,6 @@ angular
                 break;
             }
             return false;
-        }
-
-        $scope.resetConditionalAbilities = function() {
-            if (!$scope.loadout.hasAbility("Opening Gambit")) {
-                $scope.setConditionalAbilitySelected("Opening Gambit", false);
-            }
-            if (!$scope.loadout.hasAbility("Last-Ditch Effort")) {
-                $scope.setConditionalAbilitySelected("Last-Ditch Effort", false);
-                $scope.ldeSlider.visible = false;
-                $scope.ldeSlider.value = 50;
-            }
-            if (!$scope.loadout.hasAbility("Comeback")) {
-                $scope.setConditionalAbilitySelected("Comeback", false);
-            }
-            if (!$scope.loadout.hasAbility("Drop Roller")) {
-                $scope.setConditionalAbilitySelected("Drop Roller", false);
-            }
-        }
-
-        $scope.toggleConditionalAbilityCheckbox = function() {
-            if ($scope.loadout.hasAbility("Opening Gambit")) {
-                // 1. Modify the Swim Speed stat.
-                var abilityScore = $scope.loadout.calcAbilityScore('Swim Speed Up');
-                var statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_SWIM_SPEED");
-                $scope.displayStat("Swim Speed", statValues.name, statValues.value, statValues.percentage, statValues.label);
-
-                // 2. Modify the Run Speed stat.
-                abilityScore = $scope.loadout.calcAbilityScore('Run Speed Up');
-                statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_RUN_SPEED");
-                $scope.displayStat("Run Speed", statValues.name, statValues.value, statValues.percentage, statValues.label);
-
-                // 3. Modify the Ink Resistance (Run Speed) stat.
-                abilityScore = $scope.loadout.calcAbilityScore('Ink Resistance Up');
-                statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_RUN_SPEED_RESIST");
-                $scope.displayStat("Run Speed (Enemy Ink)", statValues.name, statValues.value, statValues.percentage, statValues.label);
-
-                // 4. Modify the Run Speed Firing stat.
-                abilityScore = $scope.loadout.calcAbilityScore('Run Speed Up');
-                statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_RUN_SPEED_FIRING");
-                $scope.displayStat("Run Speed (Firing)", statValues.name, statValues.value, statValues.percentage, statValues.label, statValues.desc);
-            }
-
-            if ($scope.loadout.hasAbility("Comeback")) {
-                // 1. Modify the Swim Speed stat.
-                var abilityScore = $scope.loadout.calcAbilityScore('Swim Speed Up');
-                var statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_SWIM_SPEED");
-                $scope.displayStat("Swim Speed", statValues.name, statValues.value, statValues.percentage, statValues.label);
-
-                // 2. Modify the Run Speed stat.
-                abilityScore = $scope.loadout.calcAbilityScore('Run Speed Up');
-                statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_RUN_SPEED");
-                $scope.displayStat("Run Speed", statValues.name, statValues.value, statValues.percentage, statValues.label);
-
-                // 3. Modify the Run Speed (Firing) stat.
-                abilityScore = $scope.loadout.calcAbilityScore('Run Speed Up');
-                statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_RUN_SPEED_FIRING");
-                $scope.displayStat("Run Speed (Firing)", statValues.name, statValues.value, statValues.percentage, statValues.label, statValues.desc);
-
-                // 1. Modify the Ink Consumption (Main) stat.
-                var abilityScore = $scope.loadout.calcAbilityScore('Ink Saver (Main)');
-                var statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_SAVER_MAIN");
-                $scope.displayStat("Ink Consumption (Main)", statValues.name, statValues.value, statValues.percentage, statValues.label, statValues.desc);
-
-                // 2. Modify the Ink Consumption (Sub) stat.
-                var abilityScore = $scope.loadout.calcAbilityScore('Ink Saver (Sub)');
-                var statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_SAVER_SUB");
-                $scope.displayStat("Ink Consumption (Sub)", statValues.name, statValues.value, statValues.percentage, statValues.label, statValues.desc);
-
-                // 3. Modify the Ink Recovery Speed (Squid) stat.
-                var abilityScore = $scope.loadout.calcAbilityScore('Ink Recovery Up');
-                var statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_RECOVERY_SQUID");
-                $scope.displayStat("Ink Recovery Speed (Squid)", statValues.name, statValues.value, statValues.percentage, statValues.label, statValues.desc);
-
-                // 4. Modify the Ink Recovery Speed (Kid) stat.
-                var abilityScore = $scope.loadout.calcAbilityScore('Ink Recovery Up');
-                var statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_RECOVERY_KID");
-                $scope.displayStat("Ink Recovery Speed (Kid)", statValues.name, statValues.value, statValues.percentage, statValues.label, statValues.desc);
-
-                // 8. Modify the Special Charge Speed stat.
-                var abilityScore = $scope.loadout.calcAbilityScore('Special Charge Up');
-                var statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_SPECIAL_CHARGE");
-                $scope.displayStat("Special Charge Speed", statValues.name, statValues.value, statValues.percentage, statValues.label);
-            }
-
-            if ($scope.loadout.hasAbility("Last-Ditch Effort")) {
-                $scope.ldeSlider.visible = true;
-                $timeout(function() {
-                    $scope.$broadcast('rzSliderForceRender');
-                });
-
-                if ($scope.conditionalAbilitySelected("Last-Ditch Effort")) {
-                    $scope.ldeSlider.options.disabled = false;
-                } else {
-                    $scope.ldeSlider.options.disabled = true;
-                }
-
-                // 1. Modify the Ink Consumption (Main) stat.
-                var abilityScore = $scope.loadout.calcAbilityScore('Ink Saver (Main)');
-                var statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_SAVER_MAIN");
-                $scope.displayStat("Ink Consumption (Main)", statValues.name, statValues.value, statValues.percentage, statValues.label, statValues.desc);
-
-                // 2. Modify the Ink Consumption (Sub) stat.
-                var abilityScore = $scope.loadout.calcAbilityScore('Ink Saver (Sub)');
-                var statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_SAVER_SUB");
-                $scope.displayStat("Ink Consumption (Sub)", statValues.name, statValues.value, statValues.percentage, statValues.label, statValues.desc);
-
-                // 3. Modify the Ink Recovery Speed (Squid) stat.
-                var abilityScore = $scope.loadout.calcAbilityScore('Ink Recovery Up');
-                var statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_RECOVERY_SQUID");
-                $scope.displayStat("Ink Recovery Speed (Squid)", statValues.name, statValues.value, statValues.percentage, statValues.label, statValues.desc);
-
-                // 4. Modify the Ink Recovery Speed (Kid) stat.
-                var abilityScore = $scope.loadout.calcAbilityScore('Ink Recovery Up');
-                var statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_RECOVERY_KID");
-                $scope.displayStat("Ink Recovery Speed (Kid)", statValues.name, statValues.value, statValues.percentage, statValues.label, statValues.desc);
-            } else {
-                $scope.ldeSlider.visible = false;
-            }
-
-            if ($scope.loadout.hasAbility("Drop Roller")) {
-                // 1. Modify the Swim Speed stat.
-                var abilityScore = $scope.loadout.calcAbilityScore('Swim Speed Up');
-                var statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_SWIM_SPEED");
-                $scope.displayStat("Swim Speed", statValues.name, statValues.value, statValues.percentage, statValues.label);
-
-                // 2. Modify the Run Speed stat.
-                abilityScore = $scope.loadout.calcAbilityScore('Run Speed Up');
-                statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_RUN_SPEED");
-                $scope.displayStat("Run Speed", statValues.name, statValues.value, statValues.percentage, statValues.label);
-
-                // 3. Modify the Ink Resistance (Run Speed) stat.
-                abilityScore = $scope.loadout.calcAbilityScore('Ink Resistance Up');
-                statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_RUN_SPEED_RESIST");
-                $scope.displayStat("Run Speed (Enemy Ink)", statValues.name, statValues.value, statValues.percentage, statValues.label);
-
-                // 4. Modify the Run Speed Firing stat.
-                abilityScore = $scope.loadout.calcAbilityScore('Run Speed Up');
-                statValues = $scope.calcStat(abilityScore, $scope.loadout.weapon.type, "STAT_RUN_SPEED_FIRING");
-                $scope.displayStat("Run Speed (Firing)", statValues.name, statValues.value, statValues.percentage, statValues.label, statValues.desc);
-            }
-        }
-
-        $scope.ldeSlider.options.onChange = function() {
-            $scope.toggleConditionalAbilityCheckbox();
         }
 
         $scope.calcLDEBonus = function() {
@@ -284,10 +105,13 @@ angular
         $scope.loadout.head.equipped = $scope.hats[0];
         $scope.loadout.clothes.equipped = $scope.clothes[0];
         $scope.loadout.shoes.equipped = $scope.shoes[0];
+        $scope.loadout.splashtag.adjective = $scope.adjectives[0];
+        $scope.loadout.splashtag.subject = $scope.subjects[0];
+        $scope.loadout.splashtag.bg = $scope.splashtags[0];
+        $scope.loadout.splashtag.discriminator = 0;
+        $scope.loadout.splashtag.name = "Player";
 
         $scope.$watch('loadout', function() {
-            $scope.resetConditionalAbilities();
-            $scope.loadSavedToggledAbilities();
             history.replaceState(undefined, undefined, "#" + $scope.encodeLoadout());
         }, true);
 
@@ -316,6 +140,15 @@ angular
                 for (var i = 0; i < 3; i++) {
                     newLoadout.shoes.subs[i] = $scope.getSkillById(results.shoes.subs[i])
                 }
+
+                newLoadout.splashtag.adjective = $scope.getAdjectiveById(results.splashtag.adjective)
+                newLoadout.splashtag.subject = $scope.getSubjectById(results.splashtag.subject)
+                newLoadout.splashtag.bg = $scope.getSplashtagById(results.splashtag.bg)
+                for (var i = 0; i < 3; i++) {
+                    newLoadout.splashtag.badges[i] = $scope.getBadgeById(results.splashtag.badges[i])
+                }
+                newLoadout.splashtag.discriminator = results.splashtag.discriminator
+                newLoadout.splashtag.name = results.splashtag.name
 
                 return newLoadout
             }
