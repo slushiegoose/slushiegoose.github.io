@@ -1,0 +1,767 @@
+[
+    {
+        "name": "Ink Vac",
+        "image": "../common/assets/img/subspe/Wsp_SpBlower.png",
+        "localizedName": {
+            "en_GB": "Ink Vac",
+            "en_US": "Ink Vac",
+            "es_ES": "Aspiratinta",
+            "es_MX": "Aspiratinta",
+            "fr_FR": "Aspirencre",
+            "fr_CA": "Aspirencre",
+            "de_DE": "Tintegrator",
+            "nl_NL": "Inktdief",
+            "ru_RU": "\u041a\u0440\u0430\u0441\u043a\u043e\u0441\u043e\u0441",
+            "it_IT": "Vampinchiostro",
+            "ja_JP": "\u30ad\u30e5\u30fc\u30a4\u30f3\u30ad"
+        }
+    },
+    {
+        "name": "Ink Vac",
+        "image": "../common/assets/img/subspe/Wsp_SpBlower_Mission.png",
+        "localizedName": {
+            "en_GB": "Ink Vac",
+            "en_US": "Ink Vac",
+            "es_ES": "Aspiratinta",
+            "es_MX": "Aspiratinta",
+            "fr_FR": "Aspirencre",
+            "fr_CA": "Aspirencre",
+            "de_DE": "Tintegrator",
+            "nl_NL": "Inktdief",
+            "ru_RU": "\u041a\u0440\u0430\u0441\u043a\u043e\u0441\u043e\u0441",
+            "it_IT": "Vampinchiostro",
+            "ja_JP": "\u30ad\u30e5\u30fc\u30a4\u30f3\u30ad"
+        }
+    },
+    {
+        "name": "Crab Tank",
+        "image": "../common/assets/img/subspe/Wsp_SpChariot.png",
+        "localizedName": {
+            "en_GB": "Crab Tank",
+            "en_US": "Crab Tank",
+            "es_ES": "Cangrejobot",
+            "es_MX": "Cangrejobot",
+            "fr_FR": "Crabe d'assaut",
+            "fr_CA": "Crabe d'assaut",
+            "de_DE": "Krabbenpanzer",
+            "nl_NL": "Krabbentank",
+            "ru_RU": "\u041a\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043a",
+            "it_IT": "Granchio armato",
+            "ja_JP": "\u30ab\u30cb\u30bf\u30f3\u30af"
+        }
+    },
+    {
+        "name": "Crab Tank",
+        "image": "../common/assets/img/subspe/Wsp_SpChariot_Coop.png",
+        "localizedName": {
+            "en_GB": "Crab Tank",
+            "en_US": "Crab Tank",
+            "es_ES": "Cangrejobot",
+            "es_MX": "Cangrejobot",
+            "fr_FR": "Crabe d'assaut",
+            "fr_CA": "Crabe d'assaut",
+            "de_DE": "Krabbenpanzer",
+            "nl_NL": "Krabbentank",
+            "ru_RU": "\u041a\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043a",
+            "it_IT": "Granchio armato",
+            "ja_JP": "\u30ab\u30cb\u30bf\u30f3\u30af"
+        }
+    },
+    {
+        "name": "Crab Tank",
+        "image": "../common/assets/img/subspe/Wsp_SpChariot_Mission.png",
+        "localizedName": {
+            "en_GB": "Crab Tank",
+            "en_US": "Crab Tank",
+            "es_ES": "Cangrejobot",
+            "es_MX": "Cangrejobot",
+            "fr_FR": "Crabe d'assaut",
+            "fr_CA": "Crabe d'assaut",
+            "de_DE": "Krabbenpanzer",
+            "nl_NL": "Krabbentank",
+            "ru_RU": "\u041a\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043a",
+            "it_IT": "Granchio armato",
+            "ja_JP": "\u30ab\u30cb\u30bf\u30f3\u30af"
+        }
+    },
+    {
+        "name": "Tacticooler",
+        "image": "../common/assets/img/subspe/Wsp_SpEnergyStand.png",
+        "localizedName": {
+            "en_GB": "Tacticooler",
+            "en_US": "Tacticooler",
+            "es_ES": "Dispensabebidas",
+            "es_MX": "Dispensabebidas",
+            "fr_FR": "Districool",
+            "fr_CA": "Districool",
+            "de_DE": "Tranktank",
+            "nl_NL": "Reddingsbar",
+            "ru_RU": "\u0422\u043e\u043d\u0438\u043a\u0443\u043b\u0435\u0440",
+            "it_IT": "Rinfrigorente",
+            "ja_JP": "\u30a8\u30ca\u30b8\u30fc\u30b9\u30bf\u30f3\u30c9"
+        }
+    },
+    {
+        "name": "Rainmaker",
+        "image": "../common/assets/img/subspe/Wsp_SpGachihoko.png",
+        "localizedName": {
+            "en_GB": "Rainmaker",
+            "en_US": "Rainmaker",
+            "es_ES": "Pez dorado",
+            "es_MX": "Pez dorado",
+            "fr_FR": "Bazookarpe",
+            "fr_CA": "Bazookarpe",
+            "de_DE": "Goldfischkanone",
+            "nl_NL": "Bazookarper",
+            "ru_RU": "\u041c\u0435\u0433\u0430\u043a\u0430\u0440\u043f",
+            "it_IT": "Bazookarp",
+            "ja_JP": "\u30ac\u30c1\u30db\u30b3"
+        }
+    },
+    {
+        "name": "Big Bubbler",
+        "image": "../common/assets/img/subspe/Wsp_SpGreatBarrier.png",
+        "localizedName": {
+            "en_GB": "Big Bubbler",
+            "en_US": "Big Bubbler",
+            "es_ES": "Megaburbuja",
+            "es_MX": "Megaburbuja",
+            "fr_FR": "Super bouclier",
+            "fr_CA": "Super bouclier",
+            "de_DE": "Kugelschild Pro",
+            "nl_NL": "Joekelschild",
+            "ru_RU": "\u0428\u0430\u0440\u043e\u0449\u0438\u0442",
+            "it_IT": "Gran bolla scudo",
+            "ja_JP": "\u30b0\u30ec\u30fc\u30c8\u30d0\u30ea\u30a2"
+        }
+    },
+    {
+        "name": "-",
+        "image": "../common/assets/img/subspe/Wsp_SpGreatBarrier_Rival.png",
+        "localizedName": {
+            "en_GB": "-",
+            "en_US": "-",
+            "es_ES": "-",
+            "es_MX": "-",
+            "fr_FR": "-",
+            "fr_CA": "-",
+            "de_DE": "-",
+            "nl_NL": "-",
+            "ru_RU": "-",
+            "it_IT": "-",
+            "ja_JP": "-"
+        }
+    },
+    {
+        "name": "-",
+        "image": "../common/assets/img/subspe/Wsp_SpIkuraShoot.png",
+        "localizedName": {
+            "en_GB": "-",
+            "en_US": "-",
+            "es_ES": "-",
+            "es_MX": "-",
+            "fr_FR": "-",
+            "fr_CA": "-",
+            "de_DE": "-",
+            "nl_NL": "-",
+            "ru_RU": "-",
+            "it_IT": "-",
+            "ja_JP": "-"
+        }
+    },
+    {
+        "name": "Ink Storm",
+        "image": "../common/assets/img/subspe/Wsp_SpInkStorm.png",
+        "localizedName": {
+            "en_GB": "Ink Storm",
+            "en_US": "Ink Storm",
+            "es_ES": "Atormentador",
+            "es_MX": "Atormentador",
+            "fr_FR": "Pluie d'encre",
+            "fr_CA": "Pluie d'encre",
+            "de_DE": "Tintenschauer",
+            "nl_NL": "Spetterbui",
+            "ru_RU": "\u0422\u0443\u0447\u0430 \u043a\u0440\u0430\u0441\u043a\u0438",
+            "it_IT": "Pioggia di colore",
+            "ja_JP": "\u30a2\u30e1\u30d5\u30e9\u30b7"
+        }
+    },
+    {
+        "name": "Ink Storm",
+        "image": "../common/assets/img/subspe/Wsp_SpInkStorm_Mission.png",
+        "localizedName": {
+            "en_GB": "Ink Storm",
+            "en_US": "Ink Storm",
+            "es_ES": "Atormentador",
+            "es_MX": "Atormentador",
+            "fr_FR": "Pluie d'encre",
+            "fr_CA": "Pluie d'encre",
+            "de_DE": "Tintenschauer",
+            "nl_NL": "Spetterbui",
+            "ru_RU": "\u0422\u0443\u0447\u0430 \u043a\u0440\u0430\u0441\u043a\u0438",
+            "it_IT": "Pioggia di colore",
+            "ja_JP": "\u30a2\u30e1\u30d5\u30e9\u30b7"
+        }
+    },
+    {
+        "name": "-",
+        "image": "../common/assets/img/subspe/Wsp_SpInkStorm_Rival.png",
+        "localizedName": {
+            "en_GB": "-",
+            "en_US": "-",
+            "es_ES": "-",
+            "es_MX": "-",
+            "fr_FR": "-",
+            "fr_CA": "-",
+            "de_DE": "-",
+            "nl_NL": "-",
+            "ru_RU": "-",
+            "it_IT": "-",
+            "ja_JP": "-"
+        }
+    },
+    {
+        "name": "Inkjet",
+        "image": "../common/assets/img/subspe/Wsp_SpJetpack.png",
+        "localizedName": {
+            "en_GB": "Inkjet",
+            "en_US": "Inkjet",
+            "es_ES": "Propulsor",
+            "es_MX": "Propulsor",
+            "fr_FR": "Chromo-jet",
+            "fr_CA": "Chromo-jet",
+            "de_DE": "Tintend\u00fcser",
+            "nl_NL": "Inktjet",
+            "ru_RU": "\u041a\u0440\u0430\u0441\u043a\u043e\u043b\u0435\u0442",
+            "it_IT": "Jet splat",
+            "ja_JP": "\u30b8\u30a7\u30c3\u30c8\u30d1\u30c3\u30af"
+        }
+    },
+    {
+        "name": "Inkjet",
+        "image": "../common/assets/img/subspe/Wsp_SpJetpack_Coop.png",
+        "localizedName": {
+            "en_GB": "Inkjet",
+            "en_US": "Inkjet",
+            "es_ES": "Propulsor",
+            "es_MX": "Propulsor",
+            "fr_FR": "Chromo-jet",
+            "fr_CA": "Chromo-jet",
+            "de_DE": "Tintend\u00fcser",
+            "nl_NL": "Inktjet",
+            "ru_RU": "\u041a\u0440\u0430\u0441\u043a\u043e\u043b\u0435\u0442",
+            "it_IT": "Jet splat",
+            "ja_JP": "\u30b8\u30a7\u30c3\u30c8\u30d1\u30c3\u30af"
+        }
+    },
+    {
+        "name": "Inkjet",
+        "image": "../common/assets/img/subspe/Wsp_SpJetpack_Mission.png",
+        "localizedName": {
+            "en_GB": "Inkjet",
+            "en_US": "Inkjet",
+            "es_ES": "Propulsor",
+            "es_MX": "Propulsor",
+            "fr_FR": "Chromo-jet",
+            "fr_CA": "Chromo-jet",
+            "de_DE": "Tintend\u00fcser",
+            "nl_NL": "Inktjet",
+            "ru_RU": "\u041a\u0440\u0430\u0441\u043a\u043e\u043b\u0435\u0442",
+            "it_IT": "Jet splat",
+            "ja_JP": "\u30b8\u30a7\u30c3\u30c8\u30d1\u30c3\u30af"
+        }
+    },
+    {
+        "name": "-",
+        "image": "../common/assets/img/subspe/Wsp_SpJetpack_Rival.png",
+        "localizedName": {
+            "en_GB": "-",
+            "en_US": "-",
+            "es_ES": "-",
+            "es_MX": "-",
+            "fr_FR": "-",
+            "fr_CA": "-",
+            "de_DE": "-",
+            "nl_NL": "-",
+            "ru_RU": "-",
+            "it_IT": "-",
+            "ja_JP": "-"
+        }
+    },
+    {
+        "name": "Killer Wail 5.1",
+        "image": "../common/assets/img/subspe/Wsp_SpMicroLaser.png",
+        "localizedName": {
+            "en_GB": "Killer Wail 5.1",
+            "en_US": "Killer Wail 5.1",
+            "es_ES": "Tint\u00f3fono 5.1",
+            "es_MX": "Berre\u00f3n 5.1",
+            "fr_FR": "Haut-perceur 5.1",
+            "fr_CA": "Laser per\u00e7ant 5.1",
+            "de_DE": "Heulboje 5.1",
+            "nl_NL": "Megalofoon 5.1",
+            "ru_RU": "\u041c\u0435\u0433\u0430\u043b\u043e\u0444\u043e\u043d 5.1",
+            "it_IT": "Tintofono 5.1",
+            "ja_JP": "\u30e1\u30ac\u30db\u30f3\u30ec\u30fc\u30b6\u30fc5.1ch"
+        }
+    },
+    {
+        "name": "Killer Wail 5.1",
+        "image": "../common/assets/img/subspe/Wsp_SpMicroLaser_Coop.png",
+        "localizedName": {
+            "en_GB": "Killer Wail 5.1",
+            "en_US": "Killer Wail 5.1",
+            "es_ES": "Tint\u00f3fono 5.1",
+            "es_MX": "Berre\u00f3n 5.1",
+            "fr_FR": "Haut-perceur 5.1",
+            "fr_CA": "Laser per\u00e7ant 5.1",
+            "de_DE": "Heulboje 5.1",
+            "nl_NL": "Megalofoon 5.1",
+            "ru_RU": "\u041c\u0435\u0433\u0430\u043b\u043e\u0444\u043e\u043d 5.1",
+            "it_IT": "Tintofono 5.1",
+            "ja_JP": "\u30e1\u30ac\u30db\u30f3\u30ec\u30fc\u30b6\u30fc5.1ch"
+        }
+    },
+    {
+        "name": "Killer Wail 5.1",
+        "image": "../common/assets/img/subspe/Wsp_SpMicroLaser_Mission.png",
+        "localizedName": {
+            "en_GB": "Killer Wail 5.1",
+            "en_US": "Killer Wail 5.1",
+            "es_ES": "Tint\u00f3fono 5.1",
+            "es_MX": "Berre\u00f3n 5.1",
+            "fr_FR": "Haut-perceur 5.1",
+            "fr_CA": "Laser per\u00e7ant 5.1",
+            "de_DE": "Heulboje 5.1",
+            "nl_NL": "Megalofoon 5.1",
+            "ru_RU": "\u041c\u0435\u0433\u0430\u043b\u043e\u0444\u043e\u043d 5.1",
+            "it_IT": "Tintofono 5.1",
+            "ja_JP": "\u30e1\u30ac\u30db\u30f3\u30ec\u30fc\u30b6\u30fc5.1ch"
+        }
+    },
+    {
+        "name": "Tenta Missiles",
+        "image": "../common/assets/img/subspe/Wsp_SpMultiMissile.png",
+        "localizedName": {
+            "en_GB": "Tenta Missiles",
+            "en_US": "Tenta Missiles",
+            "es_ES": "Lanzamisiles",
+            "es_MX": "Lanzamisiles",
+            "fr_FR": "Multi-missile",
+            "fr_CA": "Multi-missile",
+            "de_DE": "Schwarmraketen",
+            "nl_NL": "Spetterraketten",
+            "ru_RU": "\u041a\u0430\u0440\u0430\u043a\u0430\u0442\u043d\u0438\u0446\u0430",
+            "it_IT": "Lanciarazzi",
+            "ja_JP": "\u30de\u30eb\u30c1\u30df\u30b5\u30a4\u30eb"
+        }
+    },
+    {
+        "name": "Tenta Missiles",
+        "image": "../common/assets/img/subspe/Wsp_SpMultiMissile_Mission.png",
+        "localizedName": {
+            "en_GB": "Tenta Missiles",
+            "en_US": "Tenta Missiles",
+            "es_ES": "Lanzamisiles",
+            "es_MX": "Lanzamisiles",
+            "fr_FR": "Multi-missile",
+            "fr_CA": "Multi-missile",
+            "de_DE": "Schwarmraketen",
+            "nl_NL": "Spetterraketten",
+            "ru_RU": "\u041a\u0430\u0440\u0430\u043a\u0430\u0442\u043d\u0438\u0446\u0430",
+            "it_IT": "Lanciarazzi",
+            "ja_JP": "\u30de\u30eb\u30c1\u30df\u30b5\u30a4\u30eb"
+        }
+    },
+    {
+        "name": "-",
+        "image": "../common/assets/img/subspe/Wsp_SpMultiMissile_Rival.png",
+        "localizedName": {
+            "en_GB": "-",
+            "en_US": "-",
+            "es_ES": "-",
+            "es_MX": "-",
+            "fr_FR": "-",
+            "fr_CA": "-",
+            "de_DE": "-",
+            "nl_NL": "-",
+            "ru_RU": "-",
+            "it_IT": "-",
+            "ja_JP": "-"
+        }
+    },
+    {
+        "name": "Booyah Bomb",
+        "image": "../common/assets/img/subspe/Wsp_SpNiceBall.png",
+        "localizedName": {
+            "en_GB": "Booyah Bomb",
+            "en_US": "Booyah Bomb",
+            "es_ES": "Bola genializante",
+            "es_MX": "Bola genializante",
+            "fr_FR": "Jolizator",
+            "fr_CA": "Excellinator",
+            "de_DE": "Cool-Kugel",
+            "nl_NL": "Coole bom",
+            "ru_RU": "\u0419\u043e-\u0445\u043e-\u043f\u043b\u044e\u0445\u0435\u0440",
+            "it_IT": "Granbotto",
+            "ja_JP": "\u30ca\u30a4\u30b9\u30c0\u30de"
+        }
+    },
+    {
+        "name": "Booyah Bomb",
+        "image": "../common/assets/img/subspe/Wsp_SpNiceBall_Coop.png",
+        "localizedName": {
+            "en_GB": "Booyah Bomb",
+            "en_US": "Booyah Bomb",
+            "es_ES": "Bola genializante",
+            "es_MX": "Bola genializante",
+            "fr_FR": "Jolizator",
+            "fr_CA": "Excellinator",
+            "de_DE": "Cool-Kugel",
+            "nl_NL": "Coole bom",
+            "ru_RU": "\u0419\u043e-\u0445\u043e-\u043f\u043b\u044e\u0445\u0435\u0440",
+            "it_IT": "Granbotto",
+            "ja_JP": "\u30ca\u30a4\u30b9\u30c0\u30de"
+        }
+    },
+    {
+        "name": "Wave Breaker",
+        "image": "../common/assets/img/subspe/Wsp_SpShockSonar.png",
+        "localizedName": {
+            "en_GB": "Wave Breaker",
+            "en_US": "Wave Breaker",
+            "es_ES": "Emiteondas",
+            "es_MX": "Emiteondas",
+            "fr_FR": "Sonar paf",
+            "fr_CA": "Sonar paf",
+            "de_DE": "Schauerwelle",
+            "nl_NL": "Golfbeker",
+            "ru_RU": "\u0412\u043e\u043b\u043d\u043e\u043f\u043b\u044e\u0445\u0435\u0440",
+            "it_IT": "Sonar esplosivo",
+            "ja_JP": "\u30db\u30c3\u30d7\u30bd\u30ca\u30fc"
+        }
+    },
+    {
+        "name": "Wave Breaker",
+        "image": "../common/assets/img/subspe/Wsp_SpShockSonar_Coop.png",
+        "localizedName": {
+            "en_GB": "Wave Breaker",
+            "en_US": "Wave Breaker",
+            "es_ES": "Emiteondas",
+            "es_MX": "Emiteondas",
+            "fr_FR": "Sonar paf",
+            "fr_CA": "Sonar paf",
+            "de_DE": "Schauerwelle",
+            "nl_NL": "Golfbeker",
+            "ru_RU": "\u0412\u043e\u043b\u043d\u043e\u043f\u043b\u044e\u0445\u0435\u0440",
+            "it_IT": "Sonar esplosivo",
+            "ja_JP": "\u30db\u30c3\u30d7\u30bd\u30ca\u30fc"
+        }
+    },
+    {
+        "name": "Wave Breaker",
+        "image": "../common/assets/img/subspe/Wsp_SpShockSonar_Mission.png",
+        "localizedName": {
+            "en_GB": "Wave Breaker",
+            "en_US": "Wave Breaker",
+            "es_ES": "Emiteondas",
+            "es_MX": "Emiteondas",
+            "fr_FR": "Sonar paf",
+            "fr_CA": "Sonar paf",
+            "de_DE": "Schauerwelle",
+            "nl_NL": "Golfbeker",
+            "ru_RU": "\u0412\u043e\u043b\u043d\u043e\u043f\u043b\u044e\u0445\u0435\u0440",
+            "it_IT": "Sonar esplosivo",
+            "ja_JP": "\u30db\u30c3\u30d7\u30bd\u30ca\u30fc"
+        }
+    },
+    {
+        "name": "-",
+        "image": "../common/assets/img/subspe/Wsp_SpShockSonar_Rival.png",
+        "localizedName": {
+            "en_GB": "-",
+            "en_US": "-",
+            "es_ES": "-",
+            "es_MX": "-",
+            "fr_FR": "-",
+            "fr_CA": "-",
+            "de_DE": "-",
+            "nl_NL": "-",
+            "ru_RU": "-",
+            "it_IT": "-",
+            "ja_JP": "-"
+        }
+    },
+    {
+        "name": "Reefslider",
+        "image": "../common/assets/img/subspe/Wsp_SpSkewer.png",
+        "localizedName": {
+            "en_GB": "Reefslider",
+            "en_US": "Reefslider",
+            "es_ES": "Flotibur\u00f3n",
+            "es_MX": "Flotibur\u00f3n",
+            "fr_FR": "Cavalsquale",
+            "fr_CA": "Cavalsquale",
+            "de_DE": "Haihammer",
+            "nl_NL": "Opblaashaai",
+            "ru_RU": "\u041c\u043e\u0442\u043e\u043a\u0443\u043b\u0430",
+            "it_IT": "Motosqualo",
+            "ja_JP": "\u30b5\u30e1\u30e9\u30a4\u30c9"
+        }
+    },
+    {
+        "name": "Reefslider",
+        "image": "../common/assets/img/subspe/Wsp_SpSkewer_Coop.png",
+        "localizedName": {
+            "en_GB": "Reefslider",
+            "en_US": "Reefslider",
+            "es_ES": "Flotibur\u00f3n",
+            "es_MX": "Flotibur\u00f3n",
+            "fr_FR": "Cavalsquale",
+            "fr_CA": "Cavalsquale",
+            "de_DE": "Haihammer",
+            "nl_NL": "Opblaashaai",
+            "ru_RU": "\u041c\u043e\u0442\u043e\u043a\u0443\u043b\u0430",
+            "it_IT": "Motosqualo",
+            "ja_JP": "\u30b5\u30e1\u30e9\u30a4\u30c9"
+        }
+    },
+    {
+        "name": "Reefslider",
+        "image": "../common/assets/img/subspe/Wsp_SpSkewer_Mission.png",
+        "localizedName": {
+            "en_GB": "Reefslider",
+            "en_US": "Reefslider",
+            "es_ES": "Flotibur\u00f3n",
+            "es_MX": "Flotibur\u00f3n",
+            "fr_FR": "Cavalsquale",
+            "fr_CA": "Cavalsquale",
+            "de_DE": "Haihammer",
+            "nl_NL": "Opblaashaai",
+            "ru_RU": "\u041c\u043e\u0442\u043e\u043a\u0443\u043b\u0430",
+            "it_IT": "Motosqualo",
+            "ja_JP": "\u30b5\u30e1\u30e9\u30a4\u30c9"
+        }
+    },
+    {
+        "name": "Zipcaster",
+        "image": "../common/assets/img/subspe/Wsp_SpSuperHook.png",
+        "localizedName": {
+            "en_GB": "Zipcaster",
+            "en_US": "Zipcaster",
+            "es_ES": "Gancho tentacular",
+            "es_MX": "Gancho tentacular",
+            "fr_FR": "Super Mollusque",
+            "fr_CA": "Super Mollusque",
+            "de_DE": "Haftsprung",
+            "nl_NL": "Tentakabel",
+            "ru_RU": "\u041a\u0440\u0430\u0441\u043a\u043e\u0442\u0440\u043e\u0441",
+            "it_IT": "Molluscatto",
+            "ja_JP": "\u30b7\u30e7\u30af\u30ef\u30f3\u30c0\u30fc"
+        }
+    },
+    {
+        "name": "Zipcaster",
+        "image": "../common/assets/img/subspe/Wsp_SpSuperHook_Mission.png",
+        "localizedName": {
+            "en_GB": "Zipcaster",
+            "en_US": "Zipcaster",
+            "es_ES": "Gancho tentacular",
+            "es_MX": "Gancho tentacular",
+            "fr_FR": "Super Mollusque",
+            "fr_CA": "Super Mollusque",
+            "de_DE": "Haftsprung",
+            "nl_NL": "Tentakabel",
+            "ru_RU": "\u041a\u0440\u0430\u0441\u043a\u043e\u0442\u0440\u043e\u0441",
+            "it_IT": "Molluscatto",
+            "ja_JP": "\u30b7\u30e7\u30af\u30ef\u30f3\u30c0\u30fc"
+        }
+    },
+    {
+        "name": "Splashdown",
+        "image": "../common/assets/img/subspe/Wsp_SpSuperLanding.png",
+        "localizedName": {
+            "en_GB": "Splashdown",
+            "en_US": "Splashdown",
+            "es_ES": "Salto explosivo",
+            "es_MX": "Clavado",
+            "fr_FR": "Choc chromatique",
+            "fr_CA": "Choc chromatique",
+            "de_DE": "Tintenschock",
+            "nl_NL": "Superlanding",
+            "ru_RU": "\u041c\u0435\u0433\u0430\u043f\u043b\u044e\u0445",
+            "it_IT": "Vernischianto",
+            "ja_JP": "\u30b9\u30fc\u30d1\u30fc\u30c1\u30e3\u30af\u30c1"
+        }
+    },
+    {
+        "name": "Splashdown",
+        "image": "../common/assets/img/subspe/Wsp_SpSuperLanding_Coop.png",
+        "localizedName": {
+            "en_GB": "Splashdown",
+            "en_US": "Splashdown",
+            "es_ES": "Salto explosivo",
+            "es_MX": "Clavado",
+            "fr_FR": "Choc chromatique",
+            "fr_CA": "Choc chromatique",
+            "de_DE": "Tintenschock",
+            "nl_NL": "Superlanding",
+            "ru_RU": "\u041c\u0435\u0433\u0430\u043f\u043b\u044e\u0445",
+            "it_IT": "Vernischianto",
+            "ja_JP": "\u30b9\u30fc\u30d1\u30fc\u30c1\u30e3\u30af\u30c1"
+        }
+    },
+    {
+        "name": "-",
+        "image": "../common/assets/img/subspe/Wsp_SpSuperLanding_Rival.png",
+        "localizedName": {
+            "en_GB": "-",
+            "en_US": "-",
+            "es_ES": "-",
+            "es_MX": "-",
+            "fr_FR": "-",
+            "fr_CA": "-",
+            "de_DE": "-",
+            "nl_NL": "-",
+            "ru_RU": "-",
+            "it_IT": "-",
+            "ja_JP": "-"
+        }
+    },
+    {
+        "name": "Triple Inkstrike",
+        "image": "../common/assets/img/subspe/Wsp_SpTripleTornado.png",
+        "localizedName": {
+            "en_GB": "Triple Inkstrike",
+            "en_US": "Triple Inkstrike",
+            "es_ES": "Tornado triple",
+            "es_MX": "Tornado triple",
+            "fr_FR": "Trimissile tornade",
+            "fr_CA": "Trimissile tornade",
+            "de_DE": "Tri-Tintferno",
+            "nl_NL": "Tri-tornado",
+            "ru_RU": "\u0422\u0440\u043e\u0439\u043d\u043e\u0439 \u0442\u043e\u0440\u043d\u0430\u0434\u043e",
+            "it_IT": "Triplo tornado",
+            "ja_JP": "\u30c8\u30ea\u30d7\u30eb\u30c8\u30eb\u30cd\u30fc\u30c9"
+        }
+    },
+    {
+        "name": "Triple Inkstrike",
+        "image": "../common/assets/img/subspe/Wsp_SpTripleTornado_Coop.png",
+        "localizedName": {
+            "en_GB": "Triple Inkstrike",
+            "en_US": "Triple Inkstrike",
+            "es_ES": "Tornado triple",
+            "es_MX": "Tornado triple",
+            "fr_FR": "Trimissile tornade",
+            "fr_CA": "Trimissile tornade",
+            "de_DE": "Tri-Tintferno",
+            "nl_NL": "Tri-tornado",
+            "ru_RU": "\u0422\u0440\u043e\u0439\u043d\u043e\u0439 \u0442\u043e\u0440\u043d\u0430\u0434\u043e",
+            "it_IT": "Triplo tornado",
+            "ja_JP": "\u30c8\u30ea\u30d7\u30eb\u30c8\u30eb\u30cd\u30fc\u30c9"
+        }
+    },
+    {
+        "name": "Triple Inkstrike",
+        "image": "../common/assets/img/subspe/Wsp_SpTripleTornado_Mission.png",
+        "localizedName": {
+            "en_GB": "Triple Inkstrike",
+            "en_US": "Triple Inkstrike",
+            "es_ES": "Tornado triple",
+            "es_MX": "Tornado triple",
+            "fr_FR": "Trimissile tornade",
+            "fr_CA": "Trimissile tornade",
+            "de_DE": "Tri-Tintferno",
+            "nl_NL": "Tri-tornado",
+            "ru_RU": "\u0422\u0440\u043e\u0439\u043d\u043e\u0439 \u0442\u043e\u0440\u043d\u0430\u0434\u043e",
+            "it_IT": "Triplo tornado",
+            "ja_JP": "\u30c8\u30ea\u30d7\u30eb\u30c8\u30eb\u30cd\u30fc\u30c9"
+        }
+    },
+    {
+        "name": "Trizooka",
+        "image": "../common/assets/img/subspe/Wsp_SpUltraShot.png",
+        "localizedName": {
+            "en_GB": "Trizooka",
+            "en_US": "Trizooka",
+            "es_ES": "Tintazuca triple",
+            "es_MX": "Ca\u00f1\u00f3n triple",
+            "fr_FR": "Lance-rafales",
+            "fr_CA": "Lance-tornades",
+            "de_DE": "Trizooka",
+            "nl_NL": "Trizooka",
+            "ru_RU": "\u0413\u0440\u0430\u043d\u0430\u0442\u043e\u043c\u0435\u0442 \u00ab\u0422\u0440\u0435\u0437\u0443\u0431\u0435\u0446\u00bb",
+            "it_IT": "Ultraturbinator",
+            "ja_JP": "\u30a6\u30eb\u30c8\u30e9\u30b7\u30e7\u30c3\u30c8"
+        }
+    },
+    {
+        "name": "Trizooka",
+        "image": "../common/assets/img/subspe/Wsp_SpUltraShot_Coop.png",
+        "localizedName": {
+            "en_GB": "Trizooka",
+            "en_US": "Trizooka",
+            "es_ES": "Tintazuca triple",
+            "es_MX": "Ca\u00f1\u00f3n triple",
+            "fr_FR": "Lance-rafales",
+            "fr_CA": "Lance-tornades",
+            "de_DE": "Trizooka",
+            "nl_NL": "Trizooka",
+            "ru_RU": "\u0413\u0440\u0430\u043d\u0430\u0442\u043e\u043c\u0435\u0442 \u00ab\u0422\u0440\u0435\u0437\u0443\u0431\u0435\u0446\u00bb",
+            "it_IT": "Ultraturbinator",
+            "ja_JP": "\u30a6\u30eb\u30c8\u30e9\u30b7\u30e7\u30c3\u30c8"
+        }
+    },
+    {
+        "name": "Trizooka",
+        "image": "../common/assets/img/subspe/Wsp_SpUltraShot_Mission.png",
+        "localizedName": {
+            "en_GB": "Trizooka",
+            "en_US": "Trizooka",
+            "es_ES": "Tintazuca triple",
+            "es_MX": "Ca\u00f1\u00f3n triple",
+            "fr_FR": "Lance-rafales",
+            "fr_CA": "Lance-tornades",
+            "de_DE": "Trizooka",
+            "nl_NL": "Trizooka",
+            "ru_RU": "\u0413\u0440\u0430\u043d\u0430\u0442\u043e\u043c\u0435\u0442 \u00ab\u0422\u0440\u0435\u0437\u0443\u0431\u0435\u0446\u00bb",
+            "it_IT": "Ultraturbinator",
+            "ja_JP": "\u30a6\u30eb\u30c8\u30e9\u30b7\u30e7\u30c3\u30c8"
+        }
+    },
+    {
+        "name": "Ultra Stamp",
+        "image": "../common/assets/img/subspe/Wsp_SpUltraStamp.png",
+        "localizedName": {
+            "en_GB": "Ultra Stamp",
+            "en_US": "Ultra Stamp",
+            "es_ES": "Ultraselladora",
+            "es_MX": "Ultraselladora",
+            "fr_FR": "Ultra-tamponneur",
+            "fr_CA": "Ultra-\u00e9tampeur",
+            "de_DE": "Ultra-Stempel",
+            "nl_NL": "Ultrastempel",
+            "ru_RU": "\u041f\u0440\u0438\u043f\u0435\u0447\u0430\u0442\u044c",
+            "it_IT": "Mega timbro",
+            "ja_JP": "\u30a6\u30eb\u30c8\u30e9\u30cf\u30f3\u30b3"
+        }
+    },
+    {
+        "name": "Ultra Stamp",
+        "image": "../common/assets/img/subspe/Wsp_SpUltraStamp_Mission.png",
+        "localizedName": {
+            "en_GB": "Ultra Stamp",
+            "en_US": "Ultra Stamp",
+            "es_ES": "Ultraselladora",
+            "es_MX": "Ultraselladora",
+            "fr_FR": "Ultra-tamponneur",
+            "fr_CA": "Ultra-\u00e9tampeur",
+            "de_DE": "Ultra-Stempel",
+            "nl_NL": "Ultrastempel",
+            "ru_RU": "\u041f\u0440\u0438\u043f\u0435\u0447\u0430\u0442\u044c",
+            "it_IT": "Mega timbro",
+            "ja_JP": "\u30a6\u30eb\u30c8\u30e9\u30cf\u30f3\u30b3"
+        }
+    }
+]

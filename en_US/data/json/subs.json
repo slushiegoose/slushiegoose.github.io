@@ -1,0 +1,359 @@
+[
+    {
+        "name": "Squid Beakon",
+        "image": "../common/assets/img/subspe/Wsb_Beacon.png",
+        "localizedName": {
+            "en_GB": "Squid Beakon",
+            "en_US": "Squid Beakon",
+            "es_ES": "Baliza transportadora",
+            "es_MX": "Baliza",
+            "fr_FR": "Balise de saut",
+            "fr_CA": "Balise de saut",
+            "de_DE": "Sprungboje",
+            "nl_NL": "Springschotel",
+            "ru_RU": "\u041f\u0440\u044b\u0436\u043a\u043e\u0432\u044b\u0439 \u043c\u0430\u044f\u0447\u043e\u043a",
+            "it_IT": "Trasferitore",
+            "ja_JP": "\u30b8\u30e3\u30f3\u30d7\u30d3\u30fc\u30b3\u30f3"
+        }
+    },
+    {
+        "name": "Curling Bomb",
+        "image": "../common/assets/img/subspe/Wsb_Bomb_Curling.png",
+        "localizedName": {
+            "en_GB": "Curling Bomb",
+            "en_US": "Curling Bomb",
+            "es_ES": "Bomba deslizante",
+            "es_MX": "Bomba deslizante",
+            "fr_FR": "Bombe curling",
+            "fr_CA": "Bombe curling",
+            "de_DE": "Curling-Bombe",
+            "nl_NL": "Curlingbom",
+            "ru_RU": "\u041a\u0435\u0440\u043b\u0438\u043d\u0433-\u0431\u043e\u043c\u0431\u0430",
+            "it_IT": "Bomba curling",
+            "ja_JP": "\u30ab\u30fc\u30ea\u30f3\u30b0\u30dc\u30e0"
+        }
+    },
+    {
+        "name": "-",
+        "image": "../common/assets/img/subspe/Wsb_Bomb_Curling_Rival.png",
+        "localizedName": {
+            "en_GB": "-",
+            "en_US": "-",
+            "es_ES": "-",
+            "es_MX": "-",
+            "fr_FR": "-",
+            "fr_CA": "-",
+            "de_DE": "-",
+            "nl_NL": "-",
+            "ru_RU": "-",
+            "it_IT": "-",
+            "ja_JP": "-"
+        }
+    },
+    {
+        "name": "Fizzy Bomb",
+        "image": "../common/assets/img/subspe/Wsb_Bomb_Fizzy.png",
+        "localizedName": {
+            "en_GB": "Fizzy Bomb",
+            "en_US": "Fizzy Bomb",
+            "es_ES": "Bomba carb\u00f3nica",
+            "es_MX": "Bomba carb\u00f3nica",
+            "fr_FR": "Bombe soda",
+            "fr_CA": "Bombe soda",
+            "de_DE": "Sprudel-Bombe",
+            "nl_NL": "Bomblikje",
+            "ru_RU": "\u0421\u043e\u0434\u043e\u0432\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
+            "it_IT": "Bomba a gassosa",
+            "ja_JP": "\u30bf\u30f3\u30b5\u30f3\u30dc\u30e0"
+        }
+    },
+    {
+        "name": "Burst Bomb",
+        "image": "../common/assets/img/subspe/Wsb_Bomb_Quick.png",
+        "localizedName": {
+            "en_GB": "Burst Bomb",
+            "en_US": "Burst Bomb",
+            "es_ES": "Bomba r\u00e1pida",
+            "es_MX": "Globo entintado",
+            "fr_FR": "Bombe ballon",
+            "fr_CA": "Bombe ballon",
+            "de_DE": "Insta-Bombe",
+            "nl_NL": "Ballonbom",
+            "ru_RU": "\u0420\u0430\u0437\u0440\u044b\u0432\u043d\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
+            "it_IT": "Granata",
+            "ja_JP": "\u30af\u30a4\u30c3\u30af\u30dc\u30e0"
+        }
+    },
+    {
+        "name": "-",
+        "image": "../common/assets/img/subspe/Wsb_Bomb_Quick_Rival.png",
+        "localizedName": {
+            "en_GB": "-",
+            "en_US": "-",
+            "es_ES": "-",
+            "es_MX": "-",
+            "fr_FR": "-",
+            "fr_CA": "-",
+            "de_DE": "-",
+            "nl_NL": "-",
+            "ru_RU": "-",
+            "it_IT": "-",
+            "ja_JP": "-"
+        }
+    },
+    {
+        "name": "Autobomb",
+        "image": "../common/assets/img/subspe/Wsb_Bomb_Robot.png",
+        "localizedName": {
+            "en_GB": "Autobomb",
+            "en_US": "Autobomb",
+            "es_ES": "Robobomba",
+            "es_MX": "Robobomba",
+            "fr_FR": "Bombe robot",
+            "fr_CA": "Bombe robot",
+            "de_DE": "Robo-Bombe",
+            "nl_NL": "Robobom",
+            "ru_RU": "\u0420\u043e\u0431\u043e\u0431\u043e\u043c\u0431\u0430",
+            "it_IT": "Robo-bomba",
+            "ja_JP": "\u30ed\u30dc\u30c3\u30c8\u30dc\u30e0"
+        }
+    },
+    {
+        "name": "-",
+        "image": "../common/assets/img/subspe/Wsb_Bomb_Robot_Rival.png",
+        "localizedName": {
+            "en_GB": "-",
+            "en_US": "-",
+            "es_ES": "-",
+            "es_MX": "-",
+            "fr_FR": "-",
+            "fr_CA": "-",
+            "de_DE": "-",
+            "nl_NL": "-",
+            "ru_RU": "-",
+            "it_IT": "-",
+            "ja_JP": "-"
+        }
+    },
+    {
+        "name": "Splat Bomb",
+        "image": "../common/assets/img/subspe/Wsb_Bomb_Splash.png",
+        "localizedName": {
+            "en_GB": "Splat Bomb",
+            "en_US": "Splat Bomb",
+            "es_ES": "Bomba b\u00e1sica",
+            "es_MX": "Plasbomba",
+            "fr_FR": "Bombe splash",
+            "fr_CA": "Bombe splash",
+            "de_DE": "Klecks-Bombe",
+            "nl_NL": "Klodderbom",
+            "ru_RU": "\u0411\u0440\u044b\u0437\u0433\u0430\u044e\u0449\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
+            "it_IT": "Bomba splash",
+            "ja_JP": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5\u30dc\u30e0"
+        }
+    },
+    {
+        "name": "-",
+        "image": "../common/assets/img/subspe/Wsb_Bomb_Splash_Big_Coop.png",
+        "localizedName": {
+            "en_GB": "-",
+            "en_US": "-",
+            "es_ES": "-",
+            "es_MX": "-",
+            "fr_FR": "-",
+            "fr_CA": "-",
+            "de_DE": "-",
+            "nl_NL": "-",
+            "ru_RU": "-",
+            "it_IT": "-",
+            "ja_JP": "-"
+        }
+    },
+    {
+        "name": "-",
+        "image": "../common/assets/img/subspe/Wsb_Bomb_Splash_Coop.png",
+        "localizedName": {
+            "en_GB": "-",
+            "en_US": "-",
+            "es_ES": "-",
+            "es_MX": "-",
+            "fr_FR": "-",
+            "fr_CA": "-",
+            "de_DE": "-",
+            "nl_NL": "-",
+            "ru_RU": "-",
+            "it_IT": "-",
+            "ja_JP": "-"
+        }
+    },
+    {
+        "name": "-",
+        "image": "../common/assets/img/subspe/Wsb_Bomb_Splash_Rival.png",
+        "localizedName": {
+            "en_GB": "-",
+            "en_US": "-",
+            "es_ES": "-",
+            "es_MX": "-",
+            "fr_FR": "-",
+            "fr_CA": "-",
+            "de_DE": "-",
+            "nl_NL": "-",
+            "ru_RU": "-",
+            "it_IT": "-",
+            "ja_JP": "-"
+        }
+    },
+    {
+        "name": "Suction Bomb",
+        "image": "../common/assets/img/subspe/Wsb_Bomb_Suction.png",
+        "localizedName": {
+            "en_GB": "Suction Bomb",
+            "en_US": "Suction Bomb",
+            "es_ES": "Bomba ventosa",
+            "es_MX": "Bomba pegajosa",
+            "fr_FR": "Bombe gluante",
+            "fr_CA": "Bombe gluante",
+            "de_DE": "Haftbombe",
+            "nl_NL": "Kleefbom",
+            "ru_RU": "\u0411\u043e\u043c\u0431\u0430 \u043d\u0430 \u043f\u0440\u0438\u0441\u043e\u0441\u043a\u0435",
+            "it_IT": "Appiccibomba",
+            "ja_JP": "\u30ad\u30e5\u30fc\u30d0\u30f3\u30dc\u30e0"
+        }
+    },
+    {
+        "name": "Torpedo",
+        "image": "../common/assets/img/subspe/Wsb_Bomb_Torpedo.png",
+        "localizedName": {
+            "en_GB": "Torpedo",
+            "en_US": "Torpedo",
+            "es_ES": "Torpedo",
+            "es_MX": "Torpedo",
+            "fr_FR": "Bentorpille",
+            "fr_CA": "Bentorpille",
+            "de_DE": "Torpedo",
+            "nl_NL": "Torpedobom",
+            "ru_RU": "\u0422\u043e\u0440\u043f\u0435\u0434\u043d\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
+            "it_IT": "Torpedinatore",
+            "ja_JP": "\u30c8\u30fc\u30d4\u30fc\u30c9"
+        }
+    },
+    {
+        "name": "Angle Shooter",
+        "image": "../common/assets/img/subspe/Wsb_LineMarker.png",
+        "localizedName": {
+            "en_GB": "Angle Shooter",
+            "en_US": "Angle Shooter",
+            "es_ES": "Tiral\u00edneas",
+            "es_MX": "Dardo resaltador",
+            "fr_FR": "Ricocheur",
+            "fr_CA": "Ricocheur",
+            "de_DE": "Winkelmarker",
+            "nl_NL": "Ketskogel",
+            "ru_RU": "\u0423\u0433\u043b\u043e\u0441\u0442\u0440\u0435\u043b",
+            "it_IT": "Sparalinee",
+            "ja_JP": "\u30e9\u30a4\u30f3\u30de\u30fc\u30ab\u30fc"
+        }
+    },
+    {
+        "name": "Point Sensor",
+        "image": "../common/assets/img/subspe/Wsb_PointSensor.png",
+        "localizedName": {
+            "en_GB": "Point Sensor",
+            "en_US": "Point Sensor",
+            "es_ES": "Rastreador",
+            "es_MX": "Rastreador",
+            "fr_FR": "D\u00e9tecteur",
+            "fr_CA": "D\u00e9tecteur",
+            "de_DE": "Detektor",
+            "nl_NL": "Detector",
+            "ru_RU": "\u041c\u0430\u0440\u043a\u0435\u0440 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f",
+            "it_IT": "Cimice",
+            "ja_JP": "\u30dd\u30a4\u30f3\u30c8\u30bb\u30f3\u30b5\u30fc"
+        }
+    },
+    {
+        "name": "Toxic Mist",
+        "image": "../common/assets/img/subspe/Wsb_PoisonMist.png",
+        "localizedName": {
+            "en_GB": "Toxic Mist",
+            "en_US": "Toxic Mist",
+            "es_ES": "Nebulizador",
+            "es_MX": "Nebulizador",
+            "fr_FR": "Brume toxique",
+            "fr_CA": "Brume toxique",
+            "de_DE": "Sepitox-Nebel",
+            "nl_NL": "Gifmist",
+            "ru_RU": "\u0415\u0434\u043a\u0438\u0439 \u0442\u0443\u043c\u0430\u043d",
+            "it_IT": "Nebbia tossica",
+            "ja_JP": "\u30dd\u30a4\u30ba\u30f3\u30df\u30b9\u30c8"
+        }
+    },
+    {
+        "name": "Smallfry",
+        "image": "../common/assets/img/subspe/Wsb_SalmonBuddy.png",
+        "localizedName": {
+            "en_GB": "Smallfry",
+            "en_US": "Smallfry",
+            "es_ES": "Cenutr\u00edn",
+            "es_MX": "Escamita",
+            "fr_FR": "Salmioche",
+            "fr_CA": "Salmio",
+            "de_DE": "Salmini",
+            "nl_NL": "Salmini",
+            "ru_RU": "\u041c\u0430\u043b\u0435\u0442\u0447\u0438\u043a",
+            "it_IT": "Salmonello",
+            "ja_JP": "\u30b3\u30b8\u30e3\u30b1"
+        }
+    },
+    {
+        "name": "Splash Wall",
+        "image": "../common/assets/img/subspe/Wsb_Shield.png",
+        "localizedName": {
+            "en_GB": "Splash Wall",
+            "en_US": "Splash Wall",
+            "es_ES": "Tel\u00f3n de tinta",
+            "es_MX": "Barricada",
+            "fr_FR": "Mur d'encre",
+            "fr_CA": "Mur d'encre",
+            "de_DE": "Tintenwall",
+            "nl_NL": "Inktgordijn",
+            "ru_RU": "\u0427\u0435\u0440\u043d\u0438\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043d\u0430\u0432\u0435\u0441",
+            "it_IT": "Muro di colore",
+            "ja_JP": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5\u30b7\u30fc\u30eb\u30c9"
+        }
+    },
+    {
+        "name": "Sprinkler",
+        "image": "../common/assets/img/subspe/Wsb_Sprinkler.png",
+        "localizedName": {
+            "en_GB": "Sprinkler",
+            "en_US": "Sprinkler",
+            "es_ES": "Aspersor",
+            "es_MX": "Aspersor",
+            "fr_FR": "Fontaine",
+            "fr_CA": "Gicleur",
+            "de_DE": "Sprinkler",
+            "nl_NL": "Inktsprinkler",
+            "ru_RU": "\u0420\u0430\u0441\u043f\u044b\u043b\u044f\u0442\u043e\u0440",
+            "it_IT": "Spruzzatore",
+            "ja_JP": "\u30b9\u30d7\u30ea\u30f3\u30af\u30e9\u30fc"
+        }
+    },
+    {
+        "name": "Ink Mine",
+        "image": "../common/assets/img/subspe/Wsb_Trap.png",
+        "localizedName": {
+            "en_GB": "Ink Mine",
+            "en_US": "Ink Mine",
+            "es_ES": "Bomba trampa",
+            "es_MX": "Mina de tinta",
+            "fr_FR": "Mine",
+            "fr_CA": "Mine d'encre",
+            "de_DE": "Tintenmine",
+            "nl_NL": "Inktmijn",
+            "ru_RU": "\u041c\u0438\u043d\u0430",
+            "it_IT": "Mina",
+            "ja_JP": "\u30c8\u30e9\u30c3\u30d7"
+        }
+    }
+]

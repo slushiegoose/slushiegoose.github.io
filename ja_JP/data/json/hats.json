@@ -1,0 +1,1862 @@
+[
+    {
+        "id": 0,
+        "name": "Squid Hairclip",
+        "image": "../common/assets/img/gear/hats/Hed_AMB000.png",
+        "main": "Swim Speed Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Squid Hairclip",
+            "en_US": "Squid Hairclip",
+            "es_ES": "Horquilla calamar",
+            "es_MX": "Pasador de calamar",
+            "fr_FR": "Barrette seiche",
+            "fr_CA": "Barrette calmar",
+            "de_DE": "Tintenfisch-Spange",
+            "nl_NL": "Inktvishaarspeld",
+            "ru_RU": "\u0417\u0430\u043a\u043e\u043b\u043a\u0430 \u00ab\u041a\u0430\u043b\u044c\u043c\u0430\u0440\u0447\u0438\u043a\u00bb",
+            "it_IT": "Fermaglio calamaro",
+            "ja_JP": "\u30a4\u30ab\u30d1\u30c3\u30c1\u30f3"
+        }
+    },
+    {
+        "id": 1,
+        "name": "Samurai Helmet",
+        "image": "../common/assets/img/gear/hats/Hed_AMB001.png",
+        "main": "Quick Super Jump",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Samurai Helmet",
+            "en_US": "Samurai Helmet",
+            "es_ES": "Casco samur\u00e1i",
+            "es_MX": "Casco de samur\u00e1i",
+            "fr_FR": "Casque de samoura\u00ef",
+            "fr_CA": "Casque de samoura\u00ef",
+            "de_DE": "Samurai-Helm",
+            "nl_NL": "Samoeraihelm",
+            "ru_RU": "\u0428\u043b\u0435\u043c \u0441\u0430\u043c\u0443\u0440\u0430\u044f",
+            "it_IT": "Elmo da samurai",
+            "ja_JP": "\u30b5\u30e0\u30e9\u30a4\u30d8\u30eb\u30e1\u30c3\u30c8"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Power Mask",
+        "image": "../common/assets/img/gear/hats/Hed_AMB002.png",
+        "main": "Sub Resistance Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Power Mask",
+            "en_US": "Power Mask",
+            "es_ES": "Tecnom\u00e1scara",
+            "es_MX": "M\u00e1scara futurista",
+            "fr_FR": "Casque m\u00e9ca",
+            "fr_CA": "Casque futuriste",
+            "de_DE": "Exo-Helm",
+            "nl_NL": "Hightechhelm",
+            "ru_RU": "\u0421\u0438\u043b\u043e\u0432\u043e\u0439 \u0448\u043b\u0435\u043c",
+            "it_IT": "Maschera hi-tech",
+            "ja_JP": "\u30d1\u30ef\u30fc\u30c9\u30de\u30b9\u30af"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Squid Clip-Ons",
+        "image": "../common/assets/img/gear/hats/Hed_AMB003.png",
+        "main": "Opening Gambit",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Squid Clip-Ons",
+            "en_US": "Squid Clip-Ons",
+            "es_ES": "Pendientes calamar",
+            "es_MX": "Aretes calamar",
+            "fr_FR": "Boucles d'oreilles seiche",
+            "fr_CA": "Boucle d'oreilles clip calmar",
+            "de_DE": "Tintenfisch-Ohrclips",
+            "nl_NL": "Inktvisoorbellen",
+            "ru_RU": "\u041a\u043b\u0438\u043f\u0441\u044b Splatoon 2",
+            "it_IT": "Orecchini calamaro",
+            "ja_JP": "\u30a4\u30ab\u30af\u30ea\u30c3\u30d7"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Squinja Mask Mk II",
+        "image": "../common/assets/img/gear/hats/Hed_AMB004.png",
+        "main": "Quick Respawn",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Squinja Mask Mk II",
+            "en_US": "Squinja Mask Mk II",
+            "es_ES": "M\u00e1scara ninja (II)",
+            "es_MX": "M\u00e1scara ninja (II)",
+            "fr_FR": "Masque de ninja Mk II",
+            "fr_CA": "Masque de ninja Mk II",
+            "de_DE": "Ninja-Maske II",
+            "nl_NL": "Ninjamasker Ver. 2",
+            "ru_RU": "\u041c\u0430\u0441\u043a\u0430 \u043d\u0438\u043d\u0434\u0437\u044f\u043b\u0438\u043d\u0433\u0430 \u041c-2",
+            "it_IT": "Maschera ninja II",
+            "ja_JP": "\u30a4\u30ab\u30ab\u30b2\u30de\u30b9\u30af\u4e59"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Power Mask Mk I",
+        "image": "../common/assets/img/gear/hats/Hed_AMB005.png",
+        "main": "Ink Resistance Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Power Mask Mk I",
+            "en_US": "Power Mask Mk I",
+            "es_ES": "Prototipo de tecnom\u00e1scara",
+            "es_MX": "M\u00e1scara futurista II",
+            "fr_FR": "Casque m\u00e9ca Mk I",
+            "fr_CA": "Casque futuriste Mk I",
+            "de_DE": "Exo-Prototypenhelm",
+            "nl_NL": "Hightechhelm (prototype)",
+            "ru_RU": "\u0421\u0438\u043b\u043e\u0432\u043e\u0439 \u0448\u043b\u0435\u043c \u041c-1",
+            "it_IT": "Prototipo di maschera hi-tech",
+            "ja_JP": "\u30d1\u30ef\u30fc\u30c9\u30de\u30b9\u30af \u30aa\u30ea\u30b8\u30f3"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Pearlescent Crown S",
+        "image": "../common/assets/img/gear/hats/Hed_AMB006.png",
+        "main": "Sub Resistance Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Pearlescent Crown S",
+            "en_US": "Pearlescent Crown S",
+            "es_ES": "Corona perl\u00edfera (S)",
+            "es_MX": "Corona perl\u00edfera (P)",
+            "fr_FR": "Petite couronne princi\u00e8re",
+            "fr_CA": "Petite couronne princi\u00e8re",
+            "de_DE": "Perla-Krone S",
+            "nl_NL": "Loreleis kroon S",
+            "ru_RU": "\u0416\u0435\u043c-\u043a\u043e\u0440\u043e\u043d\u0430 (\u043c\u0438\u043d\u0438)",
+            "it_IT": "Corona di Alga (S)",
+            "ja_JP": "\u30d2\u30e1\u30a4\u30c8\u30af\u30e9\u30a6\u30f3S"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Marinated Headphones",
+        "image": "../common/assets/img/gear/hats/Hed_AMB007.png",
+        "main": "Special Saver",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Marinated Headphones",
+            "en_US": "Marinated Headphones",
+            "es_ES": "Auriculares mar\u00ednicos",
+            "es_MX": "Auriculares mar\u00ednicos",
+            "fr_FR": "Casque coralien",
+            "fr_CA": "Casque coralien",
+            "de_DE": "Marina-Kopfh\u00f6rer",
+            "nl_NL": "Mariana's koptelefoon",
+            "ru_RU": "\u0420\u0438\u0448-\u043d\u0430\u0443\u0448\u043d\u0438\u043a\u0438",
+            "it_IT": "Cuffie di Nori",
+            "ja_JP": "\u30a4\u30a4\u30c0\u30c1\u30d8\u30c3\u30c9\u30db\u30f3"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Enchanted Hat",
+        "image": "../common/assets/img/gear/hats/Hed_AMB008.png",
+        "main": "Ink Saver (Main)",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Enchanted Hat",
+            "en_US": "Enchanted Hat",
+            "es_ES": "Sombrero hechizado",
+            "es_MX": "Sombrero hechizado",
+            "fr_FR": "Chapeau magique",
+            "fr_CA": "Chapeau magique",
+            "de_DE": "Zauberhut",
+            "nl_NL": "Toverhoed",
+            "ru_RU": "\u0428\u043b\u044f\u043f\u0430 \u043a\u043e\u043b\u0434\u0443\u043d\u044c\u0438",
+            "it_IT": "Cappello stregonesco",
+            "ja_JP": "\u30a8\u30f3\u30c1\u30e3\u30f3\u30c8\u30cf\u30c3\u30c8"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Steel Helm",
+        "image": "../common/assets/img/gear/hats/Hed_AMB009.png",
+        "main": "Special Charge Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Steel Helm",
+            "en_US": "Steel Helm",
+            "es_ES": "Casco octoguerrero",
+            "es_MX": "Casco de acero",
+            "fr_FR": "Casque d'Octaguerrier",
+            "fr_CA": "Casque d'octaguerrier",
+            "de_DE": "Oktoritter-Helm",
+            "nl_NL": "Octoridderhelm",
+            "ru_RU": "\u0428\u043b\u0435\u043c \u043e\u0441\u044c\u043c\u043e\u0440\u044b\u0446\u0430\u0440\u044f",
+            "it_IT": "Elmo da octoguerriero",
+            "ja_JP": "\u30bf\u30b3\u30c6\u30a3\u30ab\u30eb\u306a\u30d8\u30eb\u30e0"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Fresh Fish Head",
+        "image": "../common/assets/img/gear/hats/Hed_AMB010.png",
+        "main": "Comeback",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Fresh Fish Head",
+            "en_US": "Fresh Fish Head",
+            "es_ES": "M\u00e1scara de mu\u00f1ecote",
+            "es_MX": "Cabeza de pececito",
+            "fr_FR": "T\u00eate de mascotte",
+            "fr_CA": "T\u00eate de mascotte",
+            "de_DE": "Flosso-Kopf",
+            "nl_NL": "Mascottehoofd",
+            "ru_RU": "\u041c\u0430\u0441\u043a\u0430 \u041f\u043b\u0430\u0432\u043d\u0438\u0448\u043a\u0438",
+            "it_IT": "Testona da mascotte",
+            "ja_JP": "\u3072\u308c\u304a\u304f\u3093"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Squinja Mask Mk I",
+        "image": "../common/assets/img/gear/hats/Hed_AMB016.png",
+        "main": "Quick Respawn",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Squinja Mask Mk I",
+            "en_US": "Squinja Mask Mk I",
+            "es_ES": "M\u00e1scara ninja (I)",
+            "es_MX": "M\u00e1scara ninja (I)",
+            "fr_FR": "Masque de ninja Mk I",
+            "fr_CA": "Masque de ninja Mk I",
+            "de_DE": "Ninja-Maske I",
+            "nl_NL": "Ninjamasker Ver. 1",
+            "ru_RU": "\u041c\u0430\u0441\u043a\u0430 \u043d\u0438\u043d\u0434\u0437\u044f\u043b\u0438\u043d\u0433\u0430 \u041c-1",
+            "it_IT": "Maschera ninja I",
+            "ja_JP": "\u30a4\u30ab\u30ab\u30b2\u30de\u30b9\u30af\u7532"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Pearlescent Crown L",
+        "image": "../common/assets/img/gear/hats/Hed_AMB017.png",
+        "main": "Sub Resistance Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Pearlescent Crown L",
+            "en_US": "Pearlescent Crown L",
+            "es_ES": "Corona perl\u00edfera (L)",
+            "es_MX": "Corona perl\u00edfera (G)",
+            "fr_FR": "Grande couronne princi\u00e8re",
+            "fr_CA": "Grande couronne princi\u00e8re",
+            "de_DE": "Perla-Krone L",
+            "nl_NL": "Loreleis kroon L",
+            "ru_RU": "\u0416\u0435\u043c-\u043a\u043e\u0440\u043e\u043d\u0430 (\u043c\u0430\u043a\u0441\u0438)",
+            "it_IT": "Corona di Alga (L)",
+            "ja_JP": "\u30d2\u30e1\u30a4\u30c8\u30af\u30e9\u30a6\u30f3L"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Urchins Cap",
+        "image": "../common/assets/img/gear/hats/Hed_CAP000.png",
+        "main": "Sub Power Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Urchins Cap",
+            "en_US": "Urchins Cap",
+            "es_ES": "Gorra b\u00e9isbol",
+            "es_MX": "Gorra de Erizos",
+            "fr_FR": "Casquette baseball",
+            "fr_CA": "Casquette d'oursins",
+            "de_DE": "Urchins-Kappe",
+            "nl_NL": "Honkbalpet",
+            "ru_RU": "\u0411\u0435\u0439\u0441\u0431\u043e\u043b\u043a\u0430 \u0411\u041a \u00ab\u0415\u0436\u0438\u00bb",
+            "it_IT": "Berretto AS Riccidimare",
+            "ja_JP": "\u30a6\u30fc\u30cb\u30fc\u30baBB\u30ad\u30e3\u30c3\u30d7"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Takoroka Mesh",
+        "image": "../common/assets/img/gear/hats/Hed_CAP002.png",
+        "main": "Sub Resistance Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Takoroka Mesh",
+            "en_US": "Takoroka Mesh",
+            "es_ES": "Gorra malla Sepioca",
+            "es_MX": "Gorra Pulpioka",
+            "fr_FR": "Casquette filet Cubic",
+            "fr_CA": "Casquette filet Pionic",
+            "de_DE": "Kalamati-Netzkappe",
+            "nl_NL": "Takoroka-pet",
+            "ru_RU": "\u0422\u0440\u0430\u043a\u0435\u0440 \u043e\u0442 \u00ab\u0420\u044b\u0431\u043e\u043a\u00bb",
+            "it_IT": "Berretto Sepia",
+            "ja_JP": "\u30e4\u30b3\u30e1\u30c3\u30b7\u30e5"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Streetstyle Cap",
+        "image": "../common/assets/img/gear/hats/Hed_CAP003.png",
+        "main": "Ink Saver (Sub)",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Streetstyle Cap",
+            "en_US": "Streetstyle Cap",
+            "es_ES": "Gorra de dise\u00f1o",
+            "es_MX": "Gorra de dise\u00f1o",
+            "fr_FR": "Casquette branch\u00e9e",
+            "fr_CA": "Casquette branch\u00e9e",
+            "de_DE": "Style-Kappe",
+            "nl_NL": "Streetstyle-pet",
+            "ru_RU": "\u041c\u043e\u0434\u043d\u0430\u044f \u043a\u0435\u043f\u043a\u0430",
+            "it_IT": "Berretto alla moda",
+            "ja_JP": "\u30d3\u30d0\u30ec\u30c3\u30b8\u30ad\u30e3\u30c3\u30d7"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Squidvader Cap",
+        "image": "../common/assets/img/gear/hats/Hed_CAP005.png",
+        "main": "Special Charge Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Squidvader Cap",
+            "en_US": "Squidvader Cap",
+            "es_ES": "Gorra calamarciano",
+            "es_MX": "Gorra calalien\u00edgena",
+            "fr_FR": "Casquette Sea Invader",
+            "fr_CA": "Casquette Sea Invader",
+            "de_DE": "Inkvader-Kappe",
+            "nl_NL": "Pixelpet",
+            "ru_RU": "\u041a\u0435\u043f\u043a\u0430 \u0437\u0430\u0445\u0432\u0430\u0442\u0447\u0438\u043a\u0430",
+            "it_IT": "Berretto Inkvaders",
+            "ja_JP": "\u30a4\u30ab\u30d9\u30fc\u30c0\u30fc\u30ad\u30e3\u30c3\u30d7"
+        }
+    },
+    {
+        "id": 17,
+        "name": "Cycling Cap",
+        "image": "../common/assets/img/gear/hats/Hed_CAP012.png",
+        "main": "Sub Power Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Cycling Cap",
+            "en_US": "Cycling Cap",
+            "es_ES": "Gorra ciclista",
+            "es_MX": "Gorra ciclista",
+            "fr_FR": "Casquette de cycliste",
+            "fr_CA": "Casquette de cycliste",
+            "de_DE": "Radlerm\u00fctze",
+            "nl_NL": "Wielerpetje",
+            "ru_RU": "\u0412\u0435\u043b\u043e\u043a\u0435\u043f\u043a\u0430",
+            "it_IT": "Berretto da ciclista",
+            "ja_JP": "\u30c6\u30c3\u30ab\u30b5\u30a4\u30af\u30eb\u30ad\u30e3\u30c3\u30d7"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Hickory Work Cap",
+        "image": "../common/assets/img/gear/hats/Hed_CAP020.png",
+        "main": "Special Power Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Hickory Work Cap",
+            "en_US": "Hickory Work Cap",
+            "es_ES": "Gorra de trabajo",
+            "es_MX": "Gorra obrera",
+            "fr_FR": "Casquette ray\u00e9e",
+            "fr_CA": "Casquette ray\u00e9e",
+            "de_DE": "Hickory-Arbeitsm\u00fctze",
+            "nl_NL": "Gestreepte werkpet",
+            "ru_RU": "\u041f\u0440\u043e\u0441\u0442\u0440\u043e\u0447\u0435\u043d\u043d\u0430\u044f \u043a\u0435\u043f\u043a\u0430",
+            "it_IT": "Cappellino a righe",
+            "ja_JP": "\u30d2\u30c3\u30b3\u30ea\u30fc\u30ef\u30fc\u30af\u30ad\u30e3\u30c3\u30d7"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Woolly Urchins Classic",
+        "image": "../common/assets/img/gear/hats/Hed_CAP021.png",
+        "main": "Comeback",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Woolly Urchins Classic",
+            "en_US": "Woolly Urchins Classic",
+            "es_ES": "Gorra b\u00e9isbol franela",
+            "es_MX": "Gorra de Erizos lana",
+            "fr_FR": "Casquette baseball chaude",
+            "fr_CA": "Casquette classique",
+            "de_DE": "Urchins-Kappe Klassik",
+            "nl_NL": "Wollen honkbalpet",
+            "ru_RU": "\u0422\u0435\u043f\u043b\u0430\u044f \u043a\u0435\u043f\u043a\u0430 \u0411\u041a \u00ab\u0415\u0436\u0438\u00bb",
+            "it_IT": "Cappello Riccidimare",
+            "ja_JP": "\u30a6\u30fc\u30eb\u30a6\u30fc\u30cb\u30fc\u30ba\u30af\u30e9\u30b7\u30c3\u30af"
+        }
+    },
+    {
+        "id": 20,
+        "name": "Ink-Black Flap Cap",
+        "image": "../common/assets/img/gear/hats/Hed_CAP028.png",
+        "main": "Special Power Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Ink-Black Flap Cap",
+            "en_US": "Ink-Black Flap Cap",
+            "es_ES": "Gorra orejeras negra",
+            "es_MX": "Gorra orejeras negra",
+            "fr_FR": "Casquette \u00e0 rabats noire",
+            "fr_CA": "Casquette \u00e0 rabats noire",
+            "de_DE": "Klappenkappe Dark",
+            "nl_NL": "Zwarte pet met flappen",
+            "ru_RU": "\u0427\u0435\u0440\u043d\u0430\u044f \u043a\u0435\u043f\u043a\u0430 \u0441 \u0443\u0448\u0430\u043c\u0438",
+            "it_IT": "Cappello paraorecchie nero",
+            "ja_JP": "\u30b7\u30a7\u30fc\u30c7\u30a3\u30f3\u30b0\u30ad\u30e3\u30c3\u30d7 \u30b9\u30df"
+        }
+    },
+    {
+        "id": 21,
+        "name": "Wharfside Cap",
+        "image": "../common/assets/img/gear/hats/Hed_CAP036.png",
+        "main": "Tenacity",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Wharfside Cap",
+            "en_US": "Wharfside Cap",
+            "es_ES": "Gorro de alta mar",
+            "es_MX": "Gorro de alta mar",
+            "fr_FR": "Bonnet de docker",
+            "fr_CA": "Tuque de docker",
+            "de_DE": "Dockerm\u00fctze",
+            "nl_NL": "Dokwerkerspet",
+            "ru_RU": "\u0428\u0430\u043f\u043a\u0430-\u0434\u043e\u043a\u0435\u0440",
+            "it_IT": "Berretto da portuale",
+            "ja_JP": "\u30d5\u30a3\u30c3\u30b7\u30e3\u30fc\u30de\u30f3\u30ad\u30e3\u30c3\u30d7"
+        }
+    },
+    {
+        "id": 22,
+        "name": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30aa\u30ec\u30f3\u30b8",
+        "image": "../common/assets/img/gear/hats/Hed_COP001.png",
+        "main": "Quick Respawn",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30aa\u30ec\u30f3\u30b8",
+            "en_US": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30aa\u30ec\u30f3\u30b8",
+            "es_ES": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30aa\u30ec\u30f3\u30b8",
+            "es_MX": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30aa\u30ec\u30f3\u30b8",
+            "fr_FR": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30aa\u30ec\u30f3\u30b8",
+            "fr_CA": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30aa\u30ec\u30f3\u30b8",
+            "de_DE": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30aa\u30ec\u30f3\u30b8",
+            "nl_NL": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30aa\u30ec\u30f3\u30b8",
+            "ru_RU": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30aa\u30ec\u30f3\u30b8",
+            "it_IT": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30aa\u30ec\u30f3\u30b8",
+            "ja_JP": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30aa\u30ec\u30f3\u30b8"
+        }
+    },
+    {
+        "id": 23,
+        "name": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30b0\u30ea\u30fc\u30f3",
+        "image": "../common/assets/img/gear/hats/Hed_COP002.png",
+        "main": "Quick Respawn",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30b0\u30ea\u30fc\u30f3",
+            "en_US": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30b0\u30ea\u30fc\u30f3",
+            "es_ES": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30b0\u30ea\u30fc\u30f3",
+            "es_MX": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30b0\u30ea\u30fc\u30f3",
+            "fr_FR": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30b0\u30ea\u30fc\u30f3",
+            "fr_CA": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30b0\u30ea\u30fc\u30f3",
+            "de_DE": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30b0\u30ea\u30fc\u30f3",
+            "nl_NL": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30b0\u30ea\u30fc\u30f3",
+            "ru_RU": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30b0\u30ea\u30fc\u30f3",
+            "it_IT": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30b0\u30ea\u30fc\u30f3",
+            "ja_JP": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30b0\u30ea\u30fc\u30f3"
+        }
+    },
+    {
+        "id": 24,
+        "name": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30a4\u30a8\u30ed\u30fc",
+        "image": "../common/assets/img/gear/hats/Hed_COP003.png",
+        "main": "Quick Respawn",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30a4\u30a8\u30ed\u30fc",
+            "en_US": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30a4\u30a8\u30ed\u30fc",
+            "es_ES": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30a4\u30a8\u30ed\u30fc",
+            "es_MX": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30a4\u30a8\u30ed\u30fc",
+            "fr_FR": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30a4\u30a8\u30ed\u30fc",
+            "fr_CA": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30a4\u30a8\u30ed\u30fc",
+            "de_DE": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30a4\u30a8\u30ed\u30fc",
+            "nl_NL": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30a4\u30a8\u30ed\u30fc",
+            "ru_RU": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30a4\u30a8\u30ed\u30fc",
+            "it_IT": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30a4\u30a8\u30ed\u30fc",
+            "ja_JP": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30a4\u30a8\u30ed\u30fc"
+        }
+    },
+    {
+        "id": 25,
+        "name": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d4\u30f3\u30af",
+        "image": "../common/assets/img/gear/hats/Hed_COP004.png",
+        "main": "Quick Respawn",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d4\u30f3\u30af",
+            "en_US": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d4\u30f3\u30af",
+            "es_ES": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d4\u30f3\u30af",
+            "es_MX": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d4\u30f3\u30af",
+            "fr_FR": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d4\u30f3\u30af",
+            "fr_CA": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d4\u30f3\u30af",
+            "de_DE": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d4\u30f3\u30af",
+            "nl_NL": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d4\u30f3\u30af",
+            "ru_RU": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d4\u30f3\u30af",
+            "it_IT": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d4\u30f3\u30af",
+            "ja_JP": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d4\u30f3\u30af"
+        }
+    },
+    {
+        "id": 26,
+        "name": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30eb\u30fc",
+        "image": "../common/assets/img/gear/hats/Hed_COP005.png",
+        "main": "Quick Respawn",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30eb\u30fc",
+            "en_US": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30eb\u30fc",
+            "es_ES": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30eb\u30fc",
+            "es_MX": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30eb\u30fc",
+            "fr_FR": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30eb\u30fc",
+            "fr_CA": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30eb\u30fc",
+            "de_DE": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30eb\u30fc",
+            "nl_NL": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30eb\u30fc",
+            "ru_RU": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30eb\u30fc",
+            "it_IT": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30eb\u30fc",
+            "ja_JP": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30eb\u30fc"
+        }
+    },
+    {
+        "id": 27,
+        "name": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30e9\u30c3\u30af",
+        "image": "../common/assets/img/gear/hats/Hed_COP006.png",
+        "main": "Quick Respawn",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30e9\u30c3\u30af",
+            "en_US": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30e9\u30c3\u30af",
+            "es_ES": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30e9\u30c3\u30af",
+            "es_MX": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30e9\u30c3\u30af",
+            "fr_FR": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30e9\u30c3\u30af",
+            "fr_CA": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30e9\u30c3\u30af",
+            "de_DE": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30e9\u30c3\u30af",
+            "nl_NL": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30e9\u30c3\u30af",
+            "ru_RU": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30e9\u30c3\u30af",
+            "it_IT": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30e9\u30c3\u30af",
+            "ja_JP": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30d6\u30e9\u30c3\u30af"
+        }
+    },
+    {
+        "id": 28,
+        "name": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30db\u30ef\u30a4\u30c8",
+        "image": "../common/assets/img/gear/hats/Hed_COP007.png",
+        "main": "Quick Respawn",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30db\u30ef\u30a4\u30c8",
+            "en_US": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30db\u30ef\u30a4\u30c8",
+            "es_ES": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30db\u30ef\u30a4\u30c8",
+            "es_MX": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30db\u30ef\u30a4\u30c8",
+            "fr_FR": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30db\u30ef\u30a4\u30c8",
+            "fr_CA": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30db\u30ef\u30a4\u30c8",
+            "de_DE": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30db\u30ef\u30a4\u30c8",
+            "nl_NL": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30db\u30ef\u30a4\u30c8",
+            "ru_RU": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30db\u30ef\u30a4\u30c8",
+            "it_IT": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30db\u30ef\u30a4\u30c8",
+            "ja_JP": "\u30d0\u30a4\u30c8\u30d8\u30eb\u30e1\u30c3\u30c8 \u30db\u30ef\u30a4\u30c8"
+        }
+    },
+    {
+        "id": 29,
+        "name": "Bream-Brim Cap",
+        "image": "../common/assets/img/gear/hats/Hed_COP110.png",
+        "main": "Quick Respawn",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Bream-Brim Cap",
+            "en_US": "Bream-Brim Cap",
+            "es_ES": "Gorra besugo dorado",
+            "es_MX": "Gorra besugo dorado",
+            "fr_FR": "Casquette dorade",
+            "fr_CA": "Casquette dorade",
+            "de_DE": "Schnapperkappe",
+            "nl_NL": "Snapperpet",
+            "ru_RU": "\u041a\u0435\u043f\u043a\u0430 \u00ab\u041b\u0435\u0449\u0438\u043a\u00bb",
+            "it_IT": "Cappello pescoso",
+            "ja_JP": "\u30a4\u30c8\u30e8\u30ea\u30ad\u30e3\u30c3\u30d7"
+        }
+    },
+    {
+        "id": 30,
+        "name": "Lo-Vis Visor",
+        "image": "../common/assets/img/gear/hats/Hed_COP111.png",
+        "main": "Quick Respawn",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Lo-Vis Visor",
+            "en_US": "Lo-Vis Visor",
+            "es_ES": "Visor opaco",
+            "es_MX": "Visor opaco",
+            "fr_FR": "Lunettes opaques",
+            "fr_CA": "Lunettes opaques",
+            "de_DE": "Opak-Visor",
+            "nl_NL": "Slaapmasker",
+            "ru_RU": "\u0412\u0438\u0437\u043e\u0440 \u00ab\u0428\u0438\u0440\u043c\u0430\u00bb",
+            "it_IT": "Visore cieco",
+            "ja_JP": "\u30b7\u30ab\u30a4\u30d0\u30a4\u30b6\u30fc"
+        }
+    },
+    {
+        "id": 31,
+        "name": "Astro Helm",
+        "image": "../common/assets/img/gear/hats/Hed_COP113.png",
+        "main": "Quick Respawn",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Astro Helm",
+            "en_US": "Astro Helm",
+            "es_ES": "Casco de piloto",
+            "es_MX": "Casco de piloto",
+            "fr_FR": "Casque astro",
+            "fr_CA": "Casque astro",
+            "de_DE": "Space-Pilotenhelm",
+            "nl_NL": "Pilotenhelm",
+            "ru_RU": "\u0410\u0441\u0442\u0440\u043e\u0448\u043b\u0435\u043c",
+            "it_IT": "Casco da pilota",
+            "ja_JP": "\u30d1\u30a4\u30ed\u30c3\u30c8\u30e1\u30c3\u30c8"
+        }
+    },
+    {
+        "id": 32,
+        "name": "Brain Strainer",
+        "image": "../common/assets/img/gear/hats/Hed_COP115.png",
+        "main": "Quick Respawn",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Brain Strainer",
+            "en_US": "Brain Strainer",
+            "es_ES": "Casco psicotr\u00f3nico",
+            "es_MX": "Casco psicotr\u00f3nico",
+            "fr_FR": "Casque Eur\u00eaka",
+            "fr_CA": "Casque Eur\u00eaka",
+            "de_DE": "Genialotron",
+            "nl_NL": "Whizzkidhelm",
+            "ru_RU": "\u041c\u043e\u0437\u0433\u043e\u0442\u0440\u043e\u043d",
+            "it_IT": "Eurekappello",
+            "ja_JP": "\u30d2\u30e9\u30e1\u30ad\u30d6\u30ec\u30a4\u30f3\u30e1\u30c3\u30c8"
+        }
+    },
+    {
+        "id": 33,
+        "name": "Splash Goggles",
+        "image": "../common/assets/img/gear/hats/Hed_EYE001.png",
+        "main": "Sub Resistance Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Splash Goggles",
+            "en_US": "Splash Goggles",
+            "es_ES": "Gafas de buceo",
+            "es_MX": "Gafas de buzo",
+            "fr_FR": "Masque de plong\u00e9e",
+            "fr_CA": "Masque de plong\u00e9e",
+            "de_DE": "Taucherbrille",
+            "nl_NL": "Duikbril",
+            "ru_RU": "\u041c\u0430\u0441\u043a\u0430 \u0434\u043b\u044f \u043d\u044b\u0440\u044f\u043d\u0438\u044f",
+            "it_IT": "Maschera da sub",
+            "ja_JP": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5\u30b4\u30fc\u30b0\u30eb"
+        }
+    },
+    {
+        "id": 34,
+        "name": "Pilot Goggles",
+        "image": "../common/assets/img/gear/hats/Hed_EYE002.png",
+        "main": "Sub Power Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Pilot Goggles",
+            "en_US": "Pilot Goggles",
+            "es_ES": "Gafas de piloto",
+            "es_MX": "Gafas de aviador",
+            "fr_FR": "Lunettes d'aviateur",
+            "fr_CA": "Lunettes d'aviateur",
+            "de_DE": "Fliegerbrille",
+            "nl_NL": "Pilotenbril",
+            "ru_RU": "\u041e\u0447\u043a\u0438 \u043f\u0438\u043b\u043e\u0442\u0430",
+            "it_IT": "Occhiali da pilota",
+            "ja_JP": "\u30d1\u30a4\u30ed\u30c3\u30c8\u30b4\u30fc\u30b0\u30eb"
+        }
+    },
+    {
+        "id": 35,
+        "name": "Tinted Shades",
+        "image": "../common/assets/img/gear/hats/Hed_EYE003.png",
+        "main": "Last-Ditch Effort",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Tinted Shades",
+            "en_US": "Tinted Shades",
+            "es_ES": "Gafas tintadas",
+            "es_MX": "Gafas tintadas",
+            "fr_FR": "Lunettes color\u00e9es",
+            "fr_CA": "Lunettes teint\u00e9es",
+            "de_DE": "Get\u00f6nte Brille",
+            "nl_NL": "Getinte zonnebril",
+            "ru_RU": "\u0421\u043e\u043b\u043d\u0446\u0435\u0437\u0430\u0449\u0438\u0442\u043d\u044b\u0435 \u043e\u0447\u043a\u0438",
+            "it_IT": "Occhiali colorati",
+            "ja_JP": "\u30a4\u30ed\u30e1\u30ac\u30cd"
+        }
+    },
+    {
+        "id": 36,
+        "name": "18K Aviators",
+        "image": "../common/assets/img/gear/hats/Hed_EYE008.png",
+        "main": "Last-Ditch Effort",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "18K Aviators",
+            "en_US": "18K Aviators",
+            "es_ES": "Gafas aviador oro",
+            "es_MX": "Gafas aviador retro",
+            "fr_FR": "Lunettes de soleil 18 carats",
+            "fr_CA": "Lunettes de soleil 18 ct",
+            "de_DE": "Sonnenbrille 18K",
+            "nl_NL": "18K aviatorbril",
+            "ru_RU": "\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u00ab\u0430\u0432\u0438\u0430\u0442\u043e\u0440\u044b\u00bb",
+            "it_IT": "Occhiali da sole 18K",
+            "ja_JP": "\u30bf\u30ec\u30b5\u30f318K"
+        }
+    },
+    {
+        "id": 37,
+        "name": "Full-Moon Glasses",
+        "image": "../common/assets/img/gear/hats/Hed_EYE009.png",
+        "main": "Quick Super Jump",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Full-Moon Glasses",
+            "en_US": "Full-Moon Glasses",
+            "es_ES": "Gafas redondas",
+            "es_MX": "Gafas redondas",
+            "fr_FR": "Lunettes rondes",
+            "fr_CA": "Lunettes rondes",
+            "de_DE": "Rund-Hornbrille",
+            "nl_NL": "Ronde bril",
+            "ru_RU": "\u041e\u0447\u043a\u0438 \u0432 \u0440\u043e\u0433\u043e\u0432\u043e\u0439 \u043e\u043f\u0440\u0430\u0432\u0435",
+            "it_IT": "Occhiali rotondi",
+            "ja_JP": "\u30de\u30eb\u30d9\u30c3\u30b3\u30fc"
+        }
+    },
+    {
+        "id": 38,
+        "name": "Half-Rim Glasses",
+        "image": "../common/assets/img/gear/hats/Hed_EYE011.png",
+        "main": "Special Power Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Half-Rim Glasses",
+            "en_US": "Half-Rim Glasses",
+            "es_ES": "Gafas gruesas",
+            "es_MX": "Gafas montura gruesa",
+            "fr_FR": "Lunettes demi-cercl\u00e9es",
+            "fr_CA": "Lunettes demi-cercl\u00e9es",
+            "de_DE": "Halbrand-Brille",
+            "nl_NL": "Bril met halve rand",
+            "ru_RU": "\u041e\u0447\u043a\u0438 \u0432 \u043f\u043e\u043b\u0443\u043e\u043f\u0440\u0430\u0432\u0435",
+            "it_IT": "Occhiali a mezza montatura",
+            "ja_JP": "\u30bb\u30eb\u30d6\u30ed\u30a6"
+        }
+    },
+    {
+        "id": 39,
+        "name": "Double Egg Shades",
+        "image": "../common/assets/img/gear/hats/Hed_EYE012.png",
+        "main": "Run Speed Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Double Egg Shades",
+            "en_US": "Double Egg Shades",
+            "es_ES": "Gafas ovaladas dobles",
+            "es_MX": "Gafas ovaladas dobles",
+            "fr_FR": "Lunettes noires ovales",
+            "fr_CA": "Lunettes noires ovales",
+            "de_DE": "Oval-Sonnenbrille",
+            "nl_NL": "Ovale zonnebril",
+            "ru_RU": "\u041e\u0447\u043a\u0438 \u00ab\u0413\u0440\u0430\u043d\u0436\u00bb",
+            "it_IT": "Occhiali da sole ovali",
+            "ja_JP": "\u30c0\u30d6\u30eb\u30a8\u30c3\u30b0\u30b5\u30f3\u30b0\u30e9\u30b9"
+        }
+    },
+    {
+        "id": 40,
+        "name": "Swim Goggles",
+        "image": "../common/assets/img/gear/hats/Hed_EYE016.png",
+        "main": "Last-Ditch Effort",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Swim Goggles",
+            "en_US": "Swim Goggles",
+            "es_ES": "Gafas de nataci\u00f3n",
+            "es_MX": "Gafas de nataci\u00f3n",
+            "fr_FR": "Lunettes de natation",
+            "fr_CA": "Lunettes de piscine",
+            "de_DE": "Schwimmbrille",
+            "nl_NL": "Zwembril",
+            "ru_RU": "\u041e\u0447\u043a\u0438 \u0434\u043b\u044f \u043f\u043b\u0430\u0432\u0430\u043d\u0438\u044f",
+            "it_IT": "Occhialetti da nuoto",
+            "ja_JP": "\u30b9\u30a4\u30df\u30f3\u30b0\u30e2\u30fc\u30b0\u30eb"
+        }
+    },
+    {
+        "id": 41,
+        "name": "Ink-Tinted Goggles",
+        "image": "../common/assets/img/gear/hats/Hed_EYE021.png",
+        "main": "Swim Speed Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Ink-Tinted Goggles",
+            "en_US": "Ink-Tinted Goggles",
+            "es_ES": "Gafas tinte abisal",
+            "es_MX": "Gafas tinte abisal",
+            "fr_FR": "Verres teint\u00e9s",
+            "fr_CA": "Verres teint\u00e9s",
+            "de_DE": "Macropinna-Brille",
+            "nl_NL": "Getinte bril",
+            "ru_RU": "\u041e\u0447\u043a\u0438 \u00ab\u0431\u043e\u0447\u043a\u043e\u0433\u043b\u0430\u0437\u0438\u043a\u0438\u00bb",
+            "it_IT": "Occhiali con lenti colorate",
+            "ja_JP": "\u30c7\u30e1\u30cb\u30ae\u30b9\u30b4\u30fc\u30b0\u30eb"
+        }
+    },
+    {
+        "id": 42,
+        "name": "Retro Framers",
+        "image": "../common/assets/img/gear/hats/Hed_EYE022.png",
+        "main": "Opening Gambit",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Retro Framers",
+            "en_US": "Retro Framers",
+            "es_ES": "Gafas montura retro",
+            "es_MX": "Gafas montura retro",
+            "fr_FR": "Monture 8 bits",
+            "fr_CA": "Monture 8 bits",
+            "de_DE": "Pixelbrille",
+            "nl_NL": "Pixelbril",
+            "ru_RU": "\u041e\u0447\u043a\u0438 \u00ab8 \u0431\u0438\u0442\u00bb",
+            "it_IT": "Occhiali pixellati",
+            "ja_JP": "\uff18\u30d3\u30c3\u30c8\u30d5\u30ec\u30fc\u30e0"
+        }
+    },
+    {
+        "id": 43,
+        "name": "Glassless Glasses",
+        "image": "../common/assets/img/gear/hats/Hed_EYE023.png",
+        "main": "Quick Respawn",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Glassless Glasses",
+            "en_US": "Glassless Glasses",
+            "es_ES": "Gafas sin cristales",
+            "es_MX": "Gafas sin cristales",
+            "fr_FR": "Monture sans verres",
+            "fr_CA": "Monture sans verres",
+            "de_DE": "Brille ohne Gl\u00e4ser",
+            "nl_NL": "Bril zonder glazen",
+            "ru_RU": "\u041e\u0447\u043a\u0438-\u043d\u0435\u0432\u0438\u0434\u0438\u043c\u043a\u0438",
+            "it_IT": "Occhiali senza lenti",
+            "ja_JP": "\u30ef\u30a4\u30e4\u30fc\u30b0\u30e9\u30b9"
+        }
+    },
+    {
+        "id": 44,
+        "name": "Triple-Deck Specs",
+        "image": "../common/assets/img/gear/hats/Hed_EYE024.png",
+        "main": "Sub Power Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Triple-Deck Specs",
+            "en_US": "Triple-Deck Specs",
+            "es_ES": "Gafas triple protecci\u00f3n",
+            "es_MX": "Gafas triple protecci\u00f3n",
+            "fr_FR": "Lunettes 3-en-1",
+            "fr_CA": "Lunettes 3-en-1",
+            "de_DE": "Triple-Brille",
+            "nl_NL": "Driedubbeldekkerbril",
+            "ru_RU": "\u041e\u0447\u043a\u0438 \u00ab\u0422\u0440\u043e\u0439\u043d\u0430\u044f 333\u0430\u0449\u0438\u0442\u0430\u00bb",
+            "it_IT": "Occhiali tripli",
+            "ja_JP": "\u30b5\u30f3\u30b5\u30f3\u30b5\u30f3\u30b0\u30e9\u30b9"
+        }
+    },
+    {
+        "id": 45,
+        "name": "Invisifloats",
+        "image": "../common/assets/img/gear/hats/Hed_EYE025.png",
+        "main": "Comeback",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Invisifloats",
+            "en_US": "Invisifloats",
+            "es_ES": "Gafas transparentes",
+            "es_MX": "Gafas transparentes",
+            "fr_FR": "Lunettes transparentes",
+            "fr_CA": "Lunettes transparentes",
+            "de_DE": "Transparente Brille",
+            "nl_NL": "Stiekeme bril",
+            "ru_RU": "\u0422\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0447\u043a\u0438",
+            "it_IT": "Occhiali discreti",
+            "ja_JP": "\u30d5\u30ed\u30fc\u30c8 \u30af\u30ea\u30a2\u30b0\u30e9\u30b9"
+        }
+    },
+    {
+        "id": 46,
+        "name": "Moto Shades",
+        "image": "../common/assets/img/gear/hats/Hed_EYE026.png",
+        "main": "Last-Ditch Effort",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Moto Shades",
+            "en_US": "Moto Shades",
+            "es_ES": "Gafas moteras",
+            "es_MX": "Gafas de motociclista",
+            "fr_FR": "Lunettes de moto",
+            "fr_CA": "Lunettes de moto",
+            "de_DE": "Biker-Brille",
+            "nl_NL": "Motorzonnebril",
+            "ru_RU": "\u041c\u043e\u0442\u043e\u043e\u0447\u043a\u0438",
+            "it_IT": "Occhiali da motociclista",
+            "ja_JP": "\u30d0\u30a4\u30ab\u30fc\u30b7\u30a7\u30fc\u30c9"
+        }
+    },
+    {
+        "id": 47,
+        "name": "Annaki Charms",
+        "image": "../common/assets/img/gear/hats/Hed_EYE027.png",
+        "main": "Swim Speed Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Annaki Charms",
+            "en_US": "Annaki Charms",
+            "es_ES": "Gafas Annak cuadradas",
+            "es_MX": "Gafas Annak cuadradas",
+            "fr_FR": "Lunettes carr\u00e9es Aroz",
+            "fr_CA": "Lunettes carr\u00e9es Aroz",
+            "de_DE": "Eckige Annaki-Brille",
+            "nl_NL": "Hoekige Annaki-bril",
+            "ru_RU": "\u041e\u0447\u043a\u0438 \u043e\u0442 \u041f\u0430\u043d\u043a\u0430\u0441\u0438\u0443\u0441\u0430",
+            "it_IT": "Occhiali Annak",
+            "ja_JP": "\u30a2\u30ca\u30a2\u30ad\u30b9\u30af\u30a8\u30a2\u30b0\u30e9\u30b9"
+        }
+    },
+    {
+        "id": 48,
+        "name": "Retro BluFocals",
+        "image": "../common/assets/img/gear/hats/Hed_EYE029.png",
+        "main": "Intensify Action",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Retro BluFocals",
+            "en_US": "Retro BluFocals",
+            "es_ES": "Gafas redondas aurora",
+            "es_MX": "Gafas redondas aurora",
+            "fr_FR": "Lunettes r\u00e9tro SV925",
+            "fr_CA": "Lunettes r\u00e9tro SV925",
+            "de_DE": "BC925-Rundbrille",
+            "nl_NL": "Ronde bril met blauw glas",
+            "ru_RU": "\u041e\u0447\u043a\u0438 \u00ab\u041e\u0441\u044c\u0431\u043e\u0440\u043d \u0431\u043b\u044e\u00bb BC925",
+            "it_IT": "Occhiali blufocali r\u00e9tro",
+            "ja_JP": "\u30bf\u30de\u30b5\u30f3BC925"
+        }
+    },
+    {
+        "id": 49,
+        "name": "White Headband",
+        "image": "../common/assets/img/gear/hats/Hed_FST000.png",
+        "main": "Ink Recovery Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "White Headband",
+            "en_US": "White Headband",
+            "es_ES": "Cinta blanca",
+            "es_MX": "Cinta blanca",
+            "fr_FR": "Bandeau blanc",
+            "fr_CA": "Bandeau blanc",
+            "de_DE": "Wei\u00dfes Stirnband",
+            "nl_NL": "Witte hoofdband",
+            "ru_RU": "\u0411\u0435\u043b\u0430\u044f \u043f\u043e\u0432\u044f\u0437\u043a\u0430",
+            "it_IT": "Fascia bianca",
+            "ja_JP": "\u30d8\u30c3\u30c9\u30d0\u30f3\u30c9 \u30db\u30ef\u30a4\u30c8"
+        }
+    },
+    {
+        "id": 50,
+        "name": "Bamboo Hat",
+        "image": "../common/assets/img/gear/hats/Hed_HAT004.png",
+        "main": "Ink Saver (Main)",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Bamboo Hat",
+            "en_US": "Bamboo Hat",
+            "es_ES": "Sombrero c\u00f3nico",
+            "es_MX": "Sombrero c\u00f3nico",
+            "fr_FR": "Chapeau zen",
+            "fr_CA": "Chapeau zen",
+            "de_DE": "Bambushut",
+            "nl_NL": "Bamboehoed",
+            "ru_RU": "\u0412\u044c\u0435\u0442\u043d\u0430\u043c\u043a\u0430",
+            "it_IT": "Cappello orientale",
+            "ja_JP": "\u30b9\u30b2"
+        }
+    },
+    {
+        "id": 51,
+        "name": "Classic Straw Boater",
+        "image": "../common/assets/img/gear/hats/Hed_HAT006.png",
+        "main": "Special Power Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Classic Straw Boater",
+            "en_US": "Classic Straw Boater",
+            "es_ES": "Sombrero de paja cl\u00e1sico",
+            "es_MX": "Canotier de noche",
+            "fr_FR": "Canotier sombre",
+            "fr_CA": "Canotier sombre",
+            "de_DE": "Klassischer Boater",
+            "nl_NL": "Klassieke strohoed",
+            "ru_RU": "\u0428\u043b\u044f\u043f\u043a\u0430 \u00ab\u041a\u043b\u0430\u0441\u0441\u0438\u043a\u0430\u00bb",
+            "it_IT": "Cappello di paglia classico",
+            "ja_JP": "\u30a4\u30ab\u30f3\u30ab\u30f3 \u30af\u30e9\u30b7\u30c3\u30af"
+        }
+    },
+    {
+        "id": 52,
+        "name": "Bucket Hat",
+        "image": "../common/assets/img/gear/hats/Hed_HAT008.png",
+        "main": "Special Saver",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Bucket Hat",
+            "en_US": "Bucket Hat",
+            "es_ES": "Gorro de pesca",
+            "es_MX": "Gorro impermeable",
+            "fr_FR": "Bob",
+            "fr_CA": "Chapeau en toile",
+            "de_DE": "Fischerhut",
+            "nl_NL": "Vissershoed",
+            "ru_RU": "\u041f\u0430\u043d\u0430\u043c\u0430",
+            "it_IT": "Cappello da pescatore",
+            "ja_JP": "\u30a4\u30ab\u30d0\u30b1\u30c3\u30c8"
+        }
+    },
+    {
+        "id": 53,
+        "name": "Classic Bowler",
+        "image": "../common/assets/img/gear/hats/Hed_HAT015.png",
+        "main": "Run Speed Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Classic Bowler",
+            "en_US": "Classic Bowler",
+            "es_ES": "Bomb\u00edn cl\u00e1sico",
+            "es_MX": "Bomb\u00edn cl\u00e1sico",
+            "fr_FR": "Chapeau melon",
+            "fr_CA": "Chapeau melon",
+            "de_DE": "Melone",
+            "nl_NL": "Bolhoed",
+            "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u043e\u0442\u0435\u043b\u043e\u043a",
+            "it_IT": "Bombetta",
+            "ja_JP": "\u30dc\u30fc\u30e9\u30fc\u30af\u30e9\u30b7\u30c3\u30af"
+        }
+    },
+    {
+        "id": 54,
+        "name": "Jean Dream Bucket",
+        "image": "../common/assets/img/gear/hats/Hed_HAT016.png",
+        "main": "Ink Recovery Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Jean Dream Bucket",
+            "en_US": "Jean Dream Bucket",
+            "es_ES": "Sombrero de tela vaquera",
+            "es_MX": "Sombrero de mezclilla",
+            "fr_FR": "Bob en jean",
+            "fr_CA": "Chapeau en jean",
+            "de_DE": "Jeans-Hut",
+            "nl_NL": "Spijkerstofvissershoed",
+            "ru_RU": "\u0414\u0436\u0438\u043d\u0441\u043e\u0432\u0430\u044f \u043f\u0430\u043d\u0430\u043c\u0430",
+            "it_IT": "Cappello da pesca denim",
+            "ja_JP": "\u30b9\u30c6\u30f3\u30b7\u30eb\u30c7\u30cb\u30e0\u30cf\u30c3\u30c8"
+        }
+    },
+    {
+        "id": 55,
+        "name": "Howdy Hat",
+        "image": "../common/assets/img/gear/hats/Hed_HAT017.png",
+        "main": "Sub Resistance Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Howdy Hat",
+            "en_US": "Howdy Hat",
+            "es_ES": "Sombrero vaquero gemas",
+            "es_MX": "Sombrero mezclilla gemas",
+            "fr_FR": "Chapeau de cowboy orn\u00e9",
+            "fr_CA": "Chapeau de cowboy orn\u00e9",
+            "de_DE": "T\u00fcrkise-Cowboyhut",
+            "nl_NL": "Howdy-hoed",
+            "ru_RU": "\u041a\u043e\u0432\u0431\u043e\u0439\u0441\u043a\u0430\u044f \u0448\u043b\u044f\u043f\u0430",
+            "it_IT": "Cappello da cowboy",
+            "ja_JP": "\u30db\u30bf\u30c6\u30f3\u30ac\u30ed\u30f3"
+        }
+    },
+    {
+        "id": 56,
+        "name": "Beachcomber",
+        "image": "../common/assets/img/gear/hats/Hed_HAT019.png",
+        "main": "Opening Gambit",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Beachcomber",
+            "en_US": "Beachcomber",
+            "es_ES": "Sombrero playero",
+            "es_MX": "Sombrero playero",
+            "fr_FR": "Chapeau de plage",
+            "fr_CA": "Chapeau de plage",
+            "de_DE": "Strandhut",
+            "nl_NL": "Strandhoed",
+            "ru_RU": "\u041f\u043b\u044f\u0436\u043d\u0430\u044f \u0448\u043b\u044f\u043f\u043a\u0430",
+            "it_IT": "Cappello di paglia",
+            "ja_JP": "\u30b9\u30c8\u30ed\u30fc\u30cf\u30c3\u30c8"
+        }
+    },
+    {
+        "id": 57,
+        "name": "Tennis Headband",
+        "image": "../common/assets/img/gear/hats/Hed_HBD003.png",
+        "main": "Comeback",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Tennis Headband",
+            "en_US": "Tennis Headband",
+            "es_ES": "Cinta tenis",
+            "es_MX": "Cinta de tenis",
+            "fr_FR": "Bandeau de tennis",
+            "fr_CA": "Bandeau de tennis",
+            "de_DE": "Tennisstirnband",
+            "nl_NL": "Tennishoofdband",
+            "ru_RU": "\u041f\u043e\u0432\u044f\u0437\u043a\u0430 (\u0442\u0435\u043d\u043d\u0438\u0441)",
+            "it_IT": "Fascia da tennis",
+            "ja_JP": "\u30c6\u30cb\u30b9\u30d0\u30f3\u30c9"
+        }
+    },
+    {
+        "id": 58,
+        "name": "FishFry Biscuit Bandana",
+        "image": "../common/assets/img/gear/hats/Hed_HBD007.png",
+        "main": "Special Power Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "FishFry Biscuit Bandana",
+            "en_US": "FishFry Biscuit Bandana",
+            "es_ES": "Pa\u00f1uelo vuelto",
+            "es_MX": "Pa\u00f1uelo Sofrito",
+            "fr_FR": "Bandana biscuit Friture",
+            "fr_CA": "Bandana biscuit Arki",
+            "de_DE": "Rilax-Bandana",
+            "nl_NL": "Firefin-bandana",
+            "ru_RU": "\u00ab\u0424\u0443\u0433\u0430\u0441\u0438\u043a\u00bb \u0441 \u0444\u0435\u0441\u0442\u043e\u043d\u0430\u043c\u0438",
+            "it_IT": "Bandana cool",
+            "ja_JP": "\u30e4\u30ad\u30d5\u30b0\u30d3\u30b9\u30b1\u30c3\u30c8\u30d0\u30f3\u30c0\u30ca"
+        }
+    },
+    {
+        "id": 59,
+        "name": "Squidband",
+        "image": "../common/assets/img/gear/hats/Hed_HBD009.png",
+        "main": "Quick Respawn",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Squidband",
+            "en_US": "Squidband",
+            "es_ES": "Cinta tenis de mesa",
+            "es_MX": "Cinta tenis de mesa",
+            "fr_FR": "Bandeau de ping-pong",
+            "fr_CA": "Bandeau de tennis sur table",
+            "de_DE": "TT-Stirnband",
+            "nl_NL": "Tafeltennishoofdband",
+            "ru_RU": "\u041f\u043e\u0432\u044f\u0437\u043a\u0430 (\u043f\u0438\u043d\u0433-\u043f\u043e\u043d\u0433)",
+            "it_IT": "Fascia classica",
+            "ja_JP": "\u30d4\u30f3\u30dd\u30f3\u30d0\u30f3\u30c9"
+        }
+    },
+    {
+        "id": 60,
+        "name": "Studio Headphones",
+        "image": "../common/assets/img/gear/hats/Hed_HDP000.png",
+        "main": "Ink Saver (Main)",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Studio Headphones",
+            "en_US": "Studio Headphones",
+            "es_ES": "Auriculares pro",
+            "es_MX": "Auriculares pro",
+            "fr_FR": "Casque pro",
+            "fr_CA": "Casque pro",
+            "de_DE": "Studio-Kopfh\u00f6rer",
+            "nl_NL": "Studiokoptelefoon",
+            "ru_RU": "\u0421\u0442\u0443\u0434\u0438\u0439\u043d\u044b\u0435 \u043d\u0430\u0443\u0448\u043d\u0438\u043a\u0438",
+            "it_IT": "Cuffie pro",
+            "ja_JP": "\u30b9\u30bf\u30b8\u30aa\u30d8\u30c3\u30c9\u30db\u30f3"
+        }
+    },
+    {
+        "id": 61,
+        "name": "Designer Headphones",
+        "image": "../common/assets/img/gear/hats/Hed_HDP001.png",
+        "main": "Ink Saver (Sub)",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Designer Headphones",
+            "en_US": "Designer Headphones",
+            "es_ES": "Auriculares multicolor",
+            "es_MX": "Auriculares de dise\u00f1ador",
+            "fr_FR": "Casque color\u00e9",
+            "fr_CA": "Casque multicolore",
+            "de_DE": "Kolor-Kopfh\u00f6rer",
+            "nl_NL": "Designerkoptelefoon",
+            "ru_RU": "\u0414\u0438\u0437\u0430\u0439\u043d\u0435\u0440\u0441\u043a\u0438\u0435 \u043d\u0430\u0443\u0448\u043d\u0438\u043a\u0438",
+            "it_IT": "Cuffie colorate",
+            "ja_JP": "\u30aa\u30fc\u30ed\u30e9\u30d8\u30c3\u30c9\u30db\u30f3"
+        }
+    },
+    {
+        "id": 62,
+        "name": "Squidlife Headphones",
+        "image": "../common/assets/img/gear/hats/Hed_HDP004.png",
+        "main": "Ink Recovery Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Squidlife Headphones",
+            "en_US": "Squidlife Headphones",
+            "es_ES": "Auriculares est\u00e9reo",
+            "es_MX": "Auriculares est\u00e9reo",
+            "fr_FR": "Casque baladeur",
+            "fr_CA": "Casque de baladeur",
+            "de_DE": "Klassische Kopfh\u00f6rer",
+            "nl_NL": "Retrokoptelefoon",
+            "ru_RU": "\u0420\u0435\u0442\u0440\u043e-\u043d\u0430\u0443\u0448\u043d\u0438\u043a\u0438",
+            "it_IT": "Cuffie vintage",
+            "ja_JP": "\u30b9\u30c6\u30ab\u30bb\u30d8\u30c3\u30c9\u30db\u30f3"
+        }
+    },
+    {
+        "id": 63,
+        "name": "Ocho OctoPhones",
+        "image": "../common/assets/img/gear/hats/Hed_HDP007.png",
+        "main": "Opening Gambit",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Ocho OctoPhones",
+            "en_US": "Ocho OctoPhones",
+            "es_ES": "Auriculares octoest\u00e9reo",
+            "es_MX": "Aud\u00edfonos octoest\u00e9reo",
+            "fr_FR": "Casque \u00e9cho Octa",
+            "fr_CA": "Casque \u00e9cho Octa",
+            "de_DE": "8X-Kopfh\u00f6rer",
+            "nl_NL": "Octo-koptelefoon 8X",
+            "ru_RU": "\u041a\u0440\u0430\u0441\u043d\u044b\u0435 \u043e\u0441\u044c\u043c\u043e\u0444\u043e\u043d\u044b",
+            "it_IT": "Octocuffie rosse",
+            "ja_JP": "\u30df\u30df\u30bf\u30b38"
+        }
+    },
+    {
+        "id": 64,
+        "name": "Cephalo Pods",
+        "image": "../common/assets/img/gear/hats/Hed_HDP008.png",
+        "main": "Ink Recovery Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Cephalo Pods",
+            "en_US": "Cephalo Pods",
+            "es_ES": "Auriculares acorazados",
+            "es_MX": "Auriculares acorazados",
+            "fr_FR": "\u00c9couteurs sonar",
+            "fr_CA": "\u00c9couteurs sonar",
+            "de_DE": "Cephalo-Pods",
+            "nl_NL": "Zeeoorheadset",
+            "ru_RU": "\u00ab\u0426\u0435\u0444\u0430\u043b\u043e\u043f\u043e\u0434\u044b\u00bb",
+            "it_IT": "Cefalocuffie in-ear",
+            "ja_JP": "\u7532\u4f1d\u5c0e\u30a8\u30f3\u30da\u30e9EP"
+        }
+    },
+    {
+        "id": 65,
+        "name": "INVISIBLE",
+        "image": "../common/assets/img/gear/hats/Hed_INV000.png",
+        "main": "Quick Respawn",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "INVISIBLE",
+            "en_US": "INVISIBLE",
+            "es_ES": "INVISIBLE",
+            "es_MX": "INVISIBLE",
+            "fr_FR": "INVISIBLE",
+            "fr_CA": "INVISIBLE",
+            "de_DE": "INVISIBLE",
+            "nl_NL": "INVISIBLE",
+            "ru_RU": "INVISIBLE",
+            "it_IT": "INVISIBLE",
+            "ja_JP": "INVISIBLE"
+        }
+    },
+    {
+        "id": 66,
+        "name": "Hockey Helmet",
+        "image": "../common/assets/img/gear/hats/Hed_MET007.png",
+        "main": "Intensify Action",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Hockey Helmet",
+            "en_US": "Hockey Helmet",
+            "es_ES": "Casco hockey",
+            "es_MX": "Casco hockey",
+            "fr_FR": "Casque de hockey",
+            "fr_CA": "Casque de hockey",
+            "de_DE": "Hockey-Helm",
+            "nl_NL": "IJshockeyhelm",
+            "ru_RU": "\u0428\u043b\u0435\u043c \u0425\u041a \u00ab\u0411\u0430\u0440\u0440\u0430\u043a\u0443\u0434\u0430\u00bb",
+            "it_IT": "Casco da hockey",
+            "ja_JP": "\u30a4\u30ab\u30ed\u30b9HK\u30e1\u30c3\u30c8"
+        }
+    },
+    {
+        "id": 67,
+        "name": "Winkle Stripe Helm",
+        "image": "../common/assets/img/gear/hats/Hed_MET012.png",
+        "main": "Sub Resistance Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Winkle Stripe Helm",
+            "en_US": "Winkle Stripe Helm",
+            "es_ES": "Casco caparaz\u00f3n",
+            "es_MX": "Casco caparaz\u00f3n",
+            "fr_FR": "Casque carapace",
+            "fr_CA": "Casque carapace",
+            "de_DE": "Muschelhelm",
+            "nl_NL": "Schelpenhelm",
+            "ru_RU": "\u0428\u043b\u0435\u043c \u00ab\u041c\u043e\u043b\u043b\u044e\u0441\u043a\u0438\u043d\u043e\u00bb",
+            "it_IT": "Carapasco",
+            "ja_JP": "\u30b7\u30a7\u30eb\u30e1\u30c3\u30c8"
+        }
+    },
+    {
+        "id": 68,
+        "name": "Party Hard Hat",
+        "image": "../common/assets/img/gear/hats/Hed_MET013.png",
+        "main": "Quick Super Jump",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Party Hard Hat",
+            "en_US": "Party Hard Hat",
+            "es_ES": "Casco astado",
+            "es_MX": "Casco cuernos",
+            "fr_FR": "Casque \u00e0 cornes",
+            "fr_CA": "Casque \u00e0 cornes",
+            "de_DE": "H\u00f8rnhelmer",
+            "nl_NL": "Carnavalhallahelm",
+            "ru_RU": "\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u00ab\u0412\u0438\u043a\u0438\u043d\u0433\u00bb",
+            "it_IT": "Elmo vichingo",
+            "ja_JP": "\u30db\u30fc\u30f3\u30e1\u30c3\u30c8BF"
+        }
+    },
+    {
+        "id": 69,
+        "name": "Home-Team Catcher",
+        "image": "../common/assets/img/gear/hats/Hed_MET014.png",
+        "main": "Ink Resistance Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Home-Team Catcher",
+            "en_US": "Home-Team Catcher",
+            "es_ES": "Careta b\u00e9isbol local",
+            "es_MX": "Careta b\u00e9isbol local",
+            "fr_FR": "Casque de receveur (dom.)",
+            "fr_CA": "Casque de receveur (dom.)",
+            "de_DE": "Heim-Catcherhelm",
+            "nl_NL": "Catcherhelm (thuis)",
+            "ru_RU": "\u0421\u0432\u0435\u0442\u043b\u0430\u044f \u043c\u0430\u0441\u043a\u0430 \u043a\u0435\u0442\u0447\u0435\u0440\u0430",
+            "it_IT": "Maschera baseball (casa)",
+            "ja_JP": "\u30ad\u30e3\u30c3\u30c1\u30e3\u30fc\u30de\u30b9\u30afFU"
+        }
+    },
+    {
+        "id": 70,
+        "name": "Annaki Mask",
+        "image": "../common/assets/img/gear/hats/Hed_MSK005.png",
+        "main": "Opening Gambit",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Annaki Mask",
+            "en_US": "Annaki Mask",
+            "es_ES": "Mascarilla Annak",
+            "es_MX": "Tapabocas negra y roja",
+            "fr_FR": "Masque Aroz",
+            "fr_CA": "Masque Aroz",
+            "de_DE": "Annaki-Mundschutz",
+            "nl_NL": "Annaki-mondkapje",
+            "ru_RU": "\u041c\u0430\u0441\u043a\u0430 \u00ab\u041d\u0435\u0444\u043e\u0440\u043c\u0430\u043b\u00bb",
+            "it_IT": "Mascherina Annak",
+            "ja_JP": "\u30a2\u30ca\u30a2\u30ad\u30de\u30b9\u30af"
+        }
+    },
+    {
+        "id": 71,
+        "name": "Firefin Facemask",
+        "image": "../common/assets/img/gear/hats/Hed_MSK008.png",
+        "main": "Run Speed Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Firefin Facemask",
+            "en_US": "Firefin Facemask",
+            "es_ES": "Mascarilla Chokkor",
+            "es_MX": "Tapabocas Shachi",
+            "fr_FR": "Masque Friture",
+            "fr_CA": "Masque Arki",
+            "de_DE": "Rilax-Mundschutz",
+            "nl_NL": "Firefin-mondkapje",
+            "ru_RU": "\u041c\u0430\u0441\u043a\u0430 \u043e\u0442 \u00ab\u0424\u0440\u0438\u0442\u044e\u0440\u00bb",
+            "it_IT": "Mascherina Torryd",
+            "ja_JP": "\u30de\u30b9\u30af\u30c9\u30db\u30c3\u30b3\u30ea\u30fc"
+        }
+    },
+    {
+        "id": 72,
+        "name": "Forge Mask",
+        "image": "../common/assets/img/gear/hats/Hed_MSK011.png",
+        "main": "Intensify Action",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Forge Mask",
+            "en_US": "Forge Mask",
+            "es_ES": "Mascarilla Forima",
+            "es_MX": "Tapabocas Forima",
+            "fr_FR": "Masque Focus",
+            "fr_CA": "Masque Fosia",
+            "de_DE": "Focus-Mundschutz",
+            "nl_NL": "Forge-mondkapje",
+            "ru_RU": "\u0412\u0435\u043b\u043e\u043c\u0430\u0441\u043a\u0430",
+            "it_IT": "Mascherina Fortia",
+            "ja_JP": "\u30d5\u30a9\u30fc\u30ea\u30de\u30b9\u30af"
+        }
+    },
+    {
+        "id": 73,
+        "name": "BlobMob Mask",
+        "image": "../common/assets/img/gear/hats/Hed_MSK014.png",
+        "main": "Tenacity",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "BlobMob Mask",
+            "en_US": "BlobMob Mask",
+            "es_ES": "Mascarilla gl\u00f3bulos",
+            "es_MX": "Tapabocas gl\u00f3bulos",
+            "fr_FR": "Masque smiley",
+            "fr_CA": "Masque sourire",
+            "de_DE": "BlobMob-Mundschutz",
+            "nl_NL": "BlobMob-mondkapje",
+            "ru_RU": "\u041c\u0430\u0441\u043a\u0430 \u0441\u043e \u0441\u043c\u0430\u0439\u043b\u0430\u043c\u0438",
+            "it_IT": "Mascherina SmileMob",
+            "ja_JP": "\u30d6\u30ed\u30d6\u30b9\u30de\u30a4\u30eb\u30de\u30b9\u30af"
+        }
+    },
+    {
+        "id": 74,
+        "name": "Air Gills DX",
+        "image": "../common/assets/img/gear/hats/Hed_MSK015.png",
+        "main": "Tenacity",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Air Gills DX",
+            "en_US": "Air Gills DX",
+            "es_ES": "M\u00e1scara antitinta",
+            "es_MX": "M\u00e1scara antitinta",
+            "fr_FR": "Masque oxy-zen",
+            "fr_CA": "Masque oxy-zen",
+            "de_DE": "Atemmaske Pro",
+            "nl_NL": "Zuurstofmasker Pro",
+            "ru_RU": "\u0420\u0435\u0441\u043f\u0438\u0440\u0430\u0442\u043e\u0440 \u00ab\u0416\u0430\u0431\u0440\u044b 3000\u00bb",
+            "it_IT": "Respiratore",
+            "ja_JP": "\u30a8\u30e9\u30d6\u30ea\u30fc\u30b9\u30de\u30b9\u30af"
+        }
+    },
+    {
+        "id": 75,
+        "name": "Squidbeak Shield",
+        "image": "../common/assets/img/gear/hats/Hed_MSK016.png",
+        "main": "Sub Power Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Squidbeak Shield",
+            "en_US": "Squidbeak Shield",
+            "es_ES": "Protector de mand\u00edbula",
+            "es_MX": "Protector de mand\u00edbula",
+            "fr_FR": "\u00c9cran facialamar",
+            "fr_CA": "\u00c9cran facialamar",
+            "de_DE": "Airflow-Schild R255",
+            "nl_NL": "Kraakcommando-schild",
+            "ru_RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u044b\u0439 \u044d\u043a\u0440\u0430\u043d \u00ab\u0421\u043f\u0440\u0443\u0442\u00bb",
+            "it_IT": "Paramento rosso",
+            "ja_JP": "\u30c8\u30f3\u30d3\u30b7\u30fc\u30eb\u30c9R255"
+        }
+    },
+    {
+        "id": 76,
+        "name": "Hero Headset Replica",
+        "image": "../common/assets/img/gear/hats/Hed_MSN000.png",
+        "main": "Run Speed Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Hero Headset Replica",
+            "en_US": "Hero Headset Replica",
+            "es_ES": "Auriculares de \u00e9lite (r\u00e9plica)",
+            "es_MX": "Auriculares de \u00e9lite r\u00e9plica",
+            "fr_FR": "Casque h\u00e9ro\u00efque (r\u00e9plique)",
+            "fr_CA": "Casque h\u00e9ro\u00efque (r\u00e9p.)",
+            "de_DE": "Helden-Headset Replik",
+            "nl_NL": "Heldenheadset (replica)",
+            "ru_RU": "\u0420\u0430\u0446\u0438\u044f \u0433\u0435\u0440\u043e\u044f (\u043a\u043b\u043e\u043d)",
+            "it_IT": "Cuffie \u00e9lite replica",
+            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30d8\u30c3\u30ba \u30ec\u30d7\u30ea\u30ab"
+        }
+    },
+    {
+        "id": 77,
+        "name": "Armor Helmet Replica",
+        "image": "../common/assets/img/gear/hats/Hed_MSN004.png",
+        "main": "Tenacity",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Armor Helmet Replica",
+            "en_US": "Armor Helmet Replica",
+            "es_ES": "Casco reforzado (r\u00e9plica)",
+            "es_MX": "Casco armadura r\u00e9plica",
+            "fr_FR": "Casque encrifug\u00e9 (r\u00e9plique)",
+            "fr_CA": "Casque encrifug\u00e9 (r\u00e9p.)",
+            "de_DE": "R\u00fcstungshelm Replik",
+            "nl_NL": "Pantserhelm (replica)",
+            "ru_RU": "\u0411\u0440\u043e\u043d\u0435\u0448\u043b\u0435\u043c (\u043a\u043b\u043e\u043d)",
+            "it_IT": "Casco d'armatura replica",
+            "ja_JP": "\u30a2\u30fc\u30de\u30fc\u30e1\u30c3\u30c8 \u30ec\u30d7\u30ea\u30ab"
+        }
+    },
+    {
+        "id": 78,
+        "name": "Teddy Band",
+        "image": "../common/assets/img/gear/hats/Hed_MSN109.png",
+        "main": "Comeback",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Teddy Band",
+            "en_US": "Teddy Band",
+            "es_ES": "Diadema orejas de oso",
+            "es_MX": "Orejitas de oso",
+            "fr_FR": "Serre-t\u00eate ourson",
+            "fr_CA": "Serre-t\u00eate ourson",
+            "de_DE": "B\u00e4rchen\u00f6hrchen",
+            "nl_NL": "Berenoortjes",
+            "ru_RU": "\u041c\u0435\u0434\u0432\u0435\u0436\u0438\u0439 \u043e\u0431\u043e\u0434\u043e\u043a",
+            "it_IT": "Orecchie da orso",
+            "ja_JP": "\u30af\u30de\u30ce\u30df\u30df"
+        }
+    },
+    {
+        "id": 79,
+        "name": "Fuzz-Octoling Goggles",
+        "image": "../common/assets/img/gear/hats/Hed_MSN110.png",
+        "main": "Last-Ditch Effort",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Fuzz-Octoling Goggles",
+            "en_US": "Fuzz-Octoling Goggles",
+            "es_ES": "Pulpogafas capilares",
+            "es_MX": "Octogafas capilares",
+            "fr_FR": "Lunettes octabouilles",
+            "fr_CA": "Lunettes octabouilles",
+            "de_DE": "Flausch-Oktoskop",
+            "nl_NL": "Vacht-Octolingbril",
+            "ru_RU": "\u0412\u0438\u0437\u043e\u0440 \u0448\u0435\u0440\u0441\u0442\u043e\u043b\u0438\u043d\u0433\u0430",
+            "it_IT": "Visore Octoling peloso",
+            "ja_JP": "\u30b1\u30bf\u30b3\u30be\u30cd\u30b9\u30b4\u30fc\u30b0\u30eb"
+        }
+    },
+    {
+        "id": 80,
+        "name": "\u30b1\u30bf\u30b3\u30be\u30cd\u30b9\u30b4\u30fc\u30b0\u30eb\u30ef\u30ab\u30e1",
+        "image": "../common/assets/img/gear/hats/Hed_MSN111.png",
+        "main": "Last-Ditch Effort",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "\u30b1\u30bf\u30b3\u30be\u30cd\u30b9\u30b4\u30fc\u30b0\u30eb\u30ef\u30ab\u30e1",
+            "en_US": "\u30b1\u30bf\u30b3\u30be\u30cd\u30b9\u30b4\u30fc\u30b0\u30eb\u30ef\u30ab\u30e1",
+            "es_ES": "\u30b1\u30bf\u30b3\u30be\u30cd\u30b9\u30b4\u30fc\u30b0\u30eb\u30ef\u30ab\u30e1",
+            "es_MX": "\u30b1\u30bf\u30b3\u30be\u30cd\u30b9\u30b4\u30fc\u30b0\u30eb\u30ef\u30ab\u30e1",
+            "fr_FR": "\u30b1\u30bf\u30b3\u30be\u30cd\u30b9\u30b4\u30fc\u30b0\u30eb\u30ef\u30ab\u30e1",
+            "fr_CA": "\u30b1\u30bf\u30b3\u30be\u30cd\u30b9\u30b4\u30fc\u30b0\u30eb\u30ef\u30ab\u30e1",
+            "de_DE": "\u30b1\u30bf\u30b3\u30be\u30cd\u30b9\u30b4\u30fc\u30b0\u30eb\u30ef\u30ab\u30e1",
+            "nl_NL": "\u30b1\u30bf\u30b3\u30be\u30cd\u30b9\u30b4\u30fc\u30b0\u30eb\u30ef\u30ab\u30e1",
+            "ru_RU": "\u30b1\u30bf\u30b3\u30be\u30cd\u30b9\u30b4\u30fc\u30b0\u30eb\u30ef\u30ab\u30e1",
+            "it_IT": "\u30b1\u30bf\u30b3\u30be\u30cd\u30b9\u30b4\u30fc\u30b0\u30eb\u30ef\u30ab\u30e1",
+            "ja_JP": "\u30b1\u30bf\u30b3\u30be\u30cd\u30b9\u30b4\u30fc\u30b0\u30eb\u30ef\u30ab\u30e1"
+        }
+    },
+    {
+        "id": 81,
+        "name": "Survival Ear",
+        "image": "../common/assets/img/gear/hats/Hed_MSN301.png",
+        "main": "Last-Ditch Effort",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Survival Ear",
+            "en_US": "Survival Ear",
+            "es_ES": "Survival Ear",
+            "es_MX": "Survival Ear",
+            "fr_FR": "Survival Ear",
+            "fr_CA": "Survival Ear",
+            "de_DE": "Survival Ear",
+            "nl_NL": "Survival Ear",
+            "ru_RU": "Survival Ear",
+            "it_IT": "Survival Ear",
+            "ja_JP": "\u30b5\u30d0\u30a4\u30d0\u30eb\u30a4\u30e4\u30fc"
+        }
+    },
+    {
+        "id": 82,
+        "name": "Hero Brain Lv1",
+        "image": "../common/assets/img/gear/hats/Hed_MSN302.png",
+        "main": "Last-Ditch Effort",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Hero Brain Lv1",
+            "en_US": "Hero Brain Lv1",
+            "es_ES": "Hero Brain Lv1",
+            "es_MX": "Hero Brain Lv1",
+            "fr_FR": "Hero Brain Lv1",
+            "fr_CA": "Hero Brain Lv1",
+            "de_DE": "Hero Brain Lv1",
+            "nl_NL": "Hero Brain Lv1",
+            "ru_RU": "Hero Brain Lv1",
+            "it_IT": "Hero Brain Lv1",
+            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30d6\u30ec\u30a4\u30f3Lv1"
+        }
+    },
+    {
+        "id": 83,
+        "name": "Hero Brain Lv2",
+        "image": "../common/assets/img/gear/hats/Hed_MSN303.png",
+        "main": "Last-Ditch Effort",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Hero Brain Lv2",
+            "en_US": "Hero Brain Lv2",
+            "es_ES": "Hero Brain Lv2",
+            "es_MX": "Hero Brain Lv2",
+            "fr_FR": "Hero Brain Lv2",
+            "fr_CA": "Hero Brain Lv2",
+            "de_DE": "Hero Brain Lv2",
+            "nl_NL": "Hero Brain Lv2",
+            "ru_RU": "Hero Brain Lv2",
+            "it_IT": "Hero Brain Lv2",
+            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30d6\u30ec\u30a4\u30f3Lv2"
+        }
+    },
+    {
+        "id": 84,
+        "name": "Hero Brain Lv3",
+        "image": "../common/assets/img/gear/hats/Hed_MSN304.png",
+        "main": "Last-Ditch Effort",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Hero Brain Lv3",
+            "en_US": "Hero Brain Lv3",
+            "es_ES": "Hero Brain Lv3",
+            "es_MX": "Hero Brain Lv3",
+            "fr_FR": "Hero Brain Lv3",
+            "fr_CA": "Hero Brain Lv3",
+            "de_DE": "Hero Brain Lv3",
+            "nl_NL": "Hero Brain Lv3",
+            "ru_RU": "Hero Brain Lv3",
+            "it_IT": "Hero Brain Lv3",
+            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30d6\u30ec\u30a4\u30f3Lv3"
+        }
+    },
+    {
+        "id": 85,
+        "name": "Hero Brain ST",
+        "image": "../common/assets/img/gear/hats/Hed_MSN305.png",
+        "main": "Last-Ditch Effort",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Hero Brain ST",
+            "en_US": "Hero Brain ST",
+            "es_ES": "Hero Brain ST",
+            "es_MX": "Hero Brain ST",
+            "fr_FR": "Hero Brain ST",
+            "fr_CA": "Hero Brain ST",
+            "de_DE": "Hero Brain ST",
+            "nl_NL": "Hero Brain ST",
+            "ru_RU": "Hero Brain ST",
+            "it_IT": "Hero Brain ST",
+            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30d6\u30ec\u30a4\u30f3ST"
+        }
+    },
+    {
+        "id": 86,
+        "name": "Hero Mindset Replica",
+        "image": "../common/assets/img/gear/hats/Hed_MSN306.png",
+        "main": "Sub Power Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Hero Mindset Replica",
+            "en_US": "Hero Mindset Replica",
+            "es_ES": "Neurocascos \u00e9lite (r\u00e9plica)",
+            "es_MX": "Neuroaud\u00edfonos \u00e9lite r\u00e9plica",
+            "fr_FR": "Neurocasque h\u00e9ro\u00efque (r\u00e9pl.)",
+            "fr_CA": "Neurocasque h\u00e9ro\u00efque (r\u00e9p.)",
+            "de_DE": "Helden-Neuroset Replik",
+            "nl_NL": "Heldenneuroset (replica)",
+            "ru_RU": "\u041d\u0435\u0439\u0440\u043e\u0444\u043e\u043d \u0433\u0435\u0440\u043e\u044f (\u043a\u043b\u043e\u043d)",
+            "it_IT": "Auricolari \u00e9lite replica",
+            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30d6\u30ec\u30a4\u30f3 \u30ec\u30d7\u30ea\u30ab"
+        }
+    },
+    {
+        "id": 87,
+        "name": "Legendary Cap",
+        "image": "../common/assets/img/gear/hats/Hed_MSN310.png",
+        "main": "",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Legendary Cap",
+            "en_US": "Legendary Cap",
+            "es_ES": "Legendary Cap",
+            "es_MX": "Legendary Cap",
+            "fr_FR": "Legendary Cap",
+            "fr_CA": "Legendary Cap",
+            "de_DE": "Legendary Cap",
+            "nl_NL": "Legendary Cap",
+            "ru_RU": "Legendary Cap",
+            "it_IT": "Legendary Cap",
+            "ja_JP": "\u3067\u3093\u305b\u3064\u306e\u307c\u3046\u3057"
+        }
+    },
+    {
+        "id": 88,
+        "name": "Knitted Hat",
+        "image": "../common/assets/img/gear/hats/Hed_NCP008.png",
+        "main": "Ink Resistance Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Knitted Hat",
+            "en_US": "Knitted Hat",
+            "es_ES": "Gorro tejido",
+            "es_MX": "Gorro tejido",
+            "fr_FR": "Bonnet c\u00f4tel\u00e9",
+            "fr_CA": "Tuque c\u00f4tel\u00e9e",
+            "de_DE": "Strickm\u00fctze",
+            "nl_NL": "Wollen muts",
+            "ru_RU": "\u0428\u0430\u043f\u043a\u0430 \u00ab\u0424\u0443\u0433\u0430\u0441\u0438\u043a\u00bb",
+            "it_IT": "Cappello a maglia",
+            "ja_JP": "\u30ea\u30d6\u30cb\u30c3\u30c8"
+        }
+    },
+    {
+        "id": 89,
+        "name": "Stay Crusty Cap",
+        "image": "../common/assets/img/gear/hats/Hed_TRG000.png",
+        "main": "Sub Power Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Stay Crusty Cap",
+            "en_US": "Stay Crusty Cap",
+            "es_ES": "Gorro de Adolfrito",
+            "es_MX": "Gorro de Adolfrito",
+            "fr_FR": "Casquette Omar",
+            "fr_CA": "Casquette Omar",
+            "de_DE": "Shrimpson-Haube",
+            "nl_NL": "Pelles pet",
+            "ru_RU": "\u0428\u0430\u043f\u043e\u0447\u043a\u0430 \u0420\u0430\u043a\u043a\u0438",
+            "it_IT": "Cuffia croc-stacea",
+            "ja_JP": "\u30ed\u30d6\u30ad\u30e3\u30c3\u30d7"
+        }
+    },
+    {
+        "id": 90,
+        "name": "FishFry Visor",
+        "image": "../common/assets/img/gear/hats/Hed_VIS001.png",
+        "main": "Special Charge Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "FishFry Visor",
+            "en_US": "FishFry Visor",
+            "es_ES": "Visera de marca",
+            "es_MX": "Visera Sofrito",
+            "fr_FR": "Visi\u00e8re Friture",
+            "fr_CA": "Visi\u00e8re Arki",
+            "de_DE": "Rilax-Schirmband",
+            "nl_NL": "Firefin-zonneklep",
+            "ru_RU": "\u041a\u043e\u0437\u044b\u0440\u0435\u043a \u00ab\u0424\u0443\u0433\u0430\u0441\u0438\u043a\u00bb",
+            "it_IT": "Visiera cool",
+            "ja_JP": "\u30e4\u30ad\u30d5\u30b0 \u30b5\u30f3\u30d0\u30a4\u30b6\u30fc"
+        }
+    },
+    {
+        "id": 91,
+        "name": "Takoroka Visor",
+        "image": "../common/assets/img/gear/hats/Hed_VIS003.png",
+        "main": "Quick Super Jump",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Takoroka Visor",
+            "en_US": "Takoroka Visor",
+            "es_ES": "Visera Sepioca",
+            "es_MX": "Visera Pulpioka",
+            "fr_FR": "Visi\u00e8re Cubic",
+            "fr_CA": "Visi\u00e8re Pionic",
+            "de_DE": "Kalamati-Schirmband",
+            "nl_NL": "Takoroka-zonneklep",
+            "ru_RU": "\u041a\u043e\u0437\u044b\u0440\u0435\u043a \u043e\u0442 \u00ab\u0420\u044b\u0431\u043e\u043a\u00bb",
+            "it_IT": "Visiera Sepia",
+            "ja_JP": "\u30e4\u30b3\u30d0\u30a4\u30b6\u30fc"
+        }
+    },
+    {
+        "id": 92,
+        "name": "Face Visor",
+        "image": "../common/assets/img/gear/hats/Hed_VIS004.png",
+        "main": "Sub Resistance Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Face Visor",
+            "en_US": "Face Visor",
+            "es_ES": "Visera tintada",
+            "es_MX": "Visera tintada",
+            "fr_FR": "Visi\u00e8re teint\u00e9e",
+            "fr_CA": "Visi\u00e8re teint\u00e9e",
+            "de_DE": "Gesichtsschutz",
+            "nl_NL": "Gezichtsvizier",
+            "ru_RU": "\u0412\u0438\u0437\u043e\u0440-\u043a\u043e\u0437\u044b\u0440\u0435\u043a",
+            "it_IT": "Visiera fum\u00e9",
+            "ja_JP": "\u30d5\u30a7\u30a4\u30b9\u30d0\u30a4\u30b6\u30fc"
+        }
+    }
+]

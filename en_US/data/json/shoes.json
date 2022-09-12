@@ -1,0 +1,1682 @@
+[
+    {
+        "id": 0,
+        "name": "School Shoes + Hi Socks",
+        "image": "../common/assets/img/gear/shoes/Shs_AMB000.png",
+        "main": "Ink Saver (Sub)",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "School Shoes + Hi Socks",
+            "en_US": "School Shoes + Hi Socks",
+            "es_ES": "Mocas\u00edn escolar",
+            "es_MX": "Zapatos escolares",
+            "fr_FR": "Mocassins scolaires d'hiver",
+            "fr_CA": "Mocassins scolaires d'hiver",
+            "de_DE": "Schuluniform-Schuhe",
+            "nl_NL": "Schoolschoenen",
+            "ru_RU": "\u0428\u043a\u043e\u043b\u044c\u043d\u044b\u0435 \u0431\u043e\u0442\u0438\u043d\u043a\u0438 + \u0447\u0443\u043b\u043a\u0438",
+            "it_IT": "Mocassini neri (calze)",
+            "ja_JP": "\u30b9\u30af\u30fc\u30eb\u30ed\u30fc\u30d5\u30a1\u30fc \u30cf\u30a4\u30bd"
+        }
+    },
+    {
+        "id": 1,
+        "name": "Samurai Shoes",
+        "image": "../common/assets/img/gear/shoes/Shs_AMB001.png",
+        "main": "Special Power Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Samurai Shoes",
+            "en_US": "Samurai Shoes",
+            "es_ES": "Sandalia samur\u00e1i",
+            "es_MX": "Sandalias samur\u00e1i",
+            "fr_FR": "Bottes de samoura\u00ef",
+            "fr_CA": "Sandales de samoura\u00ef",
+            "de_DE": "Samurai-Schuhe",
+            "nl_NL": "Samoeraischoenen",
+            "ru_RU": "\u0421\u0430\u043c\u0443\u0440\u0430\u0439\u0441\u043a\u0438\u0435 \u0441\u0430\u043d\u0434\u0430\u043b\u0438\u0438",
+            "it_IT": "Calzature da samurai",
+            "ja_JP": "\u30b5\u30e0\u30e9\u30a4\u30b7\u30e5\u30fc\u30ba"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Power Boots",
+        "image": "../common/assets/img/gear/shoes/Shs_AMB002.png",
+        "main": "Ink Saver (Main)",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Power Boots",
+            "en_US": "Power Boots",
+            "es_ES": "Tecnobota",
+            "es_MX": "Tecnobotas",
+            "fr_FR": "Bottes m\u00e9ca",
+            "fr_CA": "Bottes technos",
+            "de_DE": "Exo-Stiefel",
+            "nl_NL": "Hightechschoenen",
+            "ru_RU": "\u0421\u0438\u043b\u043e\u0432\u044b\u0435 \u0431\u043e\u0442\u044b",
+            "it_IT": "Stivali hi-tech",
+            "ja_JP": "\u30d1\u30ef\u30fc\u30c9\u30ec\u30c3\u30b0\u30b9"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Baggy-Sock Fringe Loafs",
+        "image": "../common/assets/img/gear/shoes/Shs_AMB003.png",
+        "main": "Sub Resistance Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Baggy-Sock Fringe Loafs",
+            "en_US": "Baggy-Sock Fringe Loafs",
+            "es_ES": "Zapato escolar",
+            "es_MX": "Mocasines con flecos",
+            "fr_FR": "Mocassins \u00e0 franges d'hiver",
+            "fr_CA": "Mocassins \u00e0 franges d'hiver",
+            "de_DE": "Stulpen-Loafer",
+            "nl_NL": "Loafers met franje",
+            "ru_RU": "\u041b\u043e\u0444\u0435\u0440\u044b \u0441 \u0431\u0430\u0445\u0440\u043e\u043c\u043e\u0439",
+            "it_IT": "Mocassini con frangia (calze)",
+            "ja_JP": "\u30ad\u30eb\u30c8\u30ed\u30fc\u30d5\u30a1\u30fc \u30eb\u30fc\u30ba"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Squinja Boots",
+        "image": "../common/assets/img/gear/shoes/Shs_AMB004.png",
+        "main": "Swim Speed Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Squinja Boots",
+            "en_US": "Squinja Boots",
+            "es_ES": "Bota ninja",
+            "es_MX": "Botas ninja",
+            "fr_FR": "Bottes de ninja",
+            "fr_CA": "Bottes de ninja",
+            "de_DE": "Ninja-Stiefel",
+            "nl_NL": "Ninjalaarzen",
+            "ru_RU": "\u0422\u0430\u0431\u0438 \u043d\u0438\u043d\u0434\u0437\u044f\u043b\u0438\u043d\u0433\u0430",
+            "it_IT": "Stivali ninja",
+            "ja_JP": "\u30b7\u30ce\u30d3\u30a2\u30b7"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Power Boots Mk I",
+        "image": "../common/assets/img/gear/shoes/Shs_AMB005.png",
+        "main": "Sub Resistance Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Power Boots Mk I",
+            "en_US": "Power Boots Mk I",
+            "es_ES": "Prototipo de tecnobota",
+            "es_MX": "Tecnobotas II",
+            "fr_FR": "Bottes m\u00e9ca Mk I",
+            "fr_CA": "Bottes technos Mk I",
+            "de_DE": "Exo-Prototypenstiefel",
+            "nl_NL": "Hightechschoenen (prototype)",
+            "ru_RU": "\u0421\u0438\u043b\u043e\u0432\u044b\u0435 \u0431\u043e\u0442\u044b \u041c-1",
+            "it_IT": "Prototipo di stivali hi-tech",
+            "ja_JP": "\u30d1\u30ef\u30fc\u30c9\u30ec\u30c3\u30b0\u30b9 \u30aa\u30ea\u30b8\u30f3"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Pearlescent Kicks",
+        "image": "../common/assets/img/gear/shoes/Shs_AMB006.png",
+        "main": "Special Charge Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Pearlescent Kicks",
+            "en_US": "Pearlescent Kicks",
+            "es_ES": "Suela doble perl\u00edfera",
+            "es_MX": "Plataformas perl\u00edferas",
+            "fr_FR": "Compens\u00e9es princi\u00e8res",
+            "fr_CA": "Compens\u00e9es princi\u00e8res",
+            "de_DE": "Perla-Sneaker",
+            "nl_NL": "Loreleis plateauschoenen",
+            "ru_RU": "\u0416\u0435\u043c-\u043a\u0440\u043e\u0441\u0441\u044b",
+            "it_IT": "Scarpe di Alga",
+            "ja_JP": "\u30d2\u30e1\u30a4\u30c8\u30b9\u30cb\u30fc\u30ab\u30fc"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Marinated Slip-Ons",
+        "image": "../common/assets/img/gear/shoes/Shs_AMB007.png",
+        "main": "Ink Recovery Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Marinated Slip-Ons",
+            "en_US": "Marinated Slip-Ons",
+            "es_ES": "Playera lazada mar\u00ednica",
+            "es_MX": "Mocasines mar\u00ednicos",
+            "fr_FR": "Mocassins coraliens",
+            "fr_CA": "Mocassins coraliens",
+            "de_DE": "Marina-Slip-ons",
+            "nl_NL": "Mariana's instappers",
+            "ru_RU": "\u0420\u0438\u0448-\u0441\u043b\u0438\u043f\u043e\u043d\u044b",
+            "it_IT": "Scarpe di Nori",
+            "ja_JP": "\u30a4\u30a4\u30c0\u30c1\u30b9\u30ea\u30c3\u30dd\u30f3"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Enchanted Boots",
+        "image": "../common/assets/img/gear/shoes/Shs_AMB008.png",
+        "main": "Run Speed Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Enchanted Boots",
+            "en_US": "Enchanted Boots",
+            "es_ES": "Bota hechizada",
+            "es_MX": "Botas hechizadas",
+            "fr_FR": "Bottines magiques",
+            "fr_CA": "Bottines magiques",
+            "de_DE": "Zauberstiefel",
+            "nl_NL": "Toverlaarzen",
+            "ru_RU": "\u0421\u0430\u043f\u043e\u0433\u0438 \u043a\u043e\u043b\u0434\u0443\u043d\u044c\u0438",
+            "it_IT": "Stivaletti stregoneschi",
+            "ja_JP": "\u30a8\u30f3\u30c1\u30e3\u30f3\u30c8\u30d6\u30fc\u30c4"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Steel Greaves",
+        "image": "../common/assets/img/gear/shoes/Shs_AMB009.png",
+        "main": "Object Shredder",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Steel Greaves",
+            "en_US": "Steel Greaves",
+            "es_ES": "Escarpe octoguerrero",
+            "es_MX": "Grebas de acero",
+            "fr_FR": "Solerets d'Octaguerrier",
+            "fr_CA": "Solerets d'octaguerrier",
+            "de_DE": "Oktoritter-Stiefel",
+            "nl_NL": "Octoridderlaarzen",
+            "ru_RU": "\u0421\u0430\u043f\u043e\u0433\u0438 \u043e\u0441\u044c\u043c\u043e\u0440\u044b\u0446\u0430\u0440\u044f",
+            "it_IT": "Calzari da octoguerriero",
+            "ja_JP": "\u30bf\u30b3\u30c6\u30a3\u30ab\u30eb\u306a\u3059\u306d\u3042\u3066"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Fresh Fish Feet",
+        "image": "../common/assets/img/gear/shoes/Shs_AMB010.png",
+        "main": "Quick Respawn",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Fresh Fish Feet",
+            "en_US": "Fresh Fish Feet",
+            "es_ES": "Zapato de mu\u00f1ecote",
+            "es_MX": "Pies de pececito",
+            "fr_FR": "Pieds de mascotte",
+            "fr_CA": "Pieds de mascotte",
+            "de_DE": "Flosso-Schuhe",
+            "nl_NL": "Mascotteschoenen",
+            "ru_RU": "\u0411\u0430\u0448\u043c\u0430\u043a\u0438 \u041f\u043b\u0430\u0432\u043d\u0438\u0448\u043a\u0438",
+            "it_IT": "Piedoni da mascotte",
+            "ja_JP": "\u3072\u308c\u304a\u304f\u3093\u306e\u3042\u3057"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Base School Shoes",
+        "image": "../common/assets/img/gear/shoes/Shs_AMB014.png",
+        "main": "Ink Saver (Sub)",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Base School Shoes",
+            "en_US": "Base School Shoes",
+            "es_ES": "Mocas\u00edn escolar (b\u00e1sico)",
+            "es_MX": "Zapatos escolares b\u00e1sicos",
+            "fr_FR": "Mocassins scolaires",
+            "fr_CA": "Mocassins scolaires",
+            "de_DE": "Basic-Schuluniform-Schuhe",
+            "nl_NL": "Basisschoolschoenen",
+            "ru_RU": "\u041f\u0440\u043e\u0441\u0442\u044b\u0435 \u0448\u043a\u043e\u043b\u044c\u043d\u044b\u0435 \u0431\u043e\u0442\u0438\u043d\u043a\u0438",
+            "it_IT": "Mocassini neri (base)",
+            "ja_JP": "\u30b9\u30af\u30fc\u30eb\u30ed\u30fc\u30d5\u30a1\u30fc \u30b9\u30b2\u30bd"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Base Fringed Loafers",
+        "image": "../common/assets/img/gear/shoes/Shs_AMB015.png",
+        "main": "Sub Resistance Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Base Fringed Loafers",
+            "en_US": "Base Fringed Loafers",
+            "es_ES": "Zapato escolar (b\u00e1sico)",
+            "es_MX": "Mocasines con flecos b\u00e1sicos",
+            "fr_FR": "Mocassins \u00e0 franges",
+            "fr_CA": "Mocassins \u00e0 franges",
+            "de_DE": "Basic-Loafer",
+            "nl_NL": "Basisloafers met franje",
+            "ru_RU": "\u041f\u0440\u043e\u0441\u0442\u044b\u0435 \u043b\u043e\u0444\u0435\u0440\u044b \u0441 \u0431\u0430\u0445\u0440\u043e\u043c\u043e\u0439",
+            "it_IT": "Mocassini con frangia (base)",
+            "ja_JP": "\u30ad\u30eb\u30c8\u30ed\u30fc\u30d5\u30a1\u30fc \u30b9\u30b2\u30bd"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Moto Boots",
+        "image": "../common/assets/img/gear/shoes/Shs_BOT000.png",
+        "main": "Quick Respawn",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Moto Boots",
+            "en_US": "Moto Boots",
+            "es_ES": "Bota motorista",
+            "es_MX": "Botas de motociclista",
+            "fr_FR": "Bottes de moto",
+            "fr_CA": "Bottes de moto",
+            "de_DE": "Biker-Stiefel",
+            "nl_NL": "Motorlaarzen",
+            "ru_RU": "\u041c\u043e\u0442\u043e\u0431\u043e\u0442\u0438\u043d\u043a\u0438",
+            "it_IT": "Stivali da moto",
+            "ja_JP": "\u30e2\u30c8\u30af\u30ed\u30b9\u30d6\u30fc\u30c4"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Tan Work Boots",
+        "image": "../common/assets/img/gear/shoes/Shs_BOT001.png",
+        "main": "Sub Power Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Tan Work Boots",
+            "en_US": "Tan Work Boots",
+            "es_ES": "Bota piel marr\u00f3n",
+            "es_MX": "Botas de trabajo marrones",
+            "fr_FR": "Bottes s\u00e9curit\u00e9 nubuck",
+            "fr_CA": "Bottes s\u00e9curit\u00e9 beiges",
+            "de_DE": "Arbeitsstiefel",
+            "nl_NL": "Bruine werkschoenen",
+            "ru_RU": "\u0411\u0435\u0436\u0435\u0432\u044b\u0435 \u0440\u0430\u0431\u043e\u0447\u0438\u0435 \u0431\u043e\u0442\u044b",
+            "it_IT": "Scarponi marroni",
+            "ja_JP": "\u30cc\u30d0\u30c3\u30af\u30d6\u30fc\u30c4 \u30a4\u30a8\u30ed\u30fc"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Punk Whites",
+        "image": "../common/assets/img/gear/shoes/Shs_BOT006.png",
+        "main": "Special Charge Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Punk Whites",
+            "en_US": "Punk Whites",
+            "es_ES": "Bota cl\u00e1sica blanca",
+            "es_MX": "Botas roqueras",
+            "fr_FR": "Bottines punk blanches",
+            "fr_CA": "Bottines punk blanches",
+            "de_DE": "Wei\u00dfe Punkstiefel",
+            "nl_NL": "Witte punkschoenen",
+            "ru_RU": "\u0411\u0435\u043b\u044b\u0435 \u0431\u0435\u0440\u0446\u044b",
+            "it_IT": "Anfibi bianchi",
+            "ja_JP": "\u30ed\u30c3\u30ad\u30f3\u30db\u30ef\u30a4\u30c8"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Punk Cherries",
+        "image": "../common/assets/img/gear/shoes/Shs_BOT007.png",
+        "main": "Sub Resistance Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Punk Cherries",
+            "en_US": "Punk Cherries",
+            "es_ES": "Bota cl\u00e1sica roja",
+            "es_MX": "Botas cerezo",
+            "fr_FR": "Bottines punk grenat",
+            "fr_CA": "Bottines punk rouges",
+            "de_DE": "Rotbraune Punkstiefel",
+            "nl_NL": "Rode punkschoenen",
+            "ru_RU": "\u0412\u0438\u0448\u043d\u0435\u0432\u044b\u0435 \u0431\u0435\u0440\u0446\u044b",
+            "it_IT": "Anfibi melanzana",
+            "ja_JP": "\u30ed\u30c3\u30ad\u30f3\u30c1\u30a7\u30ea\u30fc"
+        }
+    },
+    {
+        "id": 17,
+        "name": "Hunting Boots",
+        "image": "../common/assets/img/gear/shoes/Shs_BOT012.png",
+        "main": "Sub Resistance Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Hunting Boots",
+            "en_US": "Hunting Boots",
+            "es_ES": "Bota impermeable",
+            "es_MX": "Botas impermeables",
+            "fr_FR": "Bottes de chasse",
+            "fr_CA": "Bottes de chasse",
+            "de_DE": "Jagdstiefel",
+            "nl_NL": "Jachtlaarzen",
+            "ru_RU": "\u0411\u043e\u043b\u043e\u0442\u043d\u044b\u0435 \u0431\u043e\u0442\u0438\u043d\u043a\u0438",
+            "it_IT": "Stivali da caccia",
+            "ja_JP": "\u30cf\u30f3\u30c6\u30a3\u30f3\u30b0\u30d6\u30fc\u30c4"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Skipjack Work Boots",
+        "image": "../common/assets/img/gear/shoes/Shs_BOT020.png",
+        "main": "Ink Saver (Sub)",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Skipjack Work Boots",
+            "en_US": "Skipjack Work Boots",
+            "es_ES": "Bota piel grafitis",
+            "es_MX": "Botas de trabajo Skipjack",
+            "fr_FR": "Bottes s\u00e9curit\u00e9 graffiti",
+            "fr_CA": "Bottes s\u00e9curit\u00e9 graffiti",
+            "de_DE": "Bonito-Arbeitsstiefel",
+            "nl_NL": "Skipjack-werkschoenen",
+            "ru_RU": "\u0420\u0430\u0431\u043e\u0447\u0438\u0435 \u0431\u043e\u0442\u044b \u00ab\u0413\u0440\u0430\u0444\u0444\u0438\u0442\u0438\u00bb",
+            "it_IT": "Scarponi SkipJack",
+            "ja_JP": "\u30cc\u30d0\u30c3\u30af\u30d6\u30fc\u30c4xSJ"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Arctic Duck Boots",
+        "image": "../common/assets/img/gear/shoes/Shs_BOT021.png",
+        "main": "Quick Respawn",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Arctic Duck Boots",
+            "en_US": "Arctic Duck Boots",
+            "es_ES": "Bota de pato \u00e1rtica",
+            "es_MX": "Botas de pato \u00e1rticas",
+            "fr_FR": "Bottes Palmi poudreuse",
+            "fr_CA": "Bottes Palmi poudreuse",
+            "de_DE": "Eis-Duck-Boots",
+            "nl_NL": "Witte halfrubberen laarzen",
+            "ru_RU": "\u041f\u043e\u043b\u044f\u0440\u043d\u044b\u0435 \u0443\u0442\u043a\u043e\u0431\u043e\u0442\u044b",
+            "it_IT": "Anfibi artici",
+            "ja_JP": "\u30c0\u30c3\u30af\u30d6\u30fc\u30c4 \u30b9\u30ce\u30a6"
+        }
+    },
+    {
+        "id": 20,
+        "name": "Red Hammertreads",
+        "image": "../common/assets/img/gear/shoes/Shs_BOT023.png",
+        "main": "Ink Saver (Main)",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Red Hammertreads",
+            "en_US": "Red Hammertreads",
+            "es_ES": "Bota pez martillo roja",
+            "es_MX": "Botas martillo rojas",
+            "fr_FR": "Bottes rouquin-marteau",
+            "fr_CA": "Bottes rouquin-marteau",
+            "de_DE": "Rote Hammerhai-Stiefel",
+            "nl_NL": "Rode hamerhaailaarzen",
+            "ru_RU": "\u041a\u0440\u0430\u0441\u043d\u044b\u0435 \u00ab\u041c\u043e\u043b\u043e\u0442\u043e\u0433\u043e\u043b\u043e\u0432\u044b\u00bb",
+            "it_IT": "Stivali squalo martello",
+            "ja_JP": "\u30ab\u30bb\u30d6\u30ab\u30d6\u30fc\u30c4 \u30ec\u30c3\u30c9"
+        }
+    },
+    {
+        "id": 21,
+        "name": "Punk Pinks",
+        "image": "../common/assets/img/gear/shoes/Shs_BOT025.png",
+        "main": "Ink Recovery Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Punk Pinks",
+            "en_US": "Punk Pinks",
+            "es_ES": "Bota cl\u00e1sica rosa",
+            "es_MX": "Botas roqueras rosas",
+            "fr_FR": "Bottines punk roses",
+            "fr_CA": "Bottines punk roses",
+            "de_DE": "Rosa Punkstiefel",
+            "nl_NL": "Roze punkschoenen",
+            "ru_RU": "\u0420\u043e\u0437\u043e\u0432\u044b\u0435 \u0431\u0435\u0440\u0446\u044b",
+            "it_IT": "Anfibi rosa",
+            "ja_JP": "\u30ed\u30c3\u30ad\u30f3\u30d4\u30f3\u30af"
+        }
+    },
+    {
+        "id": 22,
+        "name": "Annaki Habaneros",
+        "image": "../common/assets/img/gear/shoes/Shs_LTS010.png",
+        "main": "Sub Power Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Annaki Habaneros",
+            "en_US": "Annaki Habaneros",
+            "es_ES": "Suela extra Annak",
+            "es_MX": "Habaneros Annak",
+            "fr_FR": "Compens\u00e9es carmin Aroz",
+            "fr_CA": "Compens\u00e9es piment Aroz",
+            "de_DE": "Habanero-Annaki-Schuhe",
+            "nl_NL": "Annaki-mocassins",
+            "ru_RU": "\u041a\u0440\u0430\u0441\u043d\u044b\u0435 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b",
+            "it_IT": "Eleganti Annak",
+            "ja_JP": "\u30a2\u30ca\u30a2\u30ad\u30e9\u30d0\u30fc \u30cf\u30d0\u30cd\u30ed"
+        }
+    },
+    {
+        "id": 23,
+        "name": "Desert Chukkas",
+        "image": "../common/assets/img/gear/shoes/Shs_LTS013.png",
+        "main": "Stealth Jump",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Desert Chukkas",
+            "en_US": "Desert Chukkas",
+            "es_ES": "Bota ante des\u00e9rtica",
+            "es_MX": "Botas ante des\u00e9rticas",
+            "fr_FR": "Chukkas sable",
+            "fr_CA": "Chukkas sable",
+            "de_DE": "W\u00fcsten-Chukkas",
+            "nl_NL": "Kaki hoge schoenen",
+            "ru_RU": "\u0421\u0432\u0435\u0442\u043b\u044b\u0435 \u0431\u043e\u0442\u0438\u043d\u043a\u0438 \u0447\u0443\u043a\u043a\u0430",
+            "it_IT": "Scarpe da deserto",
+            "ja_JP": "\u30c1\u30e3\u30c3\u30ab\u30d6\u30fc\u30c4 \u30b5\u30f3\u30c9"
+        }
+    },
+    {
+        "id": 24,
+        "name": "Dark-Roast Boaties",
+        "image": "../common/assets/img/gear/shoes/Shs_LTS014.png",
+        "main": "Ink Resistance Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Dark-Roast Boaties",
+            "en_US": "Dark-Roast Boaties",
+            "es_ES": "N\u00e1utico tostado",
+            "es_MX": "Mocasines tostados",
+            "fr_FR": "Chaussures bateau caf\u00e9",
+            "fr_CA": "Chaussures bateau caf\u00e9",
+            "de_DE": "Dunkelbraune Boaties",
+            "nl_NL": "Donkerbruine bootschoenen",
+            "ru_RU": "\u0422\u043e\u043f-\u0441\u0430\u0439\u0434\u0435\u0440\u044b \u00ab\u042d\u0441\u043f\u0440\u0435\u0441\u0441\u043e\u00bb",
+            "it_IT": "Scarpe da vela marroni",
+            "ja_JP": "\u30c7\u30c3\u30ad\u30b7\u30e5\u30fc\u30ba \u30d5\u30ab\u30a4\u30ea"
+        }
+    },
+    {
+        "id": 25,
+        "name": "Hero Runner Replicas",
+        "image": "../common/assets/img/gear/shoes/Shs_MSN000.png",
+        "main": "Quick Super Jump",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Hero Runner Replicas",
+            "en_US": "Hero Runner Replicas",
+            "es_ES": "Deportiva de \u00e9lite (r\u00e9plica)",
+            "es_MX": "Deportivos de \u00e9lite r\u00e9plica",
+            "fr_FR": "Baskets h\u00e9ro\u00efques (r\u00e9pliques)",
+            "fr_CA": "Espadrilles h\u00e9ro\u00efques (r\u00e9p.)",
+            "de_DE": "Heldenschuhe Replik",
+            "nl_NL": "Heldenschoenen (replica)",
+            "ru_RU": "\u041a\u0440\u043e\u0441\u0441\u044b \u0433\u0435\u0440\u043e\u044f (\u043a\u043b\u043e\u043d)",
+            "it_IT": "Runner \u00e9lite replica",
+            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30ad\u30c3\u30af\u30b9 \u30ec\u30d7\u30ea\u30ab"
+        }
+    },
+    {
+        "id": 26,
+        "name": "Armor Boot Replicas",
+        "image": "../common/assets/img/gear/shoes/Shs_MSN004.png",
+        "main": "Ink Saver (Main)",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Armor Boot Replicas",
+            "en_US": "Armor Boot Replicas",
+            "es_ES": "Bota reforzada (r\u00e9plica)",
+            "es_MX": "Botas armadura r\u00e9plica",
+            "fr_FR": "Bottes encrifug\u00e9es (r\u00e9pl.)",
+            "fr_CA": "Bottes encrifug\u00e9es (r\u00e9p.)",
+            "de_DE": "R\u00fcstungsstiefel Replik",
+            "nl_NL": "Pantserschoenen (replica)",
+            "ru_RU": "\u0411\u0440\u043e\u043d\u0435\u0431\u043e\u0442\u044b (\u043a\u043b\u043e\u043d)",
+            "it_IT": "Stivali d'armatura replica",
+            "ja_JP": "\u30a2\u30fc\u30de\u30fc\u30d6\u30fc\u30c4 \u30ec\u30d7\u30ea\u30ab"
+        }
+    },
+    {
+        "id": 27,
+        "name": "Fuzz-Octoling Boots",
+        "image": "../common/assets/img/gear/shoes/Shs_MSN110.png",
+        "main": "Object Shredder",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Fuzz-Octoling Boots",
+            "en_US": "Fuzz-Octoling Boots",
+            "es_ES": "Pulpobota capilar",
+            "es_MX": "Octobota capilar",
+            "fr_FR": "Bottes octabouilles",
+            "fr_CA": "Bottes octabouilles",
+            "de_DE": "Flausch-Okto-Kampfstiefel",
+            "nl_NL": "Vacht-Octolaarzen",
+            "ru_RU": "\u0413\u0440\u0438\u043d\u0434\u0435\u0440\u0441\u044b \u0448\u0435\u0440\u0441\u0442\u043e\u043b\u0438\u043d\u0433\u0430",
+            "it_IT": "Stivali Octoling pelosi",
+            "ja_JP": "\u30b1\u30bf\u30b3\u30be\u30cd\u30b9\u30d6\u30fc\u30c4"
+        }
+    },
+    {
+        "id": 28,
+        "name": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
+        "image": "../common/assets/img/gear/shoes/Shs_MSN200.png",
+        "main": "Object Shredder",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
+            "en_US": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
+            "es_ES": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
+            "es_MX": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
+            "fr_FR": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
+            "fr_CA": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
+            "de_DE": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
+            "nl_NL": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
+            "ru_RU": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
+            "it_IT": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4",
+            "ja_JP": "\u30bf\u30b3\u30fb\u30d6\u30fc\u30c4"
+        }
+    },
+    {
+        "id": 29,
+        "name": "Survival Foot",
+        "image": "../common/assets/img/gear/shoes/Shs_MSN301.png",
+        "main": "Ink Saver (Main)",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Survival Foot",
+            "en_US": "Survival Foot",
+            "es_ES": "Survival Foot",
+            "es_MX": "Survival Foot",
+            "fr_FR": "Survival Foot",
+            "fr_CA": "Survival Foot",
+            "de_DE": "Survival Foot",
+            "nl_NL": "Survival Foot",
+            "ru_RU": "Survival Foot",
+            "it_IT": "Survival Foot",
+            "ja_JP": "\u30b5\u30d0\u30a4\u30d0\u30eb\u30d5\u30c3\u30c8"
+        }
+    },
+    {
+        "id": 30,
+        "name": "Hero Boots Lv1",
+        "image": "../common/assets/img/gear/shoes/Shs_MSN302.png",
+        "main": "Ink Saver (Main)",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Hero Boots Lv1",
+            "en_US": "Hero Boots Lv1",
+            "es_ES": "Hero Boots Lv1",
+            "es_MX": "Hero Boots Lv1",
+            "fr_FR": "Hero Boots Lv1",
+            "fr_CA": "Hero Boots Lv1",
+            "de_DE": "Hero Boots Lv1",
+            "nl_NL": "Hero Boots Lv1",
+            "ru_RU": "Hero Boots Lv1",
+            "it_IT": "Hero Boots Lv1",
+            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30d6\u30fc\u30c4Lv1"
+        }
+    },
+    {
+        "id": 31,
+        "name": "Hero Boots Lv2",
+        "image": "../common/assets/img/gear/shoes/Shs_MSN303.png",
+        "main": "Ink Saver (Main)",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Hero Boots Lv2",
+            "en_US": "Hero Boots Lv2",
+            "es_ES": "Hero Boots Lv2",
+            "es_MX": "Hero Boots Lv2",
+            "fr_FR": "Hero Boots Lv2",
+            "fr_CA": "Hero Boots Lv2",
+            "de_DE": "Hero Boots Lv2",
+            "nl_NL": "Hero Boots Lv2",
+            "ru_RU": "Hero Boots Lv2",
+            "it_IT": "Hero Boots Lv2",
+            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30d6\u30fc\u30c4Lv2"
+        }
+    },
+    {
+        "id": 32,
+        "name": "Hero Boots Lv3",
+        "image": "../common/assets/img/gear/shoes/Shs_MSN304.png",
+        "main": "Ink Saver (Main)",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Hero Boots Lv3",
+            "en_US": "Hero Boots Lv3",
+            "es_ES": "Hero Boots Lv3",
+            "es_MX": "Hero Boots Lv3",
+            "fr_FR": "Hero Boots Lv3",
+            "fr_CA": "Hero Boots Lv3",
+            "de_DE": "Hero Boots Lv3",
+            "nl_NL": "Hero Boots Lv3",
+            "ru_RU": "Hero Boots Lv3",
+            "it_IT": "Hero Boots Lv3",
+            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30d6\u30fc\u30c4Lv3"
+        }
+    },
+    {
+        "id": 33,
+        "name": "Hero Boots ST",
+        "image": "../common/assets/img/gear/shoes/Shs_MSN305.png",
+        "main": "Ink Saver (Main)",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Hero Boots ST",
+            "en_US": "Hero Boots ST",
+            "es_ES": "Hero Boots ST",
+            "es_MX": "Hero Boots ST",
+            "fr_FR": "Hero Boots ST",
+            "fr_CA": "Hero Boots ST",
+            "de_DE": "Hero Boots ST",
+            "nl_NL": "Hero Boots ST",
+            "ru_RU": "Hero Boots ST",
+            "it_IT": "Hero Boots ST",
+            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30d6\u30fc\u30c4ST"
+        }
+    },
+    {
+        "id": 34,
+        "name": "Hero Boot Replicas",
+        "image": "../common/assets/img/gear/shoes/Shs_MSN306.png",
+        "main": "Ink Resistance Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Hero Boot Replicas",
+            "en_US": "Hero Boot Replicas",
+            "es_ES": "Bota de \u00e9lite (r\u00e9plica)",
+            "es_MX": "Botas de \u00e9lite r\u00e9plica",
+            "fr_FR": "Boots h\u00e9ro\u00efques (r\u00e9pliques)",
+            "fr_CA": "Bottines h\u00e9ro\u00efques (r\u00e9plique)",
+            "de_DE": "Heldenstiefel Replik",
+            "nl_NL": "Heldensneakers (replica)",
+            "ru_RU": "\u0411\u043e\u0442\u044b \u0433\u0435\u0440\u043e\u044f (\u043a\u043b\u043e\u043d)",
+            "it_IT": "Stivali \u00e9lite replica",
+            "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30d6\u30fc\u30c4 \u30ec\u30d7\u30ea\u30ab"
+        }
+    },
+    {
+        "id": 35,
+        "name": "Legendary Sandals",
+        "image": "../common/assets/img/gear/shoes/Shs_MSN310.png",
+        "main": "",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Legendary Sandals",
+            "en_US": "Legendary Sandals",
+            "es_ES": "Legendary Sandals",
+            "es_MX": "Legendary Sandals",
+            "fr_FR": "Legendary Sandals",
+            "fr_CA": "Legendary Sandals",
+            "de_DE": "Legendary Sandals",
+            "nl_NL": "Legendary Sandals",
+            "ru_RU": "Legendary Sandals",
+            "it_IT": "Legendary Sandals",
+            "ja_JP": "\u3067\u3093\u305b\u3064\u306e\u30be\u30fc\u30ea"
+        }
+    },
+    {
+        "id": 36,
+        "name": "Oyster Clogs",
+        "image": "../common/assets/img/gear/shoes/Shs_SDL000.png",
+        "main": "Run Speed Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Oyster Clogs",
+            "en_US": "Oyster Clogs",
+            "es_ES": "Zueco gris",
+            "es_MX": "Zuecos grises",
+            "fr_FR": "Sabots hu\u00eetre",
+            "fr_CA": "Sabots hu\u00eetre",
+            "de_DE": "Austerngraue Clogs",
+            "nl_NL": "Grijze klompen",
+            "ru_RU": "\u0421\u0435\u0440\u044b\u0435 \u043a\u043b\u043e\u0433\u0438",
+            "it_IT": "Zoccoli grigi",
+            "ja_JP": "\u30aa\u30a4\u30b9\u30bf\u30fc\u30af\u30ed\u30c3\u30b0"
+        }
+    },
+    {
+        "id": 37,
+        "name": "Choco Clogs",
+        "image": "../common/assets/img/gear/shoes/Shs_SDL001.png",
+        "main": "Quick Respawn",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Choco Clogs",
+            "en_US": "Choco Clogs",
+            "es_ES": "Zueco chocolate",
+            "es_MX": "Zuecos chocolate",
+            "fr_FR": "Sabots chocolat",
+            "fr_CA": "Sabots chocolat",
+            "de_DE": "Schokobraune Clogs",
+            "nl_NL": "Bruine klompen",
+            "ru_RU": "\u041a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u044b\u0435 \u043a\u043b\u043e\u0433\u0438",
+            "it_IT": "Zoccoli marroni",
+            "ja_JP": "\u30c1\u30e7\u30b3\u30af\u30ed\u30c3\u30b0"
+        }
+    },
+    {
+        "id": 38,
+        "name": "Neon Delta Straps",
+        "image": "../common/assets/img/gear/shoes/Shs_SDL003.png",
+        "main": "Sub Power Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Neon Delta Straps",
+            "en_US": "Neon Delta Straps",
+            "es_ES": "Sandalia delta ne\u00f3n",
+            "es_MX": "Sandalias delta ne\u00f3n",
+            "fr_FR": "Sandales fluo",
+            "fr_CA": "Sandales fluo",
+            "de_DE": "Neon-Delta-Sandalen",
+            "nl_NL": "Neon sandalen",
+            "ru_RU": "\u041d\u0435\u043e\u043d\u043e\u0432\u044b\u0435 \u0441\u0430\u043d\u0434\u0430\u043b\u0438\u0438",
+            "it_IT": "Sandali a strappo neon",
+            "ja_JP": "\u30c7\u30eb\u30bf\u30b9\u30c8\u30e9\u30c3\u30d7 \u30cd\u30aa\u30f3"
+        }
+    },
+    {
+        "id": 39,
+        "name": "Black Flip-Flops",
+        "image": "../common/assets/img/gear/shoes/Shs_SDL004.png",
+        "main": "Object Shredder",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Black Flip-Flops",
+            "en_US": "Black Flip-Flops",
+            "es_ES": "Chancla negra",
+            "es_MX": "Chanclas negras",
+            "fr_FR": "Tongs noires",
+            "fr_CA": "Sandales de plage",
+            "de_DE": "Schwarze Strandsandalen",
+            "nl_NL": "Zwarte teenslippers",
+            "ru_RU": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0448\u043b\u0435\u043f\u043a\u0438",
+            "it_IT": "Ciabatte da mare",
+            "ja_JP": "BB\u30b5\u30f3\u30c0\u30eb"
+        }
+    },
+    {
+        "id": 40,
+        "name": "Snow Delta Straps",
+        "image": "../common/assets/img/gear/shoes/Shs_SDL005.png",
+        "main": "Swim Speed Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Snow Delta Straps",
+            "en_US": "Snow Delta Straps",
+            "es_ES": "Sandalia delta nieve",
+            "es_MX": "Sandalias delta nieve",
+            "fr_FR": "Sandales poudreuse",
+            "fr_CA": "Sandales poudreuse",
+            "de_DE": "Polarwei\u00dfe Delta-Sandalen",
+            "nl_NL": "Sneeuwwitte sandalen",
+            "ru_RU": "\u0421\u043d\u0435\u0436\u043d\u044b\u0435 \u0441\u0430\u043d\u0434\u0430\u043b\u0438\u0438",
+            "it_IT": "Sandali a strappo neve",
+            "ja_JP": "\u30c7\u30eb\u30bf\u30b9\u30c8\u30e9\u30c3\u30d7 \u30b9\u30ce\u30fc"
+        }
+    },
+    {
+        "id": 41,
+        "name": "Red FishFry Sandals",
+        "image": "../common/assets/img/gear/shoes/Shs_SDL007.png",
+        "main": "Object Shredder",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Red FishFry Sandals",
+            "en_US": "Red FishFry Sandals",
+            "es_ES": "Chancla roja",
+            "es_MX": "Chanclas Sofrito",
+            "fr_FR": "Claquettes rouges Friture",
+            "fr_CA": "Sandales Arki rouges",
+            "de_DE": "Rote Schlappen",
+            "nl_NL": "Rode badslippers",
+            "ru_RU": "\u0428\u043b\u0435\u043f\u043a\u0438 \u00ab\u0424\u0443\u0433\u0430\u0441\u0438\u043a\u00bb",
+            "it_IT": "Ciabatte rosse",
+            "ja_JP": "\u30e4\u30ad\u30d5\u30b0\u30b7\u30e3\u30ef\u30b5\u30f3 \u30a2\u30ab"
+        }
+    },
+    {
+        "id": 42,
+        "name": "Yellow FishFry Sandals",
+        "image": "../common/assets/img/gear/shoes/Shs_SDL008.png",
+        "main": "Intensify Action",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Yellow FishFry Sandals",
+            "en_US": "Yellow FishFry Sandals",
+            "es_ES": "Chancla amarilla",
+            "es_MX": "Chanclas Sofrito amarillas",
+            "fr_FR": "Claquettes jaunes Friture",
+            "fr_CA": "Sandales Arki jaunes",
+            "de_DE": "Gelbe Schlappen",
+            "nl_NL": "Gele badslippers",
+            "ru_RU": "\u0416\u0435\u043b\u0442\u044b\u0435 \u0448\u043b\u0435\u043f\u043a\u0438 \u00ab\u0424\u0443\u0433\u0430\u0441\u0438\u043a\u00bb",
+            "it_IT": "Ciabatte cool",
+            "ja_JP": "\u30e4\u30ad\u30d5\u30b0\u30b7\u30e3\u30ef\u30b5\u30f3 \u30ad"
+        }
+    },
+    {
+        "id": 43,
+        "name": "Cuttlefish Sandies",
+        "image": "../common/assets/img/gear/shoes/Shs_SDL010.png",
+        "main": "Ink Recovery Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Cuttlefish Sandies",
+            "en_US": "Cuttlefish Sandies",
+            "es_ES": "Sandalia raspa de pez",
+            "es_MX": "Huaraches marrones",
+            "fr_FR": "Sandales ar\u00eates",
+            "fr_CA": "Sandales ar\u00eates",
+            "de_DE": "Gr\u00e4ten-Sandalen",
+            "nl_NL": "Sepiasandalen",
+            "ru_RU": "\u0421\u0430\u043d\u0434\u0430\u043b\u0438\u0438 \u00ab\u0420\u044b\u0431\u044c\u044f \u043a\u043e\u0441\u0442\u044c\u00bb",
+            "it_IT": "Sandalisca di pesce",
+            "ja_JP": "\u30d5\u30a3\u30c3\u30b7\u30e5\u30dc\u30fc\u30f3\u30ef\u30e9\u30c1"
+        }
+    },
+    {
+        "id": 44,
+        "name": "Arrow Toesies Blu",
+        "image": "../common/assets/img/gear/shoes/Shs_SDL011.png",
+        "main": "Ink Recovery Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Arrow Toesies Blu",
+            "en_US": "Arrow Toesies Blu",
+            "es_ES": "Sandalia flechas azul",
+            "es_MX": "Sandalias flechas azules",
+            "fr_FR": "Fl\u00e8ches ouvertes bleues",
+            "fr_CA": "Fl\u00e8ches ouvertes bleues",
+            "de_DE": "Blaue Pfeilsandalen",
+            "nl_NL": "Blauwe pijlsandalen",
+            "ru_RU": "\u0421\u0438\u043d\u0438\u0435 \u00ab\u0421\u0442\u0440\u0435\u043b\u044b-\u043b\u0430\u0439\u0442\u00bb",
+            "it_IT": "Open toe blu",
+            "ja_JP": "\u30a2\u30ed\u30fc\u30ba\u30b5\u30f3\u30c0\u30eb \u30a2\u30aa\u30ad"
+        }
+    },
+    {
+        "id": 45,
+        "name": "BlobMob Flip-Flops",
+        "image": "../common/assets/img/gear/shoes/Shs_SDL012.png",
+        "main": "Ink Resistance Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "BlobMob Flip-Flops",
+            "en_US": "BlobMob Flip-Flops",
+            "es_ES": "Chancla gl\u00f3bulos",
+            "es_MX": "Chanclas gl\u00f3bulos",
+            "fr_FR": "Tongs smiley",
+            "fr_CA": "Sandales sourire",
+            "de_DE": "BlobMob-Strandsandalen",
+            "nl_NL": "BlobMob-teenslippers",
+            "ru_RU": "\u0428\u043b\u0435\u043f\u043a\u0438 \u0441\u043e \u0441\u043c\u0430\u0439\u043b\u043e\u043c",
+            "it_IT": "Ciabatte SmileMob",
+            "ja_JP": "BS\u30b5\u30f3\u30c0\u30eb"
+        }
+    },
+    {
+        "id": 46,
+        "name": "Orange Dadfoot Sandals",
+        "image": "../common/assets/img/gear/shoes/Shs_SDL013.png",
+        "main": "Run Speed Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Orange Dadfoot Sandals",
+            "en_US": "Orange Dadfoot Sandals",
+            "es_ES": "Sandalia ultranaranja",
+            "es_MX": "Sandalias ultranaranjas",
+            "fr_FR": "Sandales chunky orange",
+            "fr_CA": "Sandales \u00e9paisses orange",
+            "de_DE": "Orange Strumpflatschen",
+            "nl_NL": "Oranje plastic sandalen",
+            "ru_RU": "\u041e\u0440\u0430\u043d\u0436\u0435\u0432\u044b\u0435 \u0448\u043b\u0435\u043f\u043e\u0434\u044b",
+            "it_IT": "Fluosandali arancioni",
+            "ja_JP": "\u3079\u30ea\u3079\u30ea\u30b5\u30f3 \u30aa\u30ec\u30f3\u30b8"
+        }
+    },
+    {
+        "id": 47,
+        "name": "Pink Dadfoot Sandals",
+        "image": "../common/assets/img/gear/shoes/Shs_SDL017.png",
+        "main": "Intensify Action",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Pink Dadfoot Sandals",
+            "en_US": "Pink Dadfoot Sandals",
+            "es_ES": "Sandalia ultrarrosa",
+            "es_MX": "Sandalias ultrarrosas",
+            "fr_FR": "Sandales chunky roses",
+            "fr_CA": "Sandales \u00e9paisses roses",
+            "de_DE": "Pinke Strumpflatschen",
+            "nl_NL": "Roze plastic sandalen",
+            "ru_RU": "\u0420\u043e\u0437\u043e\u0432\u044b\u0435 \u0448\u043b\u0435\u043f\u043e\u0434\u044b",
+            "it_IT": "Fluosandali rosa",
+            "ja_JP": "\u3079\u30ea\u3079\u30ea\u30b5\u30f3 \u30de\u30bc\u30f3\u30bf"
+        }
+    },
+    {
+        "id": 48,
+        "name": "Cyan Dadfoot Sandals",
+        "image": "../common/assets/img/gear/shoes/Shs_SDL018.png",
+        "main": "Special Saver",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Cyan Dadfoot Sandals",
+            "en_US": "Cyan Dadfoot Sandals",
+            "es_ES": "Sandalia ultraceleste",
+            "es_MX": "Sandalias ultracelestes",
+            "fr_FR": "Sandales chunky cyan",
+            "fr_CA": "Sandales \u00e9paisses cyan",
+            "de_DE": "T\u00fcrkise Strumpflatschen",
+            "nl_NL": "Turquoise plastic sandalen",
+            "ru_RU": "\u0411\u0438\u0440\u044e\u0437\u043e\u0432\u044b\u0435 \u0448\u043b\u0435\u043f\u043e\u0434\u044b",
+            "it_IT": "Fluosandali celesti",
+            "ja_JP": "\u3079\u30ea\u3079\u30ea\u30b5\u30f3 \u30b7\u30a2\u30f3"
+        }
+    },
+    {
+        "id": 49,
+        "name": "Red Hi-Horses",
+        "image": "../common/assets/img/gear/shoes/Shs_SHI000.png",
+        "main": "Ink Saver (Main)",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Red Hi-Horses",
+            "en_US": "Red Hi-Horses",
+            "es_ES": "Hipocampo-A roja",
+            "es_MX": "Tenis bota rojos",
+            "fr_FR": "Hippo montantes rouges",
+            "fr_CA": "Hippo hautes rouges",
+            "de_DE": "Rote High-Top-Sneaker",
+            "nl_NL": "Rode hoge sneakers",
+            "ru_RU": "\u041a\u0440\u0430\u0441\u043d\u044b\u0435 \u0431\u043b\u0438\u043d\u0433-\u043a\u0435\u0434\u044b",
+            "it_IT": "Alte biancorosse",
+            "ja_JP": "\u30b7\u30fc\u30db\u30fc\u30b9Hi \u30ec\u30c3\u30c9"
+        }
+    },
+    {
+        "id": 50,
+        "name": "Zombie Hi-Horses",
+        "image": "../common/assets/img/gear/shoes/Shs_SHI001.png",
+        "main": "Special Charge Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Zombie Hi-Horses",
+            "en_US": "Zombie Hi-Horses",
+            "es_ES": "Hipocampo-A zombi",
+            "es_MX": "Tenis bota zombi",
+            "fr_FR": "Hippo montantes zombi",
+            "fr_CA": "Hippo hautes zombi",
+            "de_DE": "Zombie-High-Top-Sneaker",
+            "nl_NL": "Hoge zombiesneakers",
+            "ru_RU": "\u0411\u043b\u0438\u043d\u0433-\u043a\u0435\u0434\u044b \u00ab\u0417\u043e\u043c\u0431\u0438\u00bb",
+            "it_IT": "Alte zombie",
+            "ja_JP": "\u30b7\u30fc\u30db\u30fc\u30b9Hi \u30be\u30f3\u30d3"
+        }
+    },
+    {
+        "id": 51,
+        "name": "Purple Hi-Horses",
+        "image": "../common/assets/img/gear/shoes/Shs_SHI003.png",
+        "main": "Special Power Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Purple Hi-Horses",
+            "en_US": "Purple Hi-Horses",
+            "es_ES": "Hipocampo-A morada",
+            "es_MX": "Tenis bota morados",
+            "fr_FR": "Hippo montantes violettes",
+            "fr_CA": "Hippo hautes mauves",
+            "de_DE": "Lila High-Top-Sneaker",
+            "nl_NL": "Paarse Hi-Tops",
+            "ru_RU": "\u041b\u0438\u043b\u043e\u0432\u044b\u0435 \u0431\u043b\u0438\u043d\u0433-\u043a\u0435\u0434\u044b",
+            "it_IT": "Alte gialloviola",
+            "ja_JP": "\u30b7\u30fc\u30db\u30fc\u30b9Hi \u30d1\u30fc\u30d7\u30eb"
+        }
+    },
+    {
+        "id": 52,
+        "name": "Hunter Hi-Tops",
+        "image": "../common/assets/img/gear/shoes/Shs_SHI004.png",
+        "main": "Ink Recovery Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Hunter Hi-Tops",
+            "en_US": "Hunter Hi-Tops",
+            "es_ES": "Bamba alta oliva",
+            "es_MX": "Tenis bota olivo",
+            "fr_FR": "Tennis montantes algue",
+            "fr_CA": "Espadrilles hautes algues",
+            "de_DE": "Tannengr\u00fcne Leinen-High-Tops",
+            "nl_NL": "Groene Hi-Tops",
+            "ru_RU": "\u041a\u0435\u0434\u044b \u00ab\u041e\u0445\u043e\u0442\u043d\u0438\u043a\u00bb",
+            "it_IT": "Sneaker verde scuro",
+            "ja_JP": "\u30ad\u30e3\u30f3\u30d0\u30b9Hi \u30e2\u30ed\u30d8\u30a4\u30e4"
+        }
+    },
+    {
+        "id": 53,
+        "name": "Red Hi-Tops",
+        "image": "../common/assets/img/gear/shoes/Shs_SHI005.png",
+        "main": "Ink Resistance Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Red Hi-Tops",
+            "en_US": "Red Hi-Tops",
+            "es_ES": "Bamba alta roja",
+            "es_MX": "Tenis bota rojos",
+            "fr_FR": "Tennis montantes rouges",
+            "fr_CA": "Espadrilles hautes rouges",
+            "de_DE": "Rote Leinen-High-Tops",
+            "nl_NL": "Rode Hi-Tops",
+            "ru_RU": "\u041a\u0440\u0430\u0441\u043d\u044b\u0435 \u043a\u0435\u0434\u044b",
+            "it_IT": "Sneaker rosse",
+            "ja_JP": "\u30ad\u30e3\u30f3\u30d0\u30b9Hi \u30c8\u30de\u30c8"
+        }
+    },
+    {
+        "id": 54,
+        "name": "Gold Hi-Horses",
+        "image": "../common/assets/img/gear/shoes/Shs_SHI006.png",
+        "main": "Run Speed Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Gold Hi-Horses",
+            "en_US": "Gold Hi-Horses",
+            "es_ES": "Hipocampo-A oro",
+            "es_MX": "Tenis bota oro",
+            "fr_FR": "Hippo montantes or",
+            "fr_CA": "Hippo hautes or",
+            "de_DE": "Goldene High-Top-Sneaker",
+            "nl_NL": "Gouden Hi-Tops",
+            "ru_RU": "\u0417\u043e\u043b\u043e\u0442\u0438\u0441\u0442\u044b\u0435 \u0431\u043b\u0438\u043d\u0433-\u043a\u0435\u0434\u044b",
+            "it_IT": "Alte dorate",
+            "ja_JP": "\u30b7\u30fc\u30db\u30fc\u30b9Hi \u30b4\u30fc\u30eb\u30c9"
+        }
+    },
+    {
+        "id": 55,
+        "name": "Cyan Dakroniks",
+        "image": "../common/assets/img/gear/shoes/Shs_SHI011.png",
+        "main": "Drop Roller",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Cyan Dakroniks",
+            "en_US": "Cyan Dakroniks",
+            "es_ES": "Hipocampo-B celeste",
+            "es_MX": "Dakronik turquesas",
+            "fr_FR": "Baskets montantes azur",
+            "fr_CA": "Dakroniks cyan",
+            "de_DE": "T\u00fcrkise Dakroniks",
+            "nl_NL": "Hemelsblauwe Dakroniks",
+            "ru_RU": "\u0411\u0438\u0440\u044e\u0437\u043e\u0432\u044b\u0435 \u043a\u0440\u043e\u0441\u0441-\u043a\u0435\u0434\u044b",
+            "it_IT": "Dakroniks celesti",
+            "ja_JP": "\u30c7\u30ab\u30ed\u30cb\u30c3\u30af\u30df\u30f3\u30c8"
+        }
+    },
+    {
+        "id": 56,
+        "name": "Sunset Orca Hi-Tops",
+        "image": "../common/assets/img/gear/shoes/Shs_SHI016.png",
+        "main": "Drop Roller",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Sunset Orca Hi-Tops",
+            "en_US": "Sunset Orca Hi-Tops",
+            "es_ES": "Deportiva orca soleada",
+            "es_MX": "Tenis orca ocaso",
+            "fr_FR": "Orques cr\u00e9puscule",
+            "fr_CA": "Espadrilles hautes cr\u00e9puscule",
+            "de_DE": "Sonnenorca-High-Tops",
+            "nl_NL": "Gele orka-sneakers",
+            "ru_RU": "\u041e\u0440\u0430\u043d\u0436\u0435\u0432\u044b\u0435 \u00ab\u041a\u043e\u0441\u0430\u0442\u043a\u0438\u00bb",
+            "it_IT": "Sneaker orca tramonto",
+            "ja_JP": "\u30aa\u30eb\u30abHi \u30b5\u30f3\u30bb\u30c3\u30c8"
+        }
+    },
+    {
+        "id": 57,
+        "name": "Red & Black Squidkid IV",
+        "image": "../common/assets/img/gear/shoes/Shs_SHI017.png",
+        "main": "Special Charge Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Red & Black Squidkid IV",
+            "en_US": "Red & Black Squidkid IV",
+            "es_ES": "Calamark roja y negra",
+            "es_MX": "Calamark rojos y negros",
+            "fr_FR": "Egings IV rouges et noires",
+            "fr_CA": "Egings IV rouges et noires",
+            "de_DE": "Rot-schwarze Squidkids IV",
+            "nl_NL": "Rode Squidkid IV",
+            "ru_RU": "\u041a\u0440\u0430\u0441\u043d\u043e-\u0447\u0435\u0440\u043d\u044b\u0435 \u0448\u0443\u0437\u044b",
+            "it_IT": "Mitilik rosse e nere",
+            "ja_JP": "\u30a8\u30ae\u30f3\u30b04 \u30a2\u30ab\u30af\u30ed"
+        }
+    },
+    {
+        "id": 58,
+        "name": "Blue & Black Squidkid IV",
+        "image": "../common/assets/img/gear/shoes/Shs_SHI018.png",
+        "main": "Quick Super Jump",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Blue & Black Squidkid IV",
+            "en_US": "Blue & Black Squidkid IV",
+            "es_ES": "Calamark azul y negra",
+            "es_MX": "Calamark azules y negros",
+            "fr_FR": "Egings IV bleues et noires",
+            "fr_CA": "Egings IV bleues et noires",
+            "de_DE": "Blau-schwarze Squidkids IV",
+            "nl_NL": "Blauwe Squidkid IV",
+            "ru_RU": "\u0421\u0438\u043d\u0435-\u0447\u0435\u0440\u043d\u044b\u0435 \u0448\u0443\u0437\u044b",
+            "it_IT": "Mitilik blu e nere",
+            "ja_JP": "\u30a8\u30ae\u30f3\u30b04 \u30a2\u30aa\u30af\u30ed"
+        }
+    },
+    {
+        "id": 59,
+        "name": "Force ReBoots",
+        "image": "../common/assets/img/gear/shoes/Shs_SHI042.png",
+        "main": "Special Saver",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Force ReBoots",
+            "en_US": "Force ReBoots",
+            "es_ES": "Bota energ\u00e9tica",
+            "es_MX": "Botas reforzadas",
+            "fr_FR": "Bottes \u00e9nerg\u00e9tiques",
+            "fr_CA": "Bottes \u00e9nerg\u00e9tiques",
+            "de_DE": "Reboot-High-Tops",
+            "nl_NL": "Reboot-laarzen",
+            "ru_RU": "\u0421\u0442\u0430\u043b\u044c\u043d\u044b\u0435 \u0440\u0435\u0431\u0443\u0442\u0441\u044b",
+            "it_IT": "Stivali Reboot",
+            "ja_JP": "\u30d1\u30ef\u30fc\u30ea\u30bb\u30c3\u30c8Hi"
+        }
+    },
+    {
+        "id": 60,
+        "name": "Tenya OctoReds",
+        "image": "../common/assets/img/gear/shoes/Shs_SHI043.png",
+        "main": "Quick Respawn",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Tenya OctoReds",
+            "en_US": "Tenya OctoReds",
+            "es_ES": "Octodeportiva roja",
+            "es_MX": "Octotenis rojos",
+            "fr_FR": "Octaskets rouges",
+            "fr_CA": "Octadrilles rouges",
+            "de_DE": "Rote Tenya8",
+            "nl_NL": "Rode basketbalschoenen",
+            "ru_RU": "\u041e\u0441\u044c\u043c\u043e\u043a\u0440\u043e\u0441\u0441\u044b \u00ab\u0420\u0443\u0431\u0438\u043d\u00bb",
+            "it_IT": "Octosneaker rosse",
+            "ja_JP": "\u30c6\u30f3\u30e48 \u30ec\u30c3\u30c9"
+        }
+    },
+    {
+        "id": 61,
+        "name": "Pearl 01STERs",
+        "image": "../common/assets/img/gear/shoes/Shs_SHI045.png",
+        "main": "Special Saver",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Pearl 01STERs",
+            "en_US": "Pearl 01STERs",
+            "es_ES": "Bota ostra blanca",
+            "es_MX": "Botas ostra blancas",
+            "fr_FR": "Bottes perle HU1T73",
+            "fr_CA": "Bottes perle HU1T73",
+            "de_DE": "4USTERs Perle",
+            "nl_NL": "Parelwitte 03ST3Rs",
+            "ru_RU": "\u041f\u0435\u0440\u043b-\u043a\u0440\u043e\u0441\u0441\u044b \u00ab\u0423\u0421-3\u00bb",
+            "it_IT": "OSTR1K color perla",
+            "ja_JP": "01STER \u30b3\u30cf\u30af"
+        }
+    },
+    {
+        "id": 62,
+        "name": "Pink Trainers",
+        "image": "../common/assets/img/gear/shoes/Shs_SHT000.png",
+        "main": "Sub Power Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Pink Trainers",
+            "en_US": "Pink Trainers",
+            "es_ES": "Deportiva rosa",
+            "es_MX": "Deportivos rosas",
+            "fr_FR": "Baskets roses",
+            "fr_CA": "Espadrilles roses",
+            "de_DE": "Pinke Turnschuhe",
+            "nl_NL": "Roze sportschoenen",
+            "ru_RU": "\u0420\u043e\u0437\u043e\u0432\u044b\u0435 \u043a\u0440\u043e\u0441\u0441\u043e\u0432\u043a\u0438",
+            "it_IT": "Runner rosa",
+            "ja_JP": "\u30d4\u30f3\u30af\u30d3\u30fc\u30f3\u30ba"
+        }
+    },
+    {
+        "id": 63,
+        "name": "Orange Arrows",
+        "image": "../common/assets/img/gear/shoes/Shs_SHT001.png",
+        "main": "Ink Saver (Main)",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Orange Arrows",
+            "en_US": "Orange Arrows",
+            "es_ES": "Velcro naranja",
+            "es_MX": "Velcro naranja",
+            "fr_FR": "Fl\u00e8ches orange",
+            "fr_CA": "Fl\u00e8ches orange",
+            "de_DE": "Orange Pfeilschuhe",
+            "nl_NL": "Oranje pijlsneakers",
+            "ru_RU": "\u041e\u0440\u0430\u043d\u0436\u0435\u0432\u044b\u0435 \u00ab\u0421\u0442\u0440\u0435\u043b\u044b\u00bb",
+            "it_IT": "Arrow arancioblu",
+            "ja_JP": "\u30aa\u30ec\u30f3\u30b8\u30a2\u30ed\u30fc\u30ba"
+        }
+    },
+    {
+        "id": 64,
+        "name": "Cyan Trainers",
+        "image": "../common/assets/img/gear/shoes/Shs_SHT004.png",
+        "main": "Stealth Jump",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Cyan Trainers",
+            "en_US": "Cyan Trainers",
+            "es_ES": "Deportiva celeste",
+            "es_MX": "Deportivos cian",
+            "fr_FR": "Baskets turquoise",
+            "fr_CA": "Espadrilles turquoise",
+            "de_DE": "T\u00fcrkise Turnschuhe",
+            "nl_NL": "Turquoise sportschoenen",
+            "ru_RU": "\u0411\u0438\u0440\u044e\u0437\u043e\u0432\u044b\u0435 \u043a\u0440\u043e\u0441\u0441\u043e\u0432\u043a\u0438",
+            "it_IT": "Runner verdeacqua",
+            "ja_JP": "\u30b7\u30a2\u30f3\u30d3\u30fc\u30f3\u30ba"
+        }
+    },
+    {
+        "id": 65,
+        "name": "Black Trainers",
+        "image": "../common/assets/img/gear/shoes/Shs_SHT009.png",
+        "main": "Quick Respawn",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Black Trainers",
+            "en_US": "Black Trainers",
+            "es_ES": "Deportiva negra",
+            "es_MX": "Deportivos negros",
+            "fr_FR": "Baskets noires",
+            "fr_CA": "Espadrilles noires",
+            "de_DE": "Schwarze Turnschuhe",
+            "nl_NL": "Zwarte sportschoenen",
+            "ru_RU": "\u0427\u0435\u0440\u043d\u044b\u0435 \u043a\u0440\u043e\u0441\u0441\u043e\u0432\u043a\u0438",
+            "it_IT": "Runner nere",
+            "ja_JP": "\u30d6\u30e9\u30c3\u30af\u30d3\u30fc\u30f3\u30ba"
+        }
+    },
+    {
+        "id": 66,
+        "name": "Yellow-Mesh Sneakers",
+        "image": "../common/assets/img/gear/shoes/Shs_SHT012.png",
+        "main": "Intensify Action",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Yellow-Mesh Sneakers",
+            "en_US": "Yellow-Mesh Sneakers",
+            "es_ES": "Deportiva de malla amarilla",
+            "es_MX": "Tenis transpirables amarillos",
+            "fr_FR": "Baskets filet jaune",
+            "fr_CA": "Espadrilles filet jaune",
+            "de_DE": "Gelbe Netzsneaker",
+            "nl_NL": "Gele gaassneakers",
+            "ru_RU": "\u0416\u0435\u043b\u0442\u044b\u0435 \u043a\u0440\u043e\u0441\u0441\u044b \u00ab\u0421\u0435\u0442\u044c\u00bb",
+            "it_IT": "Sportive giallo fluo",
+            "ja_JP": "\u30a2\u30ed\u30e1\u30c3\u30b7\u30e5\u30a4\u30a8\u30ed\u30fc"
+        }
+    },
+    {
+        "id": 67,
+        "name": "Arrow Pull-Ons",
+        "image": "../common/assets/img/gear/shoes/Shs_SHT013.png",
+        "main": "Drop Roller",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Arrow Pull-Ons",
+            "en_US": "Arrow Pull-Ons",
+            "es_ES": "Velcro elegante",
+            "es_MX": "Velcro Tonken",
+            "fr_FR": "Fl\u00e8ches unies",
+            "fr_CA": "Espadrilles sans lacet",
+            "de_DE": "Pfeil-Pull-ons",
+            "nl_NL": "Pijlenlaarsjes",
+            "ru_RU": "\u041a\u0440\u043e\u0441\u0441\u043e\u0432\u043a\u0438 \u0431\u0435\u0437 \u0448\u043d\u0443\u0440\u043e\u0432\u043a\u0438",
+            "it_IT": "Arrow eleganti",
+            "ja_JP": "\u30a2\u30ed\u30fc\u30ba \u30bf\u30bf\u30ad\u30d9\u30c3\u30c1\u30e5\u30fc"
+        }
+    },
+    {
+        "id": 68,
+        "name": "U Jellys",
+        "image": "../common/assets/img/gear/shoes/Shs_SHT020.png",
+        "main": "Special Charge Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "U Jellys",
+            "en_US": "U Jellys",
+            "es_ES": "Zapatilla sashimi",
+            "es_MX": "Tenis sashimi",
+            "fr_FR": "Baskets translux",
+            "fr_CA": "Espadrilles translux",
+            "de_DE": "Sneaker Translux",
+            "nl_NL": "Transparante sandalen",
+            "ru_RU": "\u041a\u0440\u043e\u0441\u0441\u044b-\u0436\u0435\u043b\u0435\u0439\u043a\u0438",
+            "it_IT": "Sneaker medusa",
+            "ja_JP": "\u30a4\u30ab\u30b5\u30b7 \u30b9\u30af\u30e9\u30f3\u30d6\u30eb"
+        }
+    },
+    {
+        "id": 69,
+        "name": "Turbo Tabi Red",
+        "image": "../common/assets/img/gear/shoes/Shs_SHT022.png",
+        "main": "Sub Power Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Turbo Tabi Red",
+            "en_US": "Turbo Tabi Red",
+            "es_ES": "Zapato con dedos rojo",
+            "es_MX": "Tenis turbo rojos",
+            "fr_FR": "Turbo-tabis rouges",
+            "fr_CA": "Turbo-tabis rouges",
+            "de_DE": "Lachs-Turbo-Tabi",
+            "nl_NL": "Rode turbo-tabisneakers",
+            "ru_RU": "\u0422\u0443\u0440\u0431\u043e\u0442\u0430\u0431\u0438 \u00ab\u041b\u043e\u0441\u043e\u0441\u044c\u00bb",
+            "it_IT": "Sneaker turbo rosse",
+            "ja_JP": "MOVE\u30ec\u30c3\u30c9"
+        }
+    },
+    {
+        "id": 70,
+        "name": "E-JECT 30XX",
+        "image": "../common/assets/img/gear/shoes/Shs_SHT023.png",
+        "main": "Special Power Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "E-JECT 30XX",
+            "en_US": "E-JECT 30XX",
+            "es_ES": "Deportiva AL-GA 30XX",
+            "es_MX": "Tenis AL-GA 30XX",
+            "fr_FR": "AL-GA 30XX",
+            "fr_CA": "AL-GA 30XX",
+            "de_DE": "AL-G 9",
+            "nl_NL": "A.L.G. 30XX",
+            "ru_RU": "\u041a\u0440\u043e\u0441\u0441\u044b \u00ab\u041c-\u0415\u0425\u0410\u00bb",
+            "it_IT": "AL-GA 30XX",
+            "ja_JP": "MODZ-9"
+        }
+    },
+    {
+        "id": 71,
+        "name": "Slamgerine Slip-Ons",
+        "image": "../common/assets/img/gear/shoes/Shs_SHT024.png",
+        "main": "Ink Saver (Main)",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Slamgerine Slip-Ons",
+            "en_US": "Slamgerine Slip-Ons",
+            "es_ES": "Deportiva megatensi\u00f3n",
+            "es_MX": "Tenis megatensi\u00f3n",
+            "fr_FR": "Baskets mandarine",
+            "fr_CA": "Espadrilles mandarine",
+            "de_DE": "Orange X-Sneaker",
+            "nl_NL": "Oranje gespsneakers",
+            "ru_RU": "\u0421\u043b\u0438\u043f-\u043a\u0440\u043e\u0441\u0441\u044b \u00ab\u041e\u0440\u0430\u043d\u0436\u00bb",
+            "it_IT": "Zeppe tangerine",
+            "ja_JP": "\u30b7\u30a7\u30eb\u30d0\u30b7\u30e9WO"
+        }
+    },
+    {
+        "id": 72,
+        "name": "Mako Bucket Hi-Tops",
+        "image": "../common/assets/img/gear/shoes/Shs_SHT025.png",
+        "main": "Sub Power Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Mako Bucket Hi-Tops",
+            "en_US": "Mako Bucket Hi-Tops",
+            "es_ES": "Deportiva aletas alta",
+            "es_MX": "Tenis aletas altas",
+            "fr_FR": "Tennis montantes mako",
+            "fr_CA": "Espadrilles hautes mako",
+            "de_DE": "Mako-Sneaker",
+            "nl_NL": "Haaienvinsneakers",
+            "ru_RU": "\u00ab\u0410\u043a\u0443\u043b\u044c\u0438 \u043f\u043b\u0430\u0432\u043d\u0438\u043a\u0438\u00bb",
+            "it_IT": "Sneaker predatrici",
+            "ja_JP": "\u30d5\u30ab\u30d2\u30ec\u30cb\u30de\u30a4\u30d0"
+        }
+    },
+    {
+        "id": 73,
+        "name": "Blue Shrimpsiders",
+        "image": "../common/assets/img/gear/shoes/Shs_SHT026.png",
+        "main": "Ink Resistance Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Blue Shrimpsiders",
+            "en_US": "Blue Shrimpsiders",
+            "es_ES": "Deportiva camar\u00f3n azul",
+            "es_MX": "Tenis camar\u00f3n negros",
+            "fr_FR": "Baskets crevettes bleues",
+            "fr_CA": "Espadrilles crevettes bleues",
+            "de_DE": "Blaue Shrimpsider",
+            "nl_NL": "Blauwe scampisneakers",
+            "ru_RU": "\u0421\u0438\u043d\u0438\u0435 \u00ab\u043a\u0440\u0435\u0432\u0435\u0442\u043a\u0438\u00bb",
+            "it_IT": "Sneakeretti blu",
+            "ja_JP": "\u30b7\u30e3\u30b3\u30ca\u30c3\u30af\u30eb"
+        }
+    },
+    {
+        "id": 74,
+        "name": "Blue Lo-Tops",
+        "image": "../common/assets/img/gear/shoes/Shs_SLO000.png",
+        "main": "Sub Resistance Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Blue Lo-Tops",
+            "en_US": "Blue Lo-Tops",
+            "es_ES": "Tenis azul",
+            "es_MX": "Tenis azules",
+            "fr_FR": "Tennis bleues",
+            "fr_CA": "Espadrilles bleues",
+            "de_DE": "Blaue Low-Tops",
+            "nl_NL": "Blauwe Lo-Tops",
+            "ru_RU": "\u0421\u0438\u043d\u0438\u0435 \u0441\u043d\u0438\u043a\u0435\u0440\u044b",
+            "it_IT": "Basse blu",
+            "ja_JP": "\u30b0\u30ea\u30c3\u30c1\u30e7 \u30d6\u30eb\u30fc"
+        }
+    },
+    {
+        "id": 75,
+        "name": "White 3-Straps",
+        "image": "../common/assets/img/gear/shoes/Shs_SLO008.png",
+        "main": "Ink Saver (Sub)",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "White 3-Straps",
+            "en_US": "White 3-Straps",
+            "es_ES": "Bamba ultrablanca",
+            "es_MX": "Tenis ultrablancos",
+            "fr_FR": "Baskets \u00e0 scratch blanches",
+            "fr_CA": "Espadrilles blanches",
+            "de_DE": "Ultrawei\u00dfe Klettsneaker",
+            "nl_NL": "Witte klittenbandschoenen",
+            "ru_RU": "\u0411\u0435\u043b\u044b\u0435 \u0441\u043d\u0438\u043a\u0435\u0440\u044b",
+            "it_IT": "Ultrabianche a strappo",
+            "ja_JP": "\u30d9\u30ea\u30d9\u30ea\u30db\u30ef\u30a4\u30c8"
+        }
+    },
+    {
+        "id": 76,
+        "name": "Red 3-Straps",
+        "image": "../common/assets/img/gear/shoes/Shs_SLO009.png",
+        "main": "Ink Resistance Up",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Red 3-Straps",
+            "en_US": "Red 3-Straps",
+            "es_ES": "Bamba ultrarroja",
+            "es_MX": "Tenis ultrarrojos",
+            "fr_FR": "Baskets \u00e0 scratch rouges",
+            "fr_CA": "Espadrilles rouges",
+            "de_DE": "Ultrarote Klettsneaker",
+            "nl_NL": "Rode klittenbandschoenen",
+            "ru_RU": "\u041a\u0440\u0430\u0441\u043d\u044b\u0435 \u0441\u043d\u0438\u043a\u0435\u0440\u044b",
+            "it_IT": "Ultrarosse a strappo",
+            "ja_JP": "\u30d9\u30ea\u30d9\u30ea\u30ec\u30c3\u30c9"
+        }
+    },
+    {
+        "id": 77,
+        "name": "Wasabi Tabi",
+        "image": "../common/assets/img/gear/shoes/Shs_SLO021.png",
+        "main": "Intensify Action",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Wasabi Tabi",
+            "en_US": "Wasabi Tabi",
+            "es_ES": "Deportiva wasabi",
+            "es_MX": "Botas wasabi",
+            "fr_FR": "Flexi-tabis wasabi",
+            "fr_CA": "Flexi-tabis wasabi",
+            "de_DE": "Wasabi-Tabi",
+            "nl_NL": "Wasabi-tabisneakers",
+            "ru_RU": "\u0422\u0430\u0431\u0438 \u00ab\u0412\u0430\u0441\u0430\u0431\u0438\u00bb",
+            "it_IT": "Sneaker senza lacci",
+            "ja_JP": "NNJ\u30b0\u30ea\u30fc\u30f3"
+        }
+    },
+    {
+        "id": 78,
+        "name": "Suede Basics",
+        "image": "../common/assets/img/gear/shoes/Shs_SLO022.png",
+        "main": "Run Speed Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Suede Basics",
+            "en_US": "Suede Basics",
+            "es_ES": "Tenis b\u00e1sica principiante",
+            "es_MX": "Tenis ante principiante",
+            "fr_FR": "Tennis su\u00e9dine simples",
+            "fr_CA": "Espadrilles su\u00e8de simples",
+            "de_DE": "Basic-Tennisschuhe",
+            "nl_NL": "Witte su\u00e8de sneakers",
+            "ru_RU": "\u041f\u043e\u043b\u0443\u043a\u0435\u0434\u044b \u00ab\u041d\u0443\u0431\u0438\u043a\u00bb",
+            "it_IT": "Scamosciate semplici",
+            "ja_JP": "\u30b6\u30fb\u30d9\u30fc\u30b9 \u30eb\u30fc\u30ad\u30fc"
+        }
+    },
+    {
+        "id": 79,
+        "name": "Ink-Black Clam 600s",
+        "image": "../common/assets/img/gear/shoes/Shs_SLO023.png",
+        "main": "Quick Super Jump",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Ink-Black Clam 600s",
+            "en_US": "Ink-Black Clam 600s",
+            "es_ES": "Deportiva almeja negra",
+            "es_MX": "Tenis almeja negros",
+            "fr_FR": "Baskets palourde noires",
+            "fr_CA": "Espadrilles palourde noires",
+            "de_DE": "600er Kanro",
+            "nl_NL": "Zwarte mosselsneakers",
+            "ru_RU": "\u0422\u0435\u043c\u043d\u044b\u0435 \u0443\u0441\u0442\u0440\u043e\u043a\u0440\u043e\u0441\u0441\u044b",
+            "it_IT": "Vongosneaker nere",
+            "ja_JP": "\u30af\u30e9\u30e0600 \u30ab\u30f3\u30ed"
+        }
+    },
+    {
+        "id": 80,
+        "name": "Suede Bosses",
+        "image": "../common/assets/img/gear/shoes/Shs_SLO024.png",
+        "main": "Object Shredder",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Suede Bosses",
+            "en_US": "Suede Bosses",
+            "es_ES": "Tenis b\u00e1sica profesional",
+            "es_MX": "Tenis ante profesional",
+            "fr_FR": "Tennis su\u00e9dine pro",
+            "fr_CA": "Espadrilles su\u00e8de pro",
+            "de_DE": "Profi-Tennisschuhe",
+            "nl_NL": "Zwarte su\u00e8de sneakers",
+            "ru_RU": "\u041f\u043e\u043b\u0443\u043a\u0435\u0434\u044b \u00ab\u041f\u0440\u043e\u0444\u0438\u00bb",
+            "it_IT": "Scamosciate boss",
+            "ja_JP": "\u30b6\u30fb\u30d9\u30fc\u30b9 \u30dc\u30b9"
+        }
+    },
+    {
+        "id": 81,
+        "name": "Squid-Stitch Slip-Ons",
+        "image": "../common/assets/img/gear/shoes/Shs_SLP002.png",
+        "main": "Sub Resistance Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Squid-Stitch Slip-Ons",
+            "en_US": "Squid-Stitch Slip-Ons",
+            "es_ES": "Playera bicolor",
+            "es_MX": "Mocasines bicolor",
+            "fr_FR": "Mocassins pied-de-poulpe",
+            "fr_CA": "Mocassins pied-de-calmar",
+            "de_DE": "Pfeil-Slip-ons",
+            "nl_NL": "Instappers met patroon",
+            "ru_RU": "\u0421\u043b\u0438\u043f\u043e\u043d\u044b \u0441\u043e \u0441\u0442\u0440\u0435\u043b\u043a\u0430\u043c\u0438",
+            "it_IT": "Espadrillas hip-hop",
+            "ja_JP": "\u30b9\u30ea\u30c3\u30dd\u30f3 \u30c1\u30c9\u30ea"
+        }
+    },
+    {
+        "id": 82,
+        "name": "Trail Boots",
+        "image": "../common/assets/img/gear/shoes/Shs_TRS000.png",
+        "main": "Ink Recovery Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Trail Boots",
+            "en_US": "Trail Boots",
+            "es_ES": "Bota monta\u00f1a",
+            "es_MX": "Botas de monta\u00f1a",
+            "fr_FR": "Chaussures rando",
+            "fr_CA": "Bottes de rando",
+            "de_DE": "Wanderstiefel",
+            "nl_NL": "Wandelschoenen",
+            "ru_RU": "\u0413\u043e\u0440\u043d\u044b\u0435 \u0431\u043e\u0442\u0438\u043d\u043a\u0438",
+            "it_IT": "Scarpe da trekking",
+            "ja_JP": "\u30c8\u30ec\u30c3\u30ad\u30f3\u30b0\u30e9\u30a4\u30c8"
+        }
+    },
+    {
+        "id": 83,
+        "name": "Custom Trail Boots",
+        "image": "../common/assets/img/gear/shoes/Shs_TRS001.png",
+        "main": "Special Power Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Custom Trail Boots",
+            "en_US": "Custom Trail Boots",
+            "es_ES": "Bota monta\u00f1a especial",
+            "es_MX": "Botas de monta\u00f1a especiales",
+            "fr_FR": "Chaussures rando exclusives",
+            "fr_CA": "Bottes de rando exclusives",
+            "de_DE": "Spezial-Wanderstiefel",
+            "nl_NL": "Speciale wandelschoenen",
+            "ru_RU": "\u041c\u043e\u0434\u043d\u044b\u0435 \u0433\u043e\u0440\u043d\u044b\u0435 \u0431\u043e\u0442\u0438\u043d\u043a\u0438",
+            "it_IT": "Trekking colorate",
+            "ja_JP": "\u30c8\u30ec\u30c3\u30ad\u30f3\u30b0\u30ab\u30b9\u30bf\u30e0"
+        }
+    }
+]
