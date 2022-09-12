@@ -196,6 +196,16 @@ body:not(.show-focus-outlines) [tabindex]:focus {
     text-overflow: ellipsis;
 }
 
+.picker .gear-wrapper.splashtag {
+    width: 140px;
+    height: 70px;
+}
+
+.picker .gear-wrapper.splashtag .gear-icon {
+    height: auto;
+    width: 140px;
+}
+
 #weapon-picker-selected {
     width: 128px;
     height: 128px;
@@ -809,4 +819,9 @@ body:not(.show-focus-outlines) [tabindex]:focus {
 .icon-button.badge3 {
     bottom: 50px;
     right: 18px;
+}
+
+#splashtag-selected {
+    max-width: 150px;
+    padding-top: 150px;
 }

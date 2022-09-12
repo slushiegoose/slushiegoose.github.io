@@ -125,6 +125,7 @@ function encodeSplashtag(item) {
     }
     string += binaryToHex(bgbadge).result
     string += dec4(item.discriminator)
+    string += item.name
     return string
 }
 
@@ -145,6 +146,7 @@ function decodeSplashtag(code) {
         splashtag.badges[i] = parseInt(bgbadge.substring(9 + i * 9, 18 + i * 9), 2)
     }
     splashtag.discriminator = parseInt(code.substring(14, 18), 10)
+    splashtag.name = code.substring(18)
     return splashtag
 }
 

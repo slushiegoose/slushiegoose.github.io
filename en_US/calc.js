@@ -109,6 +109,7 @@ angular
         $scope.loadout.splashtag.subject = $scope.subjects[0];
         $scope.loadout.splashtag.bg = $scope.splashtags[0];
         $scope.loadout.splashtag.discriminator = 0;
+        $scope.loadout.splashtag.name = "Player";
 
         $scope.$watch('loadout', function() {
             history.replaceState(undefined, undefined, "#" + $scope.encodeLoadout());
@@ -147,6 +148,7 @@ angular
                     newLoadout.splashtag.badges[i] = $scope.getBadgeById(results.splashtag.badges[i])
                 }
                 newLoadout.splashtag.discriminator = results.splashtag.discriminator
+                newLoadout.splashtag.name = results.splashtag.name
 
                 return newLoadout
             }

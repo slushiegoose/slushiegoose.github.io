@@ -652,6 +652,39 @@ angular.module('splatApp').controller('ModalCtrl', function($scope, $rootScope, 
                     </div>
                 </div>
             </div>
+        </div>`,
+        background: `<div class="row">
+        <div class="col-md-12">
+            <div class="card redstripes" id="dialog">
+                <div class="row cardheader">
+                    Name and Background
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="row">
+                            <div class="col-md-12 col-sm-6">
+                                <img id="splashtag-selected" fallback-img ng-src="{{selectedBg.image}}" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-8 picker-right">
+                        <input id="playerName" ng-model="playerName" class="form-control form-control-sm" type="text" placeholder="Player Name...">
+                        <div class="picker">
+                            <div ng-click="selectBg(item)" ng-repeat="item in set" uib-tooltip="{{::item.localizedName['en_US']}}" tooltip-append-to-body="true" class="gear-wrapper splashtag">
+                                <img class="gear-icon" ng-src="{{item.image}}" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row buttons">
+                    <div class="col-xs-6 col-md-4 col-md-offset-2">
+                        <button class="btn" type="button" onclick="animateButton(this)" ng-click="cancel()"><span>Cancel</span></button>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <button class="btn" type="button" onclick="animateButton(this)" ng-click="ok()"><span>OK</span></button>
+                    </div>
+                </div>
+            </div>
         </div>`
     }
 
@@ -852,6 +885,30 @@ angular.module('splatApp').controller('ModalCtrl', function($scope, $rootScope, 
         modalInstance.result.then(function(results) {
             $scope.loadout.splashtag.adjective = results.adjective
             $scope.loadout.splashtag.subject = results.subject
+        }, function() {})
+    }
+
+    $scope.openBackgroundModal = function(selected, set) {
+        console.log(selected)
+        console.log(set)
+        var modalInstance = $uibModal.open({
+            animation: $scope.animationsEnabled,
+            template: templates["background"],
+            windowTemplateUrl: 'blankModal.html',
+            controller: 'BackgroundCtrl',
+            resolve: {
+                selectedBg: function() {
+                    return selected
+                },
+                set: function() {
+                    return set
+                },
+            }
+        });
+
+        modalInstance.result.then(function(results) {
+            $scope.loadout.splashtag.bg = results.bg
+            $scope.loadout.splashtag.name = results.name || "Player"
         }, function() {})
     }
 
@@ -1180,6 +1237,29 @@ angular.module('splatApp').controller('TitleCtrl', function($scope, $rootScope, 
         var scope = this;
         $timeout(function() {
             $uibModalInstance.close({ adjective: scope.selectedAdjective, subject: scope.selectedSubject });
+        }, modalCloseDelay);
+    };
+
+    $scope.cancel = function() {
+        $timeout(function() {
+            $uibModalInstance.dismiss('cancel');
+        }, modalCloseDelay);
+    };
+});
+
+angular.module('splatApp').controller('BackgroundCtrl', function($scope, $rootScope, $uibModalInstance, selectedBg, set, $timeout) {
+    $scope.selectedBg = selectedBg
+    $scope.set = set
+
+
+    $scope.selectBg = function(item) {
+        $scope.selectedBg = item;
+    }
+
+    $scope.ok = function() {
+        var scope = this;
+        $timeout(function() {
+            $uibModalInstance.close({ bg: scope.selectedBg, name: document.getElementById("playerName").value });
         }, modalCloseDelay);
     };
 
