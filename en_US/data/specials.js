@@ -2,16 +2,14 @@
 
 
 angular.module('splatApp').specials = function($scope) {
-    specials().then(data => {
-        $scope.specials = data
-    })
+    $scope.specials = specials()
 }
 
 
 
-
-async function specials() {
-    const response = await fetch('/en_US/data/json/specials.json')
-    const data = await response.json()
-    return data
+function specials() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.open("GET", "/en_US/data/json/specials.json", false)
+    xhttp.send(null)
+    return JSON.parse(xhttp.responseText)
 }

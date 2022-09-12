@@ -2,15 +2,13 @@
 
 
 angular.module('splatApp').skills = function($scope) {
-    skills().then(data => {
-        $scope.skills = data
-    })
+    $scope.skills = skills()
 }
 
 
-
-async function skills() {
-    const response = await fetch('/ja_JP/json/skills.json')
-    const data = await response.json()
-    return data
+function skills() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.open("GET", "/ja_JP/data/json/skills.json", false)
+    xhttp.send(null)
+    return JSON.parse(xhttp.responseText)
 }

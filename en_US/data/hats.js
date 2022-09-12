@@ -2,15 +2,13 @@
 
 
 angular.module('splatApp').hats = function($scope) {
-    hats().then(data => {
-        $scope.hats = data
-    })
+    $scope.hats = hats()
 }
 
 
-
-async function hats() {
-    const response = await fetch('/en_US/data/json/hats.json')
-    const data = await response.json()
-    return data
+function hats() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.open("GET", "/en_US/data/json/hats.json", false)
+    xhttp.send(null)
+    return JSON.parse(xhttp.responseText)
 }

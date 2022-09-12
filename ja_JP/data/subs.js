@@ -2,15 +2,13 @@
 
 
 angular.module('splatApp').subs = function($scope) {
-    subs().then(data => {
-        $scope.subs = data
-    })
+    $scope.subs = subs()
 }
 
 
-
-async function subs() {
-    const response = await fetch('/ja_JP/json/subs.json')
-    const data = await response.json()
-    return data
+function subs() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.open("GET", "/ja_JP/data/json/subs.json", false)
+    xhttp.send(null)
+    return JSON.parse(xhttp.responseText)
 }

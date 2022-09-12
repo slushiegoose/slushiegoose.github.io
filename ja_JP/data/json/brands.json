@@ -1,0 +1,382 @@
+[
+    {
+        "name": "SquidForce",
+        "image": "../common/assets/img/brands/B00.png",
+        "common": "Ink Resistance Up",
+        "uncommon": "Ink Saver (Main)",
+        "localizedName": {
+            "en_GB": "SquidForce",
+            "en_US": "SquidForce",
+            "es_ES": "Kalamas",
+            "es_MX": "Kalamas",
+            "fr_FR": "Kalamarus Rex",
+            "fr_CA": "Kalmarus",
+            "de_DE": "TintactiX",
+            "nl_NL": "SquidForce",
+            "ru_RU": "\u041a\u0430\u043b\u044c\u043c\u0430\u0440\u0438",
+            "it_IT": "CalamaX",
+            "ja_JP": "\u30d0\u30c8\u30ed\u30a4\u30ab"
+        }
+    },
+    {
+        "name": "Zink",
+        "image": "../common/assets/img/brands/B01.png",
+        "common": "Quick Super Jump",
+        "uncommon": "Quick Respawn",
+        "localizedName": {
+            "en_GB": "Zink",
+            "en_US": "Zink",
+            "es_ES": "Tintaz",
+            "es_MX": "Tintaz",
+            "fr_FR": "Leviathus",
+            "fr_CA": "Leviathus",
+            "de_DE": "Sagitron",
+            "nl_NL": "Zink",
+            "ru_RU": "\u0428\u043f\u0440\u043e\u0442\u0443\u0441",
+            "it_IT": "Totanic",
+            "ja_JP": "\u30a2\u30a4\u30ed\u30cb\u30c3\u30af"
+        }
+    },
+    {
+        "name": "Krak-On",
+        "image": "../common/assets/img/brands/B02.png",
+        "common": "Swim Speed Up",
+        "uncommon": "Sub Resistance Up",
+        "localizedName": {
+            "en_GB": "Krak-On",
+            "en_US": "Krak-On",
+            "es_ES": "Meddux",
+            "es_MX": "Meddux",
+            "fr_FR": "Krakers",
+            "fr_CA": "Krakeurs",
+            "de_DE": "Medusa",
+            "nl_NL": "Krak-On",
+            "ru_RU": "\u041a\u0440\u0430-\u041a\u0435\u043d",
+            "it_IT": "Cnidarya",
+            "ja_JP": "\u30af\u30e9\u30fc\u30b2\u30b9"
+        }
+    },
+    {
+        "name": "Rockenberg",
+        "image": "../common/assets/img/brands/B03.png",
+        "common": "Run Speed Up",
+        "uncommon": "Swim Speed Up",
+        "localizedName": {
+            "en_GB": "Rockenberg",
+            "en_US": "Rockenberg",
+            "es_ES": "Rockenberg",
+            "es_MX": "Rockenberg",
+            "fr_FR": "Iormungand",
+            "fr_CA": "Iormungand",
+            "de_DE": "Rockberg",
+            "nl_NL": "Rockenberg",
+            "ru_RU": "\u0423\u0433\u0440\u043e\u043a",
+            "it_IT": "Rockenburg",
+            "ja_JP": "\u30ed\u30c3\u30b1\u30f3\u30d9\u30eb\u30b0"
+        }
+    },
+    {
+        "name": "Zekko",
+        "image": "../common/assets/img/brands/B04.png",
+        "common": "Special Saver",
+        "uncommon": "Special Charge Up",
+        "localizedName": {
+            "en_GB": "Zekko",
+            "en_US": "Zekko",
+            "es_ES": "Ezko",
+            "es_MX": "Zekko",
+            "fr_FR": "Ezko",
+            "fr_CA": "Ezko",
+            "de_DE": "Zekko",
+            "nl_NL": "Zekko",
+            "ru_RU": "\u0419\u043e\u0436\u043a\u043e",
+            "it_IT": "Ezko",
+            "ja_JP": "\u30a8\u30be\u30c3\u30b3"
+        }
+    },
+    {
+        "name": "Forge",
+        "image": "../common/assets/img/brands/B05.png",
+        "common": "Special Power Up",
+        "uncommon": "Ink Saver (Sub)",
+        "localizedName": {
+            "en_GB": "Forge",
+            "en_US": "Forge",
+            "es_ES": "Forima",
+            "es_MX": "Forima",
+            "fr_FR": "Focus",
+            "fr_CA": "Fosia",
+            "de_DE": "Focus",
+            "nl_NL": "Forge",
+            "ru_RU": "\u0411\u043b\u0438\u0446",
+            "it_IT": "Fortia",
+            "ja_JP": "\u30d5\u30a9\u30fc\u30ea\u30de"
+        }
+    },
+    {
+        "name": "Firefin",
+        "image": "../common/assets/img/brands/B06.png",
+        "common": "Ink Saver (Sub)",
+        "uncommon": "Ink Recovery Up",
+        "localizedName": {
+            "en_GB": "Firefin",
+            "en_US": "Firefin",
+            "es_ES": "Chokkor",
+            "es_MX": "Shachi",
+            "fr_FR": "Friture",
+            "fr_CA": "Arki",
+            "de_DE": "Rilax",
+            "nl_NL": "Firefin",
+            "ru_RU": "\u0424\u0440\u0438\u0442\u044e\u0440",
+            "it_IT": "Torryd",
+            "ja_JP": "\u30db\u30c3\u30b3\u30ea\u30fc"
+        }
+    },
+    {
+        "name": "Skalop",
+        "image": "../common/assets/img/brands/B07.png",
+        "common": "Quick Respawn",
+        "uncommon": "Special Saver",
+        "localizedName": {
+            "en_GB": "Skalop",
+            "en_US": "Skalop",
+            "es_ES": "Skalop",
+            "es_MX": "Skalop",
+            "fr_FR": "Jack",
+            "fr_CA": "P. Tonk",
+            "de_DE": "Jakomu",
+            "nl_NL": "Skalop",
+            "ru_RU": "\u0413\u0440\u0435\u0431\u0435\u0440\u0448\u043a\u043e",
+            "it_IT": "Capasaint",
+            "ja_JP": "\u30db\u30bf\u30c3\u30af\u30b9"
+        }
+    },
+    {
+        "name": "Splash Mob",
+        "image": "../common/assets/img/brands/B08.png",
+        "common": "Ink Saver (Main)",
+        "uncommon": "Run Speed Up",
+        "localizedName": {
+            "en_GB": "Splash Mob",
+            "en_US": "Splash Mob",
+            "es_ES": "Jimmon",
+            "es_MX": "Tinta comunal",
+            "fr_FR": "G\u00e9d\u00e9on",
+            "fr_CA": "Fr\u00e9ma",
+            "de_DE": "Gian",
+            "nl_NL": "Splash Mob",
+            "ru_RU": "\u041c\u043e\u0440\u043b\u044e\u043a\u0441",
+            "it_IT": "Chimmon",
+            "ja_JP": "\u30b8\u30e2\u30f3"
+        }
+    },
+    {
+        "name": "Inkline",
+        "image": "../common/assets/img/brands/B09.png",
+        "common": "Sub Resistance Up",
+        "uncommon": "Intensify Action",
+        "localizedName": {
+            "en_GB": "Inkline",
+            "en_US": "Inkline",
+            "es_ES": "Moluskia",
+            "es_MX": "Moluskia",
+            "fr_FR": "Abysma",
+            "fr_CA": "Abysma",
+            "de_DE": "Alpomar",
+            "nl_NL": "Inkline",
+            "ru_RU": "\u0412\u043e\u043b\u043d\u043e\u0433\u043e\u0440",
+            "it_IT": "Maremont",
+            "ja_JP": "\u30b7\u30b0\u30ec\u30cb"
+        }
+    },
+    {
+        "name": "Tentatek",
+        "image": "../common/assets/img/brands/B10.png",
+        "common": "Ink Recovery Up",
+        "uncommon": "Quick Super Jump",
+        "localizedName": {
+            "en_GB": "Tentatek",
+            "en_US": "Tentatek",
+            "es_ES": "Arome",
+            "es_MX": "Tent\u00e1ctica",
+            "fr_FR": "OculR",
+            "fr_CA": "Tentatek",
+            "de_DE": "Tentatek",
+            "nl_NL": "Tentatek",
+            "ru_RU": "\u0429\u0443\u0447\u0447\u0438",
+            "it_IT": "Arome",
+            "ja_JP": "\u30a2\u30ed\u30e1"
+        }
+    },
+    {
+        "name": "Takoroka",
+        "image": "../common/assets/img/brands/B11.png",
+        "common": "Special Charge Up",
+        "uncommon": "Special Power Up",
+        "localizedName": {
+            "en_GB": "Takoroka",
+            "en_US": "Takoroka",
+            "es_ES": "Sepioca",
+            "es_MX": "Pulpioka",
+            "fr_FR": "Cubic",
+            "fr_CA": "Pionic",
+            "de_DE": "Kalamati",
+            "nl_NL": "Takoroka",
+            "ru_RU": "\u0420\u044b\u0431\u043e\u043a",
+            "it_IT": "Sepia",
+            "ja_JP": "\u30e4\u30b3"
+        }
+    },
+    {
+        "name": "Annaki",
+        "image": "../common/assets/img/brands/B15.png",
+        "common": "Ink Saver (Sub)",
+        "uncommon": "Special Saver",
+        "localizedName": {
+            "en_GB": "Annaki",
+            "en_US": "Annaki",
+            "es_ES": "Annak",
+            "es_MX": "Annak",
+            "fr_FR": "Aroz",
+            "fr_CA": "Aroz",
+            "de_DE": "Annaki",
+            "nl_NL": "Annaki",
+            "ru_RU": "\u041f\u0430\u043d\u043a\u0430\u0441\u0438\u0443\u0441",
+            "it_IT": "Annak",
+            "ja_JP": "\u30a2\u30ca\u30a2\u30ad"
+        }
+    },
+    {
+        "name": "Enperry",
+        "image": "../common/assets/img/brands/B16.png",
+        "common": "Sub Power Up",
+        "uncommon": "Ink Resistance Up",
+        "localizedName": {
+            "en_GB": "Enperry",
+            "en_US": "Enperry",
+            "es_ES": "Krakien",
+            "es_MX": "Emperi",
+            "fr_FR": "DUX",
+            "fr_CA": "DUX",
+            "de_DE": "Enperry",
+            "nl_NL": "Enperry",
+            "ru_RU": "\u041a\u0430\u043b\u044c\u043c\u0430\u0440 \u041a\u043b\u044f\u0440",
+            "it_IT": "Imperial",
+            "ja_JP": "\u30a8\u30f3\u30da\u30ea\u30fc"
+        }
+    },
+    {
+        "name": "Toni Kensa",
+        "image": "../common/assets/img/brands/B17.png",
+        "common": "Ink Saver (Main)",
+        "uncommon": "Sub Power Up",
+        "localizedName": {
+            "en_GB": "Toni Kensa",
+            "en_US": "Toni Kensa",
+            "es_ES": "Tonken",
+            "es_MX": "Tonken",
+            "fr_FR": "Thony K",
+            "fr_CA": "Thony K",
+            "de_DE": "Toni Kensa",
+            "nl_NL": "Toni Kensa",
+            "ru_RU": "\u0421\u0443\u0448\u0430\u043a\u0438 \u041a\u0443\u0441\u0430\u043a\u0438",
+            "it_IT": "Nero Marlin",
+            "ja_JP": "\u30bf\u30bf\u30ad\u30b1\u30f3\u30b5\u30ad"
+        }
+    },
+    {
+        "name": "Barazushi",
+        "image": "../common/assets/img/brands/B19.png",
+        "common": "Intensify Action",
+        "uncommon": "Sub Power Up",
+        "localizedName": {
+            "en_GB": "Barazushi",
+            "en_US": "Barazushi",
+            "es_ES": "Barazushi",
+            "es_MX": "Barazushi",
+            "fr_FR": "Alpaj",
+            "fr_CA": "Alpaj",
+            "de_DE": "Barazushi",
+            "nl_NL": "Barazushi",
+            "ru_RU": "\u0421\u0443\u0441\u0438-\u0412\u0435\u0441\u043b\u0430",
+            "it_IT": "BaraS",
+            "ja_JP": "\u30d0\u30e9\u30ba\u30b7"
+        }
+    },
+    {
+        "name": "Emberz",
+        "image": "../common/assets/img/brands/B20.png",
+        "common": "Intensify Action",
+        "uncommon": "Special Charge Up",
+        "localizedName": {
+            "en_GB": "Emberz",
+            "en_US": "Emberz",
+            "es_ES": "Ascuax",
+            "es_MX": "Ascuax",
+            "fr_FR": "Apex",
+            "fr_CA": "Tizonius",
+            "de_DE": "Shichiryn",
+            "nl_NL": "Emberz",
+            "ru_RU": "\u0413\u0440\u0438\u043b\u044c\u044f\u043d\u0438",
+            "it_IT": "Car-bon",
+            "ja_JP": "\u30b7\u30c1\u30ea\u30f3"
+        }
+    },
+    {
+        "name": "Grizzco",
+        "image": "../common/assets/img/brands/B97.png",
+        "common": "",
+        "uncommon": "",
+        "localizedName": {
+            "en_GB": "Grizzco",
+            "en_US": "Grizzco",
+            "es_ES": "Don Oso",
+            "es_MX": "Don Oso",
+            "fr_FR": "M. Ours SA",
+            "fr_CA": "M. Ours Cie",
+            "de_DE": "B\u00e4r GmbH",
+            "nl_NL": "Beer & Co",
+            "ru_RU": "\u041f\u043e\u0442\u0430\u043f\u044b\u0447 Inc.",
+            "it_IT": "Ursus & Co",
+            "ja_JP": "\u30af\u30de\u30b5\u30f3\u5546\u4f1a"
+        }
+    },
+    {
+        "name": "Cuttlegear",
+        "image": "../common/assets/img/brands/B98.png",
+        "common": "",
+        "uncommon": "",
+        "localizedName": {
+            "en_GB": "Cuttlegear",
+            "en_US": "Cuttlegear",
+            "es_ES": "Obvius",
+            "es_MX": "Sepich\u00f3n",
+            "fr_FR": "Macalamar",
+            "fr_CA": "Radmar\u00e9",
+            "de_DE": "Kuttel-Korps",
+            "nl_NL": "Kraakwaar",
+            "ru_RU": "\u041a\u0430\u0440\u0430\u043a\u0430\u0442",
+            "it_IT": "Krakensen",
+            "ja_JP": "\u30a2\u30bf\u30ea\u30e1\u30a4\u30c9"
+        }
+    },
+    {
+        "name": "amiibo",
+        "image": "../common/assets/img/brands/B99.png",
+        "common": "",
+        "uncommon": "",
+        "localizedName": {
+            "en_GB": "amiibo",
+            "en_US": "amiibo",
+            "es_ES": "amiibo",
+            "es_MX": "amiibo",
+            "fr_FR": "amiibo",
+            "fr_CA": "amiibo",
+            "de_DE": "amiibo",
+            "nl_NL": "amiibo",
+            "ru_RU": "amiibo",
+            "it_IT": "amiibo",
+            "ja_JP": "amiibo"
+        }
+    }
+]

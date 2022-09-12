@@ -2,15 +2,13 @@
 
 
 angular.module('splatApp').weapons = function($scope) {
-    weapons().then(data => {
-        $scope.weaponSets = data
-    })
+    $scope.weaponSets = weapons()
 }
 
 
-
-async function weapons() {
-    const response = await fetch('/en_US/data/json/weapons.json')
-    const data = await response.json()
-    return data
+function weapons() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.open("GET", "/en_US/data/json/weapons.json", false)
+    xhttp.send(null)
+    return JSON.parse(xhttp.responseText)
 }

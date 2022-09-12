@@ -2,15 +2,13 @@
 
 
 angular.module('splatApp').shoes = function($scope) {
-    shoes().then(data => {
-        $scope.shoes = data
-    })
+    $scope.shoes = shoes()
 }
 
 
-
-async function shoes() {
-    const response = await fetch('/ja_JP/json/shoes.json')
-    const data = await response.json()
-    return data
+function shoes() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.open("GET", "/ja_JP/data/json/shoes.json", false)
+    xhttp.send(null)
+    return JSON.parse(xhttp.responseText)
 }
