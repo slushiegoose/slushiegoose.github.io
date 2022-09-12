@@ -554,7 +554,7 @@ angular.module('splatApp').controller('ModalCtrl', function($scope, $rootScope, 
     <div class="col-md-12">
     <div class="card purplestripes" id="dialog">
     <div class="row cardheader">
-    Spyke Integration
+    Splashtag Discriminator
     </div>
     <div class="row basic-content readable" id="about">
     <input class="form-control form-control-sm" type="text" placeholder="#0000" id="discrim-input">
