@@ -13,13 +13,14 @@ weapons = "https://leanny.github.io/splat3/data/mush/110/WeaponInfoMain.json"
 subs = "https://leanny.github.io/splat3/data/mush/110/WeaponInfoSub.json"
 specials = "https://leanny.github.io/splat3/data/mush/110/WeaponInfoSpecial.json"
 brands = "https://leanny.github.io/splat3/data/parameter/110/misc/spl__BrandTraitsParam.spl__BrandTraitsParam.json"
-skills = "https://leanny.github.io/splat3/data/parameter/110/misc/spl__GearSkillTraitsParam.spl__GearSkillTraitsParam.json"
+skills = (
+    "https://leanny.github.io/splat3/data/parameter/110/misc/spl__GearSkillTraitsParam.spl__GearSkillTraitsParam.json"
+)
 
 splashtags = "https://leanny.github.io/splat3/data/mush/110/NamePlateBgInfo.json"
 adjectives = "https://leanny.github.io/splat3/data/mush/110/BynameAdjectiveInfo.json"
 subjects = "https://leanny.github.io/splat3/data/mush/110/BynameSubjectInfo.json"
 badges = "https://leanny.github.io/splat3/data/mush/110/BadgeInfo.json"
-
 
 
 locale = {
@@ -69,15 +70,18 @@ PATHS = [
     "ja_JP/data/json",
 ]
 
+
 async def jayson(url: str):
     async with aiohttp.ClientSession() as session:
         async with session.get(url) as resp:
             return await resp.json()
 
+
 async def save(path: str, data):
     for PATH in PATHS:
         with open(PATH + path, "w") as f:
             json.dump(data, f, indent=4)
+
 
 async def gear(type, type2, listie, locale_data):
     alll = []
@@ -100,17 +104,21 @@ async def gear(type, type2, listie, locale_data):
         stars = gear_piece["Rarity"]
         brand = locale_data["en_US"]["CommonMsg/Gear/GearBrandName"][gear_piece["Brand"]]
         id = i
-        alll.append({
-            "id": id,
-            "name": name,
-            "image": image,
-            "main": main,
-            "stars": stars,
-            "localizedName": localizedName,
-            "brand": brand
-        })
+        alll.append(
+            {
+                "id": id,
+                "name": name,
+                "image": image,
+                "main": main,
+                "stars": stars,
+                "localizedName": localizedName,
+                "brand": brand,
+                "internal": eyedee,
+            }
+        )
         i += 1
     return alll
+
 
 async def sub(listie, locale_data):
     alll = []
@@ -125,17 +133,22 @@ async def sub(listie, locale_data):
             print(eyedee)
             continue
         name = localizedName["en_US"]
-        alll.append({
-            "name": name,
-            "image": image,
-            "localizedName": localizedName
-        })
+        alll.append(
+            {
+                "name": name,
+                "image": image,
+                "localizedName": localizedName,
+                "internal": f"Wsb_{eyedee}",
+            }
+        )
     return alll
+
 
 async def special(listie, locale_data):
     alll = []
     for special in listie:
         eyedee = special["__RowId"]
+        if "Mission" in eyedee: continue
         image = f"../common/assets/img/subspe/Wsp_{eyedee}.png"
         localizedName = {}
         try:
@@ -145,12 +158,16 @@ async def special(listie, locale_data):
             print(eyedee)
             continue
         name = localizedName["en_US"]
-        alll.append({
-            "name": name,
-            "image": image,
-            "localizedName": localizedName
-        })
+        alll.append(
+            {
+                "name": name,
+                "image": image,
+                "localizedName": localizedName,
+                "internal": f"Wsp_{eyedee}",
+            }
+        )
     return alll
+
 
 async def weapon(listie, locale_data):
     weaponsets = []
@@ -168,7 +185,8 @@ async def weapon(listie, locale_data):
         i = 0
         for weapon in listie:
             if weapon["__RowId"].split("_")[0] == weaponset:
-                if weapon["Id"] >= 10_000: continue
+                if weapon["Id"] >= 10_000:
+                    continue
                 eyedee = weapon["__RowId"]
                 image = f"../common/assets/img/weapons/{eyedee}.png"
                 localizedName = {}
@@ -176,34 +194,37 @@ async def weapon(listie, locale_data):
                     for locale, ldata in locale_data.items():
                         localizedName[locale] = ldata["CommonMsg/Weapon/WeaponName_Main"][eyedee]
                 except KeyError:
-                    print(eyedee)   
+                    print(eyedee)
                     continue
                 name = localizedName["en_US"]
                 id_ = i
                 class_ = weaponset
                 try:
-                    sub_ = locale_data["en_US"]["CommonMsg/Weapon/WeaponName_Sub"][weapon["SubWeapon"].split(".")[0][10:]]
-                    special_ = locale_data["en_US"]["CommonMsg/Weapon/WeaponName_Special"][weapon["SpecialWeapon"].split(".")[0][10:]]
+                    sub_ = locale_data["en_US"]["CommonMsg/Weapon/WeaponName_Sub"][
+                        weapon["SubWeapon"].split(".")[0][10:]
+                    ]
+                    special_ = locale_data["en_US"]["CommonMsg/Weapon/WeaponName_Special"][
+                        weapon["SpecialWeapon"].split(".")[0][10:]
+                    ]
                 except:
                     print(repr(eyedee), repr(name), repr(weapon["SubWeapon"]))
                     raise
-                weapons.append({
-                    "id": id_,
-                    "name": name,
-                    "image": image,
-                    "class": class_,
-                    "sub": sub_,
-                    "special": special_,
-                    "localizedName": localizedName
-                })
+                weapons.append(
+                    {
+                        "id": id_,
+                        "name": name,
+                        "image": image,
+                        "class": class_,
+                        "sub": sub_,
+                        "special": special_,
+                        "localizedName": localizedName,
+                        "internal": eyedee,
+                    }
+                )
                 i += 1
-        weaponsets.append({
-            "id": id,
-            "type": type_,
-            "weapons": weapons,
-            "localizedName": localizedNamee
-        })
+        weaponsets.append({"id": id, "type": type_, "weapons": weapons, "localizedName": localizedNamee})
     return weaponsets
+
 
 async def skill(listie, locale_data):
     alll = []
@@ -220,15 +241,13 @@ async def skill(listie, locale_data):
             print(eyedee)
             continue
         name = localizedName["en_US"]
-        alll.append({
-            "id": i,
-            "name": name,
-            "image": image,
-            "localizedName": localizedName
-        })
+        alll.append({"id": i, "name": name, "image": image, "localizedName": localizedName, "internal": eyedee})
         if sk["KindLimit"] != "None":
-            alll[-1]["exclusive"] = f"loadout.{sk['KindLimit'].lower()}.main" if name != "Ability Doubler" else "hidden"
+            alll[-1]["exclusive"] = (
+                f"loadout.{sk['KindLimit'].lower()}.main" if name != "Ability Doubler" else "hidden"
+            )
     return alll
+
 
 async def brand(listie, locale_data):
     alll = {}
@@ -252,7 +271,8 @@ async def brand(listie, locale_data):
             "image": image,
             "common": frequent,
             "uncommon": infrequent,
-            "localizedName": localizedName
+            "localizedName": localizedName,
+            "internal": eyedee,
         }
     return alll
 
@@ -265,16 +285,9 @@ async def splashtag(listie, locale_data):
         r = tag["TextColor"]["R"]
         g = tag["TextColor"]["G"]
         b = tag["TextColor"]["B"]
-        alll.append({
-            "id": i,
-            "image": image,
-            "color": {
-                "r": r,
-                "g": g,
-                "b": b
-            }
-        })
+        alll.append({"id": i, "image": image, "color": {"r": r, "g": g, "b": b}, "internal": eyedee})
     return alll
+
 
 async def adjective(listie, locale_data, info_data):
     alll = []
@@ -291,14 +304,12 @@ async def adjective(listie, locale_data, info_data):
             print(eyedee)
             continue
         name = localizedName["en_US"]
-        
-        alll.append({
-            "name": name,
-            "localizedName": localizedName,
-            "available": available,
-            "id": i
-        })
+
+        alll.append(
+            {"name": name, "localizedName": localizedName, "available": available, "id": i, "internal": f"{eyedee:04}"}
+        )
     return alll
+
 
 async def subject(listie, locale_data, info_data):
     alll = []
@@ -315,28 +326,29 @@ async def subject(listie, locale_data, info_data):
             print(eyedee)
             continue
         name = localizedName["en_US"]
-        
-        alll.append({
-            "name": name,
-            "localizedName": localizedName,
-            "available": available,
-            "id": i
-        })
+
+        alll.append(
+            {"name": name, "localizedName": localizedName, "available": available, "id": i, "internal": f"{eyedee:04}"}
+        )
     return alll
+
 
 async def badge(listie, locale_data, weapons_data, special_data):
     alll = []
-    alll.append({
-        "name": "None",
-        "image": f"../common/assets/img/badges/None.png",
-        "localizedName": {l: "None" for l in locale_data.keys()},
-        "id": 0,
-    })
+    alll.append(
+        {
+            "name": "None",
+            "image": f"../common/assets/img/badges/None.png",
+            "localizedName": {l: "None" for l in locale_data.keys()},
+            "id": 0,
+            "internal": "None",
+        }
+    )
     for i, badge in enumerate(listie, start=1):
         eyedee: str = badge["__RowId"]
         eyedee = eyedee.replace("Work/Gyml/BadgeInfo", "Badge").replace(".spl__BadgeInfo.gyml", "")
         image = f"../common/assets/img/badges/{eyedee}.png"
-        
+
         localizedName = {}
         try:
             for locale, ldata in locale_data.items():
@@ -344,29 +356,35 @@ async def badge(listie, locale_data, weapons_data, special_data):
                 if "[group=0004 type=0007 params=00 00 00 00]" in localizedName[locale]:
                     localizedName[locale] = localizedName[locale].replace(
                         "[group=0004 type=0007 params=00 00 00 00]",
-                        ldata["CommonMsg/Coop/CoopEnemy"][badge["Sub1_Str"]]
+                        ldata["CommonMsg/Coop/CoopEnemy"][badge["Sub1_Str"]],
                     )
                 if "[group=0004 type=000e params=00 00 00 00]" in localizedName[locale]:
                     localizedName[locale] = localizedName[locale].replace(
                         "[group=0004 type=000e params=00 00 00 00]",
-                        ldata["CommonMsg/Coop/CoopStageName"][badge["Sub1_Str"]]
+                        ldata["CommonMsg/Coop/CoopStageName"][badge["Sub1_Str"]],
                     )
                 if "[group=0004 type=000f params=00 00 00 00]" in localizedName[locale]:
                     localizedName[locale] = localizedName[locale].replace(
                         "[group=0004 type=000f params=00 00 00 00]",
-                        ldata["CommonMsg/Gear/GearBrandName"][f"B{badge['Sub1_Int']:02}"]
+                        ldata["CommonMsg/Gear/GearBrandName"][f"B{badge['Sub1_Int']:02}"],
                     )
-                if "[group=0004 type=0001 params=00 00 00 00]" in localizedName[locale] and badge["Category"] == "WeaponLevel":
+                if (
+                    "[group=0004 type=0001 params=00 00 00 00]" in localizedName[locale]
+                    and badge["Category"] == "WeaponLevel"
+                ):
                     weapon = next(w for w in weapons_data if w["Id"] == badge["Sub1_Int"])
                     localizedName[locale] = localizedName[locale].replace(
                         "[group=0004 type=0001 params=00 00 00 00]",
-                        ldata["CommonMsg/Weapon/WeaponName_Main"][weapon["__RowId"]]
+                        ldata["CommonMsg/Weapon/WeaponName_Main"][weapon["__RowId"]],
                     )
-                if "[group=0004 type=0001 params=00 00 00 00]" in localizedName[locale] and badge["Category"] == "WinCount_WeaponSp":
+                if (
+                    "[group=0004 type=0001 params=00 00 00 00]" in localizedName[locale]
+                    and badge["Category"] == "WinCount_WeaponSp"
+                ):
                     special = next(w for w in special_data if w["Id"] == badge["Sub1_Int"])
                     localizedName[locale] = localizedName[locale].replace(
                         "[group=0004 type=0001 params=00 00 00 00]",
-                        ldata["CommonMsg/Weapon/WeaponName_Special"][special["__RowId"]]
+                        ldata["CommonMsg/Weapon/WeaponName_Special"][special["__RowId"]],
                     )
 
                 if not localizedName[locale]:
@@ -375,15 +393,9 @@ async def badge(listie, locale_data, weapons_data, special_data):
             print(eyedee)
             continue
         name = localizedName["en_US"]
-        
-        alll.append({
-            "name": name,
-            "image": image,
-            "localizedName": localizedName,
-            "id": i
-        })
-    return alll
 
+        alll.append({"name": name, "image": image, "localizedName": localizedName, "id": i, "internal": eyedee})
+    return alll
 
 
 async def main():
@@ -398,7 +410,7 @@ async def main():
     locale_data = {}
     for l, url in locale.items():
         locale_data[l] = await jayson(url)
-    
+
     splashtags_data = await jayson(splashtags)
     adjectives_data = await jayson(adjectives)
     subjects_data = await jayson(subjects)
@@ -407,13 +419,10 @@ async def main():
     adjective_info_data = {}
     for l, url in adjective_info.items():
         adjective_info_data[l] = await jayson(url)
-    
+
     subject_info_data = {}
     for l, url in subject_info.items():
         subject_info_data[l] = await jayson(url)
-
-    
-
 
     await save("/hats.json", await gear("Hats", "Head", hats_data, locale_data))
     await save("/clothes.json", await gear("Clothes", "Clothes", shirts_data, locale_data))
@@ -428,5 +437,6 @@ async def main():
     await save("/adjectives.json", await adjective(adjectives_data, locale_data, adjective_info_data))
     await save("/subjects.json", await subject(subjects_data, locale_data, subject_info_data))
     await save("/badges.json", await badge(badges_data, locale_data, weapons_data, specials_data))
+
 
 asyncio.run(main())
