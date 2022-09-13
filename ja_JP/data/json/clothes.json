@@ -18,7 +18,8 @@
             "it_IT": "Uniforme scolastica A",
             "ja_JP": "\u30b9\u30af\u30fc\u30eb\u30d6\u30ec\u30b6\u30fcL"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Clt_AMB000"
     },
     {
         "id": 1,
@@ -39,7 +40,8 @@
             "it_IT": "Armatura samurai",
             "ja_JP": "\u30b5\u30e0\u30e9\u30a4\u30b8\u30e3\u30b1\u30c3\u30c8"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Clt_AMB001"
     },
     {
         "id": 2,
@@ -60,7 +62,8 @@
             "it_IT": "Armatura hi-tech",
             "ja_JP": "\u30d1\u30ef\u30fc\u30c9\u30b9\u30fc\u30c4"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Clt_AMB002"
     },
     {
         "id": 3,
@@ -81,7 +84,8 @@
             "it_IT": "Cardigan scolastico A",
             "ja_JP": "\u30b9\u30af\u30fc\u30eb\u30ab\u30fc\u30c7 \u30ea\u30dc\u30f3"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Clt_AMB003"
     },
     {
         "id": 4,
@@ -102,7 +106,8 @@
             "it_IT": "Giacca ninja",
             "ja_JP": "\u30cb\u30f3\u30b8\u30e3\u30b9\u30fc\u30c4"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Clt_AMB004"
     },
     {
         "id": 5,
@@ -123,7 +128,8 @@
             "it_IT": "Prototipo di armatura hi-tech",
             "ja_JP": "\u30d1\u30ef\u30fc\u30c9\u30b9\u30fc\u30c4 \u30aa\u30ea\u30b8\u30f3"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Clt_AMB005"
     },
     {
         "id": 6,
@@ -144,7 +150,8 @@
             "it_IT": "Parka di Alga",
             "ja_JP": "\u30d2\u30e1\u30a4\u30c8\u30d1\u30fc\u30ab\u30fc"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Clt_AMB006"
     },
     {
         "id": 7,
@@ -165,7 +172,8 @@
             "it_IT": "Top di Nori",
             "ja_JP": "\u30a4\u30a4\u30c0\u30c1\u30c8\u30c3\u30d7\u30b9"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Clt_AMB007"
     },
     {
         "id": 8,
@@ -186,7 +194,8 @@
             "it_IT": "Vestito stregonesco A",
             "ja_JP": "\u30a8\u30f3\u30c1\u30e3\u30f3\u30c8\u30ed\u30fc\u30d6S"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Clt_AMB008"
     },
     {
         "id": 9,
@@ -207,7 +216,8 @@
             "it_IT": "Corazza da octoguerriero",
             "ja_JP": "\u30bf\u30b3\u30c6\u30a3\u30ab\u30eb\u306a\u3088\u308d\u3044"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Clt_AMB009"
     },
     {
         "id": 10,
@@ -228,7 +238,8 @@
             "it_IT": "Manone da mascotte",
             "ja_JP": "\u3072\u308c\u304a\u304f\u3093\u306e\u3066"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Clt_AMB010"
     },
     {
         "id": 11,
@@ -249,7 +260,8 @@
             "it_IT": "Uniforme scolastica B",
             "ja_JP": "\u30b9\u30af\u30fc\u30eb\u30d6\u30ec\u30b6\u30fcR"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Clt_AMB014"
     },
     {
         "id": 12,
@@ -270,7 +282,8 @@
             "it_IT": "Cardigan scolastico B",
             "ja_JP": "\u30b9\u30af\u30fc\u30eb\u30ab\u30fc\u30c7 \u30cd\u30af\u30bf\u30a4"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Clt_AMB015"
     },
     {
         "id": 13,
@@ -291,7 +304,8 @@
             "it_IT": "vestito stregonesco B",
             "ja_JP": "\u30a8\u30f3\u30c1\u30e3\u30f3\u30c8\u30ed\u30fc\u30d6L"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Clt_AMB017"
     },
     {
         "id": 14,
@@ -312,7 +326,8 @@
             "it_IT": "T-shirt festival",
             "ja_JP": "\u30d5\u30a7\u30b9\uff34"
         },
-        "brand": "SquidForce"
+        "brand": "SquidForce",
+        "internal": "Clt_HAP001"
     },
     {
         "id": 15,
@@ -333,7 +348,8 @@
             "it_IT": "Giacca da sci verde",
             "ja_JP": "\u30de\u30a6\u30f3\u30c6\u30f3\u30aa\u30ea\u30fc\u30d6"
         },
-        "brand": "Inkline"
+        "brand": "Inkline",
+        "internal": "Clt_JKT000"
     },
     {
         "id": 16,
@@ -354,7 +370,8 @@
             "it_IT": "Tuta acetata Sepia",
             "ja_JP": "\u30e4\u30b3\u30ca\u30a4\u30ed\u30f3 \u30f4\u30a3\u30f3\u30c6\u30fc\u30b8"
         },
-        "brand": "Takoroka"
+        "brand": "Takoroka",
+        "internal": "Clt_JKT001"
     },
     {
         "id": 17,
@@ -375,7 +392,8 @@
             "it_IT": "Chiodo nero",
             "ja_JP": "\u30a4\u30ab\u30e9\u30a4\u30c0\u30fcBLACK"
         },
-        "brand": "Rockenberg"
+        "brand": "Rockenberg",
+        "internal": "Clt_JKT006"
     },
     {
         "id": 18,
@@ -396,7 +414,8 @@
             "it_IT": "Giubbino furia",
             "ja_JP": "\u30a4\u30ab\u30b9\u30ab\u30b8\u30e3\u30f3"
         },
-        "brand": "Zekko"
+        "brand": "Zekko",
+        "internal": "Clt_JKT014"
     },
     {
         "id": 19,
@@ -417,7 +436,8 @@
             "it_IT": "Giubbino pesciscossa",
             "ja_JP": "\u30a6\u30e9\u30b9\u30ab\u30b8\u30e3\u30f3"
         },
-        "brand": "Zekko"
+        "brand": "Zekko",
+        "internal": "Clt_JKT015"
     },
     {
         "id": 20,
@@ -438,7 +458,8 @@
             "it_IT": "Giacca maccha",
             "ja_JP": "\u30de\u30c3\u30c1\u30e3 \u30e9\u30a4\u30c8\u30c0\u30a6\u30f3"
         },
-        "brand": "Inkline"
+        "brand": "Inkline",
+        "internal": "Clt_JKT019"
     },
     {
         "id": 21,
@@ -459,7 +480,8 @@
             "it_IT": "Giacca Nero Marlin",
             "ja_JP": "\u30b1\u30f3\u30b5\u30ad\u30b3\u30fc\u30c1"
         },
-        "brand": "Toni Kensa"
+        "brand": "Toni Kensa",
+        "internal": "Clt_JKT023"
     },
     {
         "id": 22,
@@ -480,7 +502,8 @@
             "it_IT": "Parka mostro artico",
             "ja_JP": "\u30e2\u30f3\u30b9\u30bf\u30fc PCU56"
         },
-        "brand": "Barazushi"
+        "brand": "Barazushi",
+        "internal": "Clt_JKT045"
     },
     {
         "id": 23,
@@ -501,7 +524,8 @@
             "it_IT": "Anorak BaraS",
             "ja_JP": "\u30d0\u30e9\u30ba\u30b7\u30e4\u30c3\u30b1"
         },
-        "brand": "Barazushi"
+        "brand": "Barazushi",
+        "internal": "Clt_JKT046"
     },
     {
         "id": 24,
@@ -522,7 +546,8 @@
             "it_IT": "Giubbotto patchwork",
             "ja_JP": "\u30d5\u30a3\u30ec\u30b8\u30e3\u30b1\u30c3\u30c8"
         },
-        "brand": "Emberz"
+        "brand": "Emberz",
+        "internal": "Clt_JKT047"
     },
     {
         "id": 25,
@@ -543,7 +568,8 @@
             "it_IT": "Giacca refrigerante",
             "ja_JP": "\u30aa\u30fc\u30eb\u30a6\u30a7\u30a4\u30ba\u30d5\u30a1\u30f3"
         },
-        "brand": "Forge"
+        "brand": "Forge",
+        "internal": "Clt_JKT048"
     },
     {
         "id": 26,
@@ -564,7 +590,8 @@
             "it_IT": "Giacca imbottita nera",
             "ja_JP": "\u30d1\u30c9\u30ea\u30f3\u30b0\u30b8\u30e3\u30b1\u30c3\u30c8 \u30cd\u30ac"
         },
-        "brand": "Toni Kensa"
+        "brand": "Toni Kensa",
+        "internal": "Clt_JKT049"
     },
     {
         "id": 27,
@@ -585,7 +612,8 @@
             "it_IT": "Maglia con bolero nero",
             "ja_JP": "\u30b3\u30c6\u30dc\u30ec\u30ed \u30cd\u30ac"
         },
-        "brand": "Toni Kensa"
+        "brand": "Toni Kensa",
+        "internal": "Clt_JKT050"
     },
     {
         "id": 28,
@@ -606,7 +634,8 @@
             "it_IT": "Pile tundra crema",
             "ja_JP": "\u30aa\u30b9\u30e2\u30eb \u30a2\u30a4\u30dc\u30ea\u30fc"
         },
-        "brand": "Inkline"
+        "brand": "Inkline",
+        "internal": "Clt_JKT051"
     },
     {
         "id": 29,
@@ -627,7 +656,8 @@
             "it_IT": "Impermeabile cachi",
             "ja_JP": "\u30cf\u30f3\u30c6\u30a3\u30f3\u30b0\u30b8\u30e3\u30b1\u30c3\u30c8KK"
         },
-        "brand": "Inkline"
+        "brand": "Inkline",
+        "internal": "Clt_JKT054"
     },
     {
         "id": 30,
@@ -648,7 +678,8 @@
             "it_IT": "Polo nera",
             "ja_JP": "\u30d4\u30f3\u30dd\u30f3\u30dd\u30ed"
         },
-        "brand": "Zekko"
+        "brand": "Zekko",
+        "internal": "Clt_PLO004"
     },
     {
         "id": 31,
@@ -669,7 +700,8 @@
             "it_IT": "Maglia da ciclista",
             "ja_JP": "\u30c6\u30c3\u30ab\u30b5\u30a4\u30af\u30eb\u30b7\u30e3\u30c4"
         },
-        "brand": "Zink"
+        "brand": "Zink",
+        "internal": "Clt_PLO005"
     },
     {
         "id": 32,
@@ -690,7 +722,8 @@
             "it_IT": "Maglia rugby 10",
             "ja_JP": "\u30ad\u30f3\u30b0\u30e9\u30ac\u30fc010"
         },
-        "brand": "Enperry"
+        "brand": "Enperry",
+        "internal": "Clt_PLO009"
     },
     {
         "id": 33,
@@ -711,7 +744,8 @@
             "it_IT": "Maglia rugby 8",
             "ja_JP": "\u30ad\u30f3\u30b0\u30e9\u30ac\u30fc008"
         },
-        "brand": "Enperry"
+        "brand": "Enperry",
+        "internal": "Clt_PLO010"
     },
     {
         "id": 34,
@@ -732,7 +766,8 @@
             "it_IT": "Felpa grigia con cappuccio",
             "ja_JP": "\u30db\u30bf\u30d1\u30fc\u30ab\u30fc \u30b0\u30ec\u30fc"
         },
-        "brand": "Skalop"
+        "brand": "Skalop",
+        "internal": "Clt_PRK006"
     },
     {
         "id": 35,
@@ -753,7 +788,8 @@
             "it_IT": "Maglia baja rossa",
             "ja_JP": "\u30d0\u30cf\u30d5\u30fc\u30c7\u30a3\u30fc \u30ed\u30db"
         },
-        "brand": "Krak-On"
+        "brand": "Krak-On",
+        "internal": "Clt_PRK012"
     },
     {
         "id": 36,
@@ -774,7 +810,8 @@
             "it_IT": "Maglia baja celeste",
             "ja_JP": "\u30d0\u30cf\u30d5\u30fc\u30c7\u30a3\u30fc \u30bb\u30ec\u30b9\u30c6"
         },
-        "brand": "Krak-On"
+        "brand": "Krak-On",
+        "internal": "Clt_PRK014"
     },
     {
         "id": 37,
@@ -795,7 +832,8 @@
             "it_IT": "Camicia scozzese",
             "ja_JP": "\u30aa\u30fc\u30bf\u30e0\u30cd\u30eb"
         },
-        "brand": "Rockenberg"
+        "brand": "Rockenberg",
+        "internal": "Clt_SHT000"
     },
     {
         "id": 38,
@@ -816,7 +854,8 @@
             "it_IT": "Camicia bianca",
             "ja_JP": "\u30b7\u30ed\u30b7\u30e3\u30c4"
         },
-        "brand": "Splash Mob"
+        "brand": "Splash Mob",
+        "internal": "Clt_SHT003"
     },
     {
         "id": 39,
@@ -837,7 +876,8 @@
             "it_IT": "Camicia floreale",
             "ja_JP": "\u304a\u3069\u308b\u30a4\u30ab\u30a2\u30ed\u30cf"
         },
-        "brand": "Forge"
+        "brand": "Forge",
+        "internal": "Clt_SHT005"
     },
     {
         "id": 40,
@@ -858,7 +898,8 @@
             "it_IT": "Camicia hawaiana",
             "ja_JP": "\u30ed\u30b4\u30de\u30b7\u30de\u30b7\u30a2\u30ed\u30cf"
         },
-        "brand": "Zekko"
+        "brand": "Zekko",
+        "internal": "Clt_SHT012"
     },
     {
         "id": 41,
@@ -879,7 +920,8 @@
             "it_IT": "Camicia da turista",
             "ja_JP": "\u30d4\u30fc\u30bf\u30fc\u30d1\u30f3\u30af\u30b7\u30e3\u30c4"
         },
-        "brand": "Annaki"
+        "brand": "Annaki",
+        "internal": "Clt_SHT017"
     },
     {
         "id": 42,
@@ -900,7 +942,8 @@
             "it_IT": "Camicia da octobowling",
             "ja_JP": "\u30bf\u30b3\u30dc\u30a6\u30e9\u30fc\u30b7\u30e3\u30c4"
         },
-        "brand": "Krak-On"
+        "brand": "Krak-On",
+        "internal": "Clt_SHT018"
     },
     {
         "id": 43,
@@ -921,7 +964,8 @@
             "it_IT": "Camicia inchiostrata",
             "ja_JP": "\u30b9\u30df\u30ab\u30b1\u30b7\u30e3\u30c4"
         },
-        "brand": "Toni Kensa"
+        "brand": "Toni Kensa",
+        "internal": "Clt_SHT019"
     },
     {
         "id": 44,
@@ -942,7 +986,8 @@
             "it_IT": "Giacca paracadute cremisi",
             "ja_JP": "\u30d1\u30e9\u30b7\u30e5\u30fc\u30bf\u30fc \u30b6\u30af\u30ed"
         },
-        "brand": "Annaki"
+        "brand": "Annaki",
+        "internal": "Clt_SHT020"
     },
     {
         "id": 45,
@@ -963,7 +1008,8 @@
             "it_IT": "Camicia piovre piccanti",
             "ja_JP": "\u30c1\u30ea\u30e1\u30f3\u30bf\u30b3\u30a2\u30ed\u30cf"
         },
-        "brand": "Krak-On"
+        "brand": "Krak-On",
+        "internal": "Clt_SHT024"
     },
     {
         "id": 46,
@@ -984,7 +1030,8 @@
             "it_IT": "Flanella Annak",
             "ja_JP": "\u30a2\u30ca\u30a2\u30ad\u30aa\u30f3\u30d6\u30ec\u30cd\u30eb"
         },
-        "brand": "Annaki"
+        "brand": "Annaki",
+        "internal": "Clt_SHT025"
     },
     {
         "id": 47,
@@ -1005,7 +1052,8 @@
             "it_IT": "Camicia ippocampi",
             "ja_JP": "\u30bf\u30c4\u30ce\u30b3\u30ad\u30e5\u30fc\u30d0"
         },
-        "brand": "Krak-On"
+        "brand": "Krak-On",
+        "internal": "Clt_SHT030"
     },
     {
         "id": 48,
@@ -1026,7 +1074,8 @@
             "it_IT": "Camicia da clown",
             "ja_JP": "\u30d4\u30a8\u30ed\u30b7\u30e3\u30c4"
         },
-        "brand": "Emberz"
+        "brand": "Emberz",
+        "internal": "Clt_SHT031"
     },
     {
         "id": 49,
@@ -1047,7 +1096,8 @@
             "it_IT": "Camicia animalesca",
             "ja_JP": "\u30d5\u30a3\u30ec\u30b7\u30e3\u30c4 \u30b5\u30d5\u30a1\u30ea"
         },
-        "brand": "Emberz"
+        "brand": "Emberz",
+        "internal": "Clt_SHT033"
     },
     {
         "id": 50,
@@ -1068,7 +1118,8 @@
             "it_IT": "Camicia ricamata",
             "ja_JP": "\u30b9\u30c6\u30c3\u30c1\u30b7\u30e3\u30c4 \u30e4\u30ac\u30e9"
         },
-        "brand": "Krak-On"
+        "brand": "Krak-On",
+        "internal": "Clt_SHT034"
     },
     {
         "id": 51,
@@ -1089,7 +1140,8 @@
             "it_IT": "Camicia schizzata",
             "ja_JP": "\u30b9\u30df\u30c1\u30e9\u30b7\u30b7\u30e3\u30c4"
         },
-        "brand": "Toni Kensa"
+        "brand": "Toni Kensa",
+        "internal": "Clt_SHT036"
     },
     {
         "id": 52,
@@ -1110,7 +1162,8 @@
             "it_IT": "Camicia urbana",
             "ja_JP": "\u30d5\u30a3\u30ec\u30b7\u30e3\u30c4 \u30a2\u30fc\u30d0\u30f3"
         },
-        "brand": "Emberz"
+        "brand": "Emberz",
+        "internal": "Clt_SHT040"
     },
     {
         "id": 53,
@@ -1131,7 +1184,8 @@
             "it_IT": "Maglione CalamaX",
             "ja_JP": "\u30a4\u30ab\u30d0\u30c3\u30c6\u30f3 \u30de\u30b9\u30bf\u30fc\u30c9"
         },
-        "brand": "SquidForce"
+        "brand": "SquidForce",
+        "internal": "Clt_SWT001"
     },
     {
         "id": 54,
@@ -1152,7 +1206,8 @@
             "it_IT": "Maglione polsino blu Annak",
             "ja_JP": "\u30a2\u30ca\u30a2\u30ad\u30cb\u30c3\u30c8 \u30a2\u30aa\u30bd\u30c7"
         },
-        "brand": "Annaki"
+        "brand": "Annaki",
+        "internal": "Clt_SWT010"
     },
     {
         "id": 55,
@@ -1173,7 +1228,8 @@
             "it_IT": "Felpa lamantino",
             "ja_JP": "\u30af\u30e9\u30de\u30ca\u30b9\u30a6\u30a7\u30c3\u30c8"
         },
-        "brand": "Krak-On"
+        "brand": "Krak-On",
+        "internal": "Clt_SWT016"
     },
     {
         "id": 56,
@@ -1194,7 +1250,8 @@
             "it_IT": "Maglione squali",
             "ja_JP": "3D\u30cb\u30c3\u30c8 \u30b7\u30e3\u30fc\u30af"
         },
-        "brand": "Krak-On"
+        "brand": "Krak-On",
+        "internal": "Clt_SWT017"
     },
     {
         "id": 57,
@@ -1215,7 +1272,8 @@
             "it_IT": "Octomaglia (trasferta)",
             "ja_JP": "\u30bf\u30b3\u30d4\u30b9\u30c6 \u30d6\u30eb\u30fc"
         },
-        "brand": "Takoroka"
+        "brand": "Takoroka",
+        "internal": "Clt_SWT018"
     },
     {
         "id": 58,
@@ -1236,7 +1294,8 @@
             "it_IT": "Maglia Ezko",
             "ja_JP": "\u30a8\u30be\u30c3\u30b3\u30e9\u30b0\u30e9\u30f3"
         },
-        "brand": "Zekko"
+        "brand": "Zekko",
+        "internal": "Clt_TEL004"
     },
     {
         "id": 59,
@@ -1257,7 +1316,8 @@
             "it_IT": "T-shirt bianca",
             "ja_JP": "\u30a4\u30ab\u30db\u30ef\u30a4\u30c8"
         },
-        "brand": "SquidForce"
+        "brand": "SquidForce",
+        "internal": "Clt_TES000"
     },
     {
         "id": 60,
@@ -1278,7 +1338,8 @@
             "it_IT": "T-shirt neroseppia",
             "ja_JP": "\u30a4\u30ab\u30ce\u30e1\uff34 \u30d6\u30e9\u30c3\u30af"
         },
-        "brand": "Tentatek"
+        "brand": "Tentatek",
+        "internal": "Clt_TES001"
     },
     {
         "id": 61,
@@ -1299,7 +1360,8 @@
             "it_IT": "Rockenburg bianca",
             "ja_JP": "\u30ed\u30c3\u30b1\u30f3\u30d9\u30eb\u30b0\uff34 \u30db\u30ef\u30a4\u30c8"
         },
-        "brand": "Rockenberg"
+        "brand": "Rockenberg",
+        "internal": "Clt_TES004"
     },
     {
         "id": 62,
@@ -1320,7 +1382,8 @@
             "it_IT": "Rockenburg nera",
             "ja_JP": "\u30ed\u30c3\u30b1\u30f3\u30d9\u30eb\u30b0\uff34 \u30d6\u30e9\u30c3\u30af"
         },
-        "brand": "Rockenberg"
+        "brand": "Rockenberg",
+        "internal": "Clt_TES005"
     },
     {
         "id": 63,
@@ -1341,7 +1404,8 @@
             "it_IT": "T-shirt nera",
             "ja_JP": "\u30a4\u30ab\u30d6\u30e9\u30c3\u30af"
         },
-        "brand": "SquidForce"
+        "brand": "SquidForce",
+        "internal": "Clt_TES006"
     },
     {
         "id": 64,
@@ -1362,7 +1426,8 @@
             "it_IT": "T-shirt rossa frecce",
             "ja_JP": "\u30d9\u30af\u30c8\u30eb\u30d1\u30bf\u30fc\u30f3 \u30ec\u30c3\u30c9"
         },
-        "brand": "Takoroka"
+        "brand": "Takoroka",
+        "internal": "Clt_TES013"
     },
     {
         "id": 65,
@@ -1383,7 +1448,8 @@
             "it_IT": "T-shirt grigia frecce",
             "ja_JP": "\u30d9\u30af\u30c8\u30eb\u30d1\u30bf\u30fc\u30f3 \u30b0\u30ec\u30fc"
         },
-        "brand": "Takoroka"
+        "brand": "Takoroka",
+        "internal": "Clt_TES014"
     },
     {
         "id": 66,
@@ -1404,7 +1470,8 @@
             "it_IT": "T-shirt cime blu",
             "ja_JP": "\u30e4\u30de\u30d3\u30b3\uff34 \u30d6\u30eb\u30fc"
         },
-        "brand": "Inkline"
+        "brand": "Inkline",
+        "internal": "Clt_TES015"
     },
     {
         "id": 67,
@@ -1425,7 +1492,8 @@
             "it_IT": "T-shirt cime avorio",
             "ja_JP": "\u30e4\u30de\u30d3\u30b3\uff34 \u30a2\u30a4\u30dc\u30ea\u30fc"
         },
-        "brand": "Inkline"
+        "brand": "Inkline",
+        "internal": "Clt_TES016"
     },
     {
         "id": 68,
@@ -1446,7 +1514,8 @@
             "it_IT": "T-shirt da pirata",
             "ja_JP": "\u30d1\u30a4\u30ec\u30fc\u30c4\u30dc\u30fc\u30c0\u30fc"
         },
-        "brand": "Splash Mob"
+        "brand": "Splash Mob",
+        "internal": "Clt_TES018"
     },
     {
         "id": 69,
@@ -1467,7 +1536,8 @@
             "it_IT": "T-shirt da marinaio",
             "ja_JP": "\u30de\u30ea\u30f3\u30dc\u30fc\u30c0\u30fc"
         },
-        "brand": "Splash Mob"
+        "brand": "Splash Mob",
+        "internal": "Clt_TES019"
     },
     {
         "id": 70,
@@ -1488,7 +1558,8 @@
             "it_IT": "T-shirt 8 bit bianca",
             "ja_JP": "\u30e4\u30ad\u30d5\u30b08bit \u30db\u30ef\u30a4\u30c8"
         },
-        "brand": "Firefin"
+        "brand": "Firefin",
+        "internal": "Clt_TES020"
     },
     {
         "id": 71,
@@ -1509,7 +1580,8 @@
             "it_IT": "T-shirt 8 bit nera",
             "ja_JP": "\u30e4\u30ad\u30d5\u30b08bit \u30d6\u30e9\u30c3\u30af"
         },
-        "brand": "Firefin"
+        "brand": "Firefin",
+        "internal": "Clt_TES021"
     },
     {
         "id": 72,
@@ -1530,7 +1602,8 @@
             "it_IT": "T-shirt nera ciclista",
             "ja_JP": "\u30a4\u30ab\u30d6\u30e9\u30c3\u30afV"
         },
-        "brand": "SquidForce"
+        "brand": "SquidForce",
+        "internal": "Clt_TES030"
     },
     {
         "id": 73,
@@ -1551,7 +1624,8 @@
             "it_IT": "T-shirt bianca ciclista",
             "ja_JP": "\u30a4\u30ab\u30db\u30ef\u30a4\u30c8V"
         },
-        "brand": "SquidForce"
+        "brand": "SquidForce",
+        "internal": "Clt_TES035"
     },
     {
         "id": 74,
@@ -1572,7 +1646,8 @@
             "it_IT": "Cala-shirt strappata",
             "ja_JP": "\u30b5\u30ad\u30a4\u30ab\u30db\u30ef\u30a4\u30c8"
         },
-        "brand": "SquidForce"
+        "brand": "SquidForce",
+        "internal": "Clt_TES063"
     },
     {
         "id": 75,
@@ -1593,7 +1668,8 @@
             "it_IT": "T-shirt bivalve Arome",
             "ja_JP": "\u30a2\u30ed\u30e1T \u30b4\u30d6\u30b4\u30d6"
         },
-        "brand": "Tentatek"
+        "brand": "Tentatek",
+        "internal": "Clt_TES064"
     },
     {
         "id": 76,
@@ -1614,7 +1690,8 @@
             "it_IT": "T-shirt Annak (collare)",
             "ja_JP": "\u30a2\u30ca\u30a2\u30adT \u30c1\u30e7\u30fc\u30ab\u30fc"
         },
-        "brand": "Annaki"
+        "brand": "Annaki",
+        "internal": "Clt_TES066"
     },
     {
         "id": 77,
@@ -1635,7 +1712,8 @@
             "it_IT": "T-shirt Annak (bracciali)",
             "ja_JP": "\u30a2\u30ca\u30a2\u30adT \u30a2\u30b7\u30e1\u30d6\u30ec\u30b9"
         },
-        "brand": "Annaki"
+        "brand": "Annaki",
+        "internal": "Clt_TES067"
     },
     {
         "id": 78,
@@ -1656,7 +1734,8 @@
             "it_IT": "T-shirt azzurra r\u00e9tro",
             "ja_JP": "\u30ea\u30a4\u30b7\u30e5\u30fcT \u30d6\u30eb\u30fc"
         },
-        "brand": "Tentatek"
+        "brand": "Tentatek",
+        "internal": "Clt_TES069"
     },
     {
         "id": 79,
@@ -1677,7 +1756,8 @@
             "it_IT": "T-shirt cachi r\u00e9tro",
             "ja_JP": "\u30ea\u30a4\u30b7\u30e5\u30fcT \u30d6\u30e9\u30a6\u30f3"
         },
-        "brand": "Tentatek"
+        "brand": "Tentatek",
+        "internal": "Clt_TES070"
     },
     {
         "id": 80,
@@ -1698,7 +1778,8 @@
             "it_IT": "Scialle BaraS",
             "ja_JP": "\u30d0\u30e9\u30ba\u30b7 \u30ce\u30ea\u30de\u30ad"
         },
-        "brand": "Barazushi"
+        "brand": "Barazushi",
+        "internal": "Clt_TES071"
     },
     {
         "id": 81,
@@ -1719,7 +1800,8 @@
             "it_IT": "T-shirt riso BaraS",
             "ja_JP": "\u30d0\u30e9\u30ba\u30b7T \u30cf\u30af\u30de\u30a4"
         },
-        "brand": "Barazushi"
+        "brand": "Barazushi",
+        "internal": "Clt_TES072"
     },
     {
         "id": 82,
@@ -1740,7 +1822,8 @@
             "it_IT": "T-shirt t\u00e8 BaraS",
             "ja_JP": "\u30d0\u30e9\u30ba\u30b7T \u30b2\u30f3\u30de\u30a4"
         },
-        "brand": "Barazushi"
+        "brand": "Barazushi",
+        "internal": "Clt_TES073"
     },
     {
         "id": 83,
@@ -1761,7 +1844,8 @@
             "it_IT": "T-shirt ciliegio BaraS",
             "ja_JP": "\u30d0\u30e9\u30ba\u30b7T \u30bb\u30ad\u30cf\u30f3"
         },
-        "brand": "Barazushi"
+        "brand": "Barazushi",
+        "internal": "Clt_TES074"
     },
     {
         "id": 84,
@@ -1782,7 +1866,8 @@
             "it_IT": "T-shirt bivalve CalaOcto",
             "ja_JP": "\u30a4\u30b3T \u30b4\u30d6\u30b4\u30d6"
         },
-        "brand": "SquidForce"
+        "brand": "SquidForce",
+        "internal": "Clt_TES075"
     },
     {
         "id": 85,
@@ -1803,7 +1888,8 @@
             "it_IT": "Cala-shirt",
             "ja_JP": "\u30a4\u30ab\u30b5\u30f3T"
         },
-        "brand": "SquidForce"
+        "brand": "SquidForce",
+        "internal": "Clt_TES076"
     },
     {
         "id": 86,
@@ -1824,7 +1910,8 @@
             "it_IT": "Octo-shirt",
             "ja_JP": "\u30bf\u30b3\u30b5\u30f3T"
         },
-        "brand": "SquidForce"
+        "brand": "SquidForce",
+        "internal": "Clt_TES077"
     },
     {
         "id": 87,
@@ -1845,7 +1932,8 @@
             "it_IT": "T-shirt similananas",
             "ja_JP": "\u30ea\u30f3\u30ac\u30fcT \u30d1\u30a4\u30f3"
         },
-        "brand": "Zink"
+        "brand": "Zink",
+        "internal": "Clt_TES082"
     },
     {
         "id": 88,
@@ -1866,7 +1954,8 @@
             "it_IT": "T-shirt similmela",
             "ja_JP": "\u30ea\u30f3\u30ac\u30fcT \u30a2\u30c3\u30d7\u30eb"
         },
-        "brand": "Zink"
+        "brand": "Zink",
+        "internal": "Clt_TES083"
     },
     {
         "id": 89,
@@ -1887,7 +1976,8 @@
             "it_IT": "T-shirt vaporosa",
             "ja_JP": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b0\u30e9\u30c7T"
         },
-        "brand": "Skalop"
+        "brand": "Skalop",
+        "internal": "Clt_TES084"
     },
     {
         "id": 90,
@@ -1908,7 +1998,8 @@
             "it_IT": "T-shirt crepuscolare",
             "ja_JP": "\u30b5\u30f3\u30bb\u30c3\u30c8\u30b0\u30e9\u30c7T"
         },
-        "brand": "Skalop"
+        "brand": "Skalop",
+        "internal": "Clt_TES085"
     },
     {
         "id": 91,
@@ -1929,7 +2020,8 @@
             "it_IT": "T-shirt draganguilla",
             "ja_JP": "\u30ac\u30d6\u30ea\u30a8\u30ebT"
         },
-        "brand": "Skalop"
+        "brand": "Skalop",
+        "internal": "Clt_TES088"
     },
     {
         "id": 92,
@@ -1950,7 +2042,8 @@
             "it_IT": "T-shirt SmileMob verde",
             "ja_JP": "\u30b9\u30b7\u30ba\u30e1\u30d6\u30ed\u30d6 \u30e9\u30a4\u30e0"
         },
-        "brand": "Emberz"
+        "brand": "Emberz",
+        "internal": "Clt_TES090"
     },
     {
         "id": 93,
@@ -1971,7 +2064,8 @@
             "it_IT": "T-shirt SmileMob fucsia",
             "ja_JP": "\u30b9\u30b7\u30ba\u30e1\u30d6\u30ed\u30d6 \u30d9\u30ea\u30fc"
         },
-        "brand": "Emberz"
+        "brand": "Emberz",
+        "internal": "Clt_TES091"
     },
     {
         "id": 94,
@@ -1992,7 +2086,8 @@
             "it_IT": "A strati bianca",
             "ja_JP": "\u30ec\u30a4\u30e4\u30fc\u30c9 \u30db\u30ef\u30a4\u30c8"
         },
-        "brand": "SquidForce"
+        "brand": "SquidForce",
+        "internal": "Clt_TLY000"
     },
     {
         "id": 95,
@@ -2013,7 +2108,8 @@
             "it_IT": "A strati gialla",
             "ja_JP": "\u30de\u30b9\u30bf\u30fc\u30c9\u30ac\u30b5\u30cd"
         },
-        "brand": "SquidForce"
+        "brand": "SquidForce",
+        "internal": "Clt_TLY001"
     },
     {
         "id": 96,
@@ -2034,7 +2130,8 @@
             "it_IT": "A strati Totanic",
             "ja_JP": "\u30a2\u30a4\u30ed\u30cb\u30c3\u30af\u30ec\u30a4\u30e4\u30fc\u30c9"
         },
-        "brand": "Zink"
+        "brand": "Zink",
+        "internal": "Clt_TLY004"
     },
     {
         "id": 97,
@@ -2055,7 +2152,8 @@
             "it_IT": "A strati marrone",
             "ja_JP": "\u30c1\u30e7\u30b3\u30ac\u30b5\u30cd"
         },
-        "brand": "Takoroka"
+        "brand": "Takoroka",
+        "internal": "Clt_TLY006"
     },
     {
         "id": 98,
@@ -2076,7 +2174,8 @@
             "it_IT": "A strati frecce",
             "ja_JP": "\u30d9\u30af\u30c8\u30eb\u30e9\u30a4\u30f3\u30ac\u30b5\u30cd"
         },
-        "brand": "Takoroka"
+        "brand": "Takoroka",
+        "internal": "Clt_TLY008"
     },
     {
         "id": 99,
@@ -2097,7 +2196,8 @@
             "it_IT": "T-shirt verde",
             "ja_JP": "\u30b0\u30ea\u30fc\u30f3\uff34"
         },
-        "brand": "Forge"
+        "brand": "Forge",
+        "internal": "Clt_TLY009"
     },
     {
         "id": 100,
@@ -2118,7 +2218,8 @@
             "it_IT": "Canotta (casa)",
             "ja_JP": "\u30d0\u30b9\u30b1\u30b8\u30e3\u30fc\u30b8 \u30db\u30fc\u30e0"
         },
-        "brand": "Zink"
+        "brand": "Zink",
+        "internal": "Clt_TNK000"
     },
     {
         "id": 101,
@@ -2139,7 +2240,8 @@
             "it_IT": "Canotta bianca Calamars",
             "ja_JP": "\u30ad\u30f3\u30b0\u30bf\u30f3\u30af \u30db\u30ef\u30a4\u30c8"
         },
-        "brand": "Enperry"
+        "brand": "Enperry",
+        "internal": "Clt_TNK003"
     },
     {
         "id": 102,
@@ -2160,7 +2262,8 @@
             "it_IT": "Maglia Umibozu",
             "ja_JP": "\u30a6\u30df\u30dc\u30fc\u30ba \u30db\u30fc\u30e0"
         },
-        "brand": "Takoroka"
+        "brand": "Takoroka",
+        "internal": "Clt_TNK008"
     },
     {
         "id": 103,
@@ -2181,7 +2284,8 @@
             "it_IT": "Gilet militare cachi",
             "ja_JP": "\u30cf\u30f3\u30c6\u30a3\u30f3\u30b0\u30d9\u30b9\u30c8KK"
         },
-        "brand": "Inkline"
+        "brand": "Inkline",
+        "internal": "Clt_VST010"
     },
     {
         "id": 104,
@@ -2202,7 +2306,8 @@
             "it_IT": "Granchiorazza rossa",
             "ja_JP": "\u30bf\u30ab\u30a2\u30b7\u30d7\u30ed\u30c6\u30af\u30bf\u30fc\u30ec\u30c3\u30c9"
         },
-        "brand": "Enperry"
+        "brand": "Enperry",
+        "internal": "Clt_VST011"
     },
     {
         "id": 105,
@@ -2223,7 +2328,8 @@
             "it_IT": "Granchiorazza verde",
             "ja_JP": "\u30bf\u30ab\u30a2\u30b7\u30d7\u30ed\u30c6\u30af\u30bf\u30fc\u30e9\u30a4\u30e0"
         },
-        "brand": "Enperry"
+        "brand": "Enperry",
+        "internal": "Clt_VST012"
     },
     {
         "id": 106,
@@ -2244,6 +2350,7 @@
             "it_IT": "Maglia schizzata con gilet",
             "ja_JP": "\u30b9\u30df\u30c1\u30e9\u30b7\u30d9\u30b9\u30c8"
         },
-        "brand": "Toni Kensa"
+        "brand": "Toni Kensa",
+        "internal": "Clt_VST013"
     }
 ]

@@ -14,7 +14,8 @@
             "ru_RU": "\u041f\u0440\u044b\u0436\u043a\u043e\u0432\u044b\u0439 \u043c\u0430\u044f\u0447\u043e\u043a",
             "it_IT": "Trasferitore",
             "ja_JP": "\u30b8\u30e3\u30f3\u30d7\u30d3\u30fc\u30b3\u30f3"
-        }
+        },
+        "internal": "Wsb_Beacon"
     },
     {
         "name": "Curling Bomb",
@@ -31,7 +32,8 @@
             "ru_RU": "\u041a\u0435\u0440\u043b\u0438\u043d\u0433-\u0431\u043e\u043c\u0431\u0430",
             "it_IT": "Bomba curling",
             "ja_JP": "\u30ab\u30fc\u30ea\u30f3\u30b0\u30dc\u30e0"
-        }
+        },
+        "internal": "Wsb_Bomb_Curling"
     },
     {
         "name": "-",
@@ -48,7 +50,8 @@
             "ru_RU": "-",
             "it_IT": "-",
             "ja_JP": "-"
-        }
+        },
+        "internal": "Wsb_Bomb_Curling_Rival"
     },
     {
         "name": "Fizzy Bomb",
@@ -65,7 +68,8 @@
             "ru_RU": "\u0421\u043e\u0434\u043e\u0432\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
             "it_IT": "Bomba a gassosa",
             "ja_JP": "\u30bf\u30f3\u30b5\u30f3\u30dc\u30e0"
-        }
+        },
+        "internal": "Wsb_Bomb_Fizzy"
     },
     {
         "name": "Burst Bomb",
@@ -82,7 +86,8 @@
             "ru_RU": "\u0420\u0430\u0437\u0440\u044b\u0432\u043d\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
             "it_IT": "Granata",
             "ja_JP": "\u30af\u30a4\u30c3\u30af\u30dc\u30e0"
-        }
+        },
+        "internal": "Wsb_Bomb_Quick"
     },
     {
         "name": "-",
@@ -99,7 +104,8 @@
             "ru_RU": "-",
             "it_IT": "-",
             "ja_JP": "-"
-        }
+        },
+        "internal": "Wsb_Bomb_Quick_Rival"
     },
     {
         "name": "Autobomb",
@@ -116,7 +122,8 @@
             "ru_RU": "\u0420\u043e\u0431\u043e\u0431\u043e\u043c\u0431\u0430",
             "it_IT": "Robo-bomba",
             "ja_JP": "\u30ed\u30dc\u30c3\u30c8\u30dc\u30e0"
-        }
+        },
+        "internal": "Wsb_Bomb_Robot"
     },
     {
         "name": "-",
@@ -133,7 +140,8 @@
             "ru_RU": "-",
             "it_IT": "-",
             "ja_JP": "-"
-        }
+        },
+        "internal": "Wsb_Bomb_Robot_Rival"
     },
     {
         "name": "Splat Bomb",
@@ -150,7 +158,8 @@
             "ru_RU": "\u0411\u0440\u044b\u0437\u0433\u0430\u044e\u0449\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
             "it_IT": "Bomba splash",
             "ja_JP": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5\u30dc\u30e0"
-        }
+        },
+        "internal": "Wsb_Bomb_Splash"
     },
     {
         "name": "-",
@@ -167,7 +176,8 @@
             "ru_RU": "-",
             "it_IT": "-",
             "ja_JP": "-"
-        }
+        },
+        "internal": "Wsb_Bomb_Splash_Big_Coop"
     },
     {
         "name": "-",
@@ -184,7 +194,8 @@
             "ru_RU": "-",
             "it_IT": "-",
             "ja_JP": "-"
-        }
+        },
+        "internal": "Wsb_Bomb_Splash_Coop"
     },
     {
         "name": "-",
@@ -201,7 +212,8 @@
             "ru_RU": "-",
             "it_IT": "-",
             "ja_JP": "-"
-        }
+        },
+        "internal": "Wsb_Bomb_Splash_Rival"
     },
     {
         "name": "Suction Bomb",
@@ -218,7 +230,8 @@
             "ru_RU": "\u0411\u043e\u043c\u0431\u0430 \u043d\u0430 \u043f\u0440\u0438\u0441\u043e\u0441\u043a\u0435",
             "it_IT": "Appiccibomba",
             "ja_JP": "\u30ad\u30e5\u30fc\u30d0\u30f3\u30dc\u30e0"
-        }
+        },
+        "internal": "Wsb_Bomb_Suction"
     },
     {
         "name": "Torpedo",
@@ -235,7 +248,8 @@
             "ru_RU": "\u0422\u043e\u0440\u043f\u0435\u0434\u043d\u0430\u044f \u0431\u043e\u043c\u0431\u0430",
             "it_IT": "Torpedinatore",
             "ja_JP": "\u30c8\u30fc\u30d4\u30fc\u30c9"
-        }
+        },
+        "internal": "Wsb_Bomb_Torpedo"
     },
     {
         "name": "Angle Shooter",
@@ -252,7 +266,8 @@
             "ru_RU": "\u0423\u0433\u043b\u043e\u0441\u0442\u0440\u0435\u043b",
             "it_IT": "Sparalinee",
             "ja_JP": "\u30e9\u30a4\u30f3\u30de\u30fc\u30ab\u30fc"
-        }
+        },
+        "internal": "Wsb_LineMarker"
     },
     {
         "name": "Point Sensor",
@@ -269,7 +284,8 @@
             "ru_RU": "\u041c\u0430\u0440\u043a\u0435\u0440 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f",
             "it_IT": "Cimice",
             "ja_JP": "\u30dd\u30a4\u30f3\u30c8\u30bb\u30f3\u30b5\u30fc"
-        }
+        },
+        "internal": "Wsb_PointSensor"
     },
     {
         "name": "Toxic Mist",
@@ -286,7 +302,8 @@
             "ru_RU": "\u0415\u0434\u043a\u0438\u0439 \u0442\u0443\u043c\u0430\u043d",
             "it_IT": "Nebbia tossica",
             "ja_JP": "\u30dd\u30a4\u30ba\u30f3\u30df\u30b9\u30c8"
-        }
+        },
+        "internal": "Wsb_PoisonMist"
     },
     {
         "name": "Smallfry",
@@ -303,7 +320,8 @@
             "ru_RU": "\u041c\u0430\u043b\u0435\u0442\u0447\u0438\u043a",
             "it_IT": "Salmonello",
             "ja_JP": "\u30b3\u30b8\u30e3\u30b1"
-        }
+        },
+        "internal": "Wsb_SalmonBuddy"
     },
     {
         "name": "Splash Wall",
@@ -320,7 +338,8 @@
             "ru_RU": "\u0427\u0435\u0440\u043d\u0438\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043d\u0430\u0432\u0435\u0441",
             "it_IT": "Muro di colore",
             "ja_JP": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5\u30b7\u30fc\u30eb\u30c9"
-        }
+        },
+        "internal": "Wsb_Shield"
     },
     {
         "name": "Sprinkler",
@@ -337,7 +356,8 @@
             "ru_RU": "\u0420\u0430\u0441\u043f\u044b\u043b\u044f\u0442\u043e\u0440",
             "it_IT": "Spruzzatore",
             "ja_JP": "\u30b9\u30d7\u30ea\u30f3\u30af\u30e9\u30fc"
-        }
+        },
+        "internal": "Wsb_Sprinkler"
     },
     {
         "name": "Ink Mine",
@@ -354,6 +374,7 @@
             "ru_RU": "\u041c\u0438\u043d\u0430",
             "it_IT": "Mina",
             "ja_JP": "\u30c8\u30e9\u30c3\u30d7"
-        }
+        },
+        "internal": "Wsb_Trap"
     }
 ]

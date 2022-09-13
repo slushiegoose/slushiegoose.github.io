@@ -18,7 +18,8 @@
             "it_IT": "Mocassini neri (calze)",
             "ja_JP": "\u30b9\u30af\u30fc\u30eb\u30ed\u30fc\u30d5\u30a1\u30fc \u30cf\u30a4\u30bd"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Shs_AMB000"
     },
     {
         "id": 1,
@@ -39,7 +40,8 @@
             "it_IT": "Calzature da samurai",
             "ja_JP": "\u30b5\u30e0\u30e9\u30a4\u30b7\u30e5\u30fc\u30ba"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Shs_AMB001"
     },
     {
         "id": 2,
@@ -60,7 +62,8 @@
             "it_IT": "Stivali hi-tech",
             "ja_JP": "\u30d1\u30ef\u30fc\u30c9\u30ec\u30c3\u30b0\u30b9"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Shs_AMB002"
     },
     {
         "id": 3,
@@ -81,7 +84,8 @@
             "it_IT": "Mocassini con frangia (calze)",
             "ja_JP": "\u30ad\u30eb\u30c8\u30ed\u30fc\u30d5\u30a1\u30fc \u30eb\u30fc\u30ba"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Shs_AMB003"
     },
     {
         "id": 4,
@@ -102,7 +106,8 @@
             "it_IT": "Stivali ninja",
             "ja_JP": "\u30b7\u30ce\u30d3\u30a2\u30b7"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Shs_AMB004"
     },
     {
         "id": 5,
@@ -123,7 +128,8 @@
             "it_IT": "Prototipo di stivali hi-tech",
             "ja_JP": "\u30d1\u30ef\u30fc\u30c9\u30ec\u30c3\u30b0\u30b9 \u30aa\u30ea\u30b8\u30f3"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Shs_AMB005"
     },
     {
         "id": 6,
@@ -144,7 +150,8 @@
             "it_IT": "Scarpe di Alga",
             "ja_JP": "\u30d2\u30e1\u30a4\u30c8\u30b9\u30cb\u30fc\u30ab\u30fc"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Shs_AMB006"
     },
     {
         "id": 7,
@@ -165,7 +172,8 @@
             "it_IT": "Scarpe di Nori",
             "ja_JP": "\u30a4\u30a4\u30c0\u30c1\u30b9\u30ea\u30c3\u30dd\u30f3"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Shs_AMB007"
     },
     {
         "id": 8,
@@ -186,7 +194,8 @@
             "it_IT": "Stivaletti stregoneschi",
             "ja_JP": "\u30a8\u30f3\u30c1\u30e3\u30f3\u30c8\u30d6\u30fc\u30c4"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Shs_AMB008"
     },
     {
         "id": 9,
@@ -207,7 +216,8 @@
             "it_IT": "Calzari da octoguerriero",
             "ja_JP": "\u30bf\u30b3\u30c6\u30a3\u30ab\u30eb\u306a\u3059\u306d\u3042\u3066"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Shs_AMB009"
     },
     {
         "id": 10,
@@ -228,7 +238,8 @@
             "it_IT": "Piedoni da mascotte",
             "ja_JP": "\u3072\u308c\u304a\u304f\u3093\u306e\u3042\u3057"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Shs_AMB010"
     },
     {
         "id": 11,
@@ -249,7 +260,8 @@
             "it_IT": "Mocassini neri (base)",
             "ja_JP": "\u30b9\u30af\u30fc\u30eb\u30ed\u30fc\u30d5\u30a1\u30fc \u30b9\u30b2\u30bd"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Shs_AMB014"
     },
     {
         "id": 12,
@@ -270,7 +282,8 @@
             "it_IT": "Mocassini con frangia (base)",
             "ja_JP": "\u30ad\u30eb\u30c8\u30ed\u30fc\u30d5\u30a1\u30fc \u30b9\u30b2\u30bd"
         },
-        "brand": "amiibo"
+        "brand": "amiibo",
+        "internal": "Shs_AMB015"
     },
     {
         "id": 13,
@@ -291,7 +304,8 @@
             "it_IT": "Stivali da moto",
             "ja_JP": "\u30e2\u30c8\u30af\u30ed\u30b9\u30d6\u30fc\u30c4"
         },
-        "brand": "Rockenberg"
+        "brand": "Rockenberg",
+        "internal": "Shs_BOT000"
     },
     {
         "id": 14,
@@ -312,7 +326,8 @@
             "it_IT": "Scarponi marroni",
             "ja_JP": "\u30cc\u30d0\u30c3\u30af\u30d6\u30fc\u30c4 \u30a4\u30a8\u30ed\u30fc"
         },
-        "brand": "Rockenberg"
+        "brand": "Rockenberg",
+        "internal": "Shs_BOT001"
     },
     {
         "id": 15,
@@ -333,7 +348,8 @@
             "it_IT": "Anfibi bianchi",
             "ja_JP": "\u30ed\u30c3\u30ad\u30f3\u30db\u30ef\u30a4\u30c8"
         },
-        "brand": "Rockenberg"
+        "brand": "Rockenberg",
+        "internal": "Shs_BOT006"
     },
     {
         "id": 16,
@@ -354,7 +370,8 @@
             "it_IT": "Anfibi melanzana",
             "ja_JP": "\u30ed\u30c3\u30ad\u30f3\u30c1\u30a7\u30ea\u30fc"
         },
-        "brand": "Rockenberg"
+        "brand": "Rockenberg",
+        "internal": "Shs_BOT007"
     },
     {
         "id": 17,
@@ -375,7 +392,8 @@
             "it_IT": "Stivali da caccia",
             "ja_JP": "\u30cf\u30f3\u30c6\u30a3\u30f3\u30b0\u30d6\u30fc\u30c4"
         },
-        "brand": "Splash Mob"
+        "brand": "Splash Mob",
+        "internal": "Shs_BOT012"
     },
     {
         "id": 18,
@@ -396,7 +414,8 @@
             "it_IT": "Scarponi SkipJack",
             "ja_JP": "\u30cc\u30d0\u30c3\u30af\u30d6\u30fc\u30c4xSJ"
         },
-        "brand": "Rockenberg"
+        "brand": "Rockenberg",
+        "internal": "Shs_BOT020"
     },
     {
         "id": 19,
@@ -417,7 +436,8 @@
             "it_IT": "Anfibi artici",
             "ja_JP": "\u30c0\u30c3\u30af\u30d6\u30fc\u30c4 \u30b9\u30ce\u30a6"
         },
-        "brand": "Barazushi"
+        "brand": "Barazushi",
+        "internal": "Shs_BOT021"
     },
     {
         "id": 20,
@@ -438,7 +458,8 @@
             "it_IT": "Stivali squalo martello",
             "ja_JP": "\u30ab\u30bb\u30d6\u30ab\u30d6\u30fc\u30c4 \u30ec\u30c3\u30c9"
         },
-        "brand": "Annaki"
+        "brand": "Annaki",
+        "internal": "Shs_BOT023"
     },
     {
         "id": 21,
@@ -459,7 +480,8 @@
             "it_IT": "Anfibi rosa",
             "ja_JP": "\u30ed\u30c3\u30ad\u30f3\u30d4\u30f3\u30af"
         },
-        "brand": "Rockenberg"
+        "brand": "Rockenberg",
+        "internal": "Shs_BOT025"
     },
     {
         "id": 22,
@@ -480,7 +502,8 @@
             "it_IT": "Eleganti Annak",
             "ja_JP": "\u30a2\u30ca\u30a2\u30ad\u30e9\u30d0\u30fc \u30cf\u30d0\u30cd\u30ed"
         },
-        "brand": "Annaki"
+        "brand": "Annaki",
+        "internal": "Shs_LTS010"
     },
     {
         "id": 23,
@@ -501,7 +524,8 @@
             "it_IT": "Scarpe da deserto",
             "ja_JP": "\u30c1\u30e3\u30c3\u30ab\u30d6\u30fc\u30c4 \u30b5\u30f3\u30c9"
         },
-        "brand": "Barazushi"
+        "brand": "Barazushi",
+        "internal": "Shs_LTS013"
     },
     {
         "id": 24,
@@ -522,7 +546,8 @@
             "it_IT": "Scarpe da vela marroni",
             "ja_JP": "\u30c7\u30c3\u30ad\u30b7\u30e5\u30fc\u30ba \u30d5\u30ab\u30a4\u30ea"
         },
-        "brand": "Rockenberg"
+        "brand": "Rockenberg",
+        "internal": "Shs_LTS014"
     },
     {
         "id": 25,
@@ -543,7 +568,8 @@
             "it_IT": "Zoccoli grigi",
             "ja_JP": "\u30aa\u30a4\u30b9\u30bf\u30fc\u30af\u30ed\u30c3\u30b0"
         },
-        "brand": "Krak-On"
+        "brand": "Krak-On",
+        "internal": "Shs_SDL000"
     },
     {
         "id": 26,
@@ -564,7 +590,8 @@
             "it_IT": "Zoccoli marroni",
             "ja_JP": "\u30c1\u30e7\u30b3\u30af\u30ed\u30c3\u30b0"
         },
-        "brand": "Krak-On"
+        "brand": "Krak-On",
+        "internal": "Shs_SDL001"
     },
     {
         "id": 27,
@@ -585,7 +612,8 @@
             "it_IT": "Sandali a strappo neon",
             "ja_JP": "\u30c7\u30eb\u30bf\u30b9\u30c8\u30e9\u30c3\u30d7 \u30cd\u30aa\u30f3"
         },
-        "brand": "Inkline"
+        "brand": "Inkline",
+        "internal": "Shs_SDL003"
     },
     {
         "id": 28,
@@ -606,7 +634,8 @@
             "it_IT": "Ciabatte da mare",
             "ja_JP": "BB\u30b5\u30f3\u30c0\u30eb"
         },
-        "brand": "Zekko"
+        "brand": "Zekko",
+        "internal": "Shs_SDL004"
     },
     {
         "id": 29,
@@ -627,7 +656,8 @@
             "it_IT": "Sandali a strappo neve",
             "ja_JP": "\u30c7\u30eb\u30bf\u30b9\u30c8\u30e9\u30c3\u30d7 \u30b9\u30ce\u30fc"
         },
-        "brand": "Inkline"
+        "brand": "Inkline",
+        "internal": "Shs_SDL005"
     },
     {
         "id": 30,
@@ -648,7 +678,8 @@
             "it_IT": "Ciabatte rosse",
             "ja_JP": "\u30e4\u30ad\u30d5\u30b0\u30b7\u30e3\u30ef\u30b5\u30f3 \u30a2\u30ab"
         },
-        "brand": "Firefin"
+        "brand": "Firefin",
+        "internal": "Shs_SDL007"
     },
     {
         "id": 31,
@@ -669,7 +700,8 @@
             "it_IT": "Ciabatte cool",
             "ja_JP": "\u30e4\u30ad\u30d5\u30b0\u30b7\u30e3\u30ef\u30b5\u30f3 \u30ad"
         },
-        "brand": "Firefin"
+        "brand": "Firefin",
+        "internal": "Shs_SDL008"
     },
     {
         "id": 32,
@@ -690,7 +722,8 @@
             "it_IT": "Sandalisca di pesce",
             "ja_JP": "\u30d5\u30a3\u30c3\u30b7\u30e5\u30dc\u30fc\u30f3\u30ef\u30e9\u30c1"
         },
-        "brand": "Rockenberg"
+        "brand": "Rockenberg",
+        "internal": "Shs_SDL010"
     },
     {
         "id": 33,
@@ -711,7 +744,8 @@
             "it_IT": "Open toe blu",
             "ja_JP": "\u30a2\u30ed\u30fc\u30ba\u30b5\u30f3\u30c0\u30eb \u30a2\u30aa\u30ad"
         },
-        "brand": "Takoroka"
+        "brand": "Takoroka",
+        "internal": "Shs_SDL011"
     },
     {
         "id": 34,
@@ -732,7 +766,8 @@
             "it_IT": "Ciabatte SmileMob",
             "ja_JP": "BS\u30b5\u30f3\u30c0\u30eb"
         },
-        "brand": "Emberz"
+        "brand": "Emberz",
+        "internal": "Shs_SDL012"
     },
     {
         "id": 35,
@@ -753,7 +788,8 @@
             "it_IT": "Fluosandali arancioni",
             "ja_JP": "\u3079\u30ea\u3079\u30ea\u30b5\u30f3 \u30aa\u30ec\u30f3\u30b8"
         },
-        "brand": "Zink"
+        "brand": "Zink",
+        "internal": "Shs_SDL013"
     },
     {
         "id": 36,
@@ -774,7 +810,8 @@
             "it_IT": "Fluosandali rosa",
             "ja_JP": "\u3079\u30ea\u3079\u30ea\u30b5\u30f3 \u30de\u30bc\u30f3\u30bf"
         },
-        "brand": "Zink"
+        "brand": "Zink",
+        "internal": "Shs_SDL017"
     },
     {
         "id": 37,
@@ -795,7 +832,8 @@
             "it_IT": "Fluosandali celesti",
             "ja_JP": "\u3079\u30ea\u3079\u30ea\u30b5\u30f3 \u30b7\u30a2\u30f3"
         },
-        "brand": "Zink"
+        "brand": "Zink",
+        "internal": "Shs_SDL018"
     },
     {
         "id": 38,
@@ -816,7 +854,8 @@
             "it_IT": "Alte biancorosse",
             "ja_JP": "\u30b7\u30fc\u30db\u30fc\u30b9Hi \u30ec\u30c3\u30c9"
         },
-        "brand": "Zink"
+        "brand": "Zink",
+        "internal": "Shs_SHI000"
     },
     {
         "id": 39,
@@ -837,7 +876,8 @@
             "it_IT": "Alte zombie",
             "ja_JP": "\u30b7\u30fc\u30db\u30fc\u30b9Hi \u30be\u30f3\u30d3"
         },
-        "brand": "Zink"
+        "brand": "Zink",
+        "internal": "Shs_SHI001"
     },
     {
         "id": 40,
@@ -858,7 +898,8 @@
             "it_IT": "Alte gialloviola",
             "ja_JP": "\u30b7\u30fc\u30db\u30fc\u30b9Hi \u30d1\u30fc\u30d7\u30eb"
         },
-        "brand": "Zink"
+        "brand": "Zink",
+        "internal": "Shs_SHI003"
     },
     {
         "id": 41,
@@ -879,7 +920,8 @@
             "it_IT": "Sneaker verde scuro",
             "ja_JP": "\u30ad\u30e3\u30f3\u30d0\u30b9Hi \u30e2\u30ed\u30d8\u30a4\u30e4"
         },
-        "brand": "Krak-On"
+        "brand": "Krak-On",
+        "internal": "Shs_SHI004"
     },
     {
         "id": 42,
@@ -900,7 +942,8 @@
             "it_IT": "Sneaker rosse",
             "ja_JP": "\u30ad\u30e3\u30f3\u30d0\u30b9Hi \u30c8\u30de\u30c8"
         },
-        "brand": "Krak-On"
+        "brand": "Krak-On",
+        "internal": "Shs_SHI005"
     },
     {
         "id": 43,
@@ -921,7 +964,8 @@
             "it_IT": "Alte dorate",
             "ja_JP": "\u30b7\u30fc\u30db\u30fc\u30b9Hi \u30b4\u30fc\u30eb\u30c9"
         },
-        "brand": "Zink"
+        "brand": "Zink",
+        "internal": "Shs_SHI006"
     },
     {
         "id": 44,
@@ -942,7 +986,8 @@
             "it_IT": "Dakroniks celesti",
             "ja_JP": "\u30c7\u30ab\u30ed\u30cb\u30c3\u30af\u30df\u30f3\u30c8"
         },
-        "brand": "Zink"
+        "brand": "Zink",
+        "internal": "Shs_SHI011"
     },
     {
         "id": 45,
@@ -963,7 +1008,8 @@
             "it_IT": "Sneaker orca tramonto",
             "ja_JP": "\u30aa\u30eb\u30abHi \u30b5\u30f3\u30bb\u30c3\u30c8"
         },
-        "brand": "Takoroka"
+        "brand": "Takoroka",
+        "internal": "Shs_SHI016"
     },
     {
         "id": 46,
@@ -984,7 +1030,8 @@
             "it_IT": "Mitilik rosse e nere",
             "ja_JP": "\u30a8\u30ae\u30f3\u30b04 \u30a2\u30ab\u30af\u30ed"
         },
-        "brand": "Enperry"
+        "brand": "Enperry",
+        "internal": "Shs_SHI017"
     },
     {
         "id": 47,
@@ -1005,7 +1052,8 @@
             "it_IT": "Mitilik blu e nere",
             "ja_JP": "\u30a8\u30ae\u30f3\u30b04 \u30a2\u30aa\u30af\u30ed"
         },
-        "brand": "Enperry"
+        "brand": "Enperry",
+        "internal": "Shs_SHI018"
     },
     {
         "id": 48,
@@ -1026,7 +1074,8 @@
             "it_IT": "Stivali Reboot",
             "ja_JP": "\u30d1\u30ef\u30fc\u30ea\u30bb\u30c3\u30c8Hi"
         },
-        "brand": "Takoroka"
+        "brand": "Takoroka",
+        "internal": "Shs_SHI042"
     },
     {
         "id": 49,
@@ -1047,7 +1096,8 @@
             "it_IT": "Octosneaker rosse",
             "ja_JP": "\u30c6\u30f3\u30e48 \u30ec\u30c3\u30c9"
         },
-        "brand": "Tentatek"
+        "brand": "Tentatek",
+        "internal": "Shs_SHI043"
     },
     {
         "id": 50,
@@ -1068,7 +1118,8 @@
             "it_IT": "OSTR1K color perla",
             "ja_JP": "01STER \u30b3\u30cf\u30af"
         },
-        "brand": "Toni Kensa"
+        "brand": "Toni Kensa",
+        "internal": "Shs_SHI045"
     },
     {
         "id": 51,
@@ -1089,7 +1140,8 @@
             "it_IT": "Runner rosa",
             "ja_JP": "\u30d4\u30f3\u30af\u30d3\u30fc\u30f3\u30ba"
         },
-        "brand": "Tentatek"
+        "brand": "Tentatek",
+        "internal": "Shs_SHT000"
     },
     {
         "id": 52,
@@ -1110,7 +1162,8 @@
             "it_IT": "Arrow arancioblu",
             "ja_JP": "\u30aa\u30ec\u30f3\u30b8\u30a2\u30ed\u30fc\u30ba"
         },
-        "brand": "Takoroka"
+        "brand": "Takoroka",
+        "internal": "Shs_SHT001"
     },
     {
         "id": 53,
@@ -1131,7 +1184,8 @@
             "it_IT": "Runner verdeacqua",
             "ja_JP": "\u30b7\u30a2\u30f3\u30d3\u30fc\u30f3\u30ba"
         },
-        "brand": "Tentatek"
+        "brand": "Tentatek",
+        "internal": "Shs_SHT004"
     },
     {
         "id": 54,
@@ -1152,7 +1206,8 @@
             "it_IT": "Runner nere",
             "ja_JP": "\u30d6\u30e9\u30c3\u30af\u30d3\u30fc\u30f3\u30ba"
         },
-        "brand": "Tentatek"
+        "brand": "Tentatek",
+        "internal": "Shs_SHT009"
     },
     {
         "id": 55,
@@ -1173,7 +1228,8 @@
             "it_IT": "Sportive giallo fluo",
             "ja_JP": "\u30a2\u30ed\u30e1\u30c3\u30b7\u30e5\u30a4\u30a8\u30ed\u30fc"
         },
-        "brand": "Tentatek"
+        "brand": "Tentatek",
+        "internal": "Shs_SHT012"
     },
     {
         "id": 56,
@@ -1194,7 +1250,8 @@
             "it_IT": "Arrow eleganti",
             "ja_JP": "\u30a2\u30ed\u30fc\u30ba \u30bf\u30bf\u30ad\u30d9\u30c3\u30c1\u30e5\u30fc"
         },
-        "brand": "Toni Kensa"
+        "brand": "Toni Kensa",
+        "internal": "Shs_SHT013"
     },
     {
         "id": 57,
@@ -1215,7 +1272,8 @@
             "it_IT": "Sneaker medusa",
             "ja_JP": "\u30a4\u30ab\u30b5\u30b7 \u30b9\u30af\u30e9\u30f3\u30d6\u30eb"
         },
-        "brand": "Tentatek"
+        "brand": "Tentatek",
+        "internal": "Shs_SHT020"
     },
     {
         "id": 58,
@@ -1236,7 +1294,8 @@
             "it_IT": "Sneaker turbo rosse",
             "ja_JP": "MOVE\u30ec\u30c3\u30c9"
         },
-        "brand": "Tentatek"
+        "brand": "Tentatek",
+        "internal": "Shs_SHT022"
     },
     {
         "id": 59,
@@ -1257,7 +1316,8 @@
             "it_IT": "AL-GA 30XX",
             "ja_JP": "MODZ-9"
         },
-        "brand": "Emberz"
+        "brand": "Emberz",
+        "internal": "Shs_SHT023"
     },
     {
         "id": 60,
@@ -1278,7 +1338,8 @@
             "it_IT": "Zeppe tangerine",
             "ja_JP": "\u30b7\u30a7\u30eb\u30d0\u30b7\u30e9WO"
         },
-        "brand": "Takoroka"
+        "brand": "Takoroka",
+        "internal": "Shs_SHT024"
     },
     {
         "id": 61,
@@ -1299,7 +1360,8 @@
             "it_IT": "Sneaker predatrici",
             "ja_JP": "\u30d5\u30ab\u30d2\u30ec\u30cb\u30de\u30a4\u30d0"
         },
-        "brand": "Emberz"
+        "brand": "Emberz",
+        "internal": "Shs_SHT025"
     },
     {
         "id": 62,
@@ -1320,7 +1382,8 @@
             "it_IT": "Sneakeretti blu",
             "ja_JP": "\u30b7\u30e3\u30b3\u30ca\u30c3\u30af\u30eb"
         },
-        "brand": "Enperry"
+        "brand": "Enperry",
+        "internal": "Shs_SHT026"
     },
     {
         "id": 63,
@@ -1341,7 +1404,8 @@
             "it_IT": "Basse blu",
             "ja_JP": "\u30b0\u30ea\u30c3\u30c1\u30e7 \u30d6\u30eb\u30fc"
         },
-        "brand": "Zekko"
+        "brand": "Zekko",
+        "internal": "Shs_SLO000"
     },
     {
         "id": 64,
@@ -1362,7 +1426,8 @@
             "it_IT": "Ultrabianche a strappo",
             "ja_JP": "\u30d9\u30ea\u30d9\u30ea\u30db\u30ef\u30a4\u30c8"
         },
-        "brand": "Splash Mob"
+        "brand": "Splash Mob",
+        "internal": "Shs_SLO008"
     },
     {
         "id": 65,
@@ -1383,7 +1448,8 @@
             "it_IT": "Ultrarosse a strappo",
             "ja_JP": "\u30d9\u30ea\u30d9\u30ea\u30ec\u30c3\u30c9"
         },
-        "brand": "Splash Mob"
+        "brand": "Splash Mob",
+        "internal": "Shs_SLO009"
     },
     {
         "id": 66,
@@ -1404,7 +1470,8 @@
             "it_IT": "Sneaker senza lacci",
             "ja_JP": "NNJ\u30b0\u30ea\u30fc\u30f3"
         },
-        "brand": "Tentatek"
+        "brand": "Tentatek",
+        "internal": "Shs_SLO021"
     },
     {
         "id": 67,
@@ -1425,7 +1492,8 @@
             "it_IT": "Scamosciate semplici",
             "ja_JP": "\u30b6\u30fb\u30d9\u30fc\u30b9 \u30eb\u30fc\u30ad\u30fc"
         },
-        "brand": "Barazushi"
+        "brand": "Barazushi",
+        "internal": "Shs_SLO022"
     },
     {
         "id": 68,
@@ -1446,7 +1514,8 @@
             "it_IT": "Vongosneaker nere",
             "ja_JP": "\u30af\u30e9\u30e0600 \u30ab\u30f3\u30ed"
         },
-        "brand": "Toni Kensa"
+        "brand": "Toni Kensa",
+        "internal": "Shs_SLO023"
     },
     {
         "id": 69,
@@ -1467,7 +1536,8 @@
             "it_IT": "Scamosciate boss",
             "ja_JP": "\u30b6\u30fb\u30d9\u30fc\u30b9 \u30dc\u30b9"
         },
-        "brand": "Barazushi"
+        "brand": "Barazushi",
+        "internal": "Shs_SLO024"
     },
     {
         "id": 70,
@@ -1488,7 +1558,8 @@
             "it_IT": "Espadrillas hip-hop",
             "ja_JP": "\u30b9\u30ea\u30c3\u30dd\u30f3 \u30c1\u30c9\u30ea"
         },
-        "brand": "Krak-On"
+        "brand": "Krak-On",
+        "internal": "Shs_SLP002"
     },
     {
         "id": 71,
@@ -1509,7 +1580,8 @@
             "it_IT": "Scarpe da trekking",
             "ja_JP": "\u30c8\u30ec\u30c3\u30ad\u30f3\u30b0\u30e9\u30a4\u30c8"
         },
-        "brand": "Inkline"
+        "brand": "Inkline",
+        "internal": "Shs_TRS000"
     },
     {
         "id": 72,
@@ -1530,6 +1602,7 @@
             "it_IT": "Trekking colorate",
             "ja_JP": "\u30c8\u30ec\u30c3\u30ad\u30f3\u30b0\u30ab\u30b9\u30bf\u30e0"
         },
-        "brand": "Inkline"
+        "brand": "Inkline",
+        "internal": "Shs_TRS001"
     }
 ]

@@ -27,7 +27,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 0
+        "id": 0,
+        "internal": "0000"
     },
     {
         "name": "Butterfingers",
@@ -57,7 +58,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 1
+        "id": 1,
+        "internal": "0561"
     },
     {
         "name": "Driver",
@@ -87,7 +89,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 2
+        "id": 2,
+        "internal": "0562"
     },
     {
         "name": "Drummer",
@@ -117,7 +120,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 3
+        "id": 3,
+        "internal": "0563"
     },
     {
         "name": "Tornado",
@@ -147,7 +151,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 4
+        "id": 4,
+        "internal": "0564"
     },
     {
         "name": "Trainer",
@@ -177,7 +182,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 5
+        "id": 5,
+        "internal": "0565"
     },
     {
         "name": "Party Animal",
@@ -207,7 +213,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 6
+        "id": 6,
+        "internal": "0566"
     },
     {
         "name": "Challenger",
@@ -237,7 +244,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 7
+        "id": 7,
+        "internal": "0559"
     },
     {
         "name": "Polyglot",
@@ -267,7 +275,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 8
+        "id": 8,
+        "internal": "0567"
     },
     {
         "name": "Workhorse",
@@ -297,7 +306,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 9
+        "id": 9,
+        "internal": "0569"
     },
     {
         "name": "Introvert",
@@ -327,7 +337,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 10
+        "id": 10,
+        "internal": "0570"
     },
     {
         "name": "Clubgoer",
@@ -357,7 +368,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 11
+        "id": 11,
+        "internal": "0571"
     },
     {
         "name": "Stand-Up Comic",
@@ -387,7 +399,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 12
+        "id": 12,
+        "internal": "0572"
     },
     {
         "name": "Fighter",
@@ -417,7 +430,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 13
+        "id": 13,
+        "internal": "0573"
     },
     {
         "name": "Mirage",
@@ -447,7 +461,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 14
+        "id": 14,
+        "internal": "0574"
     },
     {
         "name": "Rebel",
@@ -477,7 +492,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 15
+        "id": 15,
+        "internal": "0568"
     },
     {
         "name": "Plankton",
@@ -507,7 +523,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 16
+        "id": 16,
+        "internal": "0576"
     },
     {
         "name": "Tuna Tataki",
@@ -537,7 +554,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 17
+        "id": 17,
+        "internal": "0558"
     },
     {
         "name": "Octopus Ink",
@@ -567,7 +585,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 18
+        "id": 18,
+        "internal": "0556"
     },
     {
         "name": "Ultimate Weapon",
@@ -597,7 +616,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 19
+        "id": 19,
+        "internal": "0541"
     },
     {
         "name": "Survivalist",
@@ -627,7 +647,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 20
+        "id": 20,
+        "internal": "0543"
     },
     {
         "name": "Iconoclast",
@@ -657,7 +678,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 21
+        "id": 21,
+        "internal": "0544"
     },
     {
         "name": "Supporter",
@@ -687,7 +709,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 22
+        "id": 22,
+        "internal": "0545"
     },
     {
         "name": "Shark",
@@ -717,7 +740,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 23
+        "id": 23,
+        "internal": "0546"
     },
     {
         "name": "Salmon Life",
@@ -747,7 +771,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 24
+        "id": 24,
+        "internal": "0547"
     },
     {
         "name": "Octo Life",
@@ -777,7 +802,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 25
+        "id": 25,
+        "internal": "0557"
     },
     {
         "name": "Swimmer",
@@ -807,7 +833,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 26
+        "id": 26,
+        "internal": "0548"
     },
     {
         "name": "Striker",
@@ -837,7 +864,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 27
+        "id": 27,
+        "internal": "0550"
     },
     {
         "name": "Streamer",
@@ -867,7 +895,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 28
+        "id": 28,
+        "internal": "0551"
     },
     {
         "name": "Gelatin",
@@ -897,7 +926,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 29
+        "id": 29,
+        "internal": "0552"
     },
     {
         "name": "Celeb",
@@ -927,7 +957,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 30
+        "id": 30,
+        "internal": "0553"
     },
     {
         "name": "Taste Tester",
@@ -957,7 +988,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 31
+        "id": 31,
+        "internal": "0554"
     },
     {
         "name": "Title Holder",
@@ -987,7 +1019,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 32
+        "id": 32,
+        "internal": "0555"
     },
     {
         "name": "Style",
@@ -1017,7 +1050,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 33
+        "id": 33,
+        "internal": "0549"
     },
     {
         "name": "Gamer",
@@ -1047,7 +1081,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 34
+        "id": 34,
+        "internal": "0540"
     },
     {
         "name": "Brand Loyalist",
@@ -1077,7 +1112,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 35
+        "id": 35,
+        "internal": "0577"
     },
     {
         "name": "Snowstorm",
@@ -1107,7 +1143,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 36
+        "id": 36,
+        "internal": "0579"
     },
     {
         "name": "Rookie",
@@ -1137,7 +1174,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 37
+        "id": 37,
+        "internal": "0601"
     },
     {
         "name": "Robot",
@@ -1167,7 +1205,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 38
+        "id": 38,
+        "internal": "0602"
     },
     {
         "name": "Enthusiast",
@@ -1197,7 +1236,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 39
+        "id": 39,
+        "internal": "0603"
     },
     {
         "name": "Ordinary Person",
@@ -1227,7 +1267,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 40
+        "id": 40,
+        "internal": "0605"
     },
     {
         "name": "Lone Wolf",
@@ -1257,7 +1298,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 41
+        "id": 41,
+        "internal": "0606"
     },
     {
         "name": "Pauper",
@@ -1287,7 +1329,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 42
+        "id": 42,
+        "internal": "0607"
     },
     {
         "name": "Remote Worker",
@@ -1317,7 +1360,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 43
+        "id": 43,
+        "internal": "0600"
     },
     {
         "name": "Prodigy",
@@ -1347,7 +1391,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 44
+        "id": 44,
+        "internal": "0608"
     },
     {
         "name": "Hot-Spring Enjoyer",
@@ -1377,7 +1422,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 45
+        "id": 45,
+        "internal": "0611"
     },
     {
         "name": "Fish Finder",
@@ -1407,7 +1453,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 46
+        "id": 46,
+        "internal": "0613"
     },
     {
         "name": "Saltwater Fish",
@@ -1437,7 +1484,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 47
+        "id": 47,
+        "internal": "0614"
     },
     {
         "name": "Umibozu",
@@ -1467,7 +1515,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 48
+        "id": 48,
+        "internal": "0615"
     },
     {
         "name": "Cold Chill",
@@ -1497,7 +1546,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 49
+        "id": 49,
+        "internal": "0616"
     },
     {
         "name": "Sightseer",
@@ -1527,7 +1577,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 50
+        "id": 50,
+        "internal": "0617"
     },
     {
         "name": "Monarch",
@@ -1557,7 +1608,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 51
+        "id": 51,
+        "internal": "0610"
     },
     {
         "name": "Freelancer",
@@ -1587,7 +1639,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 52
+        "id": 52,
+        "internal": "0578"
     },
     {
         "name": "Rapper",
@@ -1617,7 +1670,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 53
+        "id": 53,
+        "internal": "0599"
     },
     {
         "name": "Member",
@@ -1647,7 +1701,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 54
+        "id": 54,
+        "internal": "0597"
     },
     {
         "name": "Friend",
@@ -1677,7 +1732,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 55
+        "id": 55,
+        "internal": "0581"
     },
     {
         "name": "Headliner",
@@ -1707,7 +1763,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 56
+        "id": 56,
+        "internal": "0582"
     },
     {
         "name": "Senior",
@@ -1737,7 +1794,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 57
+        "id": 57,
+        "internal": "0583"
     },
     {
         "name": "Vocalist",
@@ -1767,7 +1825,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 58
+        "id": 58,
+        "internal": "0584"
     },
     {
         "name": "Board Gamer",
@@ -1797,7 +1856,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 59
+        "id": 59,
+        "internal": "0585"
     },
     {
         "name": "Boss",
@@ -1827,7 +1887,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 60
+        "id": 60,
+        "internal": "0586"
     },
     {
         "name": "Lifestyle",
@@ -1857,7 +1918,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 61
+        "id": 61,
+        "internal": "0598"
     },
     {
         "name": "Bodyguard",
@@ -1887,7 +1949,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 62
+        "id": 62,
+        "internal": "0588"
     },
     {
         "name": "Mask",
@@ -1917,7 +1980,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 63
+        "id": 63,
+        "internal": "0590"
     },
     {
         "name": "Superstar",
@@ -1947,7 +2011,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 64
+        "id": 64,
+        "internal": "0591"
     },
     {
         "name": "Maniac",
@@ -1977,7 +2042,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 65
+        "id": 65,
+        "internal": "0592"
     },
     {
         "name": "Mystery",
@@ -2007,7 +2073,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 66
+        "id": 66,
+        "internal": "0593"
     },
     {
         "name": "Bifocal Wearer",
@@ -2037,7 +2104,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 67
+        "id": 67,
+        "internal": "0595"
     },
     {
         "name": "Therapist",
@@ -2067,7 +2135,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 68
+        "id": 68,
+        "internal": "0596"
     },
     {
         "name": "Mermaid",
@@ -2097,7 +2166,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 69
+        "id": 69,
+        "internal": "0589"
     },
     {
         "name": "Groove",
@@ -2127,7 +2197,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 70
+        "id": 70,
+        "internal": "0539"
     },
     {
         "name": "Creator",
@@ -2157,7 +2228,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 71
+        "id": 71,
+        "internal": "0538"
     },
     {
         "name": "Crab",
@@ -2187,7 +2259,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 72
+        "id": 72,
+        "internal": "0537"
     },
     {
         "name": "Sushi",
@@ -2217,7 +2290,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 73
+        "id": 73,
+        "internal": "0482"
     },
     {
         "name": "Caller",
@@ -2247,7 +2321,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 74
+        "id": 74,
+        "internal": "0483"
     },
     {
         "name": "Seafood",
@@ -2277,7 +2352,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 75
+        "id": 75,
+        "internal": "0484"
     },
     {
         "name": "Mincemeat",
@@ -2307,7 +2383,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 76
+        "id": 76,
+        "internal": "0485"
     },
     {
         "name": "Squid Jerky",
@@ -2337,7 +2414,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 77
+        "id": 77,
+        "internal": "0486"
     },
     {
         "name": "Booyah",
@@ -2367,7 +2445,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 78
+        "id": 78,
+        "internal": "0487"
     },
     {
         "name": "Material",
@@ -2397,7 +2476,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 79
+        "id": 79,
+        "internal": "0481"
     },
     {
         "name": "Vitamin",
@@ -2427,7 +2507,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 80
+        "id": 80,
+        "internal": "0488"
     },
     {
         "name": "Dried Fish",
@@ -2457,7 +2538,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 81
+        "id": 81,
+        "internal": "0491"
     },
     {
         "name": "Muscle",
@@ -2487,7 +2569,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 82
+        "id": 82,
+        "internal": "0492"
     },
     {
         "name": "Illusion",
@@ -2517,7 +2600,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 83
+        "id": 83,
+        "internal": "0493"
     },
     {
         "name": "Shield",
@@ -2547,7 +2631,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 84
+        "id": 84,
+        "internal": "0494"
     },
     {
         "name": "Leader",
@@ -2577,7 +2662,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 85
+        "id": 85,
+        "internal": "0495"
     },
     {
         "name": "Viewer",
@@ -2607,7 +2693,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 86
+        "id": 86,
+        "internal": "0496"
     },
     {
         "name": "Weapon",
@@ -2637,7 +2724,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 87
+        "id": 87,
+        "internal": "0489"
     },
     {
         "name": "System",
@@ -2667,7 +2755,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 88
+        "id": 88,
+        "internal": "0498"
     },
     {
         "name": "Fish Ball",
@@ -2697,7 +2786,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 89
+        "id": 89,
+        "internal": "0480"
     },
     {
         "name": "Magician",
@@ -2727,7 +2817,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 90
+        "id": 90,
+        "internal": "0478"
     },
     {
         "name": "Dynamo",
@@ -2757,7 +2848,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 91
+        "id": 91,
+        "internal": "0464"
     },
     {
         "name": "Hothead",
@@ -2787,7 +2879,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 92
+        "id": 92,
+        "internal": "0465"
     },
     {
         "name": "Octoling Soldier",
@@ -2817,7 +2910,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 93
+        "id": 93,
+        "internal": "0466"
     },
     {
         "name": "Power Egg",
@@ -2847,7 +2941,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 94
+        "id": 94,
+        "internal": "0467"
     },
     {
         "name": "Villain",
@@ -2877,7 +2972,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 95
+        "id": 95,
+        "internal": "0468"
     },
     {
         "name": "Fam",
@@ -2907,7 +3003,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 96
+        "id": 96,
+        "internal": "0469"
     },
     {
         "name": "Brainiac",
@@ -2937,7 +3034,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 97
+        "id": 97,
+        "internal": "0479"
     },
     {
         "name": "Turtle",
@@ -2967,7 +3065,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 98
+        "id": 98,
+        "internal": "0470"
     },
     {
         "name": "Knight",
@@ -2997,7 +3096,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 99
+        "id": 99,
+        "internal": "0472"
     },
     {
         "name": "Egg",
@@ -3027,7 +3127,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 100
+        "id": 100,
+        "internal": "0473"
     },
     {
         "name": "Entertainer",
@@ -3057,7 +3158,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 101
+        "id": 101,
+        "internal": "0474"
     },
     {
         "name": "Comrade",
@@ -3087,7 +3189,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 102
+        "id": 102,
+        "internal": "0475"
     },
     {
         "name": "Superhero",
@@ -3117,7 +3220,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 103
+        "id": 103,
+        "internal": "0476"
     },
     {
         "name": "Jokester",
@@ -3147,7 +3251,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 104
+        "id": 104,
+        "internal": "0477"
     },
     {
         "name": "Form",
@@ -3177,7 +3282,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 105
+        "id": 105,
+        "internal": "0471"
     },
     {
         "name": "Tournament Competitor",
@@ -3207,7 +3313,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 106
+        "id": 106,
+        "internal": "0499"
     },
     {
         "name": "Agent 1",
@@ -3237,7 +3344,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 107
+        "id": 107,
+        "internal": "0500"
     },
     {
         "name": "Agent 2",
@@ -3267,7 +3375,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 108
+        "id": 108,
+        "internal": "0501"
     },
     {
         "name": "Big Boss",
@@ -3297,7 +3406,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 109
+        "id": 109,
+        "internal": "0522"
     },
     {
         "name": "Otaku",
@@ -3327,7 +3437,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 110
+        "id": 110,
+        "internal": "0523"
     },
     {
         "name": "Dance Master",
@@ -3357,7 +3468,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 111
+        "id": 111,
+        "internal": "0524"
     },
     {
         "name": "Freebie",
@@ -3387,7 +3499,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 112
+        "id": 112,
+        "internal": "0525"
     },
     {
         "name": "Kid",
@@ -3417,7 +3530,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 113
+        "id": 113,
+        "internal": "0526"
     },
     {
         "name": "Pack Leader",
@@ -3447,7 +3561,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 114
+        "id": 114,
+        "internal": "0528"
     },
     {
         "name": "Big Deal",
@@ -3477,7 +3592,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 115
+        "id": 115,
+        "internal": "0521"
     },
     {
         "name": "Photographer",
@@ -3507,7 +3623,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 116
+        "id": 116,
+        "internal": "0529"
     },
     {
         "name": "Extrovert",
@@ -3537,7 +3654,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 117
+        "id": 117,
+        "internal": "0531"
     },
     {
         "name": "Carpaccio",
@@ -3567,7 +3685,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 118
+        "id": 118,
+        "internal": "0532"
     },
     {
         "name": "Synth Player",
@@ -3597,7 +3716,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 119
+        "id": 119,
+        "internal": "0533"
     },
     {
         "name": "Guitarist",
@@ -3627,7 +3747,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 120
+        "id": 120,
+        "internal": "0534"
     },
     {
         "name": "Camper",
@@ -3657,7 +3778,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 121
+        "id": 121,
+        "internal": "0535"
     },
     {
         "name": "Cupid",
@@ -3687,7 +3809,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 122
+        "id": 122,
+        "internal": "0536"
     },
     {
         "name": "Fried Chicken",
@@ -3717,7 +3840,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 123
+        "id": 123,
+        "internal": "0530"
     },
     {
         "name": "Elegance",
@@ -3747,7 +3871,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 124
+        "id": 124,
+        "internal": "0520"
     },
     {
         "name": "Moray Eel",
@@ -3777,7 +3902,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 125
+        "id": 125,
+        "internal": "0519"
     },
     {
         "name": "Influencer",
@@ -3807,7 +3933,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 126
+        "id": 126,
+        "internal": "0518"
     },
     {
         "name": "Agent 4",
@@ -3837,7 +3964,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 127
+        "id": 127,
+        "internal": "0502"
     },
     {
         "name": "Agent 8",
@@ -3867,7 +3995,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 128
+        "id": 128,
+        "internal": "0503"
     },
     {
         "name": "AI",
@@ -3897,7 +4026,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 129
+        "id": 129,
+        "internal": "0504"
     },
     {
         "name": "Object of Affection",
@@ -3927,7 +4057,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 130
+        "id": 130,
+        "internal": "0505"
     },
     {
         "name": "Such and Such",
@@ -3957,7 +4088,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 131
+        "id": 131,
+        "internal": "0507"
     },
     {
         "name": "Outlaw",
@@ -3987,7 +4119,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 132
+        "id": 132,
+        "internal": "0508"
     },
     {
         "name": "Heel",
@@ -4017,7 +4150,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 133
+        "id": 133,
+        "internal": "0509"
     },
     {
         "name": "Tabletop Gamer",
@@ -4047,7 +4181,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 134
+        "id": 134,
+        "internal": "0510"
     },
     {
         "name": "Android",
@@ -4077,7 +4212,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 135
+        "id": 135,
+        "internal": "0511"
     },
     {
         "name": "Legend",
@@ -4107,7 +4243,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 136
+        "id": 136,
+        "internal": "0512"
     },
     {
         "name": "Squid Ink",
@@ -4137,7 +4274,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 137
+        "id": 137,
+        "internal": "0513"
     },
     {
         "name": "Squid Life",
@@ -4167,7 +4305,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 138
+        "id": 138,
+        "internal": "0514"
     },
     {
         "name": "Squid Ring",
@@ -4197,7 +4336,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 139
+        "id": 139,
+        "internal": "0515"
     },
     {
         "name": "Squid, Inc.",
@@ -4227,7 +4367,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 140
+        "id": 140,
+        "internal": "0516"
     },
     {
         "name": "Ink",
@@ -4257,7 +4398,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 141
+        "id": 141,
+        "internal": "0517"
     },
     {
         "name": "Prime Cut",
@@ -4287,7 +4429,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 142
+        "id": 142,
+        "internal": "0618"
     },
     {
         "name": "Mood",
@@ -4317,7 +4460,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 143
+        "id": 143,
+        "internal": "0619"
     },
     {
         "name": "Memory",
@@ -4347,7 +4491,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 144
+        "id": 144,
+        "internal": "0620"
     },
     {
         "name": "Demon",
@@ -4377,7 +4522,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 145
+        "id": 145,
+        "internal": "0621"
     },
     {
         "name": "DJ",
@@ -4407,7 +4553,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 146
+        "id": 146,
+        "internal": "0721"
     },
     {
         "name": "Paradigm",
@@ -4437,7 +4584,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 147
+        "id": 147,
+        "internal": "0722"
     },
     {
         "name": "Geek",
@@ -4467,7 +4615,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 148
+        "id": 148,
+        "internal": "0723"
     },
     {
         "name": "Head",
@@ -4497,7 +4646,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 149
+        "id": 149,
+        "internal": "0724"
     },
     {
         "name": "Fit",
@@ -4527,7 +4677,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 150
+        "id": 150,
+        "internal": "0725"
     },
     {
         "name": "B-Boy",
@@ -4557,7 +4708,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 151
+        "id": 151,
+        "internal": "0727"
     },
     {
         "name": "Cub",
@@ -4587,7 +4739,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 152
+        "id": 152,
+        "internal": "0720"
     },
     {
         "name": "Skater",
@@ -4617,7 +4770,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 153
+        "id": 153,
+        "internal": "0728"
     },
     {
         "name": "Celebrity",
@@ -4647,7 +4801,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 154
+        "id": 154,
+        "internal": "0730"
     },
     {
         "name": "Duke",
@@ -4677,7 +4832,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 155
+        "id": 155,
+        "internal": "0729"
     },
     {
         "name": "Grand Master",
@@ -4707,7 +4863,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 156
+        "id": 156,
+        "internal": "0719"
     },
     {
         "name": "Stir-Fry",
@@ -4737,7 +4894,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 157
+        "id": 157,
+        "internal": "0717"
     },
     {
         "name": "Life",
@@ -4767,7 +4925,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 158
+        "id": 158,
+        "internal": "0700"
     },
     {
         "name": "Fuzzball",
@@ -4797,7 +4956,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 159
+        "id": 159,
+        "internal": "0701"
     },
     {
         "name": "Actor",
@@ -4827,7 +4987,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 160
+        "id": 160,
+        "internal": "0702"
     },
     {
         "name": "Ghost",
@@ -4857,7 +5018,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 161
+        "id": 161,
+        "internal": "0703"
     },
     {
         "name": "Atlantean",
@@ -4887,7 +5049,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 162
+        "id": 162,
+        "internal": "0705"
     },
     {
         "name": "Teardrop",
@@ -4917,7 +5080,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 163
+        "id": 163,
+        "internal": "0706"
     },
     {
         "name": "Catfish",
@@ -4947,7 +5111,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 164
+        "id": 164,
+        "internal": "0718"
     },
     {
         "name": "Ronin",
@@ -4977,7 +5142,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 165
+        "id": 165,
+        "internal": "0707"
     },
     {
         "name": "Outfit",
@@ -5007,7 +5173,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 166
+        "id": 166,
+        "internal": "0710"
     },
     {
         "name": "Palette",
@@ -5037,7 +5204,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 167
+        "id": 167,
+        "internal": "0711"
     },
     {
         "name": "Snacks",
@@ -5067,7 +5235,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 168
+        "id": 168,
+        "internal": "0713"
     },
     {
         "name": "Follower",
@@ -5097,7 +5266,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 169
+        "id": 169,
+        "internal": "0714"
     },
     {
         "name": "Marinade",
@@ -5127,7 +5297,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 170
+        "id": 170,
+        "internal": "0715"
     },
     {
         "name": "Switch-Hitter",
@@ -5157,7 +5328,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 171
+        "id": 171,
+        "internal": "0716"
     },
     {
         "name": "Rice Bowl",
@@ -5187,7 +5359,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 172
+        "id": 172,
+        "internal": "0709"
     },
     {
         "name": "Father",
@@ -5217,7 +5390,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 173
+        "id": 173,
+        "internal": "3006"
     },
     {
         "name": "Dad",
@@ -5247,7 +5421,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 174
+        "id": 174,
+        "internal": "3007"
     },
     {
         "name": "Son",
@@ -5277,7 +5452,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 175
+        "id": 175,
+        "internal": "3008"
     },
     {
         "name": "Big Brother",
@@ -5307,7 +5483,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 176
+        "id": 176,
+        "internal": "3009"
     },
     {
         "name": "Little Brother",
@@ -5337,7 +5514,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 177
+        "id": 177,
+        "internal": "3010"
     },
     {
         "name": "Grandpa",
@@ -5367,7 +5545,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 178
+        "id": 178,
+        "internal": "3011"
     },
     {
         "name": "Agent 3",
@@ -5397,7 +5576,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 179
+        "id": 179,
+        "internal": "3005"
     },
     {
         "name": "Grandchild",
@@ -5427,7 +5607,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 180
+        "id": 180,
+        "internal": "3012"
     },
     {
         "name": "Youngster",
@@ -5457,7 +5638,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 181
+        "id": 181,
+        "internal": "3014"
     },
     {
         "name": "Pet",
@@ -5487,7 +5669,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 182
+        "id": 182,
+        "internal": "3015"
     },
     {
         "name": "World Champ",
@@ -5517,7 +5700,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 183
+        "id": 183,
+        "internal": "3100"
     },
     {
         "name": "Tableturf Battler",
@@ -5547,7 +5731,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 184
+        "id": 184,
+        "internal": "3200"
     },
     {
         "name": "Card Gamer",
@@ -5577,7 +5762,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 185
+        "id": 185,
+        "internal": "3201"
     },
     {
         "name": "Traveler",
@@ -5607,7 +5793,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 186
+        "id": 186,
+        "internal": "3300"
     },
     {
         "name": "Uncle",
@@ -5637,7 +5824,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 187
+        "id": 187,
+        "internal": "3013"
     },
     {
         "name": "Boy",
@@ -5667,7 +5855,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 188
+        "id": 188,
+        "internal": "3004"
     },
     {
         "name": "Salmon",
@@ -5697,7 +5886,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 189
+        "id": 189,
+        "internal": "3003"
     },
     {
         "name": "Octopus",
@@ -5727,7 +5917,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 190
+        "id": 190,
+        "internal": "3002"
     },
     {
         "name": "Lucky Duck",
@@ -5757,7 +5948,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 191
+        "id": 191,
+        "internal": "2500"
     },
     {
         "name": "Youth",
@@ -5787,7 +5979,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 192
+        "id": 192,
+        "internal": "3000"
     },
     {
         "name": "Squid",
@@ -5817,7 +6010,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 193
+        "id": 193,
+        "internal": "3001"
     },
     {
         "name": "Pro",
@@ -5847,7 +6041,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 194
+        "id": 194,
+        "internal": "0699"
     },
     {
         "name": "Chow Hound",
@@ -5877,7 +6072,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 195
+        "id": 195,
+        "internal": "0463"
     },
     {
         "name": "Archdemon",
@@ -5907,7 +6103,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 196
+        "id": 196,
+        "internal": "0698"
     },
     {
         "name": "Predator",
@@ -5937,7 +6134,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 197
+        "id": 197,
+        "internal": "0696"
     },
     {
         "name": "Sidekick",
@@ -5967,7 +6165,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 198
+        "id": 198,
+        "internal": "0642"
     },
     {
         "name": "Fledgling",
@@ -5997,7 +6196,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 199
+        "id": 199,
+        "internal": "0643"
     },
     {
         "name": "Employee",
@@ -6027,7 +6227,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 200
+        "id": 200,
+        "internal": "0644"
     },
     {
         "name": "Grease",
@@ -6057,7 +6258,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 201
+        "id": 201,
+        "internal": "0645"
     },
     {
         "name": "Beginner",
@@ -6087,7 +6289,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 202
+        "id": 202,
+        "internal": "0646"
     },
     {
         "name": "Imp",
@@ -6117,7 +6320,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 203
+        "id": 203,
+        "internal": "0647"
     },
     {
         "name": "Free Spirit",
@@ -6147,7 +6351,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 204
+        "id": 204,
+        "internal": "0641"
     },
     {
         "name": "Higher-Up",
@@ -6177,7 +6382,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 205
+        "id": 205,
+        "internal": "0648"
     },
     {
         "name": "Rookie of the Year",
@@ -6207,7 +6413,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 206
+        "id": 206,
+        "internal": "0650"
     },
     {
         "name": "Freshman",
@@ -6237,7 +6444,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 207
+        "id": 207,
+        "internal": "0651"
     },
     {
         "name": "Truth Teller",
@@ -6267,7 +6475,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 208
+        "id": 208,
+        "internal": "0652"
     },
     {
         "name": "Kingpin",
@@ -6297,7 +6506,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 209
+        "id": 209,
+        "internal": "0653"
     },
     {
         "name": "Life of the Party",
@@ -6327,7 +6537,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 210
+        "id": 210,
+        "internal": "0655"
     },
     {
         "name": "Wallflower",
@@ -6357,7 +6568,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 211
+        "id": 211,
+        "internal": "0657"
     },
     {
         "name": "Trainee",
@@ -6387,7 +6599,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 212
+        "id": 212,
+        "internal": "0649"
     },
     {
         "name": "Life Itself",
@@ -6417,7 +6630,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 213
+        "id": 213,
+        "internal": "0658"
     },
     {
         "name": "Sensei",
@@ -6447,7 +6661,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 214
+        "id": 214,
+        "internal": "0639"
     },
     {
         "name": "Legendary Warrior",
@@ -6477,7 +6692,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 215
+        "id": 215,
+        "internal": "0637"
     },
     {
         "name": "Giant",
@@ -6507,7 +6723,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 216
+        "id": 216,
+        "internal": "0622"
     },
     {
         "name": "Fish Print",
@@ -6537,7 +6754,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 217
+        "id": 217,
+        "internal": "0623"
     },
     {
         "name": "Mirror",
@@ -6567,7 +6785,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 218
+        "id": 218,
+        "internal": "0625"
     },
     {
         "name": "Avocado Roll",
@@ -6597,7 +6816,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 219
+        "id": 219,
+        "internal": "0626"
     },
     {
         "name": "Moon",
@@ -6627,7 +6847,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 220
+        "id": 220,
+        "internal": "0627"
     },
     {
         "name": "Fist",
@@ -6657,7 +6878,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 221
+        "id": 221,
+        "internal": "0628"
     },
     {
         "name": "Underling",
@@ -6687,7 +6909,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 222
+        "id": 222,
+        "internal": "0638"
     },
     {
         "name": "Caveman",
@@ -6717,7 +6940,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 223
+        "id": 223,
+        "internal": "0629"
     },
     {
         "name": "Novice",
@@ -6747,7 +6971,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 224
+        "id": 224,
+        "internal": "0631"
     },
     {
         "name": "Foreman",
@@ -6777,7 +7002,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 225
+        "id": 225,
+        "internal": "0632"
     },
     {
         "name": "Ruffian",
@@ -6807,7 +7033,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 226
+        "id": 226,
+        "internal": "0633"
     },
     {
         "name": "Comic Relief",
@@ -6837,7 +7064,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 227
+        "id": 227,
+        "internal": "0634"
     },
     {
         "name": "Adviser",
@@ -6867,7 +7095,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 228
+        "id": 228,
+        "internal": "0635"
     },
     {
         "name": "Sashimi",
@@ -6897,7 +7126,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 229
+        "id": 229,
+        "internal": "0636"
     },
     {
         "name": "Expert",
@@ -6927,7 +7157,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 230
+        "id": 230,
+        "internal": "0630"
     },
     {
         "name": "Humanity",
@@ -6957,7 +7188,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 231
+        "id": 231,
+        "internal": "0659"
     },
     {
         "name": "Supervisor",
@@ -6987,7 +7219,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 232
+        "id": 232,
+        "internal": "0660"
     },
     {
         "name": "Fillet",
@@ -7017,7 +7250,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 233
+        "id": 233,
+        "internal": "0661"
     },
     {
         "name": "Apprentice",
@@ -7047,7 +7281,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 234
+        "id": 234,
+        "internal": "0681"
     },
     {
         "name": "Target",
@@ -7077,7 +7312,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 235
+        "id": 235,
+        "internal": "0682"
     },
     {
         "name": "Maestro",
@@ -7107,7 +7343,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 236
+        "id": 236,
+        "internal": "0683"
     },
     {
         "name": "Angel",
@@ -7137,7 +7374,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 237
+        "id": 237,
+        "internal": "0684"
     },
     {
         "name": "Island Dweller",
@@ -7167,7 +7405,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 238
+        "id": 238,
+        "internal": "0685"
     },
     {
         "name": "Tofu",
@@ -7197,7 +7436,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 239
+        "id": 239,
+        "internal": "0686"
     },
     {
         "name": "Fisherfolk",
@@ -7227,7 +7467,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 240
+        "id": 240,
+        "internal": "0680"
     },
     {
         "name": "Forehead",
@@ -7257,7 +7498,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 241
+        "id": 241,
+        "internal": "0687"
     },
     {
         "name": "Content Creator",
@@ -7287,7 +7529,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 242
+        "id": 242,
+        "internal": "0690"
     },
     {
         "name": "Merperson",
@@ -7317,7 +7560,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 243
+        "id": 243,
+        "internal": "0691"
     },
     {
         "name": "Sidestepper",
@@ -7347,7 +7591,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 244
+        "id": 244,
+        "internal": "0692"
     },
     {
         "name": "Flotsam",
@@ -7377,7 +7622,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 245
+        "id": 245,
+        "internal": "0693"
     },
     {
         "name": "Subordinate",
@@ -7407,7 +7653,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 246
+        "id": 246,
+        "internal": "0694"
     },
     {
         "name": "Wall",
@@ -7437,7 +7684,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 247
+        "id": 247,
+        "internal": "0695"
     },
     {
         "name": "Plumber",
@@ -7467,7 +7715,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 248
+        "id": 248,
+        "internal": "0689"
     },
     {
         "name": "Stan",
@@ -7497,7 +7746,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 249
+        "id": 249,
+        "internal": "0679"
     },
     {
         "name": "Bird",
@@ -7527,7 +7777,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 250
+        "id": 250,
+        "internal": "0678"
     },
     {
         "name": "Contender",
@@ -7557,7 +7808,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 251
+        "id": 251,
+        "internal": "0677"
     },
     {
         "name": "Inkantation",
@@ -7587,7 +7839,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 252
+        "id": 252,
+        "internal": "0662"
     },
     {
         "name": "Penny-Pincher",
@@ -7617,7 +7870,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 253
+        "id": 253,
+        "internal": "0663"
     },
     {
         "name": "Mountaintop Guru",
@@ -7647,7 +7901,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 254
+        "id": 254,
+        "internal": "0664"
     },
     {
         "name": "Mentor",
@@ -7677,7 +7932,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 255
+        "id": 255,
+        "internal": "0665"
     },
     {
         "name": "Warrior",
@@ -7707,7 +7963,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 256
+        "id": 256,
+        "internal": "0666"
     },
     {
         "name": "Berserker",
@@ -7737,7 +7994,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 257
+        "id": 257,
+        "internal": "0667"
     },
     {
         "name": "Blade of Grass",
@@ -7767,7 +8025,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 258
+        "id": 258,
+        "internal": "0668"
     },
     {
         "name": "Entity",
@@ -7797,7 +8056,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 259
+        "id": 259,
+        "internal": "0669"
     },
     {
         "name": "Sun",
@@ -7827,7 +8087,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 260
+        "id": 260,
+        "internal": "0670"
     },
     {
         "name": "Representative",
@@ -7857,7 +8118,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 261
+        "id": 261,
+        "internal": "0671"
     },
     {
         "name": "Cabinet Member",
@@ -7887,7 +8149,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 262
+        "id": 262,
+        "internal": "0672"
     },
     {
         "name": "Freshwater Fish",
@@ -7917,7 +8180,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 263
+        "id": 263,
+        "internal": "0673"
     },
     {
         "name": "Group Member",
@@ -7947,7 +8211,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 264
+        "id": 264,
+        "internal": "0674"
     },
     {
         "name": "Style Icon",
@@ -7977,7 +8242,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 265
+        "id": 265,
+        "internal": "0675"
     },
     {
         "name": "Bug",
@@ -8007,7 +8273,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 266
+        "id": 266,
+        "internal": "0676"
     },
     {
         "name": "Equation",
@@ -8037,7 +8304,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 267
+        "id": 267,
+        "internal": "0697"
     },
     {
         "name": "Big Mouth",
@@ -8067,7 +8335,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 268
+        "id": 268,
+        "internal": "0461"
     },
     {
         "name": "Layabout",
@@ -8097,7 +8366,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 269
+        "id": 269,
+        "internal": "0460"
     },
     {
         "name": "Chef",
@@ -8127,7 +8397,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 270
+        "id": 270,
+        "internal": "0459"
     },
     {
         "name": "Inkline Model",
@@ -8157,7 +8428,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 271
+        "id": 271,
+        "internal": "0159"
     },
     {
         "name": "Tentatek Model",
@@ -8187,7 +8459,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 272
+        "id": 272,
+        "internal": "0160"
     },
     {
         "name": "Takoroka Model",
@@ -8217,7 +8490,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 273
+        "id": 273,
+        "internal": "0161"
     },
     {
         "name": "Annaki Model",
@@ -8247,7 +8521,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 274
+        "id": 274,
+        "internal": "0162"
     },
     {
         "name": "Enperry Model",
@@ -8277,7 +8552,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 275
+        "id": 275,
+        "internal": "0163"
     },
     {
         "name": "Toni Kensa Model",
@@ -8307,7 +8583,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 276
+        "id": 276,
+        "internal": "0164"
     },
     {
         "name": "Splash Mob Model",
@@ -8337,7 +8614,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 277
+        "id": 277,
+        "internal": "0158"
     },
     {
         "name": "Emberz Model",
@@ -8367,7 +8645,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 278
+        "id": 278,
+        "internal": "0167"
     },
     {
         "name": "Cuttlegear Model",
@@ -8397,7 +8676,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 279
+        "id": 279,
+        "internal": "0168"
     },
     {
         "name": "Squid Squad Fan",
@@ -8427,7 +8707,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 280
+        "id": 280,
+        "internal": "0180"
     },
     {
         "name": "Chirpy Chips Fan",
@@ -8457,7 +8738,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 281
+        "id": 281,
+        "internal": "0181"
     },
     {
         "name": "Hightide Era Fan",
@@ -8487,7 +8769,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 282
+        "id": 282,
+        "internal": "0182"
     },
     {
         "name": "Wet Floor Fan",
@@ -8517,7 +8800,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 283
+        "id": 283,
+        "internal": "0183"
     },
     {
         "name": "Barazushi Model",
@@ -8547,7 +8831,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 284
+        "id": 284,
+        "internal": "0166"
     },
     {
         "name": "Bottom Feeders Fan",
@@ -8577,7 +8862,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 285
+        "id": 285,
+        "internal": "0184"
     },
     {
         "name": "Skalop Model",
@@ -8607,7 +8893,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 286
+        "id": 286,
+        "internal": "0157"
     },
     {
         "name": "Forge Model",
@@ -8637,7 +8924,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 287
+        "id": 287,
+        "internal": "0155"
     },
     {
         "name": "Zipcaster User",
@@ -8667,7 +8955,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 288
+        "id": 288,
+        "internal": "0126"
     },
     {
         "name": "Reefslider User",
@@ -8697,7 +8986,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 289
+        "id": 289,
+        "internal": "0127"
     },
     {
         "name": "Crab Tank User",
@@ -8727,7 +9017,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 290
+        "id": 290,
+        "internal": "0128"
     },
     {
         "name": "Booyah Bomb User",
@@ -8757,7 +9048,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 291
+        "id": 291,
+        "internal": "0129"
     },
     {
         "name": "Ink Vac User",
@@ -8787,7 +9079,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 292
+        "id": 292,
+        "internal": "0130"
     },
     {
         "name": "Tenta Missiles User",
@@ -8817,7 +9110,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 293
+        "id": 293,
+        "internal": "0131"
     },
     {
         "name": "Firefin Model",
@@ -8847,7 +9141,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 294
+        "id": 294,
+        "internal": "0156"
     },
     {
         "name": "Killer Wail 5.1 User",
@@ -8877,7 +9172,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 295
+        "id": 295,
+        "internal": "0132"
     },
     {
         "name": "Tacticooler User",
@@ -8907,7 +9203,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 296
+        "id": 296,
+        "internal": "0134"
     },
     {
         "name": "SquidForce Model",
@@ -8937,7 +9234,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 297
+        "id": 297,
+        "internal": "0150"
     },
     {
         "name": "Zink Model",
@@ -8967,7 +9265,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 298
+        "id": 298,
+        "internal": "0151"
     },
     {
         "name": "Krak-On Model",
@@ -8997,7 +9296,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 299
+        "id": 299,
+        "internal": "0152"
     },
     {
         "name": "Rockenberg Model",
@@ -9027,7 +9327,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 300
+        "id": 300,
+        "internal": "0153"
     },
     {
         "name": "Zekko Model",
@@ -9057,7 +9358,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 301
+        "id": 301,
+        "internal": "0154"
     },
     {
         "name": "Triple Inkstrike User",
@@ -9087,7 +9389,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 302
+        "id": 302,
+        "internal": "0133"
     },
     {
         "name": "Ink Theory Fan",
@@ -9117,7 +9420,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 303
+        "id": 303,
+        "internal": "0185"
     },
     {
         "name": "SashiMori Fan",
@@ -9147,7 +9451,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 304
+        "id": 304,
+        "internal": "0186"
     },
     {
         "name": "Diss-Pair Fan",
@@ -9177,7 +9482,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 305
+        "id": 305,
+        "internal": "0187"
     },
     {
         "name": "Cornrows",
@@ -9207,7 +9513,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 306
+        "id": 306,
+        "internal": "0235"
     },
     {
         "name": "Curly Hair",
@@ -9237,7 +9544,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 307
+        "id": 307,
+        "internal": "0236"
     },
     {
         "name": "Punk",
@@ -9267,7 +9575,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 308
+        "id": 308,
+        "internal": "0237"
     },
     {
         "name": "Afro",
@@ -9297,7 +9606,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 309
+        "id": 309,
+        "internal": "0238"
     },
     {
         "name": "Big Curls",
@@ -9327,7 +9637,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 310
+        "id": 310,
+        "internal": "0239"
     },
     {
         "name": "Fade",
@@ -9357,7 +9668,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 311
+        "id": 311,
+        "internal": "0240"
     },
     {
         "name": "Wet Hair",
@@ -9387,7 +9699,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 312
+        "id": 312,
+        "internal": "0234"
     },
     {
         "name": "Wanderer",
@@ -9417,7 +9730,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 313
+        "id": 313,
+        "internal": "0241"
     },
     {
         "name": "Hipster ",
@@ -9447,7 +9761,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 314
+        "id": 314,
+        "internal": "0243"
     },
     {
         "name": "Callie Fan",
@@ -9477,7 +9792,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 315
+        "id": 315,
+        "internal": "0300"
     },
     {
         "name": "Naut Couture Regular",
@@ -9507,7 +9823,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 316
+        "id": 316,
+        "internal": "0301"
     },
     {
         "name": "Marina Fan",
@@ -9537,7 +9854,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 317
+        "id": 317,
+        "internal": "0302"
     },
     {
         "name": "Frye Fan",
@@ -9567,7 +9885,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 318
+        "id": 318,
+        "internal": "0303"
     },
     {
         "name": "Crush Station Regular",
@@ -9597,7 +9916,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 319
+        "id": 319,
+        "internal": "0304"
     },
     {
         "name": "Greaser",
@@ -9627,7 +9947,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 320
+        "id": 320,
+        "internal": "0242"
     },
     {
         "name": "Classic",
@@ -9657,7 +9978,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 321
+        "id": 321,
+        "internal": "0233"
     },
     {
         "name": "Braid Bearer",
@@ -9687,7 +10009,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 322
+        "id": 322,
+        "internal": "0232"
     },
     {
         "name": "Bowl Cut",
@@ -9717,7 +10040,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 323
+        "id": 323,
+        "internal": "0231"
     },
     {
         "name": "\u03c9-3 Fan",
@@ -9747,7 +10071,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 324
+        "id": 324,
+        "internal": "0188"
     },
     {
         "name": "Turquoise October Fan",
@@ -9777,7 +10102,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 325
+        "id": 325,
+        "internal": "0189"
     },
     {
         "name": "Dedf1sh Fan",
@@ -9807,7 +10133,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 326
+        "id": 326,
+        "internal": "0190"
     },
     {
         "name": "C-Side Superfan",
@@ -9837,7 +10164,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 327
+        "id": 327,
+        "internal": "0191"
     },
     {
         "name": "Hippie",
@@ -9867,7 +10195,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 328
+        "id": 328,
+        "internal": "0220"
     },
     {
         "name": "Barber",
@@ -9897,7 +10226,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 329
+        "id": 329,
+        "internal": "0221"
     },
     {
         "name": "Double-Bun",
@@ -9927,7 +10257,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 330
+        "id": 330,
+        "internal": "0222"
     },
     {
         "name": "Wave Rider",
@@ -9957,7 +10288,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 331
+        "id": 331,
+        "internal": "0223"
     },
     {
         "name": "Pigtail Pro",
@@ -9987,7 +10319,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 332
+        "id": 332,
+        "internal": "0224"
     },
     {
         "name": "Headbanger",
@@ -10017,7 +10350,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 333
+        "id": 333,
+        "internal": "0225"
     },
     {
         "name": "Topknot Knight",
@@ -10047,7 +10381,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 334
+        "id": 334,
+        "internal": "0226"
     },
     {
         "name": "Sharp Dresser",
@@ -10077,7 +10412,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 335
+        "id": 335,
+        "internal": "0227"
     },
     {
         "name": "Buzz-Cut",
@@ -10107,7 +10443,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 336
+        "id": 336,
+        "internal": "0228"
     },
     {
         "name": "Ponytail",
@@ -10137,7 +10474,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 337
+        "id": 337,
+        "internal": "0229"
     },
     {
         "name": "Spiked Hair",
@@ -10167,7 +10505,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 338
+        "id": 338,
+        "internal": "0230"
     },
     {
         "name": "Wave Breaker User",
@@ -10197,7 +10536,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 339
+        "id": 339,
+        "internal": "0125"
     },
     {
         "name": "Hotlantis Regular",
@@ -10227,7 +10567,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 340
+        "id": 340,
+        "internal": "0305"
     },
     {
         "name": "Inkjet User",
@@ -10257,7 +10598,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 341
+        "id": 341,
+        "internal": "0124"
     },
     {
         "name": "Ultra Stamp User",
@@ -10287,7 +10629,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 342
+        "id": 342,
+        "internal": "0122"
     },
     {
         "name": "Carbon Roller User",
@@ -10317,7 +10660,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 343
+        "id": 343,
+        "internal": "0019"
     },
     {
         "name": "Splat Roller User",
@@ -10347,7 +10691,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 344
+        "id": 344,
+        "internal": "0020"
     },
     {
         "name": "Dynamo Roller User",
@@ -10377,7 +10722,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 345
+        "id": 345,
+        "internal": "0021"
     },
     {
         "name": "Flingza Roller User",
@@ -10407,7 +10753,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 346
+        "id": 346,
+        "internal": "0022"
     },
     {
         "name": "Inkbrush User",
@@ -10437,7 +10784,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 347
+        "id": 347,
+        "internal": "0023"
     },
     {
         "name": "Octobrush User",
@@ -10467,7 +10815,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 348
+        "id": 348,
+        "internal": "0024"
     },
     {
         "name": "Squeezer User",
@@ -10497,7 +10846,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 349
+        "id": 349,
+        "internal": "0018"
     },
     {
         "name": "Squiffer User",
@@ -10527,7 +10877,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 350
+        "id": 350,
+        "internal": "0025"
     },
     {
         "name": "E-liter 4K User",
@@ -10557,7 +10908,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 351
+        "id": 351,
+        "internal": "0027"
     },
     {
         "name": "Bamboozler 14 User",
@@ -10587,7 +10939,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 352
+        "id": 352,
+        "internal": "0028"
     },
     {
         "name": "Goo Tuber User",
@@ -10617,7 +10970,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 353
+        "id": 353,
+        "internal": "0029"
     },
     {
         "name": "Slosher User",
@@ -10647,7 +11001,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 354
+        "id": 354,
+        "internal": "0030"
     },
     {
         "name": "Tri-Slosher User",
@@ -10677,7 +11032,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 355
+        "id": 355,
+        "internal": "0031"
     },
     {
         "name": "Sloshing Machine User",
@@ -10707,7 +11063,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 356
+        "id": 356,
+        "internal": "0032"
     },
     {
         "name": "Splat Charger User",
@@ -10737,7 +11094,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 357
+        "id": 357,
+        "internal": "0026"
     },
     {
         "name": "Bloblobber User",
@@ -10767,7 +11125,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 358
+        "id": 358,
+        "internal": "0033"
     },
     {
         "name": "H-3 Nozzlenose User",
@@ -10797,7 +11156,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 359
+        "id": 359,
+        "internal": "0017"
     },
     {
         "name": "Rapid Blaster Pro User",
@@ -10827,7 +11187,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 360
+        "id": 360,
+        "internal": "0015"
     },
     {
         "name": "Splattershot Jr. User",
@@ -10857,7 +11218,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 361
+        "id": 361,
+        "internal": "0001"
     },
     {
         "name": "Splash-o-matic User",
@@ -10887,7 +11249,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 362
+        "id": 362,
+        "internal": "0002"
     },
     {
         "name": "Aerospray User",
@@ -10917,7 +11280,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 363
+        "id": 363,
+        "internal": "0003"
     },
     {
         "name": "Splattershot User",
@@ -10947,7 +11311,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 364
+        "id": 364,
+        "internal": "0004"
     },
     {
         "name": ".52 Gal User",
@@ -10977,7 +11342,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 365
+        "id": 365,
+        "internal": "0005"
     },
     {
         "name": "N-ZAP User",
@@ -11007,7 +11373,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 366
+        "id": 366,
+        "internal": "0006"
     },
     {
         "name": "L-3 Nozzlenose User",
@@ -11037,7 +11404,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 367
+        "id": 367,
+        "internal": "0016"
     },
     {
         "name": "Splattershot Pro User",
@@ -11067,7 +11435,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 368
+        "id": 368,
+        "internal": "0007"
     },
     {
         "name": "Jet Squelcher User",
@@ -11097,7 +11466,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 369
+        "id": 369,
+        "internal": "0009"
     },
     {
         "name": "Luna Blaster User",
@@ -11127,7 +11497,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 370
+        "id": 370,
+        "internal": "0010"
     },
     {
         "name": "Blaster User",
@@ -11157,7 +11528,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 371
+        "id": 371,
+        "internal": "0011"
     },
     {
         "name": "Range Blaster User",
@@ -11187,7 +11559,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 372
+        "id": 372,
+        "internal": "0012"
     },
     {
         "name": "Clash Blaster User",
@@ -11217,7 +11590,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 373
+        "id": 373,
+        "internal": "0013"
     },
     {
         "name": "Rapid Blaster User",
@@ -11247,7 +11621,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 374
+        "id": 374,
+        "internal": "0014"
     },
     {
         "name": ".96 Gal User",
@@ -11277,7 +11652,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 375
+        "id": 375,
+        "internal": "0008"
     },
     {
         "name": "Explosher User",
@@ -11307,7 +11683,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 376
+        "id": 376,
+        "internal": "0034"
     },
     {
         "name": "Mini Splatling User",
@@ -11337,7 +11714,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 377
+        "id": 377,
+        "internal": "0035"
     },
     {
         "name": "Heavy Splatling User",
@@ -11367,7 +11745,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 378
+        "id": 378,
+        "internal": "0036"
     },
     {
         "name": "Burst Bomb User",
@@ -11397,7 +11776,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 379
+        "id": 379,
+        "internal": "0102"
     },
     {
         "name": "Curling Bomb User",
@@ -11427,7 +11807,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 380
+        "id": 380,
+        "internal": "0103"
     },
     {
         "name": "Autobomb User",
@@ -11457,7 +11838,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 381
+        "id": 381,
+        "internal": "0104"
     },
     {
         "name": "Ink Mine User",
@@ -11487,7 +11869,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 382
+        "id": 382,
+        "internal": "0105"
     },
     {
         "name": "Sprinkler User",
@@ -11517,7 +11900,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 383
+        "id": 383,
+        "internal": "0106"
     },
     {
         "name": "Point Sensor User",
@@ -11547,7 +11931,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 384
+        "id": 384,
+        "internal": "0107"
     },
     {
         "name": "Suction Bomb User",
@@ -11577,7 +11962,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 385
+        "id": 385,
+        "internal": "0101"
     },
     {
         "name": "Toxic Mist User",
@@ -11607,7 +11993,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 386
+        "id": 386,
+        "internal": "0108"
     },
     {
         "name": "Squid Beakon User",
@@ -11637,7 +12024,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 387
+        "id": 387,
+        "internal": "0110"
     },
     {
         "name": "Fizzy Bomb User",
@@ -11667,7 +12055,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 388
+        "id": 388,
+        "internal": "0111"
     },
     {
         "name": "Torpedo User",
@@ -11697,7 +12086,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 389
+        "id": 389,
+        "internal": "0112"
     },
     {
         "name": "Angle Shooter User",
@@ -11727,7 +12117,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 390
+        "id": 390,
+        "internal": "0113"
     },
     {
         "name": "Ink Storm User",
@@ -11757,7 +12148,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 391
+        "id": 391,
+        "internal": "0120"
     },
     {
         "name": "Trizooka User",
@@ -11787,7 +12179,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 392
+        "id": 392,
+        "internal": "0121"
     },
     {
         "name": "Splash Wall User",
@@ -11817,7 +12210,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 393
+        "id": 393,
+        "internal": "0109"
     },
     {
         "name": "Splat Bomb User",
@@ -11847,7 +12241,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 394
+        "id": 394,
+        "internal": "0100"
     },
     {
         "name": "E-liter 4K Scope User",
@@ -11877,7 +12272,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 395
+        "id": 395,
+        "internal": "0053"
     },
     {
         "name": "Splatterscope User",
@@ -11907,7 +12303,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 396
+        "id": 396,
+        "internal": "0052"
     },
     {
         "name": "Hydra Splatling User",
@@ -11937,7 +12334,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 397
+        "id": 397,
+        "internal": "0037"
     },
     {
         "name": "Ballpoint Splatling User",
@@ -11967,7 +12365,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 398
+        "id": 398,
+        "internal": "0038"
     },
     {
         "name": "Nautilus User",
@@ -11997,7 +12396,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 399
+        "id": 399,
+        "internal": "0039"
     },
     {
         "name": "Dapple Dualies User",
@@ -12027,7 +12427,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 400
+        "id": 400,
+        "internal": "0040"
     },
     {
         "name": "Splat Dualies User",
@@ -12057,7 +12458,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 401
+        "id": 401,
+        "internal": "0041"
     },
     {
         "name": "Glooga Dualies User",
@@ -12087,7 +12489,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 402
+        "id": 402,
+        "internal": "0042"
     },
     {
         "name": "Dualie Squelchers User",
@@ -12117,7 +12520,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 403
+        "id": 403,
+        "internal": "0043"
     },
     {
         "name": "Tetra Dualies User",
@@ -12147,7 +12551,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 404
+        "id": 404,
+        "internal": "0044"
     },
     {
         "name": "Splat Brella User",
@@ -12177,7 +12582,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 405
+        "id": 405,
+        "internal": "0045"
     },
     {
         "name": "Tenta Brella User",
@@ -12207,7 +12613,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 406
+        "id": 406,
+        "internal": "0046"
     },
     {
         "name": "Undercover Brella User",
@@ -12237,7 +12644,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 407
+        "id": 407,
+        "internal": "0047"
     },
     {
         "name": "Tri-Stringer User",
@@ -12267,7 +12675,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 408
+        "id": 408,
+        "internal": "0048"
     },
     {
         "name": "Splatana Stamper User",
@@ -12297,7 +12706,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 409
+        "id": 409,
+        "internal": "0049"
     },
     {
         "name": "REEF-LUX 450 User",
@@ -12327,7 +12737,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 410
+        "id": 410,
+        "internal": "0050"
     },
     {
         "name": "Splatana Wiper User",
@@ -12357,7 +12768,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 411
+        "id": 411,
+        "internal": "0051"
     },
     {
         "name": "Big Bubbler User",
@@ -12387,7 +12799,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 412
+        "id": 412,
+        "internal": "0123"
     },
     {
         "name": "Squid Sisters Fan",
@@ -12417,7 +12830,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 413
+        "id": 413,
+        "internal": "0306"
     },
     {
         "name": "Off the Hook Fan",
@@ -12447,7 +12861,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 414
+        "id": 414,
+        "internal": "0308"
     },
     {
         "name": "Coach",
@@ -12477,7 +12892,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 415
+        "id": 415,
+        "internal": "0401"
     },
     {
         "name": "Coordinator",
@@ -12507,7 +12923,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 416
+        "id": 416,
+        "internal": "0402"
     },
     {
         "name": "Comedian",
@@ -12537,7 +12954,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 417
+        "id": 417,
+        "internal": "0403"
     },
     {
         "name": "Scientist",
@@ -12567,7 +12985,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 418
+        "id": 418,
+        "internal": "0404"
     },
     {
         "name": "Samurai",
@@ -12597,7 +13016,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 419
+        "id": 419,
+        "internal": "0405"
     },
     {
         "name": "Spy",
@@ -12627,7 +13047,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 420
+        "id": 420,
+        "internal": "0406"
     },
     {
         "name": "Risk-Taker",
@@ -12657,7 +13078,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 421
+        "id": 421,
+        "internal": "0400"
     },
     {
         "name": "Dancer",
@@ -12687,7 +13109,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 422
+        "id": 422,
+        "internal": "0407"
     },
     {
         "name": "Ninja",
@@ -12717,7 +13140,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 423
+        "id": 423,
+        "internal": "0409"
     },
     {
         "name": "Part-Timer",
@@ -12747,7 +13171,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 424
+        "id": 424,
+        "internal": "0411"
     },
     {
         "name": "Pilot",
@@ -12777,7 +13202,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 425
+        "id": 425,
+        "internal": "0412"
     },
     {
         "name": "Hunter",
@@ -12807,7 +13233,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 426
+        "id": 426,
+        "internal": "0413"
     },
     {
         "name": "Planner",
@@ -12837,7 +13264,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 427
+        "id": 427,
+        "internal": "0415"
     },
     {
         "name": "Programmer",
@@ -12867,7 +13295,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 428
+        "id": 428,
+        "internal": "0416"
     },
     {
         "name": "Designer",
@@ -12897,7 +13326,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 429
+        "id": 429,
+        "internal": "0408"
     },
     {
         "name": "Producer",
@@ -12927,7 +13357,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 430
+        "id": 430,
+        "internal": "0417"
     },
     {
         "name": "Agent",
@@ -12957,7 +13388,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 431
+        "id": 431,
+        "internal": "0399"
     },
     {
         "name": "Assistant",
@@ -12987,7 +13419,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 432
+        "id": 432,
+        "internal": "0397"
     },
     {
         "name": "Snowperson",
@@ -13017,7 +13450,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 433
+        "id": 433,
+        "internal": "0383"
     },
     {
         "name": "Firecracker",
@@ -13047,7 +13481,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 434
+        "id": 434,
+        "internal": "0384"
     },
     {
         "name": "Eye of the Storm",
@@ -13077,7 +13512,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 435
+        "id": 435,
+        "internal": "0385"
     },
     {
         "name": "Fish",
@@ -13107,7 +13543,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 436
+        "id": 436,
+        "internal": "0386"
     },
     {
         "name": "Deity of Destruction",
@@ -13137,7 +13574,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 437
+        "id": 437,
+        "internal": "0387"
     },
     {
         "name": "Dog",
@@ -13167,7 +13605,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 438
+        "id": 438,
+        "internal": "0388"
     },
     {
         "name": "Athlete",
@@ -13197,7 +13636,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 439
+        "id": 439,
+        "internal": "0398"
     },
     {
         "name": "Dragon",
@@ -13227,7 +13667,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 440
+        "id": 440,
+        "internal": "0389"
     },
     {
         "name": "Dinosaur",
@@ -13257,7 +13698,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 441
+        "id": 441,
+        "internal": "0391"
     },
     {
         "name": "Cephalopod",
@@ -13287,7 +13729,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 442
+        "id": 442,
+        "internal": "0392"
     },
     {
         "name": "Bivalve",
@@ -13317,7 +13760,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 443
+        "id": 443,
+        "internal": "0393"
     },
     {
         "name": "Dolphin",
@@ -13347,7 +13791,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 444
+        "id": 444,
+        "internal": "0394"
     },
     {
         "name": "Bookworm",
@@ -13377,7 +13822,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 445
+        "id": 445,
+        "internal": "0395"
     },
     {
         "name": "CEO",
@@ -13407,7 +13853,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 446
+        "id": 446,
+        "internal": "0396"
     },
     {
         "name": "Cat",
@@ -13437,7 +13884,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 447
+        "id": 447,
+        "internal": "0390"
     },
     {
         "name": "Painter",
@@ -13467,7 +13915,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 448
+        "id": 448,
+        "internal": "0418"
     },
     {
         "name": "Manager",
@@ -13497,7 +13946,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 449
+        "id": 449,
+        "internal": "0419"
     },
     {
         "name": "Model",
@@ -13527,7 +13977,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 450
+        "id": 450,
+        "internal": "0420"
     },
     {
         "name": "Artisan",
@@ -13557,7 +14008,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 451
+        "id": 451,
+        "internal": "0444"
     },
     {
         "name": "Teacher",
@@ -13587,7 +14039,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 452
+        "id": 452,
+        "internal": "0445"
     },
     {
         "name": "Village Leader",
@@ -13617,7 +14070,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 453
+        "id": 453,
+        "internal": "0446"
     },
     {
         "name": "Head Honcho",
@@ -13647,7 +14101,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 454
+        "id": 454,
+        "internal": "0447"
     },
     {
         "name": "Detective",
@@ -13677,7 +14132,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 455
+        "id": 455,
+        "internal": "0448"
     },
     {
         "name": "Mountaineer",
@@ -13707,7 +14163,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 456
+        "id": 456,
+        "internal": "0449"
     },
     {
         "name": "Gofer",
@@ -13737,7 +14194,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 457
+        "id": 457,
+        "internal": "0443"
     },
     {
         "name": "Professor",
@@ -13767,7 +14225,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 458
+        "id": 458,
+        "internal": "0450"
     },
     {
         "name": "Beautician",
@@ -13797,7 +14256,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 459
+        "id": 459,
+        "internal": "0452"
     },
     {
         "name": "Middle Manager",
@@ -13827,7 +14287,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 460
+        "id": 460,
+        "internal": "0453"
     },
     {
         "name": "Vice President",
@@ -13857,7 +14318,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 461
+        "id": 461,
+        "internal": "0454"
     },
     {
         "name": "Adventurer",
@@ -13887,7 +14349,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 462
+        "id": 462,
+        "internal": "0455"
     },
     {
         "name": "Comic Artist",
@@ -13917,7 +14380,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 463
+        "id": 463,
+        "internal": "0456"
     },
     {
         "name": "Hero",
@@ -13947,7 +14411,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 464
+        "id": 464,
+        "internal": "0458"
     },
     {
         "name": "Secretary",
@@ -13977,7 +14442,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 465
+        "id": 465,
+        "internal": "0451"
     },
     {
         "name": "Board Member",
@@ -14007,7 +14473,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 466
+        "id": 466,
+        "internal": "0442"
     },
     {
         "name": "VP",
@@ -14037,7 +14504,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 467
+        "id": 467,
+        "internal": "0441"
     },
     {
         "name": "Butler",
@@ -14067,7 +14535,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 468
+        "id": 468,
+        "internal": "0440"
     },
     {
         "name": "Writer",
@@ -14097,7 +14566,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 469
+        "id": 469,
+        "internal": "0421"
     },
     {
         "name": "Executive",
@@ -14127,7 +14597,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 470
+        "id": 470,
+        "internal": "0422"
     },
     {
         "name": "Astronaut",
@@ -14157,7 +14628,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 471
+        "id": 471,
+        "internal": "0423"
     },
     {
         "name": "Singer",
@@ -14187,7 +14659,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 472
+        "id": 472,
+        "internal": "0424"
     },
     {
         "name": "President",
@@ -14217,7 +14690,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 473
+        "id": 473,
+        "internal": "0425"
     },
     {
         "name": "Viking",
@@ -14247,7 +14721,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 474
+        "id": 474,
+        "internal": "0426"
     },
     {
         "name": "Student",
@@ -14277,7 +14752,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 475
+        "id": 475,
+        "internal": "0428"
     },
     {
         "name": "Director",
@@ -14307,7 +14783,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 476
+        "id": 476,
+        "internal": "0429"
     },
     {
         "name": "Lead",
@@ -14337,7 +14814,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 477
+        "id": 477,
+        "internal": "0430"
     },
     {
         "name": "Angler",
@@ -14367,7 +14845,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 478
+        "id": 478,
+        "internal": "0431"
     },
     {
         "name": "Assistant Manager",
@@ -14397,7 +14876,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 479
+        "id": 479,
+        "internal": "0432"
     },
     {
         "name": "Security Guard",
@@ -14427,7 +14907,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 480
+        "id": 480,
+        "internal": "0433"
     },
     {
         "name": "Researcher",
@@ -14457,7 +14938,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 481
+        "id": 481,
+        "internal": "0434"
     },
     {
         "name": "Author",
@@ -14487,7 +14969,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 482
+        "id": 482,
+        "internal": "0437"
     },
     {
         "name": "Worker",
@@ -14517,7 +15000,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 483
+        "id": 483,
+        "internal": "0439"
     },
     {
         "name": "Heat Hater",
@@ -14547,7 +15031,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 484
+        "id": 484,
+        "internal": "0382"
     },
     {
         "name": "Deep Cut Fan",
@@ -14577,7 +15062,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 485
+        "id": 485,
+        "internal": "0307"
     },
     {
         "name": "Flower",
@@ -14607,7 +15093,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 486
+        "id": 486,
+        "internal": "0381"
     },
     {
         "name": "Surfer",
@@ -14637,7 +15124,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 487
+        "id": 487,
+        "internal": "0379"
     },
     {
         "name": "Salmon Run Legend",
@@ -14667,7 +15155,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 488
+        "id": 488,
+        "internal": "0327"
     },
     {
         "name": "Story Mode Legend",
@@ -14697,7 +15186,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 489
+        "id": 489,
+        "internal": "0328"
     },
     {
         "name": "Inkling",
@@ -14727,7 +15217,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 490
+        "id": 490,
+        "internal": "0329"
     },
     {
         "name": "Octoling",
@@ -14757,7 +15248,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 491
+        "id": 491,
+        "internal": "0330"
     },
     {
         "name": "Tee Model",
@@ -14787,7 +15279,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 492
+        "id": 492,
+        "internal": "0331"
     },
     {
         "name": "Jacket Model",
@@ -14817,7 +15310,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 493
+        "id": 493,
+        "internal": "0332"
     },
     {
         "name": "Rainmaker Legend",
@@ -14847,7 +15341,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 494
+        "id": 494,
+        "internal": "0326"
     },
     {
         "name": "Shirt Model",
@@ -14877,7 +15372,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 495
+        "id": 495,
+        "internal": "0333"
     },
     {
         "name": "Knit Model",
@@ -14907,7 +15403,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 496
+        "id": 496,
+        "internal": "0335"
     },
     {
         "name": "Trendsetter",
@@ -14937,7 +15434,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 497
+        "id": 497,
+        "internal": "0336"
     },
     {
         "name": "Hat Model",
@@ -14967,7 +15465,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 498
+        "id": 498,
+        "internal": "0337"
     },
     {
         "name": "Glasses Model",
@@ -14997,7 +15496,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 499
+        "id": 499,
+        "internal": "0338"
     },
     {
         "name": "Boot Model",
@@ -15027,7 +15527,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 500
+        "id": 500,
+        "internal": "0339"
     },
     {
         "name": "Card Collector",
@@ -15057,7 +15558,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 501
+        "id": 501,
+        "internal": "0340"
     },
     {
         "name": "Sneaker Model",
@@ -15087,7 +15589,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 502
+        "id": 502,
+        "internal": "0334"
     },
     {
         "name": "Item Collector",
@@ -15117,7 +15620,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 503
+        "id": 503,
+        "internal": "0341"
     },
     {
         "name": "Turf War Legend",
@@ -15147,7 +15651,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 504
+        "id": 504,
+        "internal": "0325"
     },
     {
         "name": "Splat Zones Legend",
@@ -15177,7 +15682,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 505
+        "id": 505,
+        "internal": "0323"
     },
     {
         "name": "Pearl Fan",
@@ -15207,7 +15713,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 506
+        "id": 506,
+        "internal": "0309"
     },
     {
         "name": "Shiver Fan",
@@ -15237,7 +15744,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 507
+        "id": 507,
+        "internal": "0310"
     },
     {
         "name": "Ammo Knights Regular",
@@ -15267,7 +15775,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 508
+        "id": 508,
+        "internal": "0311"
     },
     {
         "name": "Man-o'-Wardrobe Regular",
@@ -15297,7 +15806,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 509
+        "id": 509,
+        "internal": "0312"
     },
     {
         "name": "Marie Fan",
@@ -15327,7 +15837,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 510
+        "id": 510,
+        "internal": "0313"
     },
     {
         "name": "Big Man Fan",
@@ -15357,7 +15868,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 511
+        "id": 511,
+        "internal": "0314"
     },
     {
         "name": "Tower Control Legend",
@@ -15387,7 +15899,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 512
+        "id": 512,
+        "internal": "0324"
     },
     {
         "name": "Clam Blitz Enthusiast",
@@ -15417,7 +15930,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 513
+        "id": 513,
+        "internal": "0315"
     },
     {
         "name": "Rainmaker Enthusiast",
@@ -15447,7 +15961,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 514
+        "id": 514,
+        "internal": "0317"
     },
     {
         "name": "Tower Control Enthusiast",
@@ -15477,7 +15992,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 515
+        "id": 515,
+        "internal": "0318"
     },
     {
         "name": "Salmon Runner",
@@ -15507,7 +16023,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 516
+        "id": 516,
+        "internal": "0319"
     },
     {
         "name": "Turf Warrior",
@@ -15537,7 +16054,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 517
+        "id": 517,
+        "internal": "0320"
     },
     {
         "name": "Story Mode Hero",
@@ -15567,7 +16085,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 518
+        "id": 518,
+        "internal": "0321"
     },
     {
         "name": "Clam Blitz Legend",
@@ -15597,7 +16116,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 519
+        "id": 519,
+        "internal": "0322"
     },
     {
         "name": "Splat Zones Enthusiast",
@@ -15627,7 +16147,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 520
+        "id": 520,
+        "internal": "0316"
     },
     {
         "name": "Fashionista",
@@ -15657,7 +16178,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 521
+        "id": 521,
+        "internal": "0342"
     },
     {
         "name": "Locker Rock Star",
@@ -15687,7 +16209,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 522
+        "id": 522,
+        "internal": "0343"
     },
     {
         "name": "Squid Surger",
@@ -15717,7 +16240,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 523
+        "id": 523,
+        "internal": "0344"
     },
     {
         "name": "Shark Tamer",
@@ -15747,7 +16271,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 524
+        "id": 524,
+        "internal": "0364"
     },
     {
         "name": "Clerk",
@@ -15777,7 +16302,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 525
+        "id": 525,
+        "internal": "0365"
     },
     {
         "name": "Office Drone",
@@ -15807,7 +16333,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 526
+        "id": 526,
+        "internal": "0366"
     },
     {
         "name": "Ringleader",
@@ -15837,7 +16364,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 527
+        "id": 527,
+        "internal": "0367"
     },
     {
         "name": "Champ",
@@ -15867,7 +16395,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 528
+        "id": 528,
+        "internal": "0368"
     },
     {
         "name": "Bass Dropper",
@@ -15897,7 +16426,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 529
+        "id": 529,
+        "internal": "0369"
     },
     {
         "name": "Eel Tamer",
@@ -15927,7 +16457,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 530
+        "id": 530,
+        "internal": "0363"
     },
     {
         "name": "Prince",
@@ -15957,7 +16488,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 531
+        "id": 531,
+        "internal": "0371"
     },
     {
         "name": "City Boy",
@@ -15987,7 +16519,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 532
+        "id": 532,
+        "internal": "0373"
     },
     {
         "name": "Groom",
@@ -16017,7 +16550,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 533
+        "id": 533,
+        "internal": "0374"
     },
     {
         "name": "King",
@@ -16047,7 +16581,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 534
+        "id": 534,
+        "internal": "0375"
     },
     {
         "name": "Bro",
@@ -16077,7 +16612,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 535
+        "id": 535,
+        "internal": "0376"
     },
     {
         "name": "Oden Bowl",
@@ -16107,7 +16643,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 536
+        "id": 536,
+        "internal": "0377"
     },
     {
         "name": "Party Lover",
@@ -16137,7 +16674,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 537
+        "id": 537,
+        "internal": "0378"
     },
     {
         "name": "Brother",
@@ -16167,7 +16705,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 538
+        "id": 538,
+        "internal": "0372"
     },
     {
         "name": "Clock Puncher",
@@ -16197,7 +16736,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 539
+        "id": 539,
+        "internal": "0362"
     },
     {
         "name": "Pop Star",
@@ -16227,7 +16767,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 540
+        "id": 540,
+        "internal": "0361"
     },
     {
         "name": "Artist",
@@ -16257,7 +16798,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 541
+        "id": 541,
+        "internal": "0360"
     },
     {
         "name": "Squid Roller",
@@ -16287,7 +16829,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 542
+        "id": 542,
+        "internal": "0345"
     },
     {
         "name": "All-Arounder",
@@ -16317,7 +16860,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 543
+        "id": 543,
+        "internal": "0346"
     },
     {
         "name": "Jumper",
@@ -16347,7 +16891,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 544
+        "id": 544,
+        "internal": "0347"
     },
     {
         "name": "Dodge Roller",
@@ -16377,7 +16922,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 545
+        "id": 545,
+        "internal": "0348"
     },
     {
         "name": "Slow Starter",
@@ -16407,7 +16953,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 546
+        "id": 546,
+        "internal": "0349"
     },
     {
         "name": "Splat Bomber",
@@ -16437,7 +16984,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 547
+        "id": 547,
+        "internal": "0350"
     },
     {
         "name": "Guardian",
@@ -16467,7 +17015,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 548
+        "id": 548,
+        "internal": "0351"
     },
     {
         "name": "Raider",
@@ -16497,7 +17046,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 549
+        "id": 549,
+        "internal": "0352"
     },
     {
         "name": "Manta Ray",
@@ -16527,7 +17077,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 550
+        "id": 550,
+        "internal": "0353"
     },
     {
         "name": "Octarian",
@@ -16557,7 +17108,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 551
+        "id": 551,
+        "internal": "0354"
     },
     {
         "name": "Bear",
@@ -16587,7 +17139,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 552
+        "id": 552,
+        "internal": "0355"
     },
     {
         "name": "Jellyfish",
@@ -16617,7 +17170,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 553
+        "id": 553,
+        "internal": "0356"
     },
     {
         "name": "Human",
@@ -16647,7 +17201,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 554
+        "id": 554,
+        "internal": "0357"
     },
     {
         "name": "Sea Creature",
@@ -16677,7 +17232,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 555
+        "id": 555,
+        "internal": "0358"
     },
     {
         "name": "Mammal",
@@ -16707,7 +17263,8 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 556
+        "id": 556,
+        "internal": "0359"
     },
     {
         "name": "Festivalgoer",
@@ -16737,6 +17294,7 @@
             "it_IT": false,
             "ja_JP": false
         },
-        "id": 557
+        "id": 557,
+        "internal": "0380"
     }
 ]

@@ -16,7 +16,8 @@
             "ru_RU": "\u041a\u0430\u043b\u044c\u043c\u0430\u0440\u0438",
             "it_IT": "CalamaX",
             "ja_JP": "\u30d0\u30c8\u30ed\u30a4\u30ab"
-        }
+        },
+        "internal": "B00"
     },
     "Zink": {
         "name": "Zink",
@@ -35,7 +36,8 @@
             "ru_RU": "\u0428\u043f\u0440\u043e\u0442\u0443\u0441",
             "it_IT": "Totanic",
             "ja_JP": "\u30a2\u30a4\u30ed\u30cb\u30c3\u30af"
-        }
+        },
+        "internal": "B01"
     },
     "Krak-On": {
         "name": "Krak-On",
@@ -54,7 +56,8 @@
             "ru_RU": "\u041a\u0440\u0430-\u041a\u0435\u043d",
             "it_IT": "Cnidarya",
             "ja_JP": "\u30af\u30e9\u30fc\u30b2\u30b9"
-        }
+        },
+        "internal": "B02"
     },
     "Rockenberg": {
         "name": "Rockenberg",
@@ -73,7 +76,8 @@
             "ru_RU": "\u0423\u0433\u0440\u043e\u043a",
             "it_IT": "Rockenburg",
             "ja_JP": "\u30ed\u30c3\u30b1\u30f3\u30d9\u30eb\u30b0"
-        }
+        },
+        "internal": "B03"
     },
     "Zekko": {
         "name": "Zekko",
@@ -92,7 +96,8 @@
             "ru_RU": "\u0419\u043e\u0436\u043a\u043e",
             "it_IT": "Ezko",
             "ja_JP": "\u30a8\u30be\u30c3\u30b3"
-        }
+        },
+        "internal": "B04"
     },
     "Forge": {
         "name": "Forge",
@@ -111,7 +116,8 @@
             "ru_RU": "\u0411\u043b\u0438\u0446",
             "it_IT": "Fortia",
             "ja_JP": "\u30d5\u30a9\u30fc\u30ea\u30de"
-        }
+        },
+        "internal": "B05"
     },
     "Firefin": {
         "name": "Firefin",
@@ -130,7 +136,8 @@
             "ru_RU": "\u0424\u0440\u0438\u0442\u044e\u0440",
             "it_IT": "Torryd",
             "ja_JP": "\u30db\u30c3\u30b3\u30ea\u30fc"
-        }
+        },
+        "internal": "B06"
     },
     "Skalop": {
         "name": "Skalop",
@@ -149,7 +156,8 @@
             "ru_RU": "\u0413\u0440\u0435\u0431\u0435\u0440\u0448\u043a\u043e",
             "it_IT": "Capasaint",
             "ja_JP": "\u30db\u30bf\u30c3\u30af\u30b9"
-        }
+        },
+        "internal": "B07"
     },
     "Splash Mob": {
         "name": "Splash Mob",
@@ -168,7 +176,8 @@
             "ru_RU": "\u041c\u043e\u0440\u043b\u044e\u043a\u0441",
             "it_IT": "Chimmon",
             "ja_JP": "\u30b8\u30e2\u30f3"
-        }
+        },
+        "internal": "B08"
     },
     "Inkline": {
         "name": "Inkline",
@@ -187,7 +196,8 @@
             "ru_RU": "\u0412\u043e\u043b\u043d\u043e\u0433\u043e\u0440",
             "it_IT": "Maremont",
             "ja_JP": "\u30b7\u30b0\u30ec\u30cb"
-        }
+        },
+        "internal": "B09"
     },
     "Tentatek": {
         "name": "Tentatek",
@@ -206,7 +216,8 @@
             "ru_RU": "\u0429\u0443\u0447\u0447\u0438",
             "it_IT": "Arome",
             "ja_JP": "\u30a2\u30ed\u30e1"
-        }
+        },
+        "internal": "B10"
     },
     "Takoroka": {
         "name": "Takoroka",
@@ -225,7 +236,8 @@
             "ru_RU": "\u0420\u044b\u0431\u043e\u043a",
             "it_IT": "Sepia",
             "ja_JP": "\u30e4\u30b3"
-        }
+        },
+        "internal": "B11"
     },
     "Annaki": {
         "name": "Annaki",
@@ -244,7 +256,8 @@
             "ru_RU": "\u041f\u0430\u043d\u043a\u0430\u0441\u0438\u0443\u0441",
             "it_IT": "Annak",
             "ja_JP": "\u30a2\u30ca\u30a2\u30ad"
-        }
+        },
+        "internal": "B15"
     },
     "Enperry": {
         "name": "Enperry",
@@ -263,7 +276,8 @@
             "ru_RU": "\u041a\u0430\u043b\u044c\u043c\u0430\u0440 \u041a\u043b\u044f\u0440",
             "it_IT": "Imperial",
             "ja_JP": "\u30a8\u30f3\u30da\u30ea\u30fc"
-        }
+        },
+        "internal": "B16"
     },
     "Toni Kensa": {
         "name": "Toni Kensa",
@@ -282,7 +296,8 @@
             "ru_RU": "\u0421\u0443\u0448\u0430\u043a\u0438 \u041a\u0443\u0441\u0430\u043a\u0438",
             "it_IT": "Nero Marlin",
             "ja_JP": "\u30bf\u30bf\u30ad\u30b1\u30f3\u30b5\u30ad"
-        }
+        },
+        "internal": "B17"
     },
     "Barazushi": {
         "name": "Barazushi",
@@ -301,7 +316,8 @@
             "ru_RU": "\u0421\u0443\u0441\u0438-\u0412\u0435\u0441\u043b\u0430",
             "it_IT": "BaraS",
             "ja_JP": "\u30d0\u30e9\u30ba\u30b7"
-        }
+        },
+        "internal": "B19"
     },
     "Emberz": {
         "name": "Emberz",
@@ -320,7 +336,8 @@
             "ru_RU": "\u0413\u0440\u0438\u043b\u044c\u044f\u043d\u0438",
             "it_IT": "Car-bon",
             "ja_JP": "\u30b7\u30c1\u30ea\u30f3"
-        }
+        },
+        "internal": "B20"
     },
     "Grizzco": {
         "name": "Grizzco",
@@ -339,7 +356,8 @@
             "ru_RU": "\u041f\u043e\u0442\u0430\u043f\u044b\u0447 Inc.",
             "it_IT": "Ursus & Co",
             "ja_JP": "\u30af\u30de\u30b5\u30f3\u5546\u4f1a"
-        }
+        },
+        "internal": "B97"
     },
     "Cuttlegear": {
         "name": "Cuttlegear",
@@ -358,7 +376,8 @@
             "ru_RU": "\u041a\u0430\u0440\u0430\u043a\u0430\u0442",
             "it_IT": "Krakensen",
             "ja_JP": "\u30a2\u30bf\u30ea\u30e1\u30a4\u30c9"
-        }
+        },
+        "internal": "B98"
     },
     "amiibo": {
         "name": "amiibo",
@@ -377,6 +396,7 @@
             "ru_RU": "amiibo",
             "it_IT": "amiibo",
             "ja_JP": "amiibo"
-        }
+        },
+        "internal": "B99"
     }
 }

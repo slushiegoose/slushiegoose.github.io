@@ -27,7 +27,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 0
+        "id": 0,
+        "internal": "0000"
     },
     {
         "name": "Junior-Grade",
@@ -57,7 +58,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 1
+        "id": 1,
+        "internal": "0532"
     },
     {
         "name": "Wild",
@@ -87,7 +89,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 2
+        "id": 2,
+        "internal": "0533"
     },
     {
         "name": "A Real",
@@ -117,7 +120,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 3
+        "id": 3,
+        "internal": "0534"
     },
     {
         "name": "Lucky",
@@ -147,7 +151,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 4
+        "id": 4,
+        "internal": "0535"
     },
     {
         "name": "Seasoned",
@@ -177,7 +182,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 5
+        "id": 5,
+        "internal": "0537"
     },
     {
         "name": "Soft-and-Fluffy",
@@ -207,7 +213,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 6
+        "id": 6,
+        "internal": "0539"
     },
     {
         "name": "Otherworldly",
@@ -237,7 +244,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 7
+        "id": 7,
+        "internal": "0529"
     },
     {
         "name": "100%",
@@ -267,7 +275,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 8
+        "id": 8,
+        "internal": "0540"
     },
     {
         "name": "Fluffy",
@@ -297,7 +306,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 9
+        "id": 9,
+        "internal": "0542"
     },
     {
         "name": "Modern",
@@ -327,7 +337,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 10
+        "id": 10,
+        "internal": "0543"
     },
     {
         "name": "Lost-and-Found",
@@ -357,7 +368,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 11
+        "id": 11,
+        "internal": "0546"
     },
     {
         "name": "Won't-Lose",
@@ -387,7 +399,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 12
+        "id": 12,
+        "internal": "0547"
     },
     {
         "name": "Auspicious",
@@ -417,7 +430,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 13
+        "id": 13,
+        "internal": "0548"
     },
     {
         "name": "Innocent",
@@ -447,7 +461,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 14
+        "id": 14,
+        "internal": "0549"
     },
     {
         "name": "Veggie-Lovin'",
@@ -477,7 +492,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 15
+        "id": 15,
+        "internal": "0541"
     },
     {
         "name": "Mostly",
@@ -507,7 +523,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 16
+        "id": 16,
+        "internal": "0527"
     },
     {
         "name": "24-Hour",
@@ -537,7 +554,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 17
+        "id": 17,
+        "internal": "0526"
     },
     {
         "name": "Gone-Fishin'",
@@ -567,7 +585,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 18
+        "id": 18,
+        "internal": "0525"
     },
     {
         "name": "Unarmed",
@@ -597,7 +616,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 19
+        "id": 19,
+        "internal": "0501"
     },
     {
         "name": "Sweet",
@@ -627,7 +647,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 20
+        "id": 20,
+        "internal": "0502"
     },
     {
         "name": "Sentimental",
@@ -657,7 +678,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 21
+        "id": 21,
+        "internal": "0503"
     },
     {
         "name": "Sandy",
@@ -687,7 +709,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 22
+        "id": 22,
+        "internal": "0504"
     },
     {
         "name": "Overheated",
@@ -717,7 +740,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 23
+        "id": 23,
+        "internal": "0505"
     },
     {
         "name": "Catch-of-the-Day",
@@ -747,7 +771,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 24
+        "id": 24,
+        "internal": "0507"
     },
     {
         "name": "Pool-Ready",
@@ -777,7 +802,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 25
+        "id": 25,
+        "internal": "0508"
     },
     {
         "name": "Anachronistic",
@@ -807,7 +833,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 26
+        "id": 26,
+        "internal": "0510"
     },
     {
         "name": "Supersonic",
@@ -837,7 +864,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 27
+        "id": 27,
+        "internal": "0513"
     },
     {
         "name": "Lovely",
@@ -867,7 +895,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 28
+        "id": 28,
+        "internal": "0517"
     },
     {
         "name": "Movie-Lovin'",
@@ -897,7 +926,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 29
+        "id": 29,
+        "internal": "0518"
     },
     {
         "name": "Shadowy",
@@ -927,7 +957,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 30
+        "id": 30,
+        "internal": "0520"
     },
     {
         "name": "Fated",
@@ -957,7 +988,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 31
+        "id": 31,
+        "internal": "0521"
     },
     {
         "name": "Cosmic",
@@ -987,7 +1019,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 32
+        "id": 32,
+        "internal": "0522"
     },
     {
         "name": "Zipped-Lips",
@@ -1017,7 +1050,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 33
+        "id": 33,
+        "internal": "0524"
     },
     {
         "name": "Miraculous",
@@ -1047,7 +1081,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 34
+        "id": 34,
+        "internal": "0551"
     },
     {
         "name": "Heartfelt",
@@ -1077,7 +1112,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 35
+        "id": 35,
+        "internal": "0499"
     },
     {
         "name": "Poser",
@@ -1107,7 +1143,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 36
+        "id": 36,
+        "internal": "0552"
     },
     {
         "name": "Vulnerable",
@@ -1137,7 +1174,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 37
+        "id": 37,
+        "internal": "0554"
     },
     {
         "name": "Swoon-Worthy",
@@ -1167,7 +1205,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 38
+        "id": 38,
+        "internal": "0579"
     },
     {
         "name": "Strict",
@@ -1197,7 +1236,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 39
+        "id": 39,
+        "internal": "0580"
     },
     {
         "name": "Slippery",
@@ -1227,7 +1267,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 40
+        "id": 40,
+        "internal": "0581"
     },
     {
         "name": "Painted",
@@ -1257,7 +1298,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 41
+        "id": 41,
+        "internal": "0582"
     },
     {
         "name": "Climactic",
@@ -1287,7 +1329,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 42
+        "id": 42,
+        "internal": "0584"
     },
     {
         "name": "Nameless",
@@ -1317,7 +1360,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 43
+        "id": 43,
+        "internal": "0586"
     },
     {
         "name": "Designer-Label",
@@ -1347,7 +1391,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 44
+        "id": 44,
+        "internal": "0578"
     },
     {
         "name": "Nice",
@@ -1377,7 +1422,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 45
+        "id": 45,
+        "internal": "0587"
     },
     {
         "name": "Neighborly",
@@ -1407,7 +1453,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 46
+        "id": 46,
+        "internal": "0589"
     },
     {
         "name": "Tidy",
@@ -1437,7 +1484,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 47
+        "id": 47,
+        "internal": "0591"
     },
     {
         "name": "Barbed",
@@ -1467,7 +1515,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 48
+        "id": 48,
+        "internal": "0592"
     },
     {
         "name": "Pointy",
@@ -1497,7 +1546,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 49
+        "id": 49,
+        "internal": "0593"
     },
     {
         "name": "Big Honkin'",
@@ -1527,7 +1577,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 50
+        "id": 50,
+        "internal": "0594"
     },
     {
         "name": "Smooth",
@@ -1557,7 +1608,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 51
+        "id": 51,
+        "internal": "0595"
     },
     {
         "name": "Muddy",
@@ -1587,7 +1639,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 52
+        "id": 52,
+        "internal": "0588"
     },
     {
         "name": "Bursting",
@@ -1617,7 +1670,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 53
+        "id": 53,
+        "internal": "0577"
     },
     {
         "name": "Fame-Seeking",
@@ -1647,7 +1701,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 54
+        "id": 54,
+        "internal": "0576"
     },
     {
         "name": "Flashy",
@@ -1677,7 +1732,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 55
+        "id": 55,
+        "internal": "0574"
     },
     {
         "name": "Light",
@@ -1707,7 +1763,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 56
+        "id": 56,
+        "internal": "0556"
     },
     {
         "name": "Bomb-tastic",
@@ -1737,7 +1794,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 57
+        "id": 57,
+        "internal": "0557"
     },
     {
         "name": "Fluttering",
@@ -1767,7 +1825,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 58
+        "id": 58,
+        "internal": "0559"
     },
     {
         "name": "Buoyant",
@@ -1797,7 +1856,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 59
+        "id": 59,
+        "internal": "0560"
     },
     {
         "name": "Wibbly-Wobbly",
@@ -1827,7 +1887,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 60
+        "id": 60,
+        "internal": "0562"
     },
     {
         "name": "Fruit-Lovin'",
@@ -1857,7 +1918,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 61
+        "id": 61,
+        "internal": "0563"
     },
     {
         "name": "Dark",
@@ -1887,7 +1949,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 62
+        "id": 62,
+        "internal": "0564"
     },
     {
         "name": "Fragrant",
@@ -1917,7 +1980,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 63
+        "id": 63,
+        "internal": "0565"
     },
     {
         "name": "Fashionable",
@@ -1947,7 +2011,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 64
+        "id": 64,
+        "internal": "0566"
     },
     {
         "name": "Big-Time",
@@ -1977,7 +2042,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 65
+        "id": 65,
+        "internal": "0568"
     },
     {
         "name": "Drenched",
@@ -2007,7 +2073,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 66
+        "id": 66,
+        "internal": "0569"
     },
     {
         "name": "Bearded",
@@ -2037,7 +2104,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 67
+        "id": 67,
+        "internal": "0570"
     },
     {
         "name": "Frosty",
@@ -2067,7 +2135,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 68
+        "id": 68,
+        "internal": "0571"
     },
     {
         "name": "Incredible",
@@ -2097,7 +2166,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 69
+        "id": 69,
+        "internal": "0572"
     },
     {
         "name": "Faraway",
@@ -2127,7 +2197,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 70
+        "id": 70,
+        "internal": "0573"
     },
     {
         "name": "Comic-Lovin'",
@@ -2157,7 +2228,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 71
+        "id": 71,
+        "internal": "0553"
     },
     {
         "name": "Forgetful",
@@ -2187,7 +2259,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 72
+        "id": 72,
+        "internal": "0497"
     },
     {
         "name": "Shining",
@@ -2217,7 +2290,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 73
+        "id": 73,
+        "internal": "0495"
     },
     {
         "name": "Impish",
@@ -2247,7 +2321,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 74
+        "id": 74,
+        "internal": "0494"
     },
     {
         "name": "Bright-Blue",
@@ -2277,7 +2352,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 75
+        "id": 75,
+        "internal": "0423"
     },
     {
         "name": "Pitch-Black",
@@ -2307,7 +2383,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 76
+        "id": 76,
+        "internal": "0424"
     },
     {
         "name": "Woodsy",
@@ -2337,7 +2414,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 77
+        "id": 77,
+        "internal": "0425"
     },
     {
         "name": "Next-Generation",
@@ -2367,7 +2445,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 78
+        "id": 78,
+        "internal": "0426"
     },
     {
         "name": "Novice",
@@ -2397,7 +2476,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 79
+        "id": 79,
+        "internal": "0428"
     },
     {
         "name": "Sensational",
@@ -2427,7 +2507,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 80
+        "id": 80,
+        "internal": "0429"
     },
     {
         "name": "Deep-Red",
@@ -2457,7 +2538,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 81
+        "id": 81,
+        "internal": "0422"
     },
     {
         "name": "Dead-Tired",
@@ -2487,7 +2569,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 82
+        "id": 82,
+        "internal": "0431"
     },
     {
         "name": "Tagalong",
@@ -2517,7 +2600,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 83
+        "id": 83,
+        "internal": "0433"
     },
     {
         "name": "Little",
@@ -2547,7 +2631,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 84
+        "id": 84,
+        "internal": "0436"
     },
     {
         "name": "Third-Eye-Opened",
@@ -2577,7 +2662,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 85
+        "id": 85,
+        "internal": "0437"
     },
     {
         "name": "Early-Summer",
@@ -2607,7 +2693,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 86
+        "id": 86,
+        "internal": "0438"
     },
     {
         "name": "Alabaster",
@@ -2637,7 +2724,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 87
+        "id": 87,
+        "internal": "0439"
     },
     {
         "name": "Pure",
@@ -2667,7 +2755,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 88
+        "id": 88,
+        "internal": "0440"
     },
     {
         "name": "Dazzling",
@@ -2697,7 +2786,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 89
+        "id": 89,
+        "internal": "0432"
     },
     {
         "name": "Stark-White",
@@ -2727,7 +2817,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 90
+        "id": 90,
+        "internal": "0421"
     },
     {
         "name": "Midnight",
@@ -2757,7 +2848,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 91
+        "id": 91,
+        "internal": "0420"
     },
     {
         "name": "Awe-Inspiring",
@@ -2787,7 +2879,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 92
+        "id": 92,
+        "internal": "0419"
     },
     {
         "name": "Seasick",
@@ -2817,7 +2910,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 93
+        "id": 93,
+        "internal": "0399"
     },
     {
         "name": "Unblemished",
@@ -2847,7 +2941,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 94
+        "id": 94,
+        "internal": "0400"
     },
     {
         "name": "Fightin'",
@@ -2877,7 +2972,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 95
+        "id": 95,
+        "internal": "0402"
     },
     {
         "name": "Front-Line",
@@ -2907,7 +3003,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 96
+        "id": 96,
+        "internal": "0403"
     },
     {
         "name": "Endangered",
@@ -2937,7 +3034,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 97
+        "id": 97,
+        "internal": "0404"
     },
     {
         "name": "Persistent",
@@ -2967,7 +3065,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 98
+        "id": 98,
+        "internal": "0405"
     },
     {
         "name": "Sacred",
@@ -2997,7 +3096,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 99
+        "id": 99,
+        "internal": "0406"
     },
     {
         "name": "Local",
@@ -3027,7 +3127,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 100
+        "id": 100,
+        "internal": "0408"
     },
     {
         "name": "Turn-of-the-Century",
@@ -3057,7 +3158,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 101
+        "id": 101,
+        "internal": "0411"
     },
     {
         "name": "This Century's Best",
@@ -3087,7 +3189,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 102
+        "id": 102,
+        "internal": "0412"
     },
     {
         "name": "Aquarium-Bound",
@@ -3117,7 +3220,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 103
+        "id": 103,
+        "internal": "0414"
     },
     {
         "name": "Fan-Favorite",
@@ -3147,7 +3251,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 104
+        "id": 104,
+        "internal": "0415"
     },
     {
         "name": "Rising",
@@ -3177,7 +3282,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 105
+        "id": 105,
+        "internal": "0416"
     },
     {
         "name": "Spicy",
@@ -3207,7 +3313,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 106
+        "id": 106,
+        "internal": "0417"
     },
     {
         "name": "Lightning-Fast",
@@ -3237,7 +3344,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 107
+        "id": 107,
+        "internal": "0418"
     },
     {
         "name": "Grown-Up",
@@ -3267,7 +3375,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 108
+        "id": 108,
+        "internal": "0441"
     },
     {
         "name": "Partying",
@@ -3297,7 +3406,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 109
+        "id": 109,
+        "internal": "0442"
     },
     {
         "name": "Dapper",
@@ -3327,7 +3437,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 110
+        "id": 110,
+        "internal": "0443"
     },
     {
         "name": "Evil",
@@ -3357,7 +3468,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 111
+        "id": 111,
+        "internal": "0444"
     },
     {
         "name": "Limited-Edition",
@@ -3387,7 +3499,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 112
+        "id": 112,
+        "internal": "0469"
     },
     {
         "name": "Ever-Present",
@@ -3417,7 +3530,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 113
+        "id": 113,
+        "internal": "0470"
     },
     {
         "name": "Booming",
@@ -3447,7 +3561,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 114
+        "id": 114,
+        "internal": "0471"
     },
     {
         "name": "Crimson",
@@ -3477,7 +3592,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 115
+        "id": 115,
+        "internal": "0473"
     },
     {
         "name": "Steady",
@@ -3507,7 +3623,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 116
+        "id": 116,
+        "internal": "0474"
     },
     {
         "name": "Nosy",
@@ -3537,7 +3654,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 117
+        "id": 117,
+        "internal": "0476"
     },
     {
         "name": "Enlightened",
@@ -3567,7 +3685,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 118
+        "id": 118,
+        "internal": "0477"
     },
     {
         "name": "Aloof",
@@ -3597,7 +3716,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 119
+        "id": 119,
+        "internal": "0480"
     },
     {
         "name": "Hearty",
@@ -3627,7 +3747,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 120
+        "id": 120,
+        "internal": "0484"
     },
     {
         "name": "Artsy",
@@ -3657,7 +3778,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 121
+        "id": 121,
+        "internal": "0485"
     },
     {
         "name": "Flying",
@@ -3687,7 +3809,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 122
+        "id": 122,
+        "internal": "0486"
     },
     {
         "name": "Die-Hard",
@@ -3717,7 +3840,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 123
+        "id": 123,
+        "internal": "0488"
     },
     {
         "name": "Fortunate",
@@ -3747,7 +3871,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 124
+        "id": 124,
+        "internal": "0490"
     },
     {
         "name": "Last Year's",
@@ -3777,7 +3902,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 125
+        "id": 125,
+        "internal": "0492"
     },
     {
         "name": "The True Ultimate",
@@ -3807,7 +3933,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 126
+        "id": 126,
+        "internal": "0493"
     },
     {
         "name": "This Year's",
@@ -3837,7 +3964,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 127
+        "id": 127,
+        "internal": "0468"
     },
     {
         "name": "Iced",
@@ -3867,7 +3995,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 128
+        "id": 128,
+        "internal": "0596"
     },
     {
         "name": "The Final",
@@ -3897,7 +4026,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 129
+        "id": 129,
+        "internal": "0466"
     },
     {
         "name": "All-New",
@@ -3927,7 +4057,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 130
+        "id": 130,
+        "internal": "0464"
     },
     {
         "name": "Jet-Black",
@@ -3957,7 +4088,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 131
+        "id": 131,
+        "internal": "0445"
     },
     {
         "name": "Vindictive",
@@ -3987,7 +4119,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 132
+        "id": 132,
+        "internal": "0447"
     },
     {
         "name": "Self-Proclaimed",
@@ -4017,7 +4150,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 133
+        "id": 133,
+        "internal": "0449"
     },
     {
         "name": "Selfie-Snapping",
@@ -4047,7 +4181,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 134
+        "id": 134,
+        "internal": "0450"
     },
     {
         "name": "Eternity's",
@@ -4077,7 +4212,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 135
+        "id": 135,
+        "internal": "0451"
     },
     {
         "name": "Self-Identified",
@@ -4107,7 +4243,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 136
+        "id": 136,
+        "internal": "0452"
     },
     {
         "name": "Childish",
@@ -4137,7 +4274,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 137
+        "id": 137,
+        "internal": "0454"
     },
     {
         "name": "Job-Lovin'",
@@ -4167,7 +4305,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 138
+        "id": 138,
+        "internal": "0455"
     },
     {
         "name": "Late-Summer",
@@ -4197,7 +4336,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 139
+        "id": 139,
+        "internal": "0457"
     },
     {
         "name": "Cutting-Edge",
@@ -4227,7 +4367,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 140
+        "id": 140,
+        "internal": "0458"
     },
     {
         "name": "Mountain-Dwelling",
@@ -4257,7 +4398,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 141
+        "id": 141,
+        "internal": "0459"
     },
     {
         "name": "Picture-Taking",
@@ -4287,7 +4429,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 142
+        "id": 142,
+        "internal": "0460"
     },
     {
         "name": "Yesterday's",
@@ -4317,7 +4460,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 143
+        "id": 143,
+        "internal": "0461"
     },
     {
         "name": "Graceful",
@@ -4347,7 +4491,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 144
+        "id": 144,
+        "internal": "0462"
     },
     {
         "name": "First-Wave",
@@ -4377,7 +4522,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 145
+        "id": 145,
+        "internal": "0463"
     },
     {
         "name": "The Very First",
@@ -4407,7 +4553,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 146
+        "id": 146,
+        "internal": "0465"
     },
     {
         "name": "Occasional",
@@ -4437,7 +4584,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 147
+        "id": 147,
+        "internal": "0598"
     },
     {
         "name": "Just Another",
@@ -4467,7 +4615,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 148
+        "id": 148,
+        "internal": "0599"
     },
     {
         "name": "Essential",
@@ -4497,7 +4646,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 149
+        "id": 149,
+        "internal": "0600"
     },
     {
         "name": "Bohemian",
@@ -4527,7 +4677,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 150
+        "id": 150,
+        "internal": "0709"
     },
     {
         "name": "Grunge",
@@ -4557,7 +4708,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 151
+        "id": 151,
+        "internal": "0710"
     },
     {
         "name": "Hip-Hop",
@@ -4587,7 +4739,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 152
+        "id": 152,
+        "internal": "0714"
     },
     {
         "name": "Thunderous",
@@ -4617,7 +4770,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 153
+        "id": 153,
+        "internal": "0716"
     },
     {
         "name": "Turbo",
@@ -4647,7 +4801,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 154
+        "id": 154,
+        "internal": "0717"
     },
     {
         "name": "Wizened",
@@ -4677,7 +4832,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 155
+        "id": 155,
+        "internal": "0718"
     },
     {
         "name": "Vintage",
@@ -4707,7 +4863,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 156
+        "id": 156,
+        "internal": "0708"
     },
     {
         "name": "Today's",
@@ -4737,7 +4894,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 157
+        "id": 157,
+        "internal": "0719"
     },
     {
         "name": "Half",
@@ -4767,7 +4925,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 158
+        "id": 158,
+        "internal": "0721"
     },
     {
         "name": "Microscopic",
@@ -4797,7 +4956,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 159
+        "id": 159,
+        "internal": "0722"
     },
     {
         "name": "Virtual",
@@ -4827,7 +4987,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 160
+        "id": 160,
+        "internal": "0720"
     },
     {
         "name": "Glam",
@@ -4857,7 +5018,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 161
+        "id": 161,
+        "internal": "0707"
     },
     {
         "name": "Breakin'",
@@ -4887,7 +5049,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 162
+        "id": 162,
+        "internal": "0705"
     },
     {
         "name": "Sporty",
@@ -4917,7 +5080,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 163
+        "id": 163,
+        "internal": "0704"
     },
     {
         "name": "Badlands",
@@ -4947,7 +5111,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 164
+        "id": 164,
+        "internal": "0689"
     },
     {
         "name": "Snowy",
@@ -4977,7 +5142,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 165
+        "id": 165,
+        "internal": "0690"
     },
     {
         "name": "Seaside",
@@ -5007,7 +5173,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 166
+        "id": 166,
+        "internal": "0691"
     },
     {
         "name": "Big-Sky",
@@ -5037,7 +5204,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 167
+        "id": 167,
+        "internal": "0692"
     },
     {
         "name": "Dry",
@@ -5067,7 +5235,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 168
+        "id": 168,
+        "internal": "0693"
     },
     {
         "name": "Raw",
@@ -5097,7 +5266,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 169
+        "id": 169,
+        "internal": "0694"
     },
     {
         "name": "Awesome",
@@ -5127,7 +5297,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 170
+        "id": 170,
+        "internal": "0695"
     },
     {
         "name": "SUPERFRESH",
@@ -5157,7 +5328,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 171
+        "id": 171,
+        "internal": "0696"
     },
     {
         "name": "Splatoon",
@@ -5187,7 +5359,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 172
+        "id": 172,
+        "internal": "0697"
     },
     {
         "name": "Avant-Garde",
@@ -5217,7 +5390,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 173
+        "id": 173,
+        "internal": "0698"
     },
     {
         "name": "Punk",
@@ -5247,7 +5421,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 174
+        "id": 174,
+        "internal": "0699"
     },
     {
         "name": "Mod",
@@ -5277,7 +5452,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 175
+        "id": 175,
+        "internal": "0700"
     },
     {
         "name": "Goth",
@@ -5307,7 +5483,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 176
+        "id": 176,
+        "internal": "0701"
     },
     {
         "name": "Rockabilly",
@@ -5337,7 +5514,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 177
+        "id": 177,
+        "internal": "0702"
     },
     {
         "name": "Casual",
@@ -5367,7 +5545,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 178
+        "id": 178,
+        "internal": "0703"
     },
     {
         "name": "Arctic Ocean",
@@ -5397,7 +5576,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 179
+        "id": 179,
+        "internal": "3005"
     },
     {
         "name": "South Atlantic",
@@ -5427,7 +5607,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 180
+        "id": 180,
+        "internal": "3006"
     },
     {
         "name": "South Pacific",
@@ -5457,7 +5638,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 181
+        "id": 181,
+        "internal": "3007"
     },
     {
         "name": "The Shoal's Own",
@@ -5487,7 +5669,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 182
+        "id": 182,
+        "internal": "3008"
     },
     {
         "name": "Official-Grizzco",
@@ -5517,7 +5700,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 183
+        "id": 183,
+        "internal": "3009"
     },
     {
         "name": "The Crater's",
@@ -5547,7 +5731,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 184
+        "id": 184,
+        "internal": "3010"
     },
     {
         "name": "The City's Own",
@@ -5577,7 +5762,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 185
+        "id": 185,
+        "internal": "3011"
     },
     {
         "name": "Lobby-Bound",
@@ -5607,7 +5793,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 186
+        "id": 186,
+        "internal": "3012"
     },
     {
         "name": "Third-Gen",
@@ -5637,7 +5824,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 187
+        "id": 187,
+        "internal": "3013"
     },
     {
         "name": "Chaotic",
@@ -5667,7 +5855,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 188
+        "id": 188,
+        "internal": "3014"
     },
     {
         "name": "Midsummer",
@@ -5697,7 +5886,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 189
+        "id": 189,
+        "internal": "3015"
     },
     {
         "name": "Alternan",
@@ -5727,7 +5917,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 190
+        "id": 190,
+        "internal": "3100"
     },
     {
         "name": "Fun",
@@ -5757,7 +5948,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 191
+        "id": 191,
+        "internal": "3200"
     },
     {
         "name": "The Strongest",
@@ -5787,7 +5979,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 192
+        "id": 192,
+        "internal": "3201"
     },
     {
         "name": "Crusty",
@@ -5817,7 +6010,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 193
+        "id": 193,
+        "internal": "3300"
     },
     {
         "name": "Antarctic Ocean",
@@ -5847,7 +6041,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 194
+        "id": 194,
+        "internal": "3004"
     },
     {
         "name": "DJ",
@@ -5877,7 +6072,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 195
+        "id": 195,
+        "internal": "0688"
     },
     {
         "name": "North Pacific",
@@ -5907,7 +6103,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 196
+        "id": 196,
+        "internal": "3003"
     },
     {
         "name": "Indian Ocean",
@@ -5937,7 +6134,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 197
+        "id": 197,
+        "internal": "3001"
     },
     {
         "name": "Super-Duper Lucky",
@@ -5967,7 +6165,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 198
+        "id": 198,
+        "internal": "2500"
     },
     {
         "name": "Splatlandian",
@@ -5997,7 +6196,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 199
+        "id": 199,
+        "internal": "3000"
     },
     {
         "name": "North Atlantic",
@@ -6027,7 +6227,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 200
+        "id": 200,
+        "internal": "3002"
     },
     {
         "name": "Glimmering",
@@ -6057,7 +6258,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 201
+        "id": 201,
+        "internal": "0398"
     },
     {
         "name": "Roaming",
@@ -6087,7 +6289,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 202
+        "id": 202,
+        "internal": "0687"
     },
     {
         "name": "Second-Generation",
@@ -6117,7 +6320,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 203
+        "id": 203,
+        "internal": "0684"
     },
     {
         "name": "Glistening",
@@ -6147,7 +6351,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 204
+        "id": 204,
+        "internal": "0625"
     },
     {
         "name": "Sparkling",
@@ -6177,7 +6382,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 205
+        "id": 205,
+        "internal": "0626"
     },
     {
         "name": "Gigantified",
@@ -6207,7 +6413,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 206
+        "id": 206,
+        "internal": "0627"
     },
     {
         "name": "Camera-Facing",
@@ -6237,7 +6444,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 207
+        "id": 207,
+        "internal": "0629"
     },
     {
         "name": "Clockwork",
@@ -6267,7 +6475,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 208
+        "id": 208,
+        "internal": "0630"
     },
     {
         "name": "Solid",
@@ -6297,7 +6506,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 209
+        "id": 209,
+        "internal": "0631"
     },
     {
         "name": "The GOAT",
@@ -6327,7 +6537,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 210
+        "id": 210,
+        "internal": "0624"
     },
     {
         "name": "Fully",
@@ -6357,7 +6568,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 211
+        "id": 211,
+        "internal": "0632"
     },
     {
         "name": "Carnivorous",
@@ -6387,7 +6599,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 212
+        "id": 212,
+        "internal": "0634"
     },
     {
         "name": "Homebound",
@@ -6417,7 +6630,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 213
+        "id": 213,
+        "internal": "0635"
     },
     {
         "name": "Fish-Lovin'",
@@ -6447,7 +6661,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 214
+        "id": 214,
+        "internal": "0636"
     },
     {
         "name": "Sketching",
@@ -6477,7 +6692,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 215
+        "id": 215,
+        "internal": "0638"
     },
     {
         "name": "Precocious",
@@ -6507,7 +6723,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 216
+        "id": 216,
+        "internal": "0639"
     },
     {
         "name": "Easy-Peasy",
@@ -6537,7 +6754,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 217
+        "id": 217,
+        "internal": "0640"
     },
     {
         "name": "Unperceived",
@@ -6567,7 +6785,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 218
+        "id": 218,
+        "internal": "0633"
     },
     {
         "name": "Pretty Good",
@@ -6597,7 +6816,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 219
+        "id": 219,
+        "internal": "0623"
     },
     {
         "name": "Arcade-Hopping",
@@ -6627,7 +6847,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 220
+        "id": 220,
+        "internal": "0622"
     },
     {
         "name": "Praiseworthy",
@@ -6657,7 +6878,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 221
+        "id": 221,
+        "internal": "0621"
     },
     {
         "name": "Diving",
@@ -6687,7 +6909,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 222
+        "id": 222,
+        "internal": "0601"
     },
     {
         "name": "Dynamite",
@@ -6717,7 +6940,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 223
+        "id": 223,
+        "internal": "0602"
     },
     {
         "name": "Overall",
@@ -6747,7 +6971,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 224
+        "id": 224,
+        "internal": "0604"
     },
     {
         "name": "Bargain-Binned",
@@ -6777,7 +7002,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 225
+        "id": 225,
+        "internal": "0605"
     },
     {
         "name": "Slim",
@@ -6807,7 +7033,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 226
+        "id": 226,
+        "internal": "0607"
     },
     {
         "name": "Out-of-Options",
@@ -6837,7 +7064,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 227
+        "id": 227,
+        "internal": "0608"
     },
     {
         "name": "Steampunky",
@@ -6867,7 +7095,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 228
+        "id": 228,
+        "internal": "0609"
     },
     {
         "name": "Numb",
@@ -6897,7 +7126,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 229
+        "id": 229,
+        "internal": "0610"
     },
     {
         "name": "Hiking",
@@ -6927,7 +7157,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 230
+        "id": 230,
+        "internal": "0612"
     },
     {
         "name": "Wandering",
@@ -6957,7 +7188,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 231
+        "id": 231,
+        "internal": "0613"
     },
     {
         "name": "Unyielding",
@@ -6987,7 +7219,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 232
+        "id": 232,
+        "internal": "0615"
     },
     {
         "name": "Economical",
@@ -7017,7 +7250,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 233
+        "id": 233,
+        "internal": "0617"
     },
     {
         "name": "Gothic",
@@ -7047,7 +7281,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 234
+        "id": 234,
+        "internal": "0618"
     },
     {
         "name": "High-Performing",
@@ -7077,7 +7312,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 235
+        "id": 235,
+        "internal": "0620"
     },
     {
         "name": "Made-to-Order",
@@ -7107,7 +7343,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 236
+        "id": 236,
+        "internal": "0642"
     },
     {
         "name": "Elegant",
@@ -7137,7 +7374,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 237
+        "id": 237,
+        "internal": "0643"
     },
     {
         "name": "Water-Breathing",
@@ -7167,7 +7405,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 238
+        "id": 238,
+        "internal": "0644"
     },
     {
         "name": "The Eternal",
@@ -7197,7 +7436,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 239
+        "id": 239,
+        "internal": "0645"
     },
     {
         "name": "Summer-Fun",
@@ -7227,7 +7467,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 240
+        "id": 240,
+        "internal": "0669"
     },
     {
         "name": "Winter-Ready",
@@ -7257,7 +7498,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 241
+        "id": 241,
+        "internal": "0670"
     },
     {
         "name": "Not-Streaming",
@@ -7287,7 +7529,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 242
+        "id": 242,
+        "internal": "0671"
     },
     {
         "name": "Daylit",
@@ -7317,7 +7560,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 243
+        "id": 243,
+        "internal": "0672"
     },
     {
         "name": "Dawning",
@@ -7347,7 +7591,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 244
+        "id": 244,
+        "internal": "0673"
     },
     {
         "name": "Realistic",
@@ -7377,7 +7622,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 245
+        "id": 245,
+        "internal": "0674"
     },
     {
         "name": "Lightly Snacking",
@@ -7407,7 +7653,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 246
+        "id": 246,
+        "internal": "0675"
     },
     {
         "name": "Late-Night",
@@ -7437,7 +7684,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 247
+        "id": 247,
+        "internal": "0676"
     },
     {
         "name": "Comfy-Cozy",
@@ -7467,7 +7715,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 248
+        "id": 248,
+        "internal": "0677"
     },
     {
         "name": "Fearful",
@@ -7497,7 +7746,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 249
+        "id": 249,
+        "internal": "0678"
     },
     {
         "name": "Winter-Breaking",
@@ -7527,7 +7777,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 250
+        "id": 250,
+        "internal": "0679"
     },
     {
         "name": "So-Called",
@@ -7557,7 +7808,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 251
+        "id": 251,
+        "internal": "0680"
     },
     {
         "name": "Intuitive",
@@ -7587,7 +7839,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 252
+        "id": 252,
+        "internal": "0681"
     },
     {
         "name": "A Complex",
@@ -7617,7 +7870,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 253
+        "id": 253,
+        "internal": "0682"
     },
     {
         "name": "The Original",
@@ -7647,7 +7901,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 254
+        "id": 254,
+        "internal": "0683"
     },
     {
         "name": "Crab-N-Go",
@@ -7677,7 +7932,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 255
+        "id": 255,
+        "internal": "0667"
     },
     {
         "name": "The Best",
@@ -7707,7 +7963,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 256
+        "id": 256,
+        "internal": "0686"
     },
     {
         "name": "Decade-Experienced",
@@ -7737,7 +7994,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 257
+        "id": 257,
+        "internal": "0666"
     },
     {
         "name": "amiibo-Collecting",
@@ -7767,7 +8025,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 258
+        "id": 258,
+        "internal": "0664"
     },
     {
         "name": "Instant",
@@ -7797,7 +8056,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 259
+        "id": 259,
+        "internal": "0646"
     },
     {
         "name": "The Usual",
@@ -7827,7 +8087,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 260
+        "id": 260,
+        "internal": "0647"
     },
     {
         "name": "Ready-to-Go",
@@ -7857,7 +8118,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 261
+        "id": 261,
+        "internal": "0648"
     },
     {
         "name": "Lively",
@@ -7887,7 +8149,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 262
+        "id": 262,
+        "internal": "0650"
     },
     {
         "name": "Unstoppable",
@@ -7917,7 +8180,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 263
+        "id": 263,
+        "internal": "0651"
     },
     {
         "name": "Underground",
@@ -7947,7 +8211,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 264
+        "id": 264,
+        "internal": "0652"
     },
     {
         "name": "The Real Ultimate",
@@ -7977,7 +8242,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 265
+        "id": 265,
+        "internal": "0653"
     },
     {
         "name": "Overflowing",
@@ -8007,7 +8273,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 266
+        "id": 266,
+        "internal": "0654"
     },
     {
         "name": "Toon-Lovin'",
@@ -8037,7 +8304,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 267
+        "id": 267,
+        "internal": "0655"
     },
     {
         "name": "Splendid",
@@ -8067,7 +8335,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 268
+        "id": 268,
+        "internal": "0656"
     },
     {
         "name": "Warm-and-Cozy",
@@ -8097,7 +8366,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 269
+        "id": 269,
+        "internal": "0657"
     },
     {
         "name": "Amped-Up",
@@ -8127,7 +8397,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 270
+        "id": 270,
+        "internal": "0660"
     },
     {
         "name": "Outdoorsy",
@@ -8157,7 +8428,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 271
+        "id": 271,
+        "internal": "0661"
     },
     {
         "name": "Tech-Minded",
@@ -8187,7 +8459,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 272
+        "id": 272,
+        "internal": "0662"
     },
     {
         "name": "Lovable",
@@ -8217,7 +8490,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 273
+        "id": 273,
+        "internal": "0663"
     },
     {
         "name": "5-Year-Planning",
@@ -8247,7 +8521,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 274
+        "id": 274,
+        "internal": "0665"
     },
     {
         "name": "Fully Automatic",
@@ -8277,7 +8552,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 275
+        "id": 275,
+        "internal": "0397"
     },
     {
         "name": "Ancient",
@@ -8307,7 +8583,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 276
+        "id": 276,
+        "internal": "0394"
     },
     {
         "name": "Amateur",
@@ -8337,7 +8614,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 277
+        "id": 277,
+        "internal": "0164"
     },
     {
         "name": "Inkopolis Square's",
@@ -8367,7 +8645,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 278
+        "id": 278,
+        "internal": "0165"
     },
     {
         "name": "Inkopolis's Own",
@@ -8397,7 +8676,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 279
+        "id": 279,
+        "internal": "0166"
     },
     {
         "name": "Inkopolitan",
@@ -8427,7 +8707,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 280
+        "id": 280,
+        "internal": "0167"
     },
     {
         "name": "Feral",
@@ -8457,7 +8738,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 281
+        "id": 281,
+        "internal": "0168"
     },
     {
         "name": "Downtown",
@@ -8487,7 +8769,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 282
+        "id": 282,
+        "internal": "0169"
     },
     {
         "name": "Pro",
@@ -8517,7 +8800,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 283
+        "id": 283,
+        "internal": "0163"
     },
     {
         "name": "Country-Born",
@@ -8547,7 +8831,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 284
+        "id": 284,
+        "internal": "0170"
     },
     {
         "name": "Trending",
@@ -8577,7 +8862,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 285
+        "id": 285,
+        "internal": "0172"
     },
     {
         "name": "Shortcut-Taking",
@@ -8607,7 +8893,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 286
+        "id": 286,
+        "internal": "0173"
     },
     {
         "name": "Fluid",
@@ -8637,7 +8924,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 287
+        "id": 287,
+        "internal": "0174"
     },
     {
         "name": "Optimistic",
@@ -8667,7 +8955,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 288
+        "id": 288,
+        "internal": "0175"
     },
     {
         "name": "Daydreamin'",
@@ -8697,7 +8986,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 289
+        "id": 289,
+        "internal": "0177"
     },
     {
         "name": "Clever",
@@ -8727,7 +9017,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 290
+        "id": 290,
+        "internal": "0178"
     },
     {
         "name": "Greedy",
@@ -8757,7 +9048,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 291
+        "id": 291,
+        "internal": "0171"
     },
     {
         "name": "Low-Key",
@@ -8787,7 +9079,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 292
+        "id": 292,
+        "internal": "0162"
     },
     {
         "name": "Right-Handed",
@@ -8817,7 +9110,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 293
+        "id": 293,
+        "internal": "0161"
     },
     {
         "name": "Meditative",
@@ -8847,7 +9141,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 294
+        "id": 294,
+        "internal": "0160"
     },
     {
         "name": "Fall-Themed",
@@ -8877,7 +9172,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 295
+        "id": 295,
+        "internal": "0144"
     },
     {
         "name": "Spring-Fresh",
@@ -8907,7 +9203,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 296
+        "id": 296,
+        "internal": "0145"
     },
     {
         "name": "Captivating",
@@ -8937,7 +9234,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 297
+        "id": 297,
+        "internal": "0146"
     },
     {
         "name": "The",
@@ -8967,7 +9265,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 298
+        "id": 298,
+        "internal": "0147"
     },
     {
         "name": "Low-Rolling",
@@ -8997,7 +9296,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 299
+        "id": 299,
+        "internal": "0148"
     },
     {
         "name": "High-Rolling",
@@ -9027,7 +9327,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 300
+        "id": 300,
+        "internal": "0149"
     },
     {
         "name": "Commanding",
@@ -9057,7 +9358,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 301
+        "id": 301,
+        "internal": "0150"
     },
     {
         "name": "Wannabe",
@@ -9087,7 +9389,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 302
+        "id": 302,
+        "internal": "0151"
     },
     {
         "name": "Deadeye",
@@ -9117,7 +9420,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 303
+        "id": 303,
+        "internal": "0152"
     },
     {
         "name": "Reckless",
@@ -9147,7 +9451,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 304
+        "id": 304,
+        "internal": "0154"
     },
     {
         "name": "Chilled-Out",
@@ -9177,7 +9482,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 305
+        "id": 305,
+        "internal": "0155"
     },
     {
         "name": "Silent",
@@ -9207,7 +9513,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 306
+        "id": 306,
+        "internal": "0156"
     },
     {
         "name": "Ambidextrous",
@@ -9237,7 +9544,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 307
+        "id": 307,
+        "internal": "0157"
     },
     {
         "name": "Stand-Up",
@@ -9267,7 +9575,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 308
+        "id": 308,
+        "internal": "0158"
     },
     {
         "name": "Livestreaming",
@@ -9297,7 +9606,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 309
+        "id": 309,
+        "internal": "0159"
     },
     {
         "name": "Hungry, Hungry",
@@ -9327,7 +9637,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 310
+        "id": 310,
+        "internal": "0179"
     },
     {
         "name": "Day-Seizing",
@@ -9357,7 +9668,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 311
+        "id": 311,
+        "internal": "0143"
     },
     {
         "name": "Competitive",
@@ -9387,7 +9699,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 312
+        "id": 312,
+        "internal": "0180"
     },
     {
         "name": "Half-Hearted",
@@ -9417,7 +9730,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 313
+        "id": 313,
+        "internal": "0182"
     },
     {
         "name": "Vacationing",
@@ -9447,7 +9761,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 314
+        "id": 314,
+        "internal": "0206"
     },
     {
         "name": "Nostalgic",
@@ -9477,7 +9792,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 315
+        "id": 315,
+        "internal": "0207"
     },
     {
         "name": "Homecoming",
@@ -9507,7 +9823,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 316
+        "id": 316,
+        "internal": "0208"
     },
     {
         "name": "Hard-Workin'",
@@ -9537,7 +9854,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 317
+        "id": 317,
+        "internal": "0209"
     },
     {
         "name": "Sweet-Toothed",
@@ -9567,7 +9885,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 318
+        "id": 318,
+        "internal": "0210"
     },
     {
         "name": "Seafaring",
@@ -9597,7 +9916,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 319
+        "id": 319,
+        "internal": "0211"
     },
     {
         "name": "Super-Scary",
@@ -9627,7 +9947,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 320
+        "id": 320,
+        "internal": "0205"
     },
     {
         "name": "Self-Taught",
@@ -9657,7 +9978,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 321
+        "id": 321,
+        "internal": "0212"
     },
     {
         "name": "Processed",
@@ -9687,7 +10009,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 322
+        "id": 322,
+        "internal": "0214"
     },
     {
         "name": "Not-So-Fresh",
@@ -9717,7 +10040,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 323
+        "id": 323,
+        "internal": "0215"
     },
     {
         "name": "Salty",
@@ -9747,7 +10071,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 324
+        "id": 324,
+        "internal": "0216"
     },
     {
         "name": "Destined",
@@ -9777,7 +10102,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 325
+        "id": 325,
+        "internal": "0217"
     },
     {
         "name": "Gullible",
@@ -9807,7 +10133,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 326
+        "id": 326,
+        "internal": "0219"
     },
     {
         "name": "Wiped-Out",
@@ -9837,7 +10164,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 327
+        "id": 327,
+        "internal": "0220"
     },
     {
         "name": "Summer-Breaking",
@@ -9867,7 +10195,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 328
+        "id": 328,
+        "internal": "0213"
     },
     {
         "name": "Assertive",
@@ -9897,7 +10226,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 329
+        "id": 329,
+        "internal": "0204"
     },
     {
         "name": "Groundbreaking",
@@ -9927,7 +10257,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 330
+        "id": 330,
+        "internal": "0203"
     },
     {
         "name": "Lonely",
@@ -9957,7 +10288,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 331
+        "id": 331,
+        "internal": "0202"
     },
     {
         "name": "Early-Bird",
@@ -9987,7 +10319,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 332
+        "id": 332,
+        "internal": "0183"
     },
     {
         "name": "Daring",
@@ -10017,7 +10350,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 333
+        "id": 333,
+        "internal": "0184"
     },
     {
         "name": "Hungry",
@@ -10047,7 +10381,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 334
+        "id": 334,
+        "internal": "0185"
     },
     {
         "name": "Athletic",
@@ -10077,7 +10412,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 335
+        "id": 335,
+        "internal": "0186"
     },
     {
         "name": "Early-Morning",
@@ -10107,7 +10443,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 336
+        "id": 336,
+        "internal": "0187"
     },
     {
         "name": "Inkslinging",
@@ -10137,7 +10474,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 337
+        "id": 337,
+        "internal": "0188"
     },
     {
         "name": "Up-and-at-'Em",
@@ -10167,7 +10505,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 338
+        "id": 338,
+        "internal": "0189"
     },
     {
         "name": "Deep-Sea",
@@ -10197,7 +10536,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 339
+        "id": 339,
+        "internal": "0191"
     },
     {
         "name": "Rise-and-Shine",
@@ -10227,7 +10567,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 340
+        "id": 340,
+        "internal": "0193"
     },
     {
         "name": "Beachy",
@@ -10257,7 +10598,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 341
+        "id": 341,
+        "internal": "0194"
     },
     {
         "name": "Freewheelin'",
@@ -10287,7 +10629,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 342
+        "id": 342,
+        "internal": "0195"
     },
     {
         "name": "Old-Fashioned",
@@ -10317,7 +10660,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 343
+        "id": 343,
+        "internal": "0196"
     },
     {
         "name": "World's Best",
@@ -10347,7 +10691,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 344
+        "id": 344,
+        "internal": "0197"
     },
     {
         "name": "National",
@@ -10377,7 +10722,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 345
+        "id": 345,
+        "internal": "0200"
     },
     {
         "name": "Stormy",
@@ -10407,7 +10753,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 346
+        "id": 346,
+        "internal": "0201"
     },
     {
         "name": "Slapdash",
@@ -10437,7 +10784,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 347
+        "id": 347,
+        "internal": "0181"
     },
     {
         "name": "Sizzlin'",
@@ -10467,7 +10815,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 348
+        "id": 348,
+        "internal": "0142"
     },
     {
         "name": "All-Natural",
@@ -10497,7 +10846,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 349
+        "id": 349,
+        "internal": "0141"
     },
     {
         "name": "Trendsetting",
@@ -10527,7 +10877,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 350
+        "id": 350,
+        "internal": "0140"
     },
     {
         "name": "Sockeye Station",
@@ -10557,7 +10908,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 351
+        "id": 351,
+        "internal": "0045"
     },
     {
         "name": "Gone Fission Hydroplant",
@@ -10587,7 +10939,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 352
+        "id": 352,
+        "internal": "0046"
     },
     {
         "name": "Regular Battle",
@@ -10617,7 +10970,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 353
+        "id": 353,
+        "internal": "0060"
     },
     {
         "name": "Anarchy Battle",
@@ -10647,7 +11001,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 354
+        "id": 354,
+        "internal": "0061"
     },
     {
         "name": "Story Mode",
@@ -10677,7 +11032,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 355
+        "id": 355,
+        "internal": "0063"
     },
     {
         "name": "Salmon Run",
@@ -10707,7 +11063,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 356
+        "id": 356,
+        "internal": "0064"
     },
     {
         "name": "Inkless",
@@ -10737,7 +11094,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 357
+        "id": 357,
+        "internal": "0100"
     },
     {
         "name": "Clocked-Out",
@@ -10767,7 +11125,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 358
+        "id": 358,
+        "internal": "0101"
     },
     {
         "name": "Private Battle",
@@ -10797,7 +11156,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 359
+        "id": 359,
+        "internal": "0062"
     },
     {
         "name": "Spawning Grounds",
@@ -10827,7 +11187,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 360
+        "id": 360,
+        "internal": "0040"
     },
     {
         "name": "Eeltail Alley",
@@ -10857,7 +11218,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 361
+        "id": 361,
+        "internal": "0001"
     },
     {
         "name": "Hagglefish Market",
@@ -10887,7 +11249,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 362
+        "id": 362,
+        "internal": "0002"
     },
     {
         "name": "Undertow Spillway",
@@ -10917,7 +11280,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 363
+        "id": 363,
+        "internal": "0003"
     },
     {
         "name": "Mincemeat Metalworks",
@@ -10947,7 +11311,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 364
+        "id": 364,
+        "internal": "0005"
     },
     {
         "name": "Hammerhead Bridge",
@@ -10977,7 +11342,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 365
+        "id": 365,
+        "internal": "0008"
     },
     {
         "name": "Museum d'Alfonsino",
@@ -11007,7 +11373,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 366
+        "id": 366,
+        "internal": "0009"
     },
     {
         "name": "Mahi-Mahi Resort",
@@ -11037,7 +11404,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 367
+        "id": 367,
+        "internal": "0010"
     },
     {
         "name": "Inkblot Art Academy",
@@ -11067,7 +11435,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 368
+        "id": 368,
+        "internal": "0011"
     },
     {
         "name": "Sturgeon Shipyard",
@@ -11097,7 +11466,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 369
+        "id": 369,
+        "internal": "0012"
     },
     {
         "name": "MakoMart",
@@ -11127,7 +11497,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 370
+        "id": 370,
+        "internal": "0013"
     },
     {
         "name": "Wahoo World",
@@ -11157,7 +11528,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 371
+        "id": 371,
+        "internal": "0014"
     },
     {
         "name": "Attention-Seeking",
@@ -11187,7 +11559,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 372
+        "id": 372,
+        "internal": "0102"
     },
     {
         "name": "Southpaw",
@@ -11217,7 +11590,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 373
+        "id": 373,
+        "internal": "0103"
     },
     {
         "name": "Splatsville's",
@@ -11247,7 +11621,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 374
+        "id": 374,
+        "internal": "0104"
     },
     {
         "name": "Big-Money",
@@ -11277,7 +11652,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 375
+        "id": 375,
+        "internal": "0105"
     },
     {
         "name": "High-Tide",
@@ -11307,7 +11683,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 376
+        "id": 376,
+        "internal": "0125"
     },
     {
         "name": "Cohock-Chargin'",
@@ -11337,7 +11714,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 377
+        "id": 377,
+        "internal": "0126"
     },
     {
         "name": "Foggy",
@@ -11367,7 +11745,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 378
+        "id": 378,
+        "internal": "0127"
     },
     {
         "name": "Low-Tide",
@@ -11397,7 +11776,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 379
+        "id": 379,
+        "internal": "0128"
     },
     {
         "name": "Fall-Lovin'",
@@ -11427,7 +11807,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 380
+        "id": 380,
+        "internal": "0129"
     },
     {
         "name": "Spring-Lovin'",
@@ -11457,7 +11838,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 381
+        "id": 381,
+        "internal": "0130"
     },
     {
         "name": "Winter-Lovin'",
@@ -11487,7 +11869,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 382
+        "id": 382,
+        "internal": "0131"
     },
     {
         "name": "Summer-Lovin'",
@@ -11517,7 +11900,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 383
+        "id": 383,
+        "internal": "0132"
     },
     {
         "name": "Blissed-Out",
@@ -11547,7 +11931,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 384
+        "id": 384,
+        "internal": "0133"
     },
     {
         "name": "Trendy",
@@ -11577,7 +11962,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 385
+        "id": 385,
+        "internal": "0134"
     },
     {
         "name": "Sharp-Edged",
@@ -11607,7 +11993,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 386
+        "id": 386,
+        "internal": "0135"
     },
     {
         "name": "Stylin'",
@@ -11637,7 +12024,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 387
+        "id": 387,
+        "internal": "0136"
     },
     {
         "name": "Cool",
@@ -11667,7 +12055,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 388
+        "id": 388,
+        "internal": "0137"
     },
     {
         "name": "Basic",
@@ -11697,7 +12086,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 389
+        "id": 389,
+        "internal": "0138"
     },
     {
         "name": "Traditional",
@@ -11727,7 +12117,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 390
+        "id": 390,
+        "internal": "0139"
     },
     {
         "name": "Mid-Rush",
@@ -11757,7 +12148,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 391
+        "id": 391,
+        "internal": "0124"
     },
     {
         "name": "Rockin'",
@@ -11787,7 +12179,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 392
+        "id": 392,
+        "internal": "0221"
     },
     {
         "name": "Legendary",
@@ -11817,7 +12210,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 393
+        "id": 393,
+        "internal": "0123"
     },
     {
         "name": "Overachieving",
@@ -11847,7 +12241,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 394
+        "id": 394,
+        "internal": "0121"
     },
     {
         "name": "Normcore",
@@ -11877,7 +12272,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 395
+        "id": 395,
+        "internal": "0106"
     },
     {
         "name": "Faithful",
@@ -11907,7 +12303,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 396
+        "id": 396,
+        "internal": "0107"
     },
     {
         "name": "Defensive",
@@ -11937,7 +12334,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 397
+        "id": 397,
+        "internal": "0108"
     },
     {
         "name": "Champion",
@@ -11967,7 +12365,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 398
+        "id": 398,
+        "internal": "0109"
     },
     {
         "name": "Royal",
@@ -11997,7 +12396,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 399
+        "id": 399,
+        "internal": "0110"
     },
     {
         "name": "Ammo Knights",
@@ -12027,7 +12427,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 400
+        "id": 400,
+        "internal": "0111"
     },
     {
         "name": "Naut Couture",
@@ -12057,7 +12458,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 401
+        "id": 401,
+        "internal": "0112"
     },
     {
         "name": "Man-o'-Wardrobe",
@@ -12087,7 +12489,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 402
+        "id": 402,
+        "internal": "0113"
     },
     {
         "name": "Crush Station",
@@ -12117,7 +12520,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 403
+        "id": 403,
+        "internal": "0114"
     },
     {
         "name": "Hotlantis",
@@ -12147,7 +12551,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 404
+        "id": 404,
+        "internal": "0115"
     },
     {
         "name": "Tableturf Battling",
@@ -12177,7 +12582,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 405
+        "id": 405,
+        "internal": "0116"
     },
     {
         "name": "Research-Conducting",
@@ -12207,7 +12613,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 406
+        "id": 406,
+        "internal": "0117"
     },
     {
         "name": "Apprentice",
@@ -12237,7 +12644,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 407
+        "id": 407,
+        "internal": "0118"
     },
     {
         "name": "Part-Time",
@@ -12267,7 +12675,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 408
+        "id": 408,
+        "internal": "0119"
     },
     {
         "name": "Go-Gettin'",
@@ -12297,7 +12706,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 409
+        "id": 409,
+        "internal": "0120"
     },
     {
         "name": "Profreshional",
@@ -12327,7 +12737,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 410
+        "id": 410,
+        "internal": "0122"
     },
     {
         "name": "Retro",
@@ -12357,7 +12768,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 411
+        "id": 411,
+        "internal": "0222"
     },
     {
         "name": "Careless",
@@ -12387,7 +12799,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 412
+        "id": 412,
+        "internal": "0224"
     },
     {
         "name": "Avaricious",
@@ -12417,7 +12830,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 413
+        "id": 413,
+        "internal": "0225"
     },
     {
         "name": "Instantaneous",
@@ -12447,7 +12861,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 414
+        "id": 414,
+        "internal": "0326"
     },
     {
         "name": "Tear-Stained",
@@ -12477,7 +12892,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 415
+        "id": 415,
+        "internal": "0329"
     },
     {
         "name": "Traveling",
@@ -12507,7 +12923,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 416
+        "id": 416,
+        "internal": "0330"
     },
     {
         "name": "Next Year's",
@@ -12537,7 +12954,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 417
+        "id": 417,
+        "internal": "0332"
     },
     {
         "name": "Twilight",
@@ -12567,7 +12985,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 418
+        "id": 418,
+        "internal": "0334"
     },
     {
         "name": "The One and Only",
@@ -12597,7 +13016,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 419
+        "id": 419,
+        "internal": "0335"
     },
     {
         "name": "Ambiguous",
@@ -12627,7 +13047,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 420
+        "id": 420,
+        "internal": "0325"
     },
     {
         "name": "Beefy",
@@ -12657,7 +13078,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 421
+        "id": 421,
+        "internal": "0336"
     },
     {
         "name": "Lost",
@@ -12687,7 +13109,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 422
+        "id": 422,
+        "internal": "0338"
     },
     {
         "name": "Procrastinating",
@@ -12717,7 +13140,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 423
+        "id": 423,
+        "internal": "0339"
     },
     {
         "name": "Honorary",
@@ -12747,7 +13171,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 424
+        "id": 424,
+        "internal": "0340"
     },
     {
         "name": "Tasteless",
@@ -12777,7 +13202,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 425
+        "id": 425,
+        "internal": "0341"
     },
     {
         "name": "Merciless",
@@ -12807,7 +13233,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 426
+        "id": 426,
+        "internal": "0343"
     },
     {
         "name": "Infinite",
@@ -12837,7 +13264,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 427
+        "id": 427,
+        "internal": "0344"
     },
     {
         "name": "Sharp-Eyed",
@@ -12867,7 +13295,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 428
+        "id": 428,
+        "internal": "0337"
     },
     {
         "name": "Fierce",
@@ -12897,7 +13326,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 429
+        "id": 429,
+        "internal": "0324"
     },
     {
         "name": "Central",
@@ -12927,7 +13357,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 430
+        "id": 430,
+        "internal": "0323"
     },
     {
         "name": "Mysterious",
@@ -12957,7 +13388,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 431
+        "id": 431,
+        "internal": "0322"
     },
     {
         "name": "Mild-Mannered",
@@ -12987,7 +13419,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 432
+        "id": 432,
+        "internal": "0307"
     },
     {
         "name": "Cheerful",
@@ -13017,7 +13450,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 433
+        "id": 433,
+        "internal": "0308"
     },
     {
         "name": "High-End",
@@ -13047,7 +13481,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 434
+        "id": 434,
+        "internal": "0309"
     },
     {
         "name": "Chatty",
@@ -13077,7 +13512,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 435
+        "id": 435,
+        "internal": "0310"
     },
     {
         "name": "Cash-Stacking",
@@ -13107,7 +13543,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 436
+        "id": 436,
+        "internal": "0311"
     },
     {
         "name": "Absentminded",
@@ -13137,7 +13574,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 437
+        "id": 437,
+        "internal": "0312"
     },
     {
         "name": "Beloved",
@@ -13167,7 +13605,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 438
+        "id": 438,
+        "internal": "0313"
     },
     {
         "name": "Windy",
@@ -13197,7 +13636,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 439
+        "id": 439,
+        "internal": "0314"
     },
     {
         "name": "Watery",
@@ -13227,7 +13667,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 440
+        "id": 440,
+        "internal": "0315"
     },
     {
         "name": "Sneaky",
@@ -13257,7 +13698,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 441
+        "id": 441,
+        "internal": "0316"
     },
     {
         "name": "Fiery",
@@ -13287,7 +13729,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 442
+        "id": 442,
+        "internal": "0317"
     },
     {
         "name": "Incandescent",
@@ -13317,7 +13760,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 443
+        "id": 443,
+        "internal": "0318"
     },
     {
         "name": "Young",
@@ -13347,7 +13791,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 444
+        "id": 444,
+        "internal": "0319"
     },
     {
         "name": "Organized",
@@ -13377,7 +13822,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 445
+        "id": 445,
+        "internal": "0320"
     },
     {
         "name": "Perfect",
@@ -13407,7 +13853,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 446
+        "id": 446,
+        "internal": "0321"
     },
     {
         "name": "Sleepy",
@@ -13437,7 +13884,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 447
+        "id": 447,
+        "internal": "0345"
     },
     {
         "name": "Time-Traveling",
@@ -13467,7 +13915,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 448
+        "id": 448,
+        "internal": "0347"
     },
     {
         "name": "Suave",
@@ -13497,7 +13946,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 449
+        "id": 449,
+        "internal": "0348"
     },
     {
         "name": "Howling",
@@ -13527,7 +13977,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 450
+        "id": 450,
+        "internal": "0350"
     },
     {
         "name": "Savvy",
@@ -13557,7 +14008,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 451
+        "id": 451,
+        "internal": "0375"
     },
     {
         "name": "Fleeing",
@@ -13587,7 +14039,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 452
+        "id": 452,
+        "internal": "0376"
     },
     {
         "name": "Drained",
@@ -13617,7 +14070,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 453
+        "id": 453,
+        "internal": "0377"
     },
     {
         "name": "Reincarnated",
@@ -13647,7 +14101,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 454
+        "id": 454,
+        "internal": "0378"
     },
     {
         "name": "Sun-Dried",
@@ -13677,7 +14132,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 455
+        "id": 455,
+        "internal": "0379"
     },
     {
         "name": "AKA",
@@ -13707,7 +14163,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 456
+        "id": 456,
+        "internal": "0381"
     },
     {
         "name": "Superhuman",
@@ -13737,7 +14194,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 457
+        "id": 457,
+        "internal": "0382"
     },
     {
         "name": "Subterranean",
@@ -13767,7 +14225,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 458
+        "id": 458,
+        "internal": "0385"
     },
     {
         "name": "Massive",
@@ -13797,7 +14256,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 459
+        "id": 459,
+        "internal": "0386"
     },
     {
         "name": "Terrestrial",
@@ -13827,7 +14287,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 460
+        "id": 460,
+        "internal": "0387"
     },
     {
         "name": "Important",
@@ -13857,7 +14318,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 461
+        "id": 461,
+        "internal": "0388"
     },
     {
         "name": "Jumbo",
@@ -13887,7 +14349,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 462
+        "id": 462,
+        "internal": "0389"
     },
     {
         "name": "Oceanic",
@@ -13917,7 +14380,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 463
+        "id": 463,
+        "internal": "0390"
     },
     {
         "name": "Big",
@@ -13947,7 +14411,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 464
+        "id": 464,
+        "internal": "0391"
     },
     {
         "name": "Easygoing ",
@@ -13977,7 +14442,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 465
+        "id": 465,
+        "internal": "0393"
     },
     {
         "name": "Unflappable",
@@ -14007,7 +14473,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 466
+        "id": 466,
+        "internal": "0374"
     },
     {
         "name": "Serious",
@@ -14037,7 +14504,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 467
+        "id": 467,
+        "internal": "0306"
     },
     {
         "name": "Enigmatic",
@@ -14067,7 +14535,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 468
+        "id": 468,
+        "internal": "0372"
     },
     {
         "name": "Daytime",
@@ -14097,7 +14566,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 469
+        "id": 469,
+        "internal": "0370"
     },
     {
         "name": "Phantasmagoric",
@@ -14127,7 +14597,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 470
+        "id": 470,
+        "internal": "0352"
     },
     {
         "name": "Celestial",
@@ -14157,7 +14628,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 471
+        "id": 471,
+        "internal": "0353"
     },
     {
         "name": "Aged",
@@ -14187,7 +14659,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 472
+        "id": 472,
+        "internal": "0354"
     },
     {
         "name": "Lethal",
@@ -14217,7 +14690,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 473
+        "id": 473,
+        "internal": "0357"
     },
     {
         "name": "Secret",
@@ -14247,7 +14721,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 474
+        "id": 474,
+        "internal": "0358"
     },
     {
         "name": "Esoteric",
@@ -14277,7 +14752,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 475
+        "id": 475,
+        "internal": "0359"
     },
     {
         "name": "Exhausted",
@@ -14307,7 +14783,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 476
+        "id": 476,
+        "internal": "0360"
     },
     {
         "name": "Better-Than-You",
@@ -14337,7 +14814,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 477
+        "id": 477,
+        "internal": "0361"
     },
     {
         "name": "All-Purpose",
@@ -14367,7 +14845,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 478
+        "id": 478,
+        "internal": "0362"
     },
     {
         "name": "Gleaming",
@@ -14397,7 +14876,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 479
+        "id": 479,
+        "internal": "0363"
     },
     {
         "name": "Midday",
@@ -14427,7 +14907,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 480
+        "id": 480,
+        "internal": "0364"
     },
     {
         "name": "Unnoticed",
@@ -14457,7 +14938,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 481
+        "id": 481,
+        "internal": "0366"
     },
     {
         "name": "Unprecedented",
@@ -14487,7 +14969,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 482
+        "id": 482,
+        "internal": "0367"
     },
     {
         "name": "Tenacious",
@@ -14517,7 +15000,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 483
+        "id": 483,
+        "internal": "0368"
     },
     {
         "name": "Scorching",
@@ -14547,7 +15031,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 484
+        "id": 484,
+        "internal": "0369"
     },
     {
         "name": "Meaty",
@@ -14577,7 +15062,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 485
+        "id": 485,
+        "internal": "0371"
     },
     {
         "name": "Multiplying",
@@ -14607,7 +15093,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 486
+        "id": 486,
+        "internal": "0395"
     },
     {
         "name": "Confident",
@@ -14637,7 +15124,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 487
+        "id": 487,
+        "internal": "0305"
     },
     {
         "name": "Reliable",
@@ -14667,7 +15155,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 488
+        "id": 488,
+        "internal": "0303"
     },
     {
         "name": "Sappy",
@@ -14697,7 +15186,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 489
+        "id": 489,
+        "internal": "0245"
     },
     {
         "name": "Dodge-Rolling",
@@ -14727,7 +15217,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 490
+        "id": 490,
+        "internal": "0246"
     },
     {
         "name": "Notable",
@@ -14757,7 +15248,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 491
+        "id": 491,
+        "internal": "0247"
     },
     {
         "name": "Explosive",
@@ -14787,7 +15279,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 492
+        "id": 492,
+        "internal": "0248"
     },
     {
         "name": "Shy",
@@ -14817,7 +15310,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 493
+        "id": 493,
+        "internal": "0249"
     },
     {
         "name": "Calamari",
@@ -14847,7 +15341,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 494
+        "id": 494,
+        "internal": "0250"
     },
     {
         "name": "The Lone",
@@ -14877,7 +15372,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 495
+        "id": 495,
+        "internal": "0244"
     },
     {
         "name": "Fishy",
@@ -14907,7 +15403,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 496
+        "id": 496,
+        "internal": "0251"
     },
     {
         "name": "Fuzzy",
@@ -14937,7 +15434,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 497
+        "id": 497,
+        "internal": "0254"
     },
     {
         "name": "The Great",
@@ -14967,7 +15465,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 498
+        "id": 498,
+        "internal": "0255"
     },
     {
         "name": "Birthday-Celebratin'",
@@ -14997,7 +15496,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 499
+        "id": 499,
+        "internal": "0256"
     },
     {
         "name": "Whimsical",
@@ -15027,7 +15527,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 500
+        "id": 500,
+        "internal": "0257"
     },
     {
         "name": "Dangerous",
@@ -15057,7 +15558,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 501
+        "id": 501,
+        "internal": "0258"
     },
     {
         "name": "Legit",
@@ -15087,7 +15589,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 502
+        "id": 502,
+        "internal": "0259"
     },
     {
         "name": "Puffed-Up",
@@ -15117,7 +15620,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 503
+        "id": 503,
+        "internal": "0253"
     },
     {
         "name": "Orderly",
@@ -15147,7 +15651,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 504
+        "id": 504,
+        "internal": "0243"
     },
     {
         "name": "Scientific",
@@ -15177,7 +15682,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 505
+        "id": 505,
+        "internal": "0242"
     },
     {
         "name": "Fresh-Catch",
@@ -15207,7 +15713,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 506
+        "id": 506,
+        "internal": "0241"
     },
     {
         "name": "Mischievous",
@@ -15237,7 +15744,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 507
+        "id": 507,
+        "internal": "0226"
     },
     {
         "name": "Soft",
@@ -15267,7 +15775,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 508
+        "id": 508,
+        "internal": "0227"
     },
     {
         "name": "Unrivaled",
@@ -15297,7 +15806,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 509
+        "id": 509,
+        "internal": "0228"
     },
     {
         "name": "Swole",
@@ -15327,7 +15837,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 510
+        "id": 510,
+        "internal": "0229"
     },
     {
         "name": "Hip",
@@ -15357,7 +15868,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 511
+        "id": 511,
+        "internal": "0230"
     },
     {
         "name": "Brand-New",
@@ -15387,7 +15899,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 512
+        "id": 512,
+        "internal": "0231"
     },
     {
         "name": "Full-Throttle",
@@ -15417,7 +15930,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 513
+        "id": 513,
+        "internal": "0232"
     },
     {
         "name": "Peppy",
@@ -15447,7 +15961,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 514
+        "id": 514,
+        "internal": "0233"
     },
     {
         "name": "Law-Breaking",
@@ -15477,7 +15992,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 515
+        "id": 515,
+        "internal": "0234"
     },
     {
         "name": "At-Work",
@@ -15507,7 +16023,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 516
+        "id": 516,
+        "internal": "0235"
     },
     {
         "name": "The First",
@@ -15537,7 +16054,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 517
+        "id": 517,
+        "internal": "0236"
     },
     {
         "name": "Promising",
@@ -15567,7 +16085,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 518
+        "id": 518,
+        "internal": "0237"
     },
     {
         "name": "Ink-Sloshing",
@@ -15597,7 +16116,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 519
+        "id": 519,
+        "internal": "0238"
     },
     {
         "name": "Wave-Riding",
@@ -15627,7 +16147,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 520
+        "id": 520,
+        "internal": "0239"
     },
     {
         "name": "Swanky",
@@ -15657,7 +16178,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 521
+        "id": 521,
+        "internal": "0240"
     },
     {
         "name": "Dandy",
@@ -15687,7 +16209,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 522
+        "id": 522,
+        "internal": "0260"
     },
     {
         "name": "Ultra",
@@ -15717,7 +16240,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 523
+        "id": 523,
+        "internal": "0261"
     },
     {
         "name": "Floaty",
@@ -15747,7 +16271,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 524
+        "id": 524,
+        "internal": "0262"
     },
     {
         "name": "Indoor",
@@ -15777,7 +16302,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 525
+        "id": 525,
+        "internal": "0263"
     },
     {
         "name": "Running",
@@ -15807,7 +16333,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 526
+        "id": 526,
+        "internal": "0284"
     },
     {
         "name": "Protective",
@@ -15837,7 +16364,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 527
+        "id": 527,
+        "internal": "0288"
     },
     {
         "name": "Attacking",
@@ -15867,7 +16395,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 528
+        "id": 528,
+        "internal": "0289"
     },
     {
         "name": "Watchful",
@@ -15897,7 +16426,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 529
+        "id": 529,
+        "internal": "0290"
     },
     {
         "name": "Cooperative",
@@ -15927,7 +16457,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 530
+        "id": 530,
+        "internal": "0291"
     },
     {
         "name": "Hidden",
@@ -15957,7 +16488,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 531
+        "id": 531,
+        "internal": "0292"
     },
     {
         "name": "Submersible",
@@ -15987,7 +16519,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 532
+        "id": 532,
+        "internal": "0293"
     },
     {
         "name": "Brute",
@@ -16017,7 +16550,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 533
+        "id": 533,
+        "internal": "0294"
     },
     {
         "name": "Stealthy",
@@ -16047,7 +16581,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 534
+        "id": 534,
+        "internal": "0295"
     },
     {
         "name": "Everyday",
@@ -16077,7 +16612,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 535
+        "id": 535,
+        "internal": "0296"
     },
     {
         "name": "Gaming",
@@ -16107,7 +16643,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 536
+        "id": 536,
+        "internal": "0297"
     },
     {
         "name": "Logical",
@@ -16137,7 +16674,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 537
+        "id": 537,
+        "internal": "0301"
     },
     {
         "name": "Leaping",
@@ -16167,7 +16705,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 538
+        "id": 538,
+        "internal": "0283"
     },
     {
         "name": "Gentle",
@@ -16197,7 +16736,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 539
+        "id": 539,
+        "internal": "0304"
     },
     {
         "name": "Headstrong",
@@ -16227,7 +16767,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 540
+        "id": 540,
+        "internal": "0282"
     },
     {
         "name": "Overpowering",
@@ -16257,7 +16798,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 541
+        "id": 541,
+        "internal": "0279"
     },
     {
         "name": "Ink-Covered",
@@ -16287,7 +16829,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 542
+        "id": 542,
+        "internal": "0264"
     },
     {
         "name": "Ink-Dripping",
@@ -16317,7 +16860,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 543
+        "id": 543,
+        "internal": "0265"
     },
     {
         "name": "Fresh",
@@ -16347,7 +16891,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 544
+        "id": 544,
+        "internal": "0266"
     },
     {
         "name": "Wicked-Fresh",
@@ -16377,7 +16922,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 545
+        "id": 545,
+        "internal": "0267"
     },
     {
         "name": "Stale",
@@ -16407,7 +16953,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 546
+        "id": 546,
+        "internal": "0268"
     },
     {
         "name": "A Simple",
@@ -16437,7 +16984,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 547
+        "id": 547,
+        "internal": "0269"
     },
     {
         "name": "8-Tentacled",
@@ -16467,7 +17015,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 548
+        "id": 548,
+        "internal": "0270"
     },
     {
         "name": "10-Tentacled",
@@ -16497,7 +17046,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 549
+        "id": 549,
+        "internal": "0271"
     },
     {
         "name": "Midwinter",
@@ -16527,7 +17077,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 550
+        "id": 550,
+        "internal": "0272"
     },
     {
         "name": "Mind-Blowing",
@@ -16557,7 +17108,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 551
+        "id": 551,
+        "internal": "0273"
     },
     {
         "name": "Lifelong",
@@ -16587,7 +17139,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 552
+        "id": 552,
+        "internal": "0274"
     },
     {
         "name": "Top-Ranked",
@@ -16617,7 +17170,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 553
+        "id": 553,
+        "internal": "0275"
     },
     {
         "name": "Actual",
@@ -16647,7 +17201,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 554
+        "id": 554,
+        "internal": "0276"
     },
     {
         "name": "Growing",
@@ -16677,7 +17232,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 555
+        "id": 555,
+        "internal": "0277"
     },
     {
         "name": "Studious",
@@ -16707,7 +17263,8 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 556
+        "id": 556,
+        "internal": "0278"
     },
     {
         "name": "Spineless",
@@ -16737,6 +17294,7 @@
             "it_IT": true,
             "ja_JP": true
         },
-        "id": 557
+        "id": 557,
+        "internal": "0281"
     }
 ]

@@ -33,7 +33,8 @@
             "it_IT": "Livello 50 del catalogo raggiunto!",
             "ja_JP": "\u30ab\u30bf\u30ed\u30b0\u30ec\u30d9\u30eb\u304c\uff15\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 1
+        "id": 1,
+        "internal": "Badge_CatalogueLevel_Lv00"
     },
     {
         "name": "Level 100 Catalog Reached!",
@@ -51,7 +52,8 @@
             "it_IT": "Livello 100 del catalogo raggiunto!",
             "ja_JP": "\u30ab\u30bf\u30ed\u30b0\u30ec\u30d9\u30eb\u304c\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 2
+        "id": 2,
+        "internal": "Badge_CatalogueLevel_Lv01"
     },
     {
         "name": "Cohozuna Splats x 10",
@@ -69,7 +71,8 @@
             "it_IT": "10 Salmonarchi sconfitti (tipo: Colossalmonoide)",
             "ja_JP": "\u30e8\u30b3\u30c5\u30ca\u3092\uff11\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 3
+        "id": 3,
+        "internal": "Badge_CoopBossKillNum_SakelienGiant_Lv00"
     },
     {
         "name": "Cohozuna Splats x 100",
@@ -87,7 +90,8 @@
             "it_IT": "100 Salmonarchi sconfitti (tipo: Colossalmonoide)",
             "ja_JP": "\u30e8\u30b3\u30c5\u30ca\u3092\uff11\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 4
+        "id": 4,
+        "internal": "Badge_CoopBossKillNum_SakelienGiant_Lv01"
     },
     {
         "name": "Cohozuna Splats x 1,000",
@@ -105,7 +109,8 @@
             "it_IT": "1000 Salmonarchi sconfitti (tipo: Colossalmonoide)",
             "ja_JP": "\u30e8\u30b3\u30c5\u30ca\u3092\uff11\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 5
+        "id": 5,
+        "internal": "Badge_CoopBossKillNum_SakelienGiant_Lv02"
     },
     {
         "name": "MAX Hazard Level Cleared",
@@ -123,7 +128,8 @@
             "it_IT": "Rischio massimo superato",
             "ja_JP": "\u30ad\u30b1\u30f3\u5ea6MAX\u3092\u30af\u30ea\u30a2\u3057\u305f"
         },
-        "id": 6
+        "id": 6,
+        "internal": "Badge_CoopClearDangerRateMax"
     },
     {
         "name": "Eggsecutive VP 200 at Gone Fission Hydroplant Reached!",
@@ -141,7 +147,8 @@
             "it_IT": "Centrale Anguilla Elettrica: Dirigente livello 200 raggiunto!",
             "ja_JP": "\u30e0\u30cb\u30fb\u30a8\u2015\u30eb\u6d77\u6d0b\u767a\u96fb\u6240\u3067\u300c\u3067\u3093\u305b\u3064\uff12\uff10\uff10\u300d\u306b\u306a\u3063\u305f"
         },
-        "id": 7
+        "id": 7,
+        "internal": "Badge_CoopGrade_Normal_Shakedent_Lv00"
     },
     {
         "name": "Eggsecutive VP 400 at Gone Fission Hydroplant Reached!",
@@ -159,7 +166,8 @@
             "it_IT": "Centrale Anguilla Elettrica: Dirigente livello 400 raggiunto!",
             "ja_JP": "\u30e0\u30cb\u30fb\u30a8\u2015\u30eb\u6d77\u6d0b\u767a\u96fb\u6240\u3067\u300c\u3067\u3093\u305b\u3064\uff14\uff10\uff10\u300d\u306b\u306a\u3063\u305f"
         },
-        "id": 8
+        "id": 8,
+        "internal": "Badge_CoopGrade_Normal_Shakedent_Lv01"
     },
     {
         "name": "Eggsecutive VP 600 at Gone Fission Hydroplant Reached!",
@@ -177,7 +185,8 @@
             "it_IT": "Centrale Anguilla Elettrica: Dirigente livello 600 raggiunto!",
             "ja_JP": "\u30e0\u30cb\u30fb\u30a8\u2015\u30eb\u6d77\u6d0b\u767a\u96fb\u6240\u3067\u300c\u3067\u3093\u305b\u3064\uff16\uff10\uff10\u300d\u306b\u306a\u3063\u305f"
         },
-        "id": 9
+        "id": 9,
+        "internal": "Badge_CoopGrade_Normal_Shakedent_Lv02"
     },
     {
         "name": "Eggsecutive VP 999 at Gone Fission Hydroplant Reached!",
@@ -195,7 +204,8 @@
             "it_IT": "Centrale Anguilla Elettrica: Dirigente livello 999 raggiunto!",
             "ja_JP": "\u30e0\u30cb\u30fb\u30a8\u2015\u30eb\u6d77\u6d0b\u767a\u96fb\u6240\u3067\u300c\u3067\u3093\u305b\u3064\uff19\uff19\uff19\u300d\u306b\u306a\u3063\u305f"
         },
-        "id": 10
+        "id": 10,
+        "internal": "Badge_CoopGrade_Normal_Shakedent_Lv03"
     },
     {
         "name": "Eggsecutive VP 200 at Sockeye Station Reached!",
@@ -213,7 +223,8 @@
             "it_IT": "Fortezza Spiralsalmone: Dirigente livello 200 raggiunto!",
             "ja_JP": "\u30a2\u30e9\u30de\u30ad\u7826\u3067\u300c\u3067\u3093\u305b\u3064\uff12\uff10\uff10\u300d\u306b\u306a\u3063\u305f"
         },
-        "id": 11
+        "id": 11,
+        "internal": "Badge_CoopGrade_Normal_Shakespiral_Lv00"
     },
     {
         "name": "Eggsecutive VP 400 at Sockeye Station Reached!",
@@ -231,7 +242,8 @@
             "it_IT": "Fortezza Spiralsalmone: Dirigente livello 400 raggiunto!",
             "ja_JP": "\u30a2\u30e9\u30de\u30ad\u7826\u3067\u300c\u3067\u3093\u305b\u3064\uff14\uff10\uff10\u300d\u306b\u306a\u3063\u305f"
         },
-        "id": 12
+        "id": 12,
+        "internal": "Badge_CoopGrade_Normal_Shakespiral_Lv01"
     },
     {
         "name": "Eggsecutive VP 600 at Sockeye Station Reached!",
@@ -249,7 +261,8 @@
             "it_IT": "Fortezza Spiralsalmone: Dirigente livello 600 raggiunto!",
             "ja_JP": "\u30a2\u30e9\u30de\u30ad\u7826\u3067\u300c\u3067\u3093\u305b\u3064\uff16\uff10\uff10\u300d\u306b\u306a\u3063\u305f"
         },
-        "id": 13
+        "id": 13,
+        "internal": "Badge_CoopGrade_Normal_Shakespiral_Lv02"
     },
     {
         "name": "Eggsecutive VP 999 at Sockeye Station Reached!",
@@ -267,7 +280,8 @@
             "it_IT": "Fortezza Spiralsalmone: Dirigente livello 999 raggiunto!",
             "ja_JP": "\u30a2\u30e9\u30de\u30ad\u7826\u3067\u300c\u3067\u3093\u305b\u3064\uff19\uff19\uff19\u300d\u306b\u306a\u3063\u305f"
         },
-        "id": 14
+        "id": 14,
+        "internal": "Badge_CoopGrade_Normal_Shakespiral_Lv03"
     },
     {
         "name": "Eggsecutive VP 200 at Spawning Grounds Reached!",
@@ -285,7 +299,8 @@
             "it_IT": "Diga salmonoide: Dirigente livello 200 raggiunto!",
             "ja_JP": "\u30b7\u30a7\u30b1\u30ca\u30c0\u30e0\u3067\u300c\u3067\u3093\u305b\u3064\uff12\uff10\uff10\u300d\u306b\u306a\u3063\u305f"
         },
-        "id": 15
+        "id": 15,
+        "internal": "Badge_CoopGrade_Normal_Shakeup_Lv00"
     },
     {
         "name": "Eggsecutive VP 400 at Spawning Grounds Reached!",
@@ -303,7 +318,8 @@
             "it_IT": "Diga salmonoide: Dirigente livello 400 raggiunto!",
             "ja_JP": "\u30b7\u30a7\u30b1\u30ca\u30c0\u30e0\u3067\u300c\u3067\u3093\u305b\u3064\uff14\uff10\uff10\u300d\u306b\u306a\u3063\u305f"
         },
-        "id": 16
+        "id": 16,
+        "internal": "Badge_CoopGrade_Normal_Shakeup_Lv01"
     },
     {
         "name": "Eggsecutive VP 600 at Spawning Grounds Reached!",
@@ -321,7 +337,8 @@
             "it_IT": "Diga salmonoide: Dirigente livello 600 raggiunto!",
             "ja_JP": "\u30b7\u30a7\u30b1\u30ca\u30c0\u30e0\u3067\u300c\u3067\u3093\u305b\u3064\uff16\uff10\uff10\u300d\u306b\u306a\u3063\u305f"
         },
-        "id": 17
+        "id": 17,
+        "internal": "Badge_CoopGrade_Normal_Shakeup_Lv02"
     },
     {
         "name": "Eggsecutive VP 999 at Spawning Grounds Reached!",
@@ -339,7 +356,8 @@
             "it_IT": "Diga salmonoide: Dirigente livello 999 raggiunto!",
             "ja_JP": "\u30b7\u30a7\u30b1\u30ca\u30c0\u30e0\u3067\u300c\u3067\u3093\u305b\u3064\uff19\uff19\uff19\u300d\u306b\u306a\u3063\u305f"
         },
-        "id": 18
+        "id": 18,
+        "internal": "Badge_CoopGrade_Normal_Shakeup_Lv03"
     },
     {
         "name": "Big Shot Splats x 100",
@@ -357,7 +375,8 @@
             "it_IT": "100 Gran Salmonoidi sconfitti (tipo: Cannoniere)",
             "ja_JP": "\u30c6\u30c3\u30ad\u30e5\u30a6\u3092\uff11\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 19
+        "id": 19,
+        "internal": "Badge_CoopRareEnemyKillNum_SakeArtillery_Lv00"
     },
     {
         "name": "Big Shot Splats x 1,000",
@@ -375,7 +394,8 @@
             "it_IT": "1000 Gran Salmonoidi sconfitti (tipo: Cannoniere)",
             "ja_JP": "\u30c6\u30c3\u30ad\u30e5\u30a6\u3092\uff11\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 20
+        "id": 20,
+        "internal": "Badge_CoopRareEnemyKillNum_SakeArtillery_Lv01"
     },
     {
         "name": "Big Shot Splats x 10,000",
@@ -393,7 +413,8 @@
             "it_IT": "10.000 Gran Salmonoidi sconfitti (tipo: Cannoniere)",
             "ja_JP": "\u30c6\u30c3\u30ad\u30e5\u30a6\u3092\uff11\uff10\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 21
+        "id": 21,
+        "internal": "Badge_CoopRareEnemyKillNum_SakeArtillery_Lv02"
     },
     {
         "name": "Flipper-Flopper Splats x 100",
@@ -411,7 +432,8 @@
             "it_IT": "100 Gran Salmonoidi sconfitti (tipo: Tuffone)",
             "ja_JP": "\u30c0\u30a4\u30d0\u30fc\u3092\uff11\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 22
+        "id": 22,
+        "internal": "Badge_CoopRareEnemyKillNum_SakeDolphin_Lv00"
     },
     {
         "name": "Flipper-Flopper Splats x 1,000",
@@ -429,7 +451,8 @@
             "it_IT": "1000 Gran Salmonoidi sconfitti (tipo: Tuffone)",
             "ja_JP": "\u30c0\u30a4\u30d0\u30fc\u3092\uff11\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 23
+        "id": 23,
+        "internal": "Badge_CoopRareEnemyKillNum_SakeDolphin_Lv01"
     },
     {
         "name": "Flipper-Flopper Splats x 10,000",
@@ -447,7 +470,8 @@
             "it_IT": "10.000 Gran Salmonoidi sconfitti (tipo: Tuffone)",
             "ja_JP": "\u30c0\u30a4\u30d0\u30fc\u3092\uff11\uff10\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 24
+        "id": 24,
+        "internal": "Badge_CoopRareEnemyKillNum_SakeDolphin_Lv02"
     },
     {
         "name": "Fish Stick Splats x 100",
@@ -465,7 +489,8 @@
             "it_IT": "100 Gran Salmonoidi sconfitti (tipo: Trivellaccio)",
             "ja_JP": "\u30cf\u30b7\u30e9\u3092\uff11\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 25
+        "id": 25,
+        "internal": "Badge_CoopRareEnemyKillNum_SakePillar_Lv00"
     },
     {
         "name": "Fish Stick Splats x 1,000",
@@ -483,7 +508,8 @@
             "it_IT": "1000 Gran Salmonoidi sconfitti (tipo: Trivellaccio)",
             "ja_JP": "\u30cf\u30b7\u30e9\u3092\uff11\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 26
+        "id": 26,
+        "internal": "Badge_CoopRareEnemyKillNum_SakePillar_Lv01"
     },
     {
         "name": "Fish Stick Splats x 10,000",
@@ -501,7 +527,8 @@
             "it_IT": "10.000 Gran Salmonoidi sconfitti (tipo: Trivellaccio)",
             "ja_JP": "\u30cf\u30b7\u30e9\u3092\uff11\uff10\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 27
+        "id": 27,
+        "internal": "Badge_CoopRareEnemyKillNum_SakePillar_Lv02"
     },
     {
         "name": "Slammin' Lid Splats x 100",
@@ -519,7 +546,8 @@
             "it_IT": "100 Gran Salmonoidi sconfitti (tipo: Coperchiotto)",
             "ja_JP": "\u30ca\u30d9\u30d6\u30bf\u3092\uff11\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 28
+        "id": 28,
+        "internal": "Badge_CoopRareEnemyKillNum_SakeSaucer_Lv00"
     },
     {
         "name": "Slammin' Lid Splats x 1,000",
@@ -537,7 +565,8 @@
             "it_IT": "1000 Gran Salmonoidi sconfitti (tipo: Coperchiotto)",
             "ja_JP": "\u30ca\u30d9\u30d6\u30bf\u3092\uff11\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 29
+        "id": 29,
+        "internal": "Badge_CoopRareEnemyKillNum_SakeSaucer_Lv01"
     },
     {
         "name": "Slammin' Lid Splats x 10,000",
@@ -555,7 +584,8 @@
             "it_IT": "10.000 Gran Salmonoidi sconfitti (tipo: Coperchiotto)",
             "ja_JP": "\u30ca\u30d9\u30d6\u30bf\u3092\uff11\uff10\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 30
+        "id": 30,
+        "internal": "Badge_CoopRareEnemyKillNum_SakeSaucer_Lv02"
     },
     {
         "name": "Maws Splats x 100",
@@ -573,7 +603,8 @@
             "it_IT": "100 Gran Salmonoidi sconfitti (tipo: Boccalone)",
             "ja_JP": "\u30e2\u30b0\u30e9\u3092\uff11\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 31
+        "id": 31,
+        "internal": "Badge_CoopRareEnemyKillNum_Sakediver_Lv00"
     },
     {
         "name": "Maws Splats x 1,000",
@@ -591,7 +622,8 @@
             "it_IT": "1000 Gran Salmonoidi sconfitti (tipo: Boccalone)",
             "ja_JP": "\u30e2\u30b0\u30e9\u3092\uff11\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 32
+        "id": 32,
+        "internal": "Badge_CoopRareEnemyKillNum_Sakediver_Lv01"
     },
     {
         "name": "Maws Splats x 10,000",
@@ -609,7 +641,8 @@
             "it_IT": "10.000 Gran Salmonoidi sconfitti (tipo: Boccalone)",
             "ja_JP": "\u30e2\u30b0\u30e9\u3092\uff11\uff10\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 33
+        "id": 33,
+        "internal": "Badge_CoopRareEnemyKillNum_Sakediver_Lv02"
     },
     {
         "name": "Steelhead Splats x 100",
@@ -627,7 +660,8 @@
             "it_IT": "100 Gran Salmonoidi sconfitti (tipo: Bomber)",
             "ja_JP": "\u30d0\u30af\u30c0\u30f3\u3092\uff11\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 34
+        "id": 34,
+        "internal": "Badge_CoopRareEnemyKillNum_SakelienBomber_Lv00"
     },
     {
         "name": "Steelhead Splats x 1,000",
@@ -645,7 +679,8 @@
             "it_IT": "1000 Gran Salmonoidi sconfitti (tipo: Bomber)",
             "ja_JP": "\u30d0\u30af\u30c0\u30f3\u3092\uff11\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 35
+        "id": 35,
+        "internal": "Badge_CoopRareEnemyKillNum_SakelienBomber_Lv01"
     },
     {
         "name": "Steelhead Splats x 10,000",
@@ -663,7 +698,8 @@
             "it_IT": "10.000 Gran Salmonoidi sconfitti (tipo: Bomber)",
             "ja_JP": "\u30d0\u30af\u30c0\u30f3\u3092\uff11\uff10\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 36
+        "id": 36,
+        "internal": "Badge_CoopRareEnemyKillNum_SakelienBomber_Lv02"
     },
     {
         "name": "Flyfish Splats x 100",
@@ -681,7 +717,8 @@
             "it_IT": "100 Gran Salmonoidi sconfitti (tipo: Salmodrone)",
             "ja_JP": "\u30ab\u30bf\u30d1\u30c3\u30c9\u3092\uff11\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 37
+        "id": 37,
+        "internal": "Badge_CoopRareEnemyKillNum_SakelienCupTwins_Lv00"
     },
     {
         "name": "Flyfish Splats x 1,000",
@@ -699,7 +736,8 @@
             "it_IT": "1000 Gran Salmonoidi sconfitti (tipo: Salmodrone)",
             "ja_JP": "\u30ab\u30bf\u30d1\u30c3\u30c9\u3092\uff11\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 38
+        "id": 38,
+        "internal": "Badge_CoopRareEnemyKillNum_SakelienCupTwins_Lv01"
     },
     {
         "name": "Flyfish Splats x 10,000",
@@ -717,7 +755,8 @@
             "it_IT": "10.000 Gran Salmonoidi sconfitti (tipo: Salmodrone)",
             "ja_JP": "\u30ab\u30bf\u30d1\u30c3\u30c9\u3092\uff11\uff10\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 39
+        "id": 39,
+        "internal": "Badge_CoopRareEnemyKillNum_SakelienCupTwins_Lv02"
     },
     {
         "name": "Scrapper Splats x 100",
@@ -735,7 +774,8 @@
             "it_IT": "100 Gran Salmonoidi sconfitti (tipo: Blindomito)",
             "ja_JP": "\u30c6\u30c3\u30d1\u30f3\u3092\uff11\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 40
+        "id": 40,
+        "internal": "Badge_CoopRareEnemyKillNum_SakelienShield_Lv00"
     },
     {
         "name": "Scrapper Splats x 1,000",
@@ -753,7 +793,8 @@
             "it_IT": "1000 Gran Salmonoidi sconfitti (tipo: Blindomito)",
             "ja_JP": "\u30c6\u30c3\u30d1\u30f3\u3092\uff11\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 41
+        "id": 41,
+        "internal": "Badge_CoopRareEnemyKillNum_SakelienShield_Lv01"
     },
     {
         "name": "Scrapper Splats x 10,000",
@@ -771,7 +812,8 @@
             "it_IT": "10.000 Gran Salmonoidi sconfitti (tipo: Blindomito)",
             "ja_JP": "\u30c6\u30c3\u30d1\u30f3\u3092\uff11\uff10\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 42
+        "id": 42,
+        "internal": "Badge_CoopRareEnemyKillNum_SakelienShield_Lv02"
     },
     {
         "name": "Steel Eel Splats x 100",
@@ -789,7 +831,8 @@
             "it_IT": "100 Gran Salmonoidi sconfitti (tipo: Anguilmone)",
             "ja_JP": "\u30d8\u30d3\u3092\uff11\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 43
+        "id": 43,
+        "internal": "Badge_CoopRareEnemyKillNum_SakelienSnake_Lv00"
     },
     {
         "name": "Steel Eel Splats x 1,000",
@@ -807,7 +850,8 @@
             "it_IT": "1000 Gran Salmonoidi sconfitti (tipo: Anguilmone)",
             "ja_JP": "\u30d8\u30d3\u3092\uff11\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 44
+        "id": 44,
+        "internal": "Badge_CoopRareEnemyKillNum_SakelienSnake_Lv01"
     },
     {
         "name": "Steel Eel Splats x 10,000",
@@ -825,7 +869,8 @@
             "it_IT": "10.000 Gran Salmonoidi sconfitti (tipo: Anguilmone)",
             "ja_JP": "\u30d8\u30d3\u3092\uff11\uff10\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 45
+        "id": 45,
+        "internal": "Badge_CoopRareEnemyKillNum_SakelienSnake_Lv02"
     },
     {
         "name": "Stinger Splats x 100",
@@ -843,7 +888,8 @@
             "it_IT": "100 Gran Salmonoidi sconfitti (tipo: Pentolaio)",
             "ja_JP": "\u30bf\u30ef\u30fc\u3092\uff11\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 46
+        "id": 46,
+        "internal": "Badge_CoopRareEnemyKillNum_SakelienTower_Lv00"
     },
     {
         "name": "Stinger Splats x 1,000",
@@ -861,7 +907,8 @@
             "it_IT": "1000 Gran Salmonoidi sconfitti (tipo: Pentolaio)",
             "ja_JP": "\u30bf\u30ef\u30fc\u3092\uff11\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 47
+        "id": 47,
+        "internal": "Badge_CoopRareEnemyKillNum_SakelienTower_Lv01"
     },
     {
         "name": "Stinger Splats x 10,000",
@@ -879,7 +926,8 @@
             "it_IT": "10.000 Gran Salmonoidi sconfitti (tipo: Pentolaio)",
             "ja_JP": "\u30bf\u30ef\u30fc\u3092\uff11\uff10\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 48
+        "id": 48,
+        "internal": "Badge_CoopRareEnemyKillNum_SakelienTower_Lv02"
     },
     {
         "name": "Drizzler Splats x 100",
@@ -897,7 +945,8 @@
             "it_IT": "100 Gran Salmonoidi sconfitti (tipo: Piovasco)",
             "ja_JP": "\u30b3\u30a6\u30e2\u30ea\u3092\uff11\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 49
+        "id": 49,
+        "internal": "Badge_CoopRareEnemyKillNum_Sakerocket_Lv00"
     },
     {
         "name": "Drizzler Splats x 1,000",
@@ -915,7 +964,8 @@
             "it_IT": "1000 Gran Salmonoidi sconfitti (tipo: Piovasco)",
             "ja_JP": "\u30b3\u30a6\u30e2\u30ea\u3092\uff11\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 50
+        "id": 50,
+        "internal": "Badge_CoopRareEnemyKillNum_Sakerocket_Lv01"
     },
     {
         "name": "Drizzler Splats x 10,000",
@@ -933,7 +983,8 @@
             "it_IT": "10.000 Gran Salmonoidi sconfitti (tipo: Piovasco)",
             "ja_JP": "\u30b3\u30a6\u30e2\u30ea\u3092\uff11\uff10\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
         },
-        "id": 51
+        "id": 51,
+        "internal": "Badge_CoopRareEnemyKillNum_Sakerocket_Lv02"
     },
     {
         "name": "Ruler of Splatfest Reached!",
@@ -951,7 +1002,8 @@
             "it_IT": "Rango Mollusco \u00e9lite del festival raggiunto!",
             "ja_JP": "\u30d5\u30a7\u30b9\u30e9\u30f3\u30af\u304c\u300c\u3048\u3044\u3048\u3093\u300d\u306b\u306a\u3063\u305f"
         },
-        "id": 52
+        "id": 52,
+        "internal": "Badge_FestRankMax"
     },
     {
         "name": "Combined SquidForce Gear at 30+ Stars",
@@ -969,7 +1021,8 @@
             "it_IT": "CalamaX: mitilicit\u00e0 totale 30+ stelle",
             "ja_JP": "\u30d0\u30c8\u30ed\u30a4\u30ab\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 53
+        "id": 53,
+        "internal": "Badge_GearTotalRarity_B00_Lv00"
     },
     {
         "name": "Combined SquidForce Gear at 100+ Stars",
@@ -987,7 +1040,8 @@
             "it_IT": "CalamaX: mitilicit\u00e0 totale 100+ stelle",
             "ja_JP": "\u30d0\u30c8\u30ed\u30a4\u30ab\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 54
+        "id": 54,
+        "internal": "Badge_GearTotalRarity_B00_Lv01"
     },
     {
         "name": "Combined Zink Gear at 30+ Stars",
@@ -1005,7 +1059,8 @@
             "it_IT": "Totanic: mitilicit\u00e0 totale 30+ stelle",
             "ja_JP": "\u30a2\u30a4\u30ed\u30cb\u30c3\u30af\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 55
+        "id": 55,
+        "internal": "Badge_GearTotalRarity_B01_Lv00"
     },
     {
         "name": "Combined Zink Gear at 100+ Stars",
@@ -1023,7 +1078,8 @@
             "it_IT": "Totanic: mitilicit\u00e0 totale 100+ stelle",
             "ja_JP": "\u30a2\u30a4\u30ed\u30cb\u30c3\u30af\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 56
+        "id": 56,
+        "internal": "Badge_GearTotalRarity_B01_Lv01"
     },
     {
         "name": "Combined Krak-On Gear at 30+ Stars",
@@ -1041,7 +1097,8 @@
             "it_IT": "Cnidarya: mitilicit\u00e0 totale 30+ stelle",
             "ja_JP": "\u30af\u30e9\u30fc\u30b2\u30b9\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 57
+        "id": 57,
+        "internal": "Badge_GearTotalRarity_B02_Lv00"
     },
     {
         "name": "Combined Krak-On Gear at 100+ Stars",
@@ -1059,7 +1116,8 @@
             "it_IT": "Cnidarya: mitilicit\u00e0 totale 100+ stelle",
             "ja_JP": "\u30af\u30e9\u30fc\u30b2\u30b9\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 58
+        "id": 58,
+        "internal": "Badge_GearTotalRarity_B02_Lv01"
     },
     {
         "name": "Combined Rockenberg Gear at 30+ Stars",
@@ -1077,7 +1135,8 @@
             "it_IT": "Rockenburg: mitilicit\u00e0 totale 30+ stelle",
             "ja_JP": "\u30ed\u30c3\u30b1\u30f3\u30d9\u30eb\u30b0\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 59
+        "id": 59,
+        "internal": "Badge_GearTotalRarity_B03_Lv00"
     },
     {
         "name": "Combined Rockenberg Gear at 100+ Stars",
@@ -1095,7 +1154,8 @@
             "it_IT": "Rockenburg: mitilicit\u00e0 totale 100+ stelle",
             "ja_JP": "\u30ed\u30c3\u30b1\u30f3\u30d9\u30eb\u30b0\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 60
+        "id": 60,
+        "internal": "Badge_GearTotalRarity_B03_Lv01"
     },
     {
         "name": "Combined Zekko Gear at 30+ Stars",
@@ -1113,7 +1173,8 @@
             "it_IT": "Ezko: mitilicit\u00e0 totale 30+ stelle",
             "ja_JP": "\u30a8\u30be\u30c3\u30b3\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 61
+        "id": 61,
+        "internal": "Badge_GearTotalRarity_B04_Lv00"
     },
     {
         "name": "Combined Zekko Gear at 100+ Stars",
@@ -1131,7 +1192,8 @@
             "it_IT": "Ezko: mitilicit\u00e0 totale 100+ stelle",
             "ja_JP": "\u30a8\u30be\u30c3\u30b3\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 62
+        "id": 62,
+        "internal": "Badge_GearTotalRarity_B04_Lv01"
     },
     {
         "name": "Combined Forge Gear at 30+ Stars",
@@ -1149,7 +1211,8 @@
             "it_IT": "Fortia: mitilicit\u00e0 totale 30+ stelle",
             "ja_JP": "\u30d5\u30a9\u30fc\u30ea\u30de\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 63
+        "id": 63,
+        "internal": "Badge_GearTotalRarity_B05_Lv00"
     },
     {
         "name": "Combined Forge Gear at 100+ Stars",
@@ -1167,7 +1230,8 @@
             "it_IT": "Fortia: mitilicit\u00e0 totale 100+ stelle",
             "ja_JP": "\u30d5\u30a9\u30fc\u30ea\u30de\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 64
+        "id": 64,
+        "internal": "Badge_GearTotalRarity_B05_Lv01"
     },
     {
         "name": "Combined Firefin Gear at 30+ Stars",
@@ -1185,7 +1249,8 @@
             "it_IT": "Torryd: mitilicit\u00e0 totale 30+ stelle",
             "ja_JP": "\u30db\u30c3\u30b3\u30ea\u30fc\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 65
+        "id": 65,
+        "internal": "Badge_GearTotalRarity_B06_Lv00"
     },
     {
         "name": "Combined Firefin Gear at 100+ Stars",
@@ -1203,7 +1268,8 @@
             "it_IT": "Torryd: mitilicit\u00e0 totale 100+ stelle",
             "ja_JP": "\u30db\u30c3\u30b3\u30ea\u30fc\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 66
+        "id": 66,
+        "internal": "Badge_GearTotalRarity_B06_Lv01"
     },
     {
         "name": "Combined Skalop Gear at 30+ Stars",
@@ -1221,7 +1287,8 @@
             "it_IT": "Capasaint: mitilicit\u00e0 totale 30+ stelle",
             "ja_JP": "\u30db\u30bf\u30c3\u30af\u30b9\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 67
+        "id": 67,
+        "internal": "Badge_GearTotalRarity_B07_Lv00"
     },
     {
         "name": "Combined Skalop Gear at 100+ Stars",
@@ -1239,7 +1306,8 @@
             "it_IT": "Capasaint: mitilicit\u00e0 totale 100+ stelle",
             "ja_JP": "\u30db\u30bf\u30c3\u30af\u30b9\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 68
+        "id": 68,
+        "internal": "Badge_GearTotalRarity_B07_Lv01"
     },
     {
         "name": "Combined Splash Mob Gear at 30+ Stars",
@@ -1257,7 +1325,8 @@
             "it_IT": "Chimmon: mitilicit\u00e0 totale 30+ stelle",
             "ja_JP": "\u30b8\u30e2\u30f3\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 69
+        "id": 69,
+        "internal": "Badge_GearTotalRarity_B08_Lv00"
     },
     {
         "name": "Combined Splash Mob Gear at 100+ Stars",
@@ -1275,7 +1344,8 @@
             "it_IT": "Chimmon: mitilicit\u00e0 totale 100+ stelle",
             "ja_JP": "\u30b8\u30e2\u30f3\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 70
+        "id": 70,
+        "internal": "Badge_GearTotalRarity_B08_Lv01"
     },
     {
         "name": "Combined Inkline Gear at 30+ Stars",
@@ -1293,7 +1363,8 @@
             "it_IT": "Maremont: mitilicit\u00e0 totale 30+ stelle",
             "ja_JP": "\u30b7\u30b0\u30ec\u30cb\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 71
+        "id": 71,
+        "internal": "Badge_GearTotalRarity_B09_Lv00"
     },
     {
         "name": "Combined Inkline Gear at 100+ Stars",
@@ -1311,7 +1382,8 @@
             "it_IT": "Maremont: mitilicit\u00e0 totale 100+ stelle",
             "ja_JP": "\u30b7\u30b0\u30ec\u30cb\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 72
+        "id": 72,
+        "internal": "Badge_GearTotalRarity_B09_Lv01"
     },
     {
         "name": "Combined Tentatek Gear at 30+ Stars",
@@ -1329,7 +1401,8 @@
             "it_IT": "Arome: mitilicit\u00e0 totale 30+ stelle",
             "ja_JP": "\u30a2\u30ed\u30e1\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 73
+        "id": 73,
+        "internal": "Badge_GearTotalRarity_B10_Lv00"
     },
     {
         "name": "Combined Tentatek Gear at 100+ Stars",
@@ -1347,7 +1420,8 @@
             "it_IT": "Arome: mitilicit\u00e0 totale 100+ stelle",
             "ja_JP": "\u30a2\u30ed\u30e1\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 74
+        "id": 74,
+        "internal": "Badge_GearTotalRarity_B10_Lv01"
     },
     {
         "name": "Combined Takoroka Gear at 30+ Stars",
@@ -1365,7 +1439,8 @@
             "it_IT": "Sepia: mitilicit\u00e0 totale 30+ stelle",
             "ja_JP": "\u30e4\u30b3\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 75
+        "id": 75,
+        "internal": "Badge_GearTotalRarity_B11_Lv00"
     },
     {
         "name": "Combined Takoroka Gear at 100+ Stars",
@@ -1383,7 +1458,8 @@
             "it_IT": "Sepia: mitilicit\u00e0 totale 100+ stelle",
             "ja_JP": "\u30e4\u30b3\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 76
+        "id": 76,
+        "internal": "Badge_GearTotalRarity_B11_Lv01"
     },
     {
         "name": "Combined Annaki Gear at 30+ Stars",
@@ -1401,7 +1477,8 @@
             "it_IT": "Annak: mitilicit\u00e0 totale 30+ stelle",
             "ja_JP": "\u30a2\u30ca\u30a2\u30ad\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 77
+        "id": 77,
+        "internal": "Badge_GearTotalRarity_B15_Lv00"
     },
     {
         "name": "Combined Annaki Gear at 100+ Stars",
@@ -1419,7 +1496,8 @@
             "it_IT": "Annak: mitilicit\u00e0 totale 100+ stelle",
             "ja_JP": "\u30a2\u30ca\u30a2\u30ad\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 78
+        "id": 78,
+        "internal": "Badge_GearTotalRarity_B15_Lv01"
     },
     {
         "name": "Combined Enperry Gear at 30+ Stars",
@@ -1437,7 +1515,8 @@
             "it_IT": "Imperial: mitilicit\u00e0 totale 30+ stelle",
             "ja_JP": "\u30a8\u30f3\u30da\u30ea\u30fc\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 79
+        "id": 79,
+        "internal": "Badge_GearTotalRarity_B16_Lv00"
     },
     {
         "name": "Combined Enperry Gear at 100+ Stars",
@@ -1455,7 +1534,8 @@
             "it_IT": "Imperial: mitilicit\u00e0 totale 100+ stelle",
             "ja_JP": "\u30a8\u30f3\u30da\u30ea\u30fc\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 80
+        "id": 80,
+        "internal": "Badge_GearTotalRarity_B16_Lv01"
     },
     {
         "name": "Combined Toni Kensa Gear at 30+ Stars",
@@ -1473,7 +1553,8 @@
             "it_IT": "Nero Marlin: mitilicit\u00e0 totale 30+ stelle",
             "ja_JP": "\u30bf\u30bf\u30ad\u30b1\u30f3\u30b5\u30ad\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 81
+        "id": 81,
+        "internal": "Badge_GearTotalRarity_B17_Lv00"
     },
     {
         "name": "Combined Toni Kensa Gear at 100+ Stars",
@@ -1491,7 +1572,8 @@
             "it_IT": "Nero Marlin: mitilicit\u00e0 totale 100+ stelle",
             "ja_JP": "\u30bf\u30bf\u30ad\u30b1\u30f3\u30b5\u30ad\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 82
+        "id": 82,
+        "internal": "Badge_GearTotalRarity_B17_Lv01"
     },
     {
         "name": "Combined Barazushi Gear at 30+ Stars",
@@ -1509,7 +1591,8 @@
             "it_IT": "BaraS: mitilicit\u00e0 totale 30+ stelle",
             "ja_JP": "\u30d0\u30e9\u30ba\u30b7\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 83
+        "id": 83,
+        "internal": "Badge_GearTotalRarity_B19_Lv00"
     },
     {
         "name": "Combined Barazushi Gear at 100+ Stars",
@@ -1527,7 +1610,8 @@
             "it_IT": "BaraS: mitilicit\u00e0 totale 100+ stelle",
             "ja_JP": "\u30d0\u30e9\u30ba\u30b7\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 84
+        "id": 84,
+        "internal": "Badge_GearTotalRarity_B19_Lv01"
     },
     {
         "name": "Combined Emberz Gear at 30+ Stars",
@@ -1545,7 +1629,8 @@
             "it_IT": "Car-bon: mitilicit\u00e0 totale 30+ stelle",
             "ja_JP": "\u30b7\u30c1\u30ea\u30f3\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 85
+        "id": 85,
+        "internal": "Badge_GearTotalRarity_B20_Lv00"
     },
     {
         "name": "Combined Emberz Gear at 100+ Stars",
@@ -1563,7 +1648,8 @@
             "it_IT": "Car-bon: mitilicit\u00e0 totale 100+ stelle",
             "ja_JP": "\u30b7\u30c1\u30ea\u30f3\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 86
+        "id": 86,
+        "internal": "Badge_GearTotalRarity_B20_Lv01"
     },
     {
         "name": "DJ Octavio Defeated!",
@@ -1581,7 +1667,8 @@
             "it_IT": "DJ Octavius sconfitto!",
             "ja_JP": "DJ\u30bf\u30b3\u30ef\u30b5\u5c06\u8ecd\u3092\u5012\u3057\u305f"
         },
-        "id": 87
+        "id": 87,
+        "internal": "Badge_Mission_Lv00"
     },
     {
         "name": "Story Mode Cleared!",
@@ -1599,7 +1686,8 @@
             "it_IT": "Modalit\u00e0 storia completata!",
             "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30e2\u30fc\u30c9\u3092\u30af\u30ea\u30a2\u3057\u305f"
         },
-        "id": 88
+        "id": 88,
+        "internal": "Badge_Mission_Lv01"
     },
     {
         "name": "Max Hero Level Achieved!",
@@ -1617,7 +1705,8 @@
             "it_IT": "Livello Mitilico massimo raggiunto!",
             "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u305d\u3046\u3073\u306e\u5f37\u5316\u30dd\u30a4\u30f3\u30c8\u3092\u6700\u5927\u307e\u3067\u624b\u306b\u5165\u308c\u305f"
         },
-        "id": 89
+        "id": 89,
+        "internal": "Badge_Mission_Lv02"
     },
     {
         "name": "Max Hero Level Achieved!",
@@ -1635,7 +1724,8 @@
             "it_IT": "Livello Mitilico massimo raggiunto!",
             "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u305d\u3046\u3073\u306e\u5f37\u5316\u30dd\u30a4\u30f3\u30c8\u3092\u6700\u5927\u307e\u3067\u624b\u306b\u5165\u308c\u305f"
         },
-        "id": 90
+        "id": 90,
+        "internal": "Badge_Mission_Lv03"
     },
     {
         "name": "Secret Kettle Found and Cleared!",
@@ -1653,7 +1743,8 @@
             "it_IT": "Bollitore occulto trovato e completato!",
             "ja_JP": "\u304b\u304f\u3057\u30e4\u30ab\u30f3\u3092\u30af\u30ea\u30a2\u3057\u305f"
         },
-        "id": 91
+        "id": 91,
+        "internal": "Badge_Mission_Lv04"
     },
     {
         "name": "Collected 90 Tableturf Battle Cards",
@@ -1671,7 +1762,8 @@
             "it_IT": "90 carte da Splattanza ottenute",
             "ja_JP": "\u30ca\u30ef\u30d0\u30c8\u30e9\u30fc\u306e\u30ab\u30fc\u30c9\u3092\uff19\uff10\u7a2e\u985e\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u3057\u305f"
         },
-        "id": 92
+        "id": 92,
+        "internal": "Badge_NawaBattlerCardNum_Lv00"
     },
     {
         "name": "Collected 120 Tableturf Battle Cards",
@@ -1689,7 +1781,8 @@
             "it_IT": "120 carte da Splattanza ottenute",
             "ja_JP": "\u30ca\u30ef\u30d0\u30c8\u30e9\u30fc\u306e\u30ab\u30fc\u30c9\u3092\uff11\uff12\uff10\u7a2e\u985e\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u3057\u305f"
         },
-        "id": 93
+        "id": 93,
+        "internal": "Badge_NawaBattlerCardNum_Lv01"
     },
     {
         "name": "Collected 150 Tableturf Battle Cards",
@@ -1707,7 +1800,8 @@
             "it_IT": "150 carte da Splattanza ottenute",
             "ja_JP": "\u30ca\u30ef\u30d0\u30c8\u30e9\u30fc\u306e\u30ab\u30fc\u30c9\u3092\uff11\uff15\uff10\u7a2e\u985e\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u3057\u305f"
         },
-        "id": 94
+        "id": 94,
+        "internal": "Badge_NawaBattlerCardNum_Lv02"
     },
     {
         "name": "Reached Tableturf Rank 30",
@@ -1725,7 +1819,8 @@
             "it_IT": "Raggiunto rango 30 a Splattanza",
             "ja_JP": "\u30ca\u30ef\u30d0\u30c8\u30e9\u30f3\u30af\u304c\uff13\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 95
+        "id": 95,
+        "internal": "Badge_NawaBattlerRank_Lv00"
     },
     {
         "name": "Reached Tableturf Rank 40",
@@ -1743,7 +1838,8 @@
             "it_IT": "Raggiunto rango 40 a Splattanza",
             "ja_JP": "\u30ca\u30ef\u30d0\u30c8\u30e9\u30f3\u30af\u304c\uff14\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 96
+        "id": 96,
+        "internal": "Badge_NawaBattlerRank_Lv01"
     },
     {
         "name": "Reached Tableturf Rank 50",
@@ -1761,7 +1857,8 @@
             "it_IT": "Raggiunto rango 50 a Splattanza",
             "ja_JP": "\u30ca\u30ef\u30d0\u30c8\u30e9\u30f3\u30af\u304c\uff15\uff10\u306b\u306a\u3063\u305f"
         },
-        "id": 97
+        "id": 97,
+        "internal": "Badge_NawaBattlerRank_Lv02"
     },
     {
         "name": "Tableturf Battle Dojo Max Level Champ",
@@ -1779,7 +1876,8 @@
             "it_IT": "Conquistato il dojo di Splattanza al rango massimo",
             "ja_JP": "\u30ca\u30ef\u30d0\u30c8\u30e9\u30fc\u9053\u5834\u3067\u5168\u54e1\u306e\u6700\u9ad8\u30ec\u30d9\u30eb\u306b\u52dd\u5229\u3057\u305f"
         },
-        "id": 98
+        "id": 98,
+        "internal": "Badge_NawaBattlerWinAllNpcLevel3"
     },
     {
         "name": "Ordered 10 Concessions",
@@ -1797,7 +1895,8 @@
             "it_IT": "Ordinato 10 volte al chiosco",
             "ja_JP": "\u58f2\u5e97\u3067\uff11\uff10\u56de\u6ce8\u6587\u3057\u305f"
         },
-        "id": 99
+        "id": 99,
+        "internal": "Badge_OrderFood_Lv00"
     },
     {
         "name": "Ordered 100 Concessions",
@@ -1815,7 +1914,8 @@
             "it_IT": "Ordinato 100 volte al chiosco",
             "ja_JP": "\u58f2\u5e97\u3067\uff11\uff10\uff10\u56de\u6ce8\u6587\u3057\u305f"
         },
-        "id": 100
+        "id": 100,
+        "internal": "Badge_OrderFood_Lv01"
     },
     {
         "name": "Ordered 1,000 Concessions",
@@ -1833,7 +1933,8 @@
             "it_IT": "Ordinato 1000 volte al chiosco",
             "ja_JP": "\u58f2\u5e97\u3067\uff11\uff10\uff10\uff10\u56de\u6ce8\u6587\u3057\u305f"
         },
-        "id": 101
+        "id": 101,
+        "internal": "Badge_OrderFood_Lv02"
     },
     {
         "name": "10 Murch Orders",
@@ -1851,7 +1952,8 @@
             "it_IT": "Ordinato 10 volte da Echino",
             "ja_JP": "\u30b9\u30d1\u30a4\u30ad\u30fc\u306b\uff11\uff10\u56de\u30ae\u30a2\u3092\u6ce8\u6587\u3057\u305f"
         },
-        "id": 102
+        "id": 102,
+        "internal": "Badge_OrderVendor_Lv00"
     },
     {
         "name": "100 Murch Orders",
@@ -1869,7 +1971,8 @@
             "it_IT": "Ordinato 100 volte da Echino",
             "ja_JP": "\u30b9\u30d1\u30a4\u30ad\u30fc\u306b\uff11\uff10\uff10\u56de\u30ae\u30a2\u3092\u6ce8\u6587\u3057\u305f"
         },
-        "id": 103
+        "id": 103,
+        "internal": "Badge_OrderVendor_Lv01"
     },
     {
         "name": "100K Man-o'-Wardrobe Club",
@@ -1887,7 +1990,8 @@
             "it_IT": "Speso 100.000 da La Modusa",
             "ja_JP": "\u30d5\u30af\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
         },
-        "id": 104
+        "id": 104,
+        "internal": "Badge_SpendShop_Clothes_Lv00"
     },
     {
         "name": "1MM Man-o'-Wardrobe Club",
@@ -1905,7 +2009,8 @@
             "it_IT": "Speso 1.000.000 da La Modusa",
             "ja_JP": "\u30d5\u30af\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11,\uff10\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
         },
-        "id": 105
+        "id": 105,
+        "internal": "Badge_SpendShop_Clothes_Lv01"
     },
     {
         "name": "100K Hotlantis Club",
@@ -1923,7 +2028,8 @@
             "it_IT": "Speso 100.000 da Misto mare",
             "ja_JP": "\u30b6\u30c3\u30ab\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
         },
-        "id": 106
+        "id": 106,
+        "internal": "Badge_SpendShop_Goods_Lv00"
     },
     {
         "name": "1MM Hotlantis Club",
@@ -1941,7 +2047,8 @@
             "it_IT": "Speso 1.000.000 da Misto mare",
             "ja_JP": "\u30b6\u30c3\u30ab\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11,\uff10\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
         },
-        "id": 107
+        "id": 107,
+        "internal": "Badge_SpendShop_Goods_Lv01"
     },
     {
         "name": "100K Naut Couture Club",
@@ -1959,7 +2066,8 @@
             "it_IT": "Speso 100.000 da Guscintesta",
             "ja_JP": "\u30a2\u30bf\u30de\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
         },
-        "id": 108
+        "id": 108,
+        "internal": "Badge_SpendShop_Head_Lv00"
     },
     {
         "name": "1MM Naut Couture Club",
@@ -1977,7 +2085,8 @@
             "it_IT": "Speso 1.000.000 da Guscintesta",
             "ja_JP": "\u30a2\u30bf\u30de\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11,\uff10\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
         },
-        "id": 109
+        "id": 109,
+        "internal": "Badge_SpendShop_Head_Lv01"
     },
     {
         "name": "100K Crush Station Club",
@@ -1995,7 +2104,8 @@
             "it_IT": "Speso 100.000 da Chelescarpe",
             "ja_JP": "\u30af\u30c4\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
         },
-        "id": 110
+        "id": 110,
+        "internal": "Badge_SpendShop_Shoes_Lv00"
     },
     {
         "name": "1MM Crush Station Club",
@@ -2013,7 +2123,8 @@
             "it_IT": "Speso 1.000.000 da Chelescarpe",
             "ja_JP": "\u30af\u30c4\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11,\uff10\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
         },
-        "id": 111
+        "id": 111,
+        "internal": "Badge_SpendShop_Shoes_Lv01"
     },
     {
         "name": "10,000 Grizzco Point Club",
@@ -2031,7 +2142,8 @@
             "it_IT": "10.000 punti di Ursus ottenuti",
             "ja_JP": "\u30af\u30de\u30b5\u30f3\u30dd\u30a4\u30f3\u30c8\u3092\uff11\uff10\uff10\uff10\uff10p\u304b\u305b\u3044\u3060"
         },
-        "id": 112
+        "id": 112,
+        "internal": "Badge_TotalKumaPoint_Lv00"
     },
     {
         "name": "100,000 Grizzco Point Club",
@@ -2049,7 +2161,8 @@
             "it_IT": "100.000 punti di Ursus ottenuti",
             "ja_JP": "\u30af\u30de\u30b5\u30f3\u30dd\u30a4\u30f3\u30c8\u3092\uff11\uff10\uff10,\uff10\uff10\uff10p\u304b\u305b\u3044\u3060"
         },
-        "id": 113
+        "id": 113,
+        "internal": "Badge_TotalKumaPoint_Lv01"
     },
     {
         "name": "9,999,999 Grizzco Point Club",
@@ -2067,7 +2180,8 @@
             "it_IT": "9.999.999 punti di Ursus ottenuti",
             "ja_JP": "\u30af\u30de\u30b5\u30f3\u30dd\u30a4\u30f3\u30c8\u3092\uff19,\uff19\uff19\uff19,\uff19\uff19\uff19p\u304b\u305b\u3044\u3060"
         },
-        "id": 114
+        "id": 114,
+        "internal": "Badge_TotalKumaPoint_Lv02"
     },
     {
         "name": "A Rank Reached!",
@@ -2085,7 +2199,8 @@
             "it_IT": "Rango A raggiunto!",
             "ja_JP": "\u30a6\u30c7\u30de\u30a8\u304c\uff21\u306b\u306a\u3063\u305f"
         },
-        "id": 115
+        "id": 115,
+        "internal": "Badge_Udemae_Lv00"
     },
     {
         "name": "S Rank Reached!",
@@ -2103,7 +2218,8 @@
             "it_IT": "Rango S raggiunto!",
             "ja_JP": "\u30a6\u30c7\u30de\u30a8\u304c\uff33\u306b\u306a\u3063\u305f"
         },
-        "id": 116
+        "id": 116,
+        "internal": "Badge_Udemae_Lv01"
     },
     {
         "name": "S+ Rank Reached!",
@@ -2121,7 +2237,8 @@
             "it_IT": "Rango S+ raggiunto!",
             "ja_JP": "\u30a6\u30c7\u30de\u30a8\u304c\uff33+\u306b\u306a\u3063\u305f"
         },
-        "id": 117
+        "id": 117,
+        "internal": "Badge_Udemae_Lv02"
     },
     {
         "name": "4\u2605 Rapid Blaster Pro User",
@@ -2139,7 +2256,8 @@
             "it_IT": "Blaster \u00e9lite: 4\u2605",
             "ja_JP": "R\u30d6\u30e9\u30b9\u30bf\u30fc\u30a8\u30ea\u30fc\u30c8\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 118
+        "id": 118,
+        "internal": "Badge_WeaponLevel_Blaster_LightLong_00_Lv00"
     },
     {
         "name": "5\u2605 Rapid Blaster Pro User",
@@ -2157,7 +2275,8 @@
             "it_IT": "Blaster \u00e9lite: 5\u2605",
             "ja_JP": "R\u30d6\u30e9\u30b9\u30bf\u30fc\u30a8\u30ea\u30fc\u30c8\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 119
+        "id": 119,
+        "internal": "Badge_WeaponLevel_Blaster_LightLong_00_Lv01"
     },
     {
         "name": "4\u2605 Clash Blaster User",
@@ -2175,7 +2294,8 @@
             "it_IT": "Blaster da mischia: 4\u2605",
             "ja_JP": "\u30af\u30e9\u30c3\u30b7\u30e5\u30d6\u30e9\u30b9\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 120
+        "id": 120,
+        "internal": "Badge_WeaponLevel_Blaster_LightShort_00_Lv00"
     },
     {
         "name": "5\u2605 Clash Blaster User",
@@ -2193,7 +2313,8 @@
             "it_IT": "Blaster da mischia: 5\u2605",
             "ja_JP": "\u30af\u30e9\u30c3\u30b7\u30e5\u30d6\u30e9\u30b9\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 121
+        "id": 121,
+        "internal": "Badge_WeaponLevel_Blaster_LightShort_00_Lv01"
     },
     {
         "name": "4\u2605 Rapid Blaster User",
@@ -2211,7 +2332,8 @@
             "it_IT": "Blaster rapido: 4\u2605",
             "ja_JP": "\u30e9\u30d4\u30c3\u30c9\u30d6\u30e9\u30b9\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 122
+        "id": 122,
+        "internal": "Badge_WeaponLevel_Blaster_Light_00_Lv00"
     },
     {
         "name": "5\u2605 Rapid Blaster User",
@@ -2229,7 +2351,8 @@
             "it_IT": "Blaster rapido: 5\u2605",
             "ja_JP": "\u30e9\u30d4\u30c3\u30c9\u30d6\u30e9\u30b9\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 123
+        "id": 123,
+        "internal": "Badge_WeaponLevel_Blaster_Light_00_Lv01"
     },
     {
         "name": "4\u2605 Range Blaster User",
@@ -2247,7 +2370,8 @@
             "it_IT": "Blaster a distanza: 4\u2605",
             "ja_JP": "\u30ed\u30f3\u30b0\u30d6\u30e9\u30b9\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 124
+        "id": 124,
+        "internal": "Badge_WeaponLevel_Blaster_Long_00_Lv00"
     },
     {
         "name": "5\u2605 Range Blaster User",
@@ -2265,7 +2389,8 @@
             "it_IT": "Blaster a distanza: 5\u2605",
             "ja_JP": "\u30ed\u30f3\u30b0\u30d6\u30e9\u30b9\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 125
+        "id": 125,
+        "internal": "Badge_WeaponLevel_Blaster_Long_00_Lv01"
     },
     {
         "name": "4\u2605 Blaster User",
@@ -2283,7 +2408,8 @@
             "it_IT": "Blaster: 4\u2605",
             "ja_JP": "\u30db\u30c3\u30c8\u30d6\u30e9\u30b9\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 126
+        "id": 126,
+        "internal": "Badge_WeaponLevel_Blaster_Middle_00_Lv00"
     },
     {
         "name": "5\u2605 Blaster User",
@@ -2301,7 +2427,8 @@
             "it_IT": "Blaster: 5\u2605",
             "ja_JP": "\u30db\u30c3\u30c8\u30d6\u30e9\u30b9\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 127
+        "id": 127,
+        "internal": "Badge_WeaponLevel_Blaster_Middle_00_Lv01"
     },
     {
         "name": "4\u2605 Luna Blaster User",
@@ -2319,7 +2446,8 @@
             "it_IT": "Blaster lunar: 4\u2605",
             "ja_JP": "\u30ce\u30f4\u30a1\u30d6\u30e9\u30b9\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 128
+        "id": 128,
+        "internal": "Badge_WeaponLevel_Blaster_Short_00_Lv00"
     },
     {
         "name": "5\u2605 Luna Blaster User",
@@ -2337,7 +2465,8 @@
             "it_IT": "Blaster lunar: 5\u2605",
             "ja_JP": "\u30ce\u30f4\u30a1\u30d6\u30e9\u30b9\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 129
+        "id": 129,
+        "internal": "Badge_WeaponLevel_Blaster_Short_00_Lv01"
     },
     {
         "name": "4\u2605 Inkbrush User",
@@ -2355,7 +2484,8 @@
             "it_IT": "Calamaravaggio: 4\u2605",
             "ja_JP": "\u30d1\u30d6\u30ed\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 130
+        "id": 130,
+        "internal": "Badge_WeaponLevel_Brush_Mini_00_Lv00"
     },
     {
         "name": "5\u2605 Inkbrush User",
@@ -2373,7 +2503,8 @@
             "it_IT": "Calamaravaggio: 5\u2605",
             "ja_JP": "\u30d1\u30d6\u30ed\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 131
+        "id": 131,
+        "internal": "Badge_WeaponLevel_Brush_Mini_00_Lv01"
     },
     {
         "name": "4\u2605 Octobrush User",
@@ -2391,7 +2522,8 @@
             "it_IT": "Tinturicchio: 4\u2605",
             "ja_JP": "\u30db\u30af\u30b5\u30a4\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 132
+        "id": 132,
+        "internal": "Badge_WeaponLevel_Brush_Normal_00_Lv00"
     },
     {
         "name": "5\u2605 Octobrush User",
@@ -2409,7 +2541,8 @@
             "it_IT": "Tinturicchio: 5\u2605",
             "ja_JP": "\u30db\u30af\u30b5\u30a4\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 133
+        "id": 133,
+        "internal": "Badge_WeaponLevel_Brush_Normal_00_Lv01"
     },
     {
         "name": "4\u2605 Goo Tuber User",
@@ -2427,7 +2560,8 @@
             "it_IT": "Tintubator: 4\u2605",
             "ja_JP": "\u30bd\u30a4\u30c1\u30e5\u30fc\u30d0\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 134
+        "id": 134,
+        "internal": "Badge_WeaponLevel_Charger_Keeper_00_Lv00"
     },
     {
         "name": "5\u2605 Goo Tuber User",
@@ -2445,7 +2579,8 @@
             "it_IT": "Tintubator: 5\u2605",
             "ja_JP": "\u30bd\u30a4\u30c1\u30e5\u30fc\u30d0\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 135
+        "id": 135,
+        "internal": "Badge_WeaponLevel_Charger_Keeper_00_Lv01"
     },
     {
         "name": "4\u2605 Bamboozler 14 Mk I User",
@@ -2463,7 +2598,8 @@
             "it_IT": "Bimbamboom 14-I: 4\u2605",
             "ja_JP": "14\u5f0f\u7af9\u7b52\u9283\u30fb\u7532\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 136
+        "id": 136,
+        "internal": "Badge_WeaponLevel_Charger_Light_00_Lv00"
     },
     {
         "name": "5\u2605 Bamboozler 14 Mk I User",
@@ -2481,7 +2617,8 @@
             "it_IT": "Bimbamboom 14-I: 5\u2605",
             "ja_JP": "14\u5f0f\u7af9\u7b52\u9283\u30fb\u7532\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 137
+        "id": 137,
+        "internal": "Badge_WeaponLevel_Charger_Light_00_Lv01"
     },
     {
         "name": "4\u2605 E-liter 4K Scope User",
@@ -2499,7 +2636,8 @@
             "it_IT": "Tinter con mirino 4K: 4\u2605",
             "ja_JP": "4K\u30b9\u30b3\u30fc\u30d7\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 138
+        "id": 138,
+        "internal": "Badge_WeaponLevel_Charger_LongScope_00_Lv00"
     },
     {
         "name": "5\u2605 E-liter 4K Scope User",
@@ -2517,7 +2655,8 @@
             "it_IT": "Tinter con mirino 4K: 5\u2605",
             "ja_JP": "4K\u30b9\u30b3\u30fc\u30d7\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 139
+        "id": 139,
+        "internal": "Badge_WeaponLevel_Charger_LongScope_00_Lv01"
     },
     {
         "name": "4\u2605 E-liter 4K User",
@@ -2535,7 +2674,8 @@
             "it_IT": "Tinter a carica 4K: 4\u2605",
             "ja_JP": "\u30ea\u30c3\u30bf\u30fc4K\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 140
+        "id": 140,
+        "internal": "Badge_WeaponLevel_Charger_Long_00_Lv00"
     },
     {
         "name": "5\u2605 E-liter 4K User",
@@ -2553,7 +2693,8 @@
             "it_IT": "Tinter a carica 4K: 5\u2605",
             "ja_JP": "\u30ea\u30c3\u30bf\u30fc4K\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 141
+        "id": 141,
+        "internal": "Badge_WeaponLevel_Charger_Long_00_Lv01"
     },
     {
         "name": "4\u2605 Splatterscope User",
@@ -2571,7 +2712,8 @@
             "it_IT": "Splatter con mirino: 4\u2605",
             "ja_JP": "\u30b9\u30d7\u30e9\u30b9\u30b3\u30fc\u30d7\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 142
+        "id": 142,
+        "internal": "Badge_WeaponLevel_Charger_NormalScope_00_Lv00"
     },
     {
         "name": "5\u2605 Splatterscope User",
@@ -2589,7 +2731,8 @@
             "it_IT": "Splatter con mirino: 5\u2605",
             "ja_JP": "\u30b9\u30d7\u30e9\u30b9\u30b3\u30fc\u30d7\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 143
+        "id": 143,
+        "internal": "Badge_WeaponLevel_Charger_NormalScope_00_Lv01"
     },
     {
         "name": "4\u2605 Splat Charger User",
@@ -2607,7 +2750,8 @@
             "it_IT": "Splatter a carica: 4\u2605",
             "ja_JP": "\u30b9\u30d7\u30e9\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 144
+        "id": 144,
+        "internal": "Badge_WeaponLevel_Charger_Normal_00_Lv00"
     },
     {
         "name": "5\u2605 Splat Charger User",
@@ -2625,7 +2769,8 @@
             "it_IT": "Splatter a carica: 5\u2605",
             "ja_JP": "\u30b9\u30d7\u30e9\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 145
+        "id": 145,
+        "internal": "Badge_WeaponLevel_Charger_Normal_00_Lv01"
     },
     {
         "name": "4\u2605 Classic Squiffer User",
@@ -2643,7 +2788,8 @@
             "it_IT": "Kalamarapid \u03b1: 4\u2605",
             "ja_JP": "\u30b9\u30af\u30a4\u30c3\u30af\u30ea\u30f3\u03b1\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 146
+        "id": 146,
+        "internal": "Badge_WeaponLevel_Charger_Quick_00_Lv00"
     },
     {
         "name": "5\u2605 Classic Squiffer User",
@@ -2661,7 +2807,8 @@
             "it_IT": "Kalamarapid \u03b1: 5\u2605",
             "ja_JP": "\u30b9\u30af\u30a4\u30c3\u30af\u30ea\u30f3\u03b1\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 147
+        "id": 147,
+        "internal": "Badge_WeaponLevel_Charger_Quick_00_Lv01"
     },
     {
         "name": "4\u2605 Dualie Squelchers User",
@@ -2679,7 +2826,8 @@
             "it_IT": "Sweeper duplo: 4\u2605",
             "ja_JP": "\u30c7\u30e5\u30a2\u30eb\u30b9\u30a4\u30fc\u30d1\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 148
+        "id": 148,
+        "internal": "Badge_WeaponLevel_Maneuver_Dual_00_Lv00"
     },
     {
         "name": "5\u2605 Dualie Squelchers User",
@@ -2697,7 +2845,8 @@
             "it_IT": "Sweeper duplo: 5\u2605",
             "ja_JP": "\u30c7\u30e5\u30a2\u30eb\u30b9\u30a4\u30fc\u30d1\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 149
+        "id": 149,
+        "internal": "Badge_WeaponLevel_Maneuver_Dual_00_Lv01"
     },
     {
         "name": "4\u2605 Glooga Dualies User",
@@ -2715,7 +2864,8 @@
             "it_IT": "Kelvin duplo 525: 4\u2605",
             "ja_JP": "\u30b1\u30eb\u30d3\u30f3525\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 150
+        "id": 150,
+        "internal": "Badge_WeaponLevel_Maneuver_Gallon_00_Lv00"
     },
     {
         "name": "5\u2605 Glooga Dualies User",
@@ -2733,7 +2883,8 @@
             "it_IT": "Kelvin duplo 525: 5\u2605",
             "ja_JP": "\u30b1\u30eb\u30d3\u30f3525\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 151
+        "id": 151,
+        "internal": "Badge_WeaponLevel_Maneuver_Gallon_00_Lv01"
     },
     {
         "name": "4\u2605 Splat Dualies User",
@@ -2751,7 +2902,8 @@
             "it_IT": "Repolper duplo: 4\u2605",
             "ja_JP": "\u30b9\u30d7\u30e9\u30de\u30cb\u30e5\u30fc\u30d0\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 152
+        "id": 152,
+        "internal": "Badge_WeaponLevel_Maneuver_Normal_00_Lv00"
     },
     {
         "name": "5\u2605 Splat Dualies User",
@@ -2769,7 +2921,8 @@
             "it_IT": "Repolper duplo: 5\u2605",
             "ja_JP": "\u30b9\u30d7\u30e9\u30de\u30cb\u30e5\u30fc\u30d0\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 153
+        "id": 153,
+        "internal": "Badge_WeaponLevel_Maneuver_Normal_00_Lv01"
     },
     {
         "name": "4\u2605 Dapple Dualies User",
@@ -2787,7 +2940,8 @@
             "it_IT": "Ripolpella duplo: 4\u2605",
             "ja_JP": "\u30b9\u30d1\u30c3\u30bf\u30ea\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 154
+        "id": 154,
+        "internal": "Badge_WeaponLevel_Maneuver_Short_00_Lv00"
     },
     {
         "name": "5\u2605 Dapple Dualies User",
@@ -2805,7 +2959,8 @@
             "it_IT": "Ripolpella duplo: 5\u2605",
             "ja_JP": "\u30b9\u30d1\u30c3\u30bf\u30ea\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 155
+        "id": 155,
+        "internal": "Badge_WeaponLevel_Maneuver_Short_00_Lv01"
     },
     {
         "name": "4\u2605 Dark Tetra Dualies User",
@@ -2823,7 +2978,8 @@
             "it_IT": "Moscarpino duplo nero: 4\u2605",
             "ja_JP": "\u30af\u30a2\u30c3\u30c9\u30db\u30c3\u30d1\u30fc\u30d6\u30e9\u30c3\u30af\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 156
+        "id": 156,
+        "internal": "Badge_WeaponLevel_Maneuver_Stepper_00_Lv00"
     },
     {
         "name": "5\u2605 Dark Tetra Dualies User",
@@ -2841,7 +2997,8 @@
             "it_IT": "Moscarpino duplo nero: 5\u2605",
             "ja_JP": "\u30af\u30a2\u30c3\u30c9\u30db\u30c3\u30d1\u30fc\u30d6\u30e9\u30c3\u30af\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 157
+        "id": 157,
+        "internal": "Badge_WeaponLevel_Maneuver_Stepper_00_Lv01"
     },
     {
         "name": "4\u2605 Carbon Roller User",
@@ -2859,7 +3016,8 @@
             "it_IT": "Rullo di carbonio: 4\u2605",
             "ja_JP": "\u30ab\u30fc\u30dc\u30f3\u30ed\u30fc\u30e9\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 158
+        "id": 158,
+        "internal": "Badge_WeaponLevel_Roller_Compact_00_Lv00"
     },
     {
         "name": "5\u2605 Carbon Roller User",
@@ -2877,7 +3035,8 @@
             "it_IT": "Rullo di carbonio: 5\u2605",
             "ja_JP": "\u30ab\u30fc\u30dc\u30f3\u30ed\u30fc\u30e9\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 159
+        "id": 159,
+        "internal": "Badge_WeaponLevel_Roller_Compact_00_Lv01"
     },
     {
         "name": "4\u2605 Dynamo Roller User",
@@ -2895,7 +3054,8 @@
             "it_IT": "Rullo dinamo: 4\u2605",
             "ja_JP": "\u30c0\u30a4\u30ca\u30e2\u30ed\u30fc\u30e9\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 160
+        "id": 160,
+        "internal": "Badge_WeaponLevel_Roller_Heavy_00_Lv00"
     },
     {
         "name": "5\u2605 Dynamo Roller User",
@@ -2913,7 +3073,8 @@
             "it_IT": "Rullo dinamo: 5\u2605",
             "ja_JP": "\u30c0\u30a4\u30ca\u30e2\u30ed\u30fc\u30e9\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 161
+        "id": 161,
+        "internal": "Badge_WeaponLevel_Roller_Heavy_00_Lv01"
     },
     {
         "name": "4\u2605 Flingza Roller User",
@@ -2931,7 +3092,8 @@
             "it_IT": "Flexi-rullo: 4\u2605",
             "ja_JP": "\u30f4\u30a1\u30ea\u30a2\u30d6\u30eb\u30ed\u30fc\u30e9\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 162
+        "id": 162,
+        "internal": "Badge_WeaponLevel_Roller_Hunter_00_Lv00"
     },
     {
         "name": "5\u2605 Flingza Roller User",
@@ -2949,7 +3111,8 @@
             "it_IT": "Flexi-rullo: 5\u2605",
             "ja_JP": "\u30f4\u30a1\u30ea\u30a2\u30d6\u30eb\u30ed\u30fc\u30e9\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 163
+        "id": 163,
+        "internal": "Badge_WeaponLevel_Roller_Hunter_00_Lv01"
     },
     {
         "name": "4\u2605 Splat Roller User",
@@ -2967,7 +3130,8 @@
             "it_IT": "Rullo splat: 4\u2605",
             "ja_JP": "\u30b9\u30d7\u30e9\u30ed\u30fc\u30e9\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 164
+        "id": 164,
+        "internal": "Badge_WeaponLevel_Roller_Normal_00_Lv00"
     },
     {
         "name": "5\u2605 Splat Roller User",
@@ -2985,7 +3149,8 @@
             "it_IT": "Rullo splat: 5\u2605",
             "ja_JP": "\u30b9\u30d7\u30e9\u30ed\u30fc\u30e9\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 165
+        "id": 165,
+        "internal": "Badge_WeaponLevel_Roller_Normal_00_Lv01"
     },
     {
         "name": "4\u2605 Splatana Wiper User",
@@ -3003,7 +3168,8 @@
             "it_IT": "Tergilama: 4\u2605",
             "ja_JP": "\u30c9\u30e9\u30a4\u30d6\u30ef\u30a4\u30d1\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 166
+        "id": 166,
+        "internal": "Badge_WeaponLevel_Saber_Lite_00_Lv00"
     },
     {
         "name": "5\u2605 Splatana Wiper User",
@@ -3021,7 +3187,8 @@
             "it_IT": "Tergilama: 5\u2605",
             "ja_JP": "\u30c9\u30e9\u30a4\u30d6\u30ef\u30a4\u30d1\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 167
+        "id": 167,
+        "internal": "Badge_WeaponLevel_Saber_Lite_00_Lv01"
     },
     {
         "name": "4\u2605 Splatana Stamper User",
@@ -3039,7 +3206,8 @@
             "it_IT": "Splattalama: 4\u2605",
             "ja_JP": "\u30b8\u30e0\u30ef\u30a4\u30d1\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 168
+        "id": 168,
+        "internal": "Badge_WeaponLevel_Saber_Normal_00_Lv00"
     },
     {
         "name": "5\u2605 Splatana Stamper User",
@@ -3057,7 +3225,8 @@
             "it_IT": "Splattalama: 5\u2605",
             "ja_JP": "\u30b8\u30e0\u30ef\u30a4\u30d1\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 169
+        "id": 169,
+        "internal": "Badge_WeaponLevel_Saber_Normal_00_Lv01"
     },
     {
         "name": "4\u2605 Undercover Brella User",
@@ -3075,7 +3244,8 @@
             "it_IT": "Bombrello: 4\u2605",
             "ja_JP": "\u30b9\u30d1\u30a4\u30ac\u30b8\u30a7\u30c3\u30c8\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 170
+        "id": 170,
+        "internal": "Badge_WeaponLevel_Shelter_Compact_00_Lv00"
     },
     {
         "name": "5\u2605 Undercover Brella User",
@@ -3093,7 +3263,8 @@
             "it_IT": "Bombrello: 5\u2605",
             "ja_JP": "\u30b9\u30d1\u30a4\u30ac\u30b8\u30a7\u30c3\u30c8\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 171
+        "id": 171,
+        "internal": "Badge_WeaponLevel_Shelter_Compact_00_Lv01"
     },
     {
         "name": "4\u2605 Splat Brella User",
@@ -3111,7 +3282,8 @@
             "it_IT": "Sparasole: 4\u2605",
             "ja_JP": "\u30d1\u30e9\u30b7\u30a7\u30eb\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 172
+        "id": 172,
+        "internal": "Badge_WeaponLevel_Shelter_Normal_00_Lv00"
     },
     {
         "name": "5\u2605 Splat Brella User",
@@ -3129,7 +3301,8 @@
             "it_IT": "Sparasole: 5\u2605",
             "ja_JP": "\u30d1\u30e9\u30b7\u30a7\u30eb\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 173
+        "id": 173,
+        "internal": "Badge_WeaponLevel_Shelter_Normal_00_Lv01"
     },
     {
         "name": "4\u2605 Tenta Brella User",
@@ -3147,7 +3320,8 @@
             "it_IT": "Sparatenda: 4\u2605",
             "ja_JP": "\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30b7\u30a7\u30eb\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 174
+        "id": 174,
+        "internal": "Badge_WeaponLevel_Shelter_Wide_00_Lv00"
     },
     {
         "name": "5\u2605 Tenta Brella User",
@@ -3165,7 +3339,8 @@
             "it_IT": "Sparatenda: 5\u2605",
             "ja_JP": "\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30b7\u30a7\u30eb\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 175
+        "id": 175,
+        "internal": "Badge_WeaponLevel_Shelter_Wide_00_Lv01"
     },
     {
         "name": "4\u2605 Aerospray MG User",
@@ -3183,7 +3358,8 @@
             "it_IT": "Aerografo: 4\u2605",
             "ja_JP": "\u30d7\u30ed\u30e2\u30c7\u30e9\u30fcMG\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 176
+        "id": 176,
+        "internal": "Badge_WeaponLevel_Shooter_Blaze_00_Lv00"
     },
     {
         "name": "5\u2605 Aerospray MG User",
@@ -3201,7 +3377,8 @@
             "it_IT": "Aerografo: 5\u2605",
             "ja_JP": "\u30d7\u30ed\u30e2\u30c7\u30e9\u30fcMG\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 177
+        "id": 177,
+        "internal": "Badge_WeaponLevel_Shooter_Blaze_00_Lv01"
     },
     {
         "name": "4\u2605 Splattershot Pro User",
@@ -3219,7 +3396,8 @@
             "it_IT": "Splasher \u00e9lite: 4\u2605",
             "ja_JP": "\u30d7\u30e9\u30a4\u30e0\u30b7\u30e5\u30fc\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 178
+        "id": 178,
+        "internal": "Badge_WeaponLevel_Shooter_Expert_00_Lv00"
     },
     {
         "name": "5\u2605 Splattershot Pro User",
@@ -3237,7 +3415,8 @@
             "it_IT": "Splasher \u00e9lite: 5\u2605",
             "ja_JP": "\u30d7\u30e9\u30a4\u30e0\u30b7\u30e5\u30fc\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 179
+        "id": 179,
+        "internal": "Badge_WeaponLevel_Shooter_Expert_00_Lv01"
     },
     {
         "name": "4\u2605 Splattershot Jr. User",
@@ -3255,7 +3434,8 @@
             "it_IT": "Sparacolore recluta: 4\u2605",
             "ja_JP": "\u308f\u304b\u3070\u30b7\u30e5\u30fc\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 180
+        "id": 180,
+        "internal": "Badge_WeaponLevel_Shooter_First_00_Lv00"
     },
     {
         "name": "5\u2605 Splattershot Jr. User",
@@ -3273,7 +3453,8 @@
             "it_IT": "Sparacolore recluta: 5\u2605",
             "ja_JP": "\u308f\u304b\u3070\u30b7\u30e5\u30fc\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 181
+        "id": 181,
+        "internal": "Badge_WeaponLevel_Shooter_First_00_Lv01"
     },
     {
         "name": "4\u2605 Squeezer User",
@@ -3291,7 +3472,8 @@
             "it_IT": "Strizzer: 4\u2605",
             "ja_JP": "\u30dc\u30c8\u30eb\u30ac\u30a4\u30b6\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 182
+        "id": 182,
+        "internal": "Badge_WeaponLevel_Shooter_Flash_00_Lv00"
     },
     {
         "name": "5\u2605 Squeezer User",
@@ -3309,7 +3491,8 @@
             "it_IT": "Strizzer: 5\u2605",
             "ja_JP": "\u30dc\u30c8\u30eb\u30ac\u30a4\u30b6\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 183
+        "id": 183,
+        "internal": "Badge_WeaponLevel_Shooter_Flash_00_Lv01"
     },
     {
         "name": "4\u2605 .52 Gal User",
@@ -3327,7 +3510,8 @@
             "it_IT": "Calibro 2000: 4\u2605",
             "ja_JP": ".52\u30ac\u30ed\u30f3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 184
+        "id": 184,
+        "internal": "Badge_WeaponLevel_Shooter_Gravity_00_Lv00"
     },
     {
         "name": "5\u2605 .52 Gal User",
@@ -3345,7 +3529,8 @@
             "it_IT": "Calibro 2000: 5\u2605",
             "ja_JP": ".52\u30ac\u30ed\u30f3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 185
+        "id": 185,
+        "internal": "Badge_WeaponLevel_Shooter_Gravity_00_Lv01"
     },
     {
         "name": "4\u2605 .96 Gal User",
@@ -3363,7 +3548,8 @@
             "it_IT": "Calibro 3000: 4\u2605",
             "ja_JP": ".96\u30ac\u30ed\u30f3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 186
+        "id": 186,
+        "internal": "Badge_WeaponLevel_Shooter_Heavy_00_Lv00"
     },
     {
         "name": "5\u2605 .96 Gal User",
@@ -3381,7 +3567,8 @@
             "it_IT": "Calibro 3000: 5\u2605",
             "ja_JP": ".96\u30ac\u30ed\u30f3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 187
+        "id": 187,
+        "internal": "Badge_WeaponLevel_Shooter_Heavy_00_Lv01"
     },
     {
         "name": "4\u2605 Jet Squelcher User",
@@ -3399,7 +3586,8 @@
             "it_IT": "Sweeper: 4\u2605",
             "ja_JP": "\u30b8\u30a7\u30c3\u30c8\u30b9\u30a4\u30fc\u30d1\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 188
+        "id": 188,
+        "internal": "Badge_WeaponLevel_Shooter_Long_00_Lv00"
     },
     {
         "name": "5\u2605 Jet Squelcher User",
@@ -3417,7 +3605,8 @@
             "it_IT": "Sweeper: 5\u2605",
             "ja_JP": "\u30b8\u30a7\u30c3\u30c8\u30b9\u30a4\u30fc\u30d1\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 189
+        "id": 189,
+        "internal": "Badge_WeaponLevel_Shooter_Long_00_Lv01"
     },
     {
         "name": "4\u2605 Splattershot User",
@@ -3435,7 +3624,8 @@
             "it_IT": "Splasher: 4\u2605",
             "ja_JP": "\u30b9\u30d7\u30e9\u30b7\u30e5\u30fc\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 190
+        "id": 190,
+        "internal": "Badge_WeaponLevel_Shooter_Normal_00_Lv00"
     },
     {
         "name": "5\u2605 Splattershot User",
@@ -3453,7 +3643,8 @@
             "it_IT": "Splasher: 5\u2605",
             "ja_JP": "\u30b9\u30d7\u30e9\u30b7\u30e5\u30fc\u30bf\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 191
+        "id": 191,
+        "internal": "Badge_WeaponLevel_Shooter_Normal_00_Lv01"
     },
     {
         "name": "4\u2605 Hero Shot Replica User",
@@ -3471,7 +3662,8 @@
             "it_IT": "Pistola \u00e9lite replica: 4\u2605",
             "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30b7\u30e5\u30fc\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 192
+        "id": 192,
+        "internal": "Badge_WeaponLevel_Shooter_Normal_H_Lv00"
     },
     {
         "name": "5\u2605 Hero Shot Replica User",
@@ -3489,7 +3681,8 @@
             "it_IT": "Pistola \u00e9lite replica: 5\u2605",
             "ja_JP": "\u30d2\u30fc\u30ed\u30fc\u30b7\u30e5\u30fc\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 193
+        "id": 193,
+        "internal": "Badge_WeaponLevel_Shooter_Normal_H_Lv01"
     },
     {
         "name": "4\u2605 Splash-o-matic User",
@@ -3507,7 +3700,8 @@
             "it_IT": "Marker d'assalto: 4\u2605",
             "ja_JP": "\u30b7\u30e3\u30fc\u30d7\u30de\u30fc\u30ab\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 194
+        "id": 194,
+        "internal": "Badge_WeaponLevel_Shooter_Precision_00_Lv00"
     },
     {
         "name": "5\u2605 Splash-o-matic User",
@@ -3525,7 +3719,8 @@
             "it_IT": "Marker d'assalto: 5\u2605",
             "ja_JP": "\u30b7\u30e3\u30fc\u30d7\u30de\u30fc\u30ab\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 195
+        "id": 195,
+        "internal": "Badge_WeaponLevel_Shooter_Precision_00_Lv01"
     },
     {
         "name": "4\u2605 N-ZAP '85 User",
@@ -3543,7 +3738,8 @@
             "it_IT": "N-ZAP85: 4\u2605",
             "ja_JP": "N-ZAP85\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 196
+        "id": 196,
+        "internal": "Badge_WeaponLevel_Shooter_QuickMiddle_00_Lv00"
     },
     {
         "name": "5\u2605 N-ZAP '85 User",
@@ -3561,7 +3757,8 @@
             "it_IT": "N-ZAP85: 5\u2605",
             "ja_JP": "N-ZAP85\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 197
+        "id": 197,
+        "internal": "Badge_WeaponLevel_Shooter_QuickMiddle_00_Lv01"
     },
     {
         "name": "4\u2605 Sploosh-o-matic User",
@@ -3579,7 +3776,8 @@
             "it_IT": "Marker: 4\u2605",
             "ja_JP": "\u30dc\u30fc\u30eb\u30c9\u30de\u30fc\u30ab\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 198
+        "id": 198,
+        "internal": "Badge_WeaponLevel_Shooter_Short_00_Lv00"
     },
     {
         "name": "5\u2605 Sploosh-o-matic User",
@@ -3597,7 +3795,8 @@
             "it_IT": "Marker: 5\u2605",
             "ja_JP": "\u30dc\u30fc\u30eb\u30c9\u30de\u30fc\u30ab\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 199
+        "id": 199,
+        "internal": "Badge_WeaponLevel_Shooter_Short_00_Lv01"
     },
     {
         "name": "4\u2605 H-3 Nozzlenose User",
@@ -3615,7 +3814,8 @@
             "it_IT": "Triplete: 4\u2605",
             "ja_JP": "H3\u30ea\u30fc\u30eb\u30ac\u30f3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 200
+        "id": 200,
+        "internal": "Badge_WeaponLevel_Shooter_TripleMiddle_00_Lv00"
     },
     {
         "name": "5\u2605 H-3 Nozzlenose User",
@@ -3633,7 +3833,8 @@
             "it_IT": "Triplete: 5\u2605",
             "ja_JP": "H3\u30ea\u30fc\u30eb\u30ac\u30f3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 201
+        "id": 201,
+        "internal": "Badge_WeaponLevel_Shooter_TripleMiddle_00_Lv01"
     },
     {
         "name": "4\u2605 L-3 Nozzlenose User",
@@ -3651,7 +3852,8 @@
             "it_IT": "Triplete compatto: 4\u2605",
             "ja_JP": "L3\u30ea\u30fc\u30eb\u30ac\u30f3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 202
+        "id": 202,
+        "internal": "Badge_WeaponLevel_Shooter_TripleQuick_00_Lv00"
     },
     {
         "name": "5\u2605 L-3 Nozzlenose User",
@@ -3669,7 +3871,8 @@
             "it_IT": "Triplete compatto: 5\u2605",
             "ja_JP": "L3\u30ea\u30fc\u30eb\u30ac\u30f3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 203
+        "id": 203,
+        "internal": "Badge_WeaponLevel_Shooter_TripleQuick_00_Lv01"
     },
     {
         "name": "4\u2605 Bloblobber User",
@@ -3687,7 +3890,8 @@
             "it_IT": "Secchiostro vasca: 4\u2605",
             "ja_JP": "\u30aa\u30fc\u30d0\u30fc\u30d5\u30ed\u30c3\u30b7\u30e3\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 204
+        "id": 204,
+        "internal": "Badge_WeaponLevel_Slosher_Bathtub_00_Lv00"
     },
     {
         "name": "5\u2605 Bloblobber User",
@@ -3705,7 +3909,8 @@
             "it_IT": "Secchiostro vasca: 5\u2605",
             "ja_JP": "\u30aa\u30fc\u30d0\u30fc\u30d5\u30ed\u30c3\u30b7\u30e3\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 205
+        "id": 205,
+        "internal": "Badge_WeaponLevel_Slosher_Bathtub_00_Lv01"
     },
     {
         "name": "4\u2605 Tri-Slosher User",
@@ -3723,7 +3928,8 @@
             "it_IT": "Secchiostro triplo: 4\u2605",
             "ja_JP": "\u30d2\u30c3\u30bb\u30f3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 206
+        "id": 206,
+        "internal": "Badge_WeaponLevel_Slosher_Diffusion_00_Lv00"
     },
     {
         "name": "5\u2605 Tri-Slosher User",
@@ -3741,7 +3947,8 @@
             "it_IT": "Secchiostro triplo: 5\u2605",
             "ja_JP": "\u30d2\u30c3\u30bb\u30f3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 207
+        "id": 207,
+        "internal": "Badge_WeaponLevel_Slosher_Diffusion_00_Lv01"
     },
     {
         "name": "4\u2605 Sloshing Machine User",
@@ -3759,7 +3966,8 @@
             "it_IT": "Secchiostro centrifuga: 4\u2605",
             "ja_JP": "\u30b9\u30af\u30ea\u30e5\u30fc\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 208
+        "id": 208,
+        "internal": "Badge_WeaponLevel_Slosher_Launcher_00_Lv00"
     },
     {
         "name": "5\u2605 Sloshing Machine User",
@@ -3777,7 +3985,8 @@
             "it_IT": "Secchiostro centrifuga: 5\u2605",
             "ja_JP": "\u30b9\u30af\u30ea\u30e5\u30fc\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 209
+        "id": 209,
+        "internal": "Badge_WeaponLevel_Slosher_Launcher_00_Lv01"
     },
     {
         "name": "4\u2605 Slosher User",
@@ -3795,7 +4004,8 @@
             "it_IT": "Secchiostro: 4\u2605",
             "ja_JP": "\u30d0\u30b1\u30c3\u30c8\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 210
+        "id": 210,
+        "internal": "Badge_WeaponLevel_Slosher_Strong_00_Lv00"
     },
     {
         "name": "5\u2605 Slosher User",
@@ -3813,7 +4023,8 @@
             "it_IT": "Secchiostro: 5\u2605",
             "ja_JP": "\u30d0\u30b1\u30c3\u30c8\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 211
+        "id": 211,
+        "internal": "Badge_WeaponLevel_Slosher_Strong_00_Lv01"
     },
     {
         "name": "4\u2605 Explosher User",
@@ -3831,7 +4042,8 @@
             "it_IT": "Termosecchiostro: 4\u2605",
             "ja_JP": "\u30a8\u30af\u30b9\u30d7\u30ed\u30c3\u30b7\u30e3\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 212
+        "id": 212,
+        "internal": "Badge_WeaponLevel_Slosher_Washtub_00_Lv00"
     },
     {
         "name": "5\u2605 Explosher User",
@@ -3849,7 +4061,8 @@
             "it_IT": "Termosecchiostro: 5\u2605",
             "ja_JP": "\u30a8\u30af\u30b9\u30d7\u30ed\u30c3\u30b7\u30e3\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 213
+        "id": 213,
+        "internal": "Badge_WeaponLevel_Slosher_Washtub_00_Lv01"
     },
     {
         "name": "4\u2605 Ballpoint Splatling User",
@@ -3867,7 +4080,8 @@
             "it_IT": "Tetrapenna: 4\u2605",
             "ja_JP": "\u30af\u30fc\u30b2\u30eb\u30b7\u30e5\u30e9\u30a4\u30d0\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 214
+        "id": 214,
+        "internal": "Badge_WeaponLevel_Spinner_Downpour_00_Lv00"
     },
     {
         "name": "5\u2605 Ballpoint Splatling User",
@@ -3885,7 +4099,8 @@
             "it_IT": "Tetrapenna: 5\u2605",
             "ja_JP": "\u30af\u30fc\u30b2\u30eb\u30b7\u30e5\u30e9\u30a4\u30d0\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 215
+        "id": 215,
+        "internal": "Badge_WeaponLevel_Spinner_Downpour_00_Lv01"
     },
     {
         "name": "4\u2605 Hydra Splatling User",
@@ -3903,7 +4118,8 @@
             "it_IT": "Idrante: 4\u2605",
             "ja_JP": "\u30cf\u30a4\u30c9\u30e9\u30f3\u30c8\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 216
+        "id": 216,
+        "internal": "Badge_WeaponLevel_Spinner_Hyper_00_Lv00"
     },
     {
         "name": "5\u2605 Hydra Splatling User",
@@ -3921,7 +4137,8 @@
             "it_IT": "Idrante: 5\u2605",
             "ja_JP": "\u30cf\u30a4\u30c9\u30e9\u30f3\u30c8\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 217
+        "id": 217,
+        "internal": "Badge_WeaponLevel_Spinner_Hyper_00_Lv01"
     },
     {
         "name": "4\u2605 Mini Splatling User",
@@ -3939,7 +4156,8 @@
             "it_IT": "Mini splatling: 4\u2605",
             "ja_JP": "\u30b9\u30d7\u30e9\u30b9\u30d4\u30ca\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 218
+        "id": 218,
+        "internal": "Badge_WeaponLevel_Spinner_Quick_00_Lv00"
     },
     {
         "name": "5\u2605 Mini Splatling User",
@@ -3957,7 +4175,8 @@
             "it_IT": "Mini splatling: 5\u2605",
             "ja_JP": "\u30b9\u30d7\u30e9\u30b9\u30d4\u30ca\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 219
+        "id": 219,
+        "internal": "Badge_WeaponLevel_Spinner_Quick_00_Lv01"
     },
     {
         "name": "4\u2605 Nautilus 47 User",
@@ -3975,7 +4194,8 @@
             "it_IT": "Nautilus 47: 4\u2605",
             "ja_JP": "\u30ce\u30fc\u30c1\u30e9\u30b947\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 220
+        "id": 220,
+        "internal": "Badge_WeaponLevel_Spinner_Serein_00_Lv00"
     },
     {
         "name": "5\u2605 Nautilus 47 User",
@@ -3993,7 +4213,8 @@
             "it_IT": "Nautilus 47: 5\u2605",
             "ja_JP": "\u30ce\u30fc\u30c1\u30e9\u30b947\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 221
+        "id": 221,
+        "internal": "Badge_WeaponLevel_Spinner_Serein_00_Lv01"
     },
     {
         "name": "4\u2605 Heavy Splatling User",
@@ -4011,7 +4232,8 @@
             "it_IT": "Splatling a tanica: 4\u2605",
             "ja_JP": "\u30d0\u30ec\u30eb\u30b9\u30d4\u30ca\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 222
+        "id": 222,
+        "internal": "Badge_WeaponLevel_Spinner_Standard_00_Lv00"
     },
     {
         "name": "5\u2605 Heavy Splatling User",
@@ -4029,7 +4251,8 @@
             "it_IT": "Splatling a tanica: 5\u2605",
             "ja_JP": "\u30d0\u30ec\u30eb\u30b9\u30d4\u30ca\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 223
+        "id": 223,
+        "internal": "Badge_WeaponLevel_Spinner_Standard_00_Lv01"
     },
     {
         "name": "4\u2605 Tri-Stringer User",
@@ -4047,7 +4270,8 @@
             "it_IT": "Tri-calamarco: 4\u2605",
             "ja_JP": "\u30c8\u30e9\u30a4\u30b9\u30c8\u30ea\u30f3\u30ac\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 224
+        "id": 224,
+        "internal": "Badge_WeaponLevel_Stringer_Normal_00_Lv00"
     },
     {
         "name": "5\u2605 Tri-Stringer User",
@@ -4065,7 +4289,8 @@
             "it_IT": "Tri-calamarco: 5\u2605",
             "ja_JP": "\u30c8\u30e9\u30a4\u30b9\u30c8\u30ea\u30f3\u30ac\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 225
+        "id": 225,
+        "internal": "Badge_WeaponLevel_Stringer_Normal_00_Lv01"
     },
     {
         "name": "4\u2605 REEF-LUX 450 User",
@@ -4083,7 +4308,8 @@
             "it_IT": "ARCO-RAL 450: 4\u2605",
             "ja_JP": "LACT-450\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
-        "id": 226
+        "id": 226,
+        "internal": "Badge_WeaponLevel_Stringer_Short_00_Lv00"
     },
     {
         "name": "5\u2605 REEF-LUX 450 User",
@@ -4101,7 +4327,8 @@
             "it_IT": "ARCO-RAL 450: 5\u2605",
             "ja_JP": "LACT-450\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
-        "id": 227
+        "id": 227,
+        "internal": "Badge_WeaponLevel_Stringer_Short_00_Lv01"
     },
     {
         "name": "50 Turf War Wins",
@@ -4119,7 +4346,8 @@
             "it_IT": "50 vittorie in Mischia mollusca",
             "ja_JP": "\u30ca\u30ef\u30d0\u30ea\u30d0\u30c8\u30eb\u3067\uff15\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 228
+        "id": 228,
+        "internal": "Badge_WinCount_Pnt_Lv00"
     },
     {
         "name": "250 Turf War Wins",
@@ -4137,7 +4365,8 @@
             "it_IT": "250 vittorie in Mischia mollusca",
             "ja_JP": "\u30ca\u30ef\u30d0\u30ea\u30d0\u30c8\u30eb\u3067\uff12\uff15\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 229
+        "id": 229,
+        "internal": "Badge_WinCount_Pnt_Lv01"
     },
     {
         "name": "1,200 Turf War Wins",
@@ -4155,7 +4384,8 @@
             "it_IT": "1200 vittorie in Mischia mollusca",
             "ja_JP": "\u30ca\u30ef\u30d0\u30ea\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 230
+        "id": 230,
+        "internal": "Badge_WinCount_Pnt_Lv02"
     },
     {
         "name": "Tricolor Turf War Win - Attacker",
@@ -4173,7 +4403,8 @@
             "it_IT": "Vittoria in una partita tricolore (attacco)",
             "ja_JP": "\u30c8\u30ea\u30ab\u30e9\u30d0\u30c8\u30eb\u306e\u653b\u6483\u30c1\u30fc\u30e0\u3067\u52dd\u5229\u3057\u305f"
         },
-        "id": 231
+        "id": 231,
+        "internal": "Badge_WinCount_Tcl_Atk_Lv00"
     },
     {
         "name": "10 Tricolor Turf War Wins - Attacker",
@@ -4191,7 +4422,8 @@
             "it_IT": "10 vittorie in una partita tricolore (attacco)",
             "ja_JP": "\u30c8\u30ea\u30ab\u30e9\u30d0\u30c8\u30eb\u306e\u653b\u6483\u30c1\u30fc\u30e0\u3067\uff11\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 232
+        "id": 232,
+        "internal": "Badge_WinCount_Tcl_Atk_Lv01"
     },
     {
         "name": "Tricolor Turf War Win - Defender",
@@ -4209,7 +4441,8 @@
             "it_IT": "Vittoria in una partita tricolore (difesa)",
             "ja_JP": "\u30c8\u30ea\u30ab\u30e9\u30d0\u30c8\u30eb\u306e\u5b88\u5099\u30c1\u30fc\u30e0\u3067\u52dd\u5229\u3057\u305f"
         },
-        "id": 233
+        "id": 233,
+        "internal": "Badge_WinCount_Tcl_Def_Lv00"
     },
     {
         "name": "10 Tricolor Turf War Wins - Defender",
@@ -4227,7 +4460,8 @@
             "it_IT": "10 vittorie in una partita tricolore (difesa)",
             "ja_JP": "\u30c8\u30ea\u30ab\u30e9\u30d0\u30c8\u30eb\u306e\u5b88\u5099\u30c1\u30fc\u30e0\u3067\uff11\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 234
+        "id": 234,
+        "internal": "Badge_WinCount_Tcl_Def_Lv01"
     },
     {
         "name": "100 Splat Zones Wins",
@@ -4245,7 +4479,8 @@
             "it_IT": "100 vittorie in Zona splat",
             "ja_JP": "\u30ac\u30c1\u30a8\u30ea\u30a2\u3067\uff11\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 235
+        "id": 235,
+        "internal": "Badge_WinCount_Var_Lv00"
     },
     {
         "name": "1,000 Splat Zones Wins",
@@ -4263,7 +4498,8 @@
             "it_IT": "1000 vittorie in Zona splat",
             "ja_JP": "\u30ac\u30c1\u30a8\u30ea\u30a2\u3067\uff11\uff10\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 236
+        "id": 236,
+        "internal": "Badge_WinCount_Var_Lv01"
     },
     {
         "name": "100 Clam Blitz Wins",
@@ -4281,7 +4517,8 @@
             "it_IT": "100 vittorie in Vongol gol",
             "ja_JP": "\u30ac\u30c1\u30a2\u30b5\u30ea\u3067\uff11\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 237
+        "id": 237,
+        "internal": "Badge_WinCount_Vcl_Lv00"
     },
     {
         "name": "1,000 Clam Blitz Wins",
@@ -4299,7 +4536,8 @@
             "it_IT": "1000 vittorie in Vongol gol",
             "ja_JP": "\u30ac\u30c1\u30a2\u30b5\u30ea\u3067\uff11\uff10\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 238
+        "id": 238,
+        "internal": "Badge_WinCount_Vcl_Lv01"
     },
     {
         "name": "100 Rainmaker Wins",
@@ -4317,7 +4555,8 @@
             "it_IT": "100 vittorie in Bazookarp",
             "ja_JP": "\u30ac\u30c1\u30db\u30b3\u30d0\u30c8\u30eb\u3067\uff11\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 239
+        "id": 239,
+        "internal": "Badge_WinCount_Vgl_Lv00"
     },
     {
         "name": "1,000 Rainmaker Wins",
@@ -4335,7 +4574,8 @@
             "it_IT": "1000 vittorie in Bazookarp",
             "ja_JP": "\u30ac\u30c1\u30db\u30b3\u30d0\u30c8\u30eb\u3067\uff11\uff10\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 240
+        "id": 240,
+        "internal": "Badge_WinCount_Vgl_Lv01"
     },
     {
         "name": "100 Tower Control Wins",
@@ -4353,7 +4593,8 @@
             "it_IT": "100 vittorie in Torre mobile",
             "ja_JP": "\u30ac\u30c1\u30e4\u30b0\u30e9\u3067\uff11\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 241
+        "id": 241,
+        "internal": "Badge_WinCount_Vlf_Lv00"
     },
     {
         "name": "1,000 Tower Control Wins",
@@ -4371,7 +4612,8 @@
             "it_IT": "1000 vittorie in Torre mobile",
             "ja_JP": "\u30ac\u30c1\u30e4\u30b0\u30e9\u3067\uff11\uff10\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 242
+        "id": 242,
+        "internal": "Badge_WinCount_Vlf_Lv01"
     },
     {
         "name": "30 Wins with Ink Vac",
@@ -4389,7 +4631,8 @@
             "it_IT": "Vampinchiostro: 30 vittorie",
             "ja_JP": "\u30ad\u30e5\u30fc\u30a4\u30f3\u30ad\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 243
+        "id": 243,
+        "internal": "Badge_WinCount_WeaponSp_SpBlower_Lv00"
     },
     {
         "name": "180 Wins with Ink Vac",
@@ -4407,7 +4650,8 @@
             "it_IT": "Vampinchiostro: 180 vittorie",
             "ja_JP": "\u30ad\u30e5\u30fc\u30a4\u30f3\u30ad\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 244
+        "id": 244,
+        "internal": "Badge_WinCount_WeaponSp_SpBlower_Lv01"
     },
     {
         "name": "1,200 Wins with Ink Vac",
@@ -4425,7 +4669,8 @@
             "it_IT": "Vampinchiostro: 1200 vittorie",
             "ja_JP": "\u30ad\u30e5\u30fc\u30a4\u30f3\u30ad\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 245
+        "id": 245,
+        "internal": "Badge_WinCount_WeaponSp_SpBlower_Lv02"
     },
     {
         "name": "30 Wins with Crab Tank",
@@ -4443,7 +4688,8 @@
             "it_IT": "Granchio armato: 30 vittorie",
             "ja_JP": "\u30ab\u30cb\u30bf\u30f3\u30af\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 246
+        "id": 246,
+        "internal": "Badge_WinCount_WeaponSp_SpChariot_Lv00"
     },
     {
         "name": "180 Wins with Crab Tank",
@@ -4461,7 +4707,8 @@
             "it_IT": "Granchio armato: 180 vittorie",
             "ja_JP": "\u30ab\u30cb\u30bf\u30f3\u30af\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 247
+        "id": 247,
+        "internal": "Badge_WinCount_WeaponSp_SpChariot_Lv01"
     },
     {
         "name": "1,200 Wins with Crab Tank",
@@ -4479,7 +4726,8 @@
             "it_IT": "Granchio armato: 1200 vittorie",
             "ja_JP": "\u30ab\u30cb\u30bf\u30f3\u30af\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 248
+        "id": 248,
+        "internal": "Badge_WinCount_WeaponSp_SpChariot_Lv02"
     },
     {
         "name": "30 Wins with Tacticooler",
@@ -4497,7 +4745,8 @@
             "it_IT": "Rinfrigorente: 30 vittorie",
             "ja_JP": "\u30a8\u30ca\u30b8\u30fc\u30b9\u30bf\u30f3\u30c9\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 249
+        "id": 249,
+        "internal": "Badge_WinCount_WeaponSp_SpEnergyStand_Lv00"
     },
     {
         "name": "180 Wins with Tacticooler",
@@ -4515,7 +4764,8 @@
             "it_IT": "Rinfrigorente: 180 vittorie",
             "ja_JP": "\u30a8\u30ca\u30b8\u30fc\u30b9\u30bf\u30f3\u30c9\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 250
+        "id": 250,
+        "internal": "Badge_WinCount_WeaponSp_SpEnergyStand_Lv01"
     },
     {
         "name": "1,200 Wins with Tacticooler",
@@ -4533,7 +4783,8 @@
             "it_IT": "Rinfrigorente: 1200 vittorie",
             "ja_JP": "\u30a8\u30ca\u30b8\u30fc\u30b9\u30bf\u30f3\u30c9\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 251
+        "id": 251,
+        "internal": "Badge_WinCount_WeaponSp_SpEnergyStand_Lv02"
     },
     {
         "name": "30 Wins with Big Bubbler",
@@ -4551,7 +4802,8 @@
             "it_IT": "Gran bolla scudo: 30 vittorie",
             "ja_JP": "\u30b0\u30ec\u30fc\u30c8\u30d0\u30ea\u30a2\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 252
+        "id": 252,
+        "internal": "Badge_WinCount_WeaponSp_SpGreatBarrier_Lv00"
     },
     {
         "name": "180 Wins with Big Bubbler",
@@ -4569,7 +4821,8 @@
             "it_IT": "Gran bolla scudo: 180 vittorie",
             "ja_JP": "\u30b0\u30ec\u30fc\u30c8\u30d0\u30ea\u30a2\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 253
+        "id": 253,
+        "internal": "Badge_WinCount_WeaponSp_SpGreatBarrier_Lv01"
     },
     {
         "name": "1,200 Wins with Big Bubbler",
@@ -4587,7 +4840,8 @@
             "it_IT": "Gran bolla scudo: 1200 vittorie",
             "ja_JP": "\u30b0\u30ec\u30fc\u30c8\u30d0\u30ea\u30a2\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 254
+        "id": 254,
+        "internal": "Badge_WinCount_WeaponSp_SpGreatBarrier_Lv02"
     },
     {
         "name": "30 Wins with Ink Storm",
@@ -4605,7 +4859,8 @@
             "it_IT": "Pioggia di colore: 30 vittorie",
             "ja_JP": "\u30a2\u30e1\u30d5\u30e9\u30b7\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 255
+        "id": 255,
+        "internal": "Badge_WinCount_WeaponSp_SpInkStorm_Lv00"
     },
     {
         "name": "180 Wins with Ink Storm",
@@ -4623,7 +4878,8 @@
             "it_IT": "Pioggia di colore: 180 vittorie",
             "ja_JP": "\u30a2\u30e1\u30d5\u30e9\u30b7\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 256
+        "id": 256,
+        "internal": "Badge_WinCount_WeaponSp_SpInkStorm_Lv01"
     },
     {
         "name": "1,200 Wins with Ink Storm",
@@ -4641,7 +4897,8 @@
             "it_IT": "Pioggia di colore: 1200 vittorie",
             "ja_JP": "\u30a2\u30e1\u30d5\u30e9\u30b7\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 257
+        "id": 257,
+        "internal": "Badge_WinCount_WeaponSp_SpInkStorm_Lv02"
     },
     {
         "name": "30 Wins with Inkjet",
@@ -4659,7 +4916,8 @@
             "it_IT": "Jet splat: 30 vittorie",
             "ja_JP": "\u30b8\u30a7\u30c3\u30c8\u30d1\u30c3\u30af\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 258
+        "id": 258,
+        "internal": "Badge_WinCount_WeaponSp_SpJetpack_Lv00"
     },
     {
         "name": "180 Wins with Inkjet",
@@ -4677,7 +4935,8 @@
             "it_IT": "Jet splat: 180 vittorie",
             "ja_JP": "\u30b8\u30a7\u30c3\u30c8\u30d1\u30c3\u30af\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 259
+        "id": 259,
+        "internal": "Badge_WinCount_WeaponSp_SpJetpack_Lv01"
     },
     {
         "name": "1,200 Wins with Inkjet",
@@ -4695,7 +4954,8 @@
             "it_IT": "Jet splat: 1200 vittorie",
             "ja_JP": "\u30b8\u30a7\u30c3\u30c8\u30d1\u30c3\u30af\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 260
+        "id": 260,
+        "internal": "Badge_WinCount_WeaponSp_SpJetpack_Lv02"
     },
     {
         "name": "30 Wins with Killer Wail 5.1",
@@ -4713,7 +4973,8 @@
             "it_IT": "Tintofono 5.1: 30 vittorie",
             "ja_JP": "\u30e1\u30ac\u30db\u30f3\u30ec\u30fc\u30b6\u30fc5.1ch\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 261
+        "id": 261,
+        "internal": "Badge_WinCount_WeaponSp_SpMicroLaser_Lv00"
     },
     {
         "name": "180 Wins with Killer Wail 5.1",
@@ -4731,7 +4992,8 @@
             "it_IT": "Tintofono 5.1: 180 vittorie",
             "ja_JP": "\u30e1\u30ac\u30db\u30f3\u30ec\u30fc\u30b6\u30fc5.1ch\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 262
+        "id": 262,
+        "internal": "Badge_WinCount_WeaponSp_SpMicroLaser_Lv01"
     },
     {
         "name": "1,200 Wins with Killer Wail 5.1",
@@ -4749,7 +5011,8 @@
             "it_IT": "Tintofono 5.1: 1200 vittorie",
             "ja_JP": "\u30e1\u30ac\u30db\u30f3\u30ec\u30fc\u30b6\u30fc5.1ch\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 263
+        "id": 263,
+        "internal": "Badge_WinCount_WeaponSp_SpMicroLaser_Lv02"
     },
     {
         "name": "30 Wins with Tenta Missiles",
@@ -4767,7 +5030,8 @@
             "it_IT": "Lanciarazzi: 30 vittorie",
             "ja_JP": "\u30de\u30eb\u30c1\u30df\u30b5\u30a4\u30eb\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 264
+        "id": 264,
+        "internal": "Badge_WinCount_WeaponSp_SpMultiMissile_Lv00"
     },
     {
         "name": "180 Wins with Tenta Missiles",
@@ -4785,7 +5049,8 @@
             "it_IT": "Lanciarazzi: 180 vittorie",
             "ja_JP": "\u30de\u30eb\u30c1\u30df\u30b5\u30a4\u30eb\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 265
+        "id": 265,
+        "internal": "Badge_WinCount_WeaponSp_SpMultiMissile_Lv01"
     },
     {
         "name": "1,200 Wins with Tenta Missiles",
@@ -4803,7 +5068,8 @@
             "it_IT": "Lanciarazzi: 1200 vittorie",
             "ja_JP": "\u30de\u30eb\u30c1\u30df\u30b5\u30a4\u30eb\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 266
+        "id": 266,
+        "internal": "Badge_WinCount_WeaponSp_SpMultiMissile_Lv02"
     },
     {
         "name": "30 Wins with Booyah Bomb",
@@ -4821,7 +5087,8 @@
             "it_IT": "Granbotto: 30 vittorie",
             "ja_JP": "\u30ca\u30a4\u30b9\u30c0\u30de\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 267
+        "id": 267,
+        "internal": "Badge_WinCount_WeaponSp_SpNiceBall_Lv00"
     },
     {
         "name": "180 Wins with Booyah Bomb",
@@ -4839,7 +5106,8 @@
             "it_IT": "Granbotto: 180 vittorie",
             "ja_JP": "\u30ca\u30a4\u30b9\u30c0\u30de\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 268
+        "id": 268,
+        "internal": "Badge_WinCount_WeaponSp_SpNiceBall_Lv01"
     },
     {
         "name": "1,200 Wins with Booyah Bomb",
@@ -4857,7 +5125,8 @@
             "it_IT": "Granbotto: 1200 vittorie",
             "ja_JP": "\u30ca\u30a4\u30b9\u30c0\u30de\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 269
+        "id": 269,
+        "internal": "Badge_WinCount_WeaponSp_SpNiceBall_Lv02"
     },
     {
         "name": "30 Wins with Wave Breaker",
@@ -4875,7 +5144,8 @@
             "it_IT": "Sonar esplosivo: 30 vittorie",
             "ja_JP": "\u30db\u30c3\u30d7\u30bd\u30ca\u30fc\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 270
+        "id": 270,
+        "internal": "Badge_WinCount_WeaponSp_SpShockSonar_Lv00"
     },
     {
         "name": "180 Wins with Wave Breaker",
@@ -4893,7 +5163,8 @@
             "it_IT": "Sonar esplosivo: 180 vittorie",
             "ja_JP": "\u30db\u30c3\u30d7\u30bd\u30ca\u30fc\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 271
+        "id": 271,
+        "internal": "Badge_WinCount_WeaponSp_SpShockSonar_Lv01"
     },
     {
         "name": "1,200 Wins with Wave Breaker",
@@ -4911,7 +5182,8 @@
             "it_IT": "Sonar esplosivo: 1200 vittorie",
             "ja_JP": "\u30db\u30c3\u30d7\u30bd\u30ca\u30fc\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 272
+        "id": 272,
+        "internal": "Badge_WinCount_WeaponSp_SpShockSonar_Lv02"
     },
     {
         "name": "30 Wins with Reefslider",
@@ -4929,7 +5201,8 @@
             "it_IT": "Motosqualo: 30 vittorie",
             "ja_JP": "\u30b5\u30e1\u30e9\u30a4\u30c9\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 273
+        "id": 273,
+        "internal": "Badge_WinCount_WeaponSp_SpSkewer_Lv00"
     },
     {
         "name": "180 Wins with Reefslider",
@@ -4947,7 +5220,8 @@
             "it_IT": "Motosqualo: 180 vittorie",
             "ja_JP": "\u30b5\u30e1\u30e9\u30a4\u30c9\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 274
+        "id": 274,
+        "internal": "Badge_WinCount_WeaponSp_SpSkewer_Lv01"
     },
     {
         "name": "1,200 Wins with Reefslider",
@@ -4965,7 +5239,8 @@
             "it_IT": "Motosqualo: 1200 vittorie",
             "ja_JP": "\u30b5\u30e1\u30e9\u30a4\u30c9\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 275
+        "id": 275,
+        "internal": "Badge_WinCount_WeaponSp_SpSkewer_Lv02"
     },
     {
         "name": "30 Wins with Zipcaster",
@@ -4983,7 +5258,8 @@
             "it_IT": "Molluscatto: 30 vittorie",
             "ja_JP": "\u30b7\u30e7\u30af\u30ef\u30f3\u30c0\u30fc\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 276
+        "id": 276,
+        "internal": "Badge_WinCount_WeaponSp_SpSuperHook_Lv00"
     },
     {
         "name": "180 Wins with Zipcaster",
@@ -5001,7 +5277,8 @@
             "it_IT": "Molluscatto: 180 vittorie",
             "ja_JP": "\u30b7\u30e7\u30af\u30ef\u30f3\u30c0\u30fc\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 277
+        "id": 277,
+        "internal": "Badge_WinCount_WeaponSp_SpSuperHook_Lv01"
     },
     {
         "name": "1,200 Wins with Zipcaster",
@@ -5019,7 +5296,8 @@
             "it_IT": "Molluscatto: 1200 vittorie",
             "ja_JP": "\u30b7\u30e7\u30af\u30ef\u30f3\u30c0\u30fc\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 278
+        "id": 278,
+        "internal": "Badge_WinCount_WeaponSp_SpSuperHook_Lv02"
     },
     {
         "name": "30 Wins with Triple Inkstrike",
@@ -5037,7 +5315,8 @@
             "it_IT": "Triplo tornado: 30 vittorie",
             "ja_JP": "\u30c8\u30ea\u30d7\u30eb\u30c8\u30eb\u30cd\u30fc\u30c9\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 279
+        "id": 279,
+        "internal": "Badge_WinCount_WeaponSp_SpTripleTornado_Lv00"
     },
     {
         "name": "180 Wins with Triple Inkstrike",
@@ -5055,7 +5334,8 @@
             "it_IT": "Triplo tornado: 180 vittorie",
             "ja_JP": "\u30c8\u30ea\u30d7\u30eb\u30c8\u30eb\u30cd\u30fc\u30c9\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 280
+        "id": 280,
+        "internal": "Badge_WinCount_WeaponSp_SpTripleTornado_Lv01"
     },
     {
         "name": "1,200 Wins with Triple Inkstrike",
@@ -5073,7 +5353,8 @@
             "it_IT": "Triplo tornado: 1200 vittorie",
             "ja_JP": "\u30c8\u30ea\u30d7\u30eb\u30c8\u30eb\u30cd\u30fc\u30c9\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 281
+        "id": 281,
+        "internal": "Badge_WinCount_WeaponSp_SpTripleTornado_Lv02"
     },
     {
         "name": "30 Wins with Trizooka",
@@ -5091,7 +5372,8 @@
             "it_IT": "Ultraturbinator: 30 vittorie",
             "ja_JP": "\u30a6\u30eb\u30c8\u30e9\u30b7\u30e7\u30c3\u30c8\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 282
+        "id": 282,
+        "internal": "Badge_WinCount_WeaponSp_SpUltraShot_Lv00"
     },
     {
         "name": "180 Wins with Trizooka",
@@ -5109,7 +5391,8 @@
             "it_IT": "Ultraturbinator: 180 vittorie",
             "ja_JP": "\u30a6\u30eb\u30c8\u30e9\u30b7\u30e7\u30c3\u30c8\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 283
+        "id": 283,
+        "internal": "Badge_WinCount_WeaponSp_SpUltraShot_Lv01"
     },
     {
         "name": "1,200 Wins with Trizooka",
@@ -5127,7 +5410,8 @@
             "it_IT": "Ultraturbinator: 1200 vittorie",
             "ja_JP": "\u30a6\u30eb\u30c8\u30e9\u30b7\u30e7\u30c3\u30c8\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 284
+        "id": 284,
+        "internal": "Badge_WinCount_WeaponSp_SpUltraShot_Lv02"
     },
     {
         "name": "30 Wins with Ultra Stamp",
@@ -5145,7 +5429,8 @@
             "it_IT": "Mega timbro: 30 vittorie",
             "ja_JP": "\u30a6\u30eb\u30c8\u30e9\u30cf\u30f3\u30b3\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 285
+        "id": 285,
+        "internal": "Badge_WinCount_WeaponSp_SpUltraStamp_Lv00"
     },
     {
         "name": "180 Wins with Ultra Stamp",
@@ -5163,7 +5448,8 @@
             "it_IT": "Mega timbro: 180 vittorie",
             "ja_JP": "\u30a6\u30eb\u30c8\u30e9\u30cf\u30f3\u30b3\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 286
+        "id": 286,
+        "internal": "Badge_WinCount_WeaponSp_SpUltraStamp_Lv01"
     },
     {
         "name": "1,200 Wins with Ultra Stamp",
@@ -5181,6 +5467,7 @@
             "it_IT": "Mega timbro: 1200 vittorie",
             "ja_JP": "\u30a6\u30eb\u30c8\u30e9\u30cf\u30f3\u30b3\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
         },
-        "id": 287
+        "id": 287,
+        "internal": "Badge_WinCount_WeaponSp_SpUltraStamp_Lv02"
     }
 ]
