@@ -15,7 +15,8 @@
             "it_IT": "None",
             "ja_JP": "None"
         },
-        "id": 0
+        "id": 0,
+        "internal": "None"
     },
     {
         "name": "Level 50 Catalog Reached!",
