@@ -968,8 +968,13 @@ angular.module('splatApp').controller('BackgroundCtrl', function($scope, $rootSc
 
     $scope.ok = function() {
         var scope = this;
+        var name = document.getElementById("playerName").value;
+        if (name.length > 10) {
+            alert("Name too long");
+            return;
+        }
         $timeout(function() {
-            $uibModalInstance.close({ bg: scope.selectedBg, name: document.getElementById("playerName").value });
+            $uibModalInstance.close({ bg: scope.selectedBg, name: name });
         }, modalCloseDelay);
     };
 
