@@ -149,6 +149,7 @@ async def special(listie, locale_data):
     for special in listie:
         eyedee = special["__RowId"]
         if "Mission" in eyedee: continue
+        if "Coop" in eyedee: continue
         image = f"../common/assets/img/subspe/Wsp_{eyedee}.png"
         localizedName = {}
         try:
