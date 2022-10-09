@@ -1,6 +1,7 @@
 [
     {
         "id": 0,
+        "internal-id": 25000,
         "name": "School Shoes + Hi Socks",
         "image": "../common/assets/img/gear/shoes/Shs_AMB000.png",
         "main": "Ink Saver (Sub)",
@@ -23,6 +24,7 @@
     },
     {
         "id": 1,
+        "internal-id": 25001,
         "name": "Samurai Shoes",
         "image": "../common/assets/img/gear/shoes/Shs_AMB001.png",
         "main": "Special Power Up",
@@ -45,6 +47,7 @@
     },
     {
         "id": 2,
+        "internal-id": 25002,
         "name": "Power Boots",
         "image": "../common/assets/img/gear/shoes/Shs_AMB002.png",
         "main": "Ink Saver (Main)",
@@ -67,6 +70,7 @@
     },
     {
         "id": 3,
+        "internal-id": 25003,
         "name": "Baggy-Sock Fringe Loafs",
         "image": "../common/assets/img/gear/shoes/Shs_AMB003.png",
         "main": "Sub Resistance Up",
@@ -89,6 +93,7 @@
     },
     {
         "id": 4,
+        "internal-id": 25004,
         "name": "Squinja Boots",
         "image": "../common/assets/img/gear/shoes/Shs_AMB004.png",
         "main": "Swim Speed Up",
@@ -111,6 +116,7 @@
     },
     {
         "id": 5,
+        "internal-id": 25005,
         "name": "Power Boots Mk I",
         "image": "../common/assets/img/gear/shoes/Shs_AMB005.png",
         "main": "Sub Resistance Up",
@@ -133,6 +139,7 @@
     },
     {
         "id": 6,
+        "internal-id": 25006,
         "name": "Pearlescent Kicks",
         "image": "../common/assets/img/gear/shoes/Shs_AMB006.png",
         "main": "Special Charge Up",
@@ -155,6 +162,7 @@
     },
     {
         "id": 7,
+        "internal-id": 25007,
         "name": "Marinated Slip-Ons",
         "image": "../common/assets/img/gear/shoes/Shs_AMB007.png",
         "main": "Ink Recovery Up",
@@ -177,6 +185,7 @@
     },
     {
         "id": 8,
+        "internal-id": 25008,
         "name": "Enchanted Boots",
         "image": "../common/assets/img/gear/shoes/Shs_AMB008.png",
         "main": "Run Speed Up",
@@ -199,6 +208,7 @@
     },
     {
         "id": 9,
+        "internal-id": 25009,
         "name": "Steel Greaves",
         "image": "../common/assets/img/gear/shoes/Shs_AMB009.png",
         "main": "Object Shredder",
@@ -221,6 +231,7 @@
     },
     {
         "id": 10,
+        "internal-id": 25010,
         "name": "Fresh Fish Feet",
         "image": "../common/assets/img/gear/shoes/Shs_AMB010.png",
         "main": "Quick Respawn",
@@ -243,6 +254,7 @@
     },
     {
         "id": 11,
+        "internal-id": 25014,
         "name": "Base School Shoes",
         "image": "../common/assets/img/gear/shoes/Shs_AMB014.png",
         "main": "Ink Saver (Sub)",
@@ -265,6 +277,7 @@
     },
     {
         "id": 12,
+        "internal-id": 25015,
         "name": "Base Fringed Loafers",
         "image": "../common/assets/img/gear/shoes/Shs_AMB015.png",
         "main": "Sub Resistance Up",
@@ -287,6 +300,7 @@
     },
     {
         "id": 13,
+        "internal-id": 6000,
         "name": "Moto Boots",
         "image": "../common/assets/img/gear/shoes/Shs_BOT000.png",
         "main": "Quick Respawn",
@@ -309,6 +323,7 @@
     },
     {
         "id": 14,
+        "internal-id": 6001,
         "name": "Tan Work Boots",
         "image": "../common/assets/img/gear/shoes/Shs_BOT001.png",
         "main": "Sub Power Up",
@@ -331,6 +346,7 @@
     },
     {
         "id": 15,
+        "internal-id": 6006,
         "name": "Punk Whites",
         "image": "../common/assets/img/gear/shoes/Shs_BOT006.png",
         "main": "Special Charge Up",
@@ -353,6 +369,7 @@
     },
     {
         "id": 16,
+        "internal-id": 6007,
         "name": "Punk Cherries",
         "image": "../common/assets/img/gear/shoes/Shs_BOT007.png",
         "main": "Sub Resistance Up",
@@ -375,6 +392,7 @@
     },
     {
         "id": 17,
+        "internal-id": 6012,
         "name": "Hunting Boots",
         "image": "../common/assets/img/gear/shoes/Shs_BOT012.png",
         "main": "Sub Resistance Up",
@@ -397,6 +415,7 @@
     },
     {
         "id": 18,
+        "internal-id": 6020,
         "name": "Skipjack Work Boots",
         "image": "../common/assets/img/gear/shoes/Shs_BOT020.png",
         "main": "Ink Saver (Sub)",
@@ -419,6 +438,7 @@
     },
     {
         "id": 19,
+        "internal-id": 6021,
         "name": "Arctic Duck Boots",
         "image": "../common/assets/img/gear/shoes/Shs_BOT021.png",
         "main": "Quick Respawn",
@@ -441,6 +461,7 @@
     },
     {
         "id": 20,
+        "internal-id": 6023,
         "name": "Red Hammertreads",
         "image": "../common/assets/img/gear/shoes/Shs_BOT023.png",
         "main": "Ink Saver (Main)",
@@ -463,6 +484,7 @@
     },
     {
         "id": 21,
+        "internal-id": 6025,
         "name": "Punk Pinks",
         "image": "../common/assets/img/gear/shoes/Shs_BOT025.png",
         "main": "Ink Recovery Up",
@@ -485,6 +507,7 @@
     },
     {
         "id": 22,
+        "internal-id": 8010,
         "name": "Annaki Habaneros",
         "image": "../common/assets/img/gear/shoes/Shs_LTS010.png",
         "main": "Sub Power Up",
@@ -507,6 +530,7 @@
     },
     {
         "id": 23,
+        "internal-id": 8013,
         "name": "Desert Chukkas",
         "image": "../common/assets/img/gear/shoes/Shs_LTS013.png",
         "main": "Stealth Jump",
@@ -529,6 +553,7 @@
     },
     {
         "id": 24,
+        "internal-id": 8014,
         "name": "Dark-Roast Boaties",
         "image": "../common/assets/img/gear/shoes/Shs_LTS014.png",
         "main": "Ink Resistance Up",
@@ -551,6 +576,7 @@
     },
     {
         "id": 25,
+        "internal-id": 4000,
         "name": "Oyster Clogs",
         "image": "../common/assets/img/gear/shoes/Shs_SDL000.png",
         "main": "Run Speed Up",
@@ -573,6 +599,7 @@
     },
     {
         "id": 26,
+        "internal-id": 4001,
         "name": "Choco Clogs",
         "image": "../common/assets/img/gear/shoes/Shs_SDL001.png",
         "main": "Quick Respawn",
@@ -595,6 +622,7 @@
     },
     {
         "id": 27,
+        "internal-id": 4007,
         "name": "Neon Delta Straps",
         "image": "../common/assets/img/gear/shoes/Shs_SDL003.png",
         "main": "Sub Power Up",
@@ -617,6 +645,7 @@
     },
     {
         "id": 28,
+        "internal-id": 4008,
         "name": "Black Flip-Flops",
         "image": "../common/assets/img/gear/shoes/Shs_SDL004.png",
         "main": "Object Shredder",
@@ -639,6 +668,7 @@
     },
     {
         "id": 29,
+        "internal-id": 4009,
         "name": "Snow Delta Straps",
         "image": "../common/assets/img/gear/shoes/Shs_SDL005.png",
         "main": "Swim Speed Up",
@@ -661,6 +691,7 @@
     },
     {
         "id": 30,
+        "internal-id": 4011,
         "name": "Red FishFry Sandals",
         "image": "../common/assets/img/gear/shoes/Shs_SDL007.png",
         "main": "Object Shredder",
@@ -683,6 +714,7 @@
     },
     {
         "id": 31,
+        "internal-id": 4012,
         "name": "Yellow FishFry Sandals",
         "image": "../common/assets/img/gear/shoes/Shs_SDL008.png",
         "main": "Intensify Action",
@@ -705,6 +737,7 @@
     },
     {
         "id": 32,
+        "internal-id": 4014,
         "name": "Cuttlefish Sandies",
         "image": "../common/assets/img/gear/shoes/Shs_SDL010.png",
         "main": "Ink Recovery Up",
@@ -727,6 +760,7 @@
     },
     {
         "id": 33,
+        "internal-id": 4015,
         "name": "Arrow Toesies Blu",
         "image": "../common/assets/img/gear/shoes/Shs_SDL011.png",
         "main": "Ink Recovery Up",
@@ -749,6 +783,7 @@
     },
     {
         "id": 34,
+        "internal-id": 4016,
         "name": "BlobMob Flip-Flops",
         "image": "../common/assets/img/gear/shoes/Shs_SDL012.png",
         "main": "Ink Resistance Up",
@@ -771,6 +806,7 @@
     },
     {
         "id": 35,
+        "internal-id": 4017,
         "name": "Orange Dadfoot Sandals",
         "image": "../common/assets/img/gear/shoes/Shs_SDL013.png",
         "main": "Run Speed Up",
@@ -793,6 +829,7 @@
     },
     {
         "id": 36,
+        "internal-id": 4021,
         "name": "Pink Dadfoot Sandals",
         "image": "../common/assets/img/gear/shoes/Shs_SDL017.png",
         "main": "Intensify Action",
@@ -815,6 +852,7 @@
     },
     {
         "id": 37,
+        "internal-id": 4022,
         "name": "Cyan Dadfoot Sandals",
         "image": "../common/assets/img/gear/shoes/Shs_SDL018.png",
         "main": "Special Saver",
@@ -837,6 +875,7 @@
     },
     {
         "id": 38,
+        "internal-id": 2000,
         "name": "Red Hi-Horses",
         "image": "../common/assets/img/gear/shoes/Shs_SHI000.png",
         "main": "Ink Saver (Main)",
@@ -859,6 +898,7 @@
     },
     {
         "id": 39,
+        "internal-id": 2001,
         "name": "Zombie Hi-Horses",
         "image": "../common/assets/img/gear/shoes/Shs_SHI001.png",
         "main": "Special Charge Up",
@@ -881,6 +921,7 @@
     },
     {
         "id": 40,
+        "internal-id": 2003,
         "name": "Purple Hi-Horses",
         "image": "../common/assets/img/gear/shoes/Shs_SHI003.png",
         "main": "Special Power Up",
@@ -903,6 +944,7 @@
     },
     {
         "id": 41,
+        "internal-id": 2004,
         "name": "Hunter Hi-Tops",
         "image": "../common/assets/img/gear/shoes/Shs_SHI004.png",
         "main": "Ink Recovery Up",
@@ -925,6 +967,7 @@
     },
     {
         "id": 42,
+        "internal-id": 2005,
         "name": "Red Hi-Tops",
         "image": "../common/assets/img/gear/shoes/Shs_SHI005.png",
         "main": "Ink Resistance Up",
@@ -947,6 +990,7 @@
     },
     {
         "id": 43,
+        "internal-id": 2006,
         "name": "Gold Hi-Horses",
         "image": "../common/assets/img/gear/shoes/Shs_SHI006.png",
         "main": "Run Speed Up",
@@ -969,6 +1013,7 @@
     },
     {
         "id": 44,
+        "internal-id": 2011,
         "name": "Cyan Dakroniks",
         "image": "../common/assets/img/gear/shoes/Shs_SHI011.png",
         "main": "Drop Roller",
@@ -991,6 +1036,7 @@
     },
     {
         "id": 45,
+        "internal-id": 2016,
         "name": "Sunset Orca Hi-Tops",
         "image": "../common/assets/img/gear/shoes/Shs_SHI016.png",
         "main": "Drop Roller",
@@ -1013,6 +1059,7 @@
     },
     {
         "id": 46,
+        "internal-id": 2017,
         "name": "Red & Black Squidkid IV",
         "image": "../common/assets/img/gear/shoes/Shs_SHI017.png",
         "main": "Special Charge Up",
@@ -1035,6 +1082,7 @@
     },
     {
         "id": 47,
+        "internal-id": 2018,
         "name": "Blue & Black Squidkid IV",
         "image": "../common/assets/img/gear/shoes/Shs_SHI018.png",
         "main": "Quick Super Jump",
@@ -1057,6 +1105,7 @@
     },
     {
         "id": 48,
+        "internal-id": 2042,
         "name": "Force ReBoots",
         "image": "../common/assets/img/gear/shoes/Shs_SHI042.png",
         "main": "Special Saver",
@@ -1079,6 +1128,7 @@
     },
     {
         "id": 49,
+        "internal-id": 2043,
         "name": "Tenya OctoReds",
         "image": "../common/assets/img/gear/shoes/Shs_SHI043.png",
         "main": "Quick Respawn",
@@ -1101,6 +1151,7 @@
     },
     {
         "id": 50,
+        "internal-id": 2045,
         "name": "Pearl 01STERs",
         "image": "../common/assets/img/gear/shoes/Shs_SHI045.png",
         "main": "Special Saver",
@@ -1123,6 +1174,7 @@
     },
     {
         "id": 51,
+        "internal-id": 3000,
         "name": "Pink Trainers",
         "image": "../common/assets/img/gear/shoes/Shs_SHT000.png",
         "main": "Sub Power Up",
@@ -1145,6 +1197,7 @@
     },
     {
         "id": 52,
+        "internal-id": 3001,
         "name": "Orange Arrows",
         "image": "../common/assets/img/gear/shoes/Shs_SHT001.png",
         "main": "Ink Saver (Main)",
@@ -1167,6 +1220,7 @@
     },
     {
         "id": 53,
+        "internal-id": 3004,
         "name": "Cyan Trainers",
         "image": "../common/assets/img/gear/shoes/Shs_SHT004.png",
         "main": "Stealth Jump",
@@ -1189,6 +1243,7 @@
     },
     {
         "id": 54,
+        "internal-id": 3009,
         "name": "Black Trainers",
         "image": "../common/assets/img/gear/shoes/Shs_SHT009.png",
         "main": "Quick Respawn",
@@ -1211,6 +1266,7 @@
     },
     {
         "id": 55,
+        "internal-id": 3012,
         "name": "Yellow-Mesh Sneakers",
         "image": "../common/assets/img/gear/shoes/Shs_SHT012.png",
         "main": "Intensify Action",
@@ -1233,6 +1289,7 @@
     },
     {
         "id": 56,
+        "internal-id": 3013,
         "name": "Arrow Pull-Ons",
         "image": "../common/assets/img/gear/shoes/Shs_SHT013.png",
         "main": "Drop Roller",
@@ -1255,6 +1312,7 @@
     },
     {
         "id": 57,
+        "internal-id": 3020,
         "name": "U Jellys",
         "image": "../common/assets/img/gear/shoes/Shs_SHT020.png",
         "main": "Special Charge Up",
@@ -1277,6 +1335,7 @@
     },
     {
         "id": 58,
+        "internal-id": 3022,
         "name": "Turbo Tabi Red",
         "image": "../common/assets/img/gear/shoes/Shs_SHT022.png",
         "main": "Sub Power Up",
@@ -1299,6 +1358,7 @@
     },
     {
         "id": 59,
+        "internal-id": 3023,
         "name": "E-JECT 30XX",
         "image": "../common/assets/img/gear/shoes/Shs_SHT023.png",
         "main": "Special Power Up",
@@ -1321,6 +1381,7 @@
     },
     {
         "id": 60,
+        "internal-id": 3024,
         "name": "Slamgerine Slip-Ons",
         "image": "../common/assets/img/gear/shoes/Shs_SHT024.png",
         "main": "Ink Saver (Main)",
@@ -1343,6 +1404,7 @@
     },
     {
         "id": 61,
+        "internal-id": 3025,
         "name": "Mako Bucket Hi-Tops",
         "image": "../common/assets/img/gear/shoes/Shs_SHT025.png",
         "main": "Sub Power Up",
@@ -1365,6 +1427,7 @@
     },
     {
         "id": 62,
+        "internal-id": 3026,
         "name": "Blue Shrimpsiders",
         "image": "../common/assets/img/gear/shoes/Shs_SHT026.png",
         "main": "Ink Resistance Up",
@@ -1387,6 +1450,7 @@
     },
     {
         "id": 63,
+        "internal-id": 1000,
         "name": "Blue Lo-Tops",
         "image": "../common/assets/img/gear/shoes/Shs_SLO000.png",
         "main": "Sub Resistance Up",
@@ -1409,6 +1473,7 @@
     },
     {
         "id": 64,
+        "internal-id": 1008,
         "name": "White 3-Straps",
         "image": "../common/assets/img/gear/shoes/Shs_SLO008.png",
         "main": "Ink Saver (Sub)",
@@ -1431,6 +1496,7 @@
     },
     {
         "id": 65,
+        "internal-id": 1009,
         "name": "Red 3-Straps",
         "image": "../common/assets/img/gear/shoes/Shs_SLO009.png",
         "main": "Ink Resistance Up",
@@ -1453,6 +1519,7 @@
     },
     {
         "id": 66,
+        "internal-id": 1021,
         "name": "Wasabi Tabi",
         "image": "../common/assets/img/gear/shoes/Shs_SLO021.png",
         "main": "Intensify Action",
@@ -1475,6 +1542,7 @@
     },
     {
         "id": 67,
+        "internal-id": 1022,
         "name": "Suede Basics",
         "image": "../common/assets/img/gear/shoes/Shs_SLO022.png",
         "main": "Run Speed Up",
@@ -1497,6 +1565,7 @@
     },
     {
         "id": 68,
+        "internal-id": 1023,
         "name": "Ink-Black Clam 600s",
         "image": "../common/assets/img/gear/shoes/Shs_SLO023.png",
         "main": "Quick Super Jump",
@@ -1519,6 +1588,7 @@
     },
     {
         "id": 69,
+        "internal-id": 1024,
         "name": "Suede Bosses",
         "image": "../common/assets/img/gear/shoes/Shs_SLO024.png",
         "main": "Object Shredder",
@@ -1541,6 +1611,7 @@
     },
     {
         "id": 70,
+        "internal-id": 7002,
         "name": "Squid-Stitch Slip-Ons",
         "image": "../common/assets/img/gear/shoes/Shs_SLP002.png",
         "main": "Sub Resistance Up",
@@ -1563,6 +1634,7 @@
     },
     {
         "id": 71,
+        "internal-id": 5000,
         "name": "Trail Boots",
         "image": "../common/assets/img/gear/shoes/Shs_TRS000.png",
         "main": "Ink Recovery Up",
@@ -1585,6 +1657,7 @@
     },
     {
         "id": 72,
+        "internal-id": 5001,
         "name": "Custom Trail Boots",
         "image": "../common/assets/img/gear/shoes/Shs_TRS001.png",
         "main": "Special Power Up",

@@ -1,6 +1,7 @@
 [
     {
         "id": 0,
+        "internal-id": 25000,
         "name": "School Uniform A",
         "image": "../common/assets/img/gear/clothes/Clt_AMB000.png",
         "main": "Ink Recovery Up",
@@ -23,6 +24,7 @@
     },
     {
         "id": 1,
+        "internal-id": 25001,
         "name": "Samurai Jacket",
         "image": "../common/assets/img/gear/clothes/Clt_AMB001.png",
         "main": "Special Charge Up",
@@ -45,6 +47,7 @@
     },
     {
         "id": 2,
+        "internal-id": 25002,
         "name": "Power Armor",
         "image": "../common/assets/img/gear/clothes/Clt_AMB002.png",
         "main": "Quick Respawn",
@@ -67,6 +70,7 @@
     },
     {
         "id": 3,
+        "internal-id": 25003,
         "name": "School Cardigan A",
         "image": "../common/assets/img/gear/clothes/Clt_AMB003.png",
         "main": "Run Speed Up",
@@ -89,6 +93,7 @@
     },
     {
         "id": 4,
+        "internal-id": 25004,
         "name": "Squinja Suit",
         "image": "../common/assets/img/gear/clothes/Clt_AMB004.png",
         "main": "Special Saver",
@@ -111,6 +116,7 @@
     },
     {
         "id": 5,
+        "internal-id": 25005,
         "name": "Power Armor Mk I",
         "image": "../common/assets/img/gear/clothes/Clt_AMB005.png",
         "main": "Ink Resistance Up",
@@ -133,6 +139,7 @@
     },
     {
         "id": 6,
+        "internal-id": 25006,
         "name": "Pearlescent Hoodie",
         "image": "../common/assets/img/gear/clothes/Clt_AMB006.png",
         "main": "Respawn Punisher",
@@ -155,6 +162,7 @@
     },
     {
         "id": 7,
+        "internal-id": 25007,
         "name": "Marinated Top",
         "image": "../common/assets/img/gear/clothes/Clt_AMB007.png",
         "main": "Special Power Up",
@@ -177,6 +185,7 @@
     },
     {
         "id": 8,
+        "internal-id": 25008,
         "name": "Enchanted Robe A",
         "image": "../common/assets/img/gear/clothes/Clt_AMB008.png",
         "main": "Thermal Ink",
@@ -199,6 +208,7 @@
     },
     {
         "id": 9,
+        "internal-id": 25009,
         "name": "Steel Platemail",
         "image": "../common/assets/img/gear/clothes/Clt_AMB009.png",
         "main": "Ink Saver (Sub)",
@@ -221,6 +231,7 @@
     },
     {
         "id": 10,
+        "internal-id": 25010,
         "name": "Fresh Fish Gloves",
         "image": "../common/assets/img/gear/clothes/Clt_AMB010.png",
         "main": "Quick Super Jump",
@@ -243,6 +254,7 @@
     },
     {
         "id": 11,
+        "internal-id": 25014,
         "name": "School Uniform B",
         "image": "../common/assets/img/gear/clothes/Clt_AMB014.png",
         "main": "Ink Recovery Up",
@@ -265,6 +277,7 @@
     },
     {
         "id": 12,
+        "internal-id": 25015,
         "name": "School Cardigan B",
         "image": "../common/assets/img/gear/clothes/Clt_AMB015.png",
         "main": "Run Speed Up",
@@ -287,6 +300,7 @@
     },
     {
         "id": 13,
+        "internal-id": 25017,
         "name": "Enchanted Robe B",
         "image": "../common/assets/img/gear/clothes/Clt_AMB017.png",
         "main": "Thermal Ink",
@@ -309,6 +323,7 @@
     },
     {
         "id": 14,
+        "internal-id": 26000,
         "name": "Splatfest Tee",
         "image": "../common/assets/img/gear/clothes/Clt_HAP001.png",
         "main": "Ability Doubler",
@@ -331,6 +346,7 @@
     },
     {
         "id": 15,
+        "internal-id": 5000,
         "name": "Olive Ski Jacket",
         "image": "../common/assets/img/gear/clothes/Clt_JKT000.png",
         "main": "Run Speed Up",
@@ -353,6 +369,7 @@
     },
     {
         "id": 16,
+        "internal-id": 5001,
         "name": "Takoroka Nylon Vintage",
         "image": "../common/assets/img/gear/clothes/Clt_JKT001.png",
         "main": "Thermal Ink",
@@ -375,6 +392,7 @@
     },
     {
         "id": 17,
+        "internal-id": 5006,
         "name": "Black Inky Rider",
         "image": "../common/assets/img/gear/clothes/Clt_JKT006.png",
         "main": "Sub Power Up",
@@ -397,6 +415,7 @@
     },
     {
         "id": 18,
+        "internal-id": 5014,
         "name": "Squid Satin Jacket",
         "image": "../common/assets/img/gear/clothes/Clt_JKT014.png",
         "main": "Quick Respawn",
@@ -419,6 +438,7 @@
     },
     {
         "id": 19,
+        "internal-id": 5015,
         "name": "Zapfish Satin Jacket",
         "image": "../common/assets/img/gear/clothes/Clt_JKT015.png",
         "main": "Special Charge Up",
@@ -441,6 +461,7 @@
     },
     {
         "id": 20,
+        "internal-id": 5019,
         "name": "Matcha Down Jacket",
         "image": "../common/assets/img/gear/clothes/Clt_JKT019.png",
         "main": "Ninja Squid",
@@ -463,6 +484,7 @@
     },
     {
         "id": 21,
+        "internal-id": 5023,
         "name": "Kensa Coat",
         "image": "../common/assets/img/gear/clothes/Clt_JKT023.png",
         "main": "Respawn Punisher",
@@ -485,6 +507,7 @@
     },
     {
         "id": 22,
+        "internal-id": 5045,
         "name": "Arctic Monster Parka",
         "image": "../common/assets/img/gear/clothes/Clt_JKT045.png",
         "main": "Sub Power Up",
@@ -507,6 +530,7 @@
     },
     {
         "id": 23,
+        "internal-id": 5046,
         "name": "Barazushi Anorak",
         "image": "../common/assets/img/gear/clothes/Clt_JKT046.png",
         "main": "Special Power Up",
@@ -529,6 +553,7 @@
     },
     {
         "id": 24,
+        "internal-id": 5047,
         "name": "Patchwork Bomber",
         "image": "../common/assets/img/gear/clothes/Clt_JKT047.png",
         "main": "Ink Saver (Main)",
@@ -551,6 +576,7 @@
     },
     {
         "id": 25,
+        "internal-id": 5048,
         "name": "Airflow & Hustle Jacket",
         "image": "../common/assets/img/gear/clothes/Clt_JKT048.png",
         "main": "Intensify Action",
@@ -573,6 +599,7 @@
     },
     {
         "id": 26,
+        "internal-id": 5049,
         "name": "Ink-Black Paddle Jack",
         "image": "../common/assets/img/gear/clothes/Clt_JKT049.png",
         "main": "Ink Saver (Sub)",
@@ -595,6 +622,7 @@
     },
     {
         "id": 27,
+        "internal-id": 5050,
         "name": "Orca Bolero",
         "image": "../common/assets/img/gear/clothes/Clt_JKT050.png",
         "main": "Ink Recovery Up",
@@ -617,6 +645,7 @@
     },
     {
         "id": 28,
+        "internal-id": 5051,
         "name": "Cream Tundra Fleece",
         "image": "../common/assets/img/gear/clothes/Clt_JKT051.png",
         "main": "Ink Saver (Main)",
@@ -639,6 +668,7 @@
     },
     {
         "id": 29,
+        "internal-id": 5054,
         "name": "Dusty Field Jacket",
         "image": "../common/assets/img/gear/clothes/Clt_JKT054.png",
         "main": "Intensify Action",
@@ -661,6 +691,7 @@
     },
     {
         "id": 30,
+        "internal-id": 4004,
         "name": "Black Polo",
         "image": "../common/assets/img/gear/clothes/Clt_PLO004.png",
         "main": "Ninja Squid",
@@ -683,6 +714,7 @@
     },
     {
         "id": 31,
+        "internal-id": 4005,
         "name": "Cycling Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_PLO005.png",
         "main": "Intensify Action",
@@ -705,6 +737,7 @@
     },
     {
         "id": 32,
+        "internal-id": 4009,
         "name": "Rugby King 10",
         "image": "../common/assets/img/gear/clothes/Clt_PLO009.png",
         "main": "Ink Saver (Sub)",
@@ -727,6 +760,7 @@
     },
     {
         "id": 33,
+        "internal-id": 4010,
         "name": "Rugby King 08",
         "image": "../common/assets/img/gear/clothes/Clt_PLO010.png",
         "main": "Quick Super Jump",
@@ -749,6 +783,7 @@
     },
     {
         "id": 34,
+        "internal-id": 10006,
         "name": "Gray Hoodie",
         "image": "../common/assets/img/gear/clothes/Clt_PRK006.png",
         "main": "Sub Power Up",
@@ -771,6 +806,7 @@
     },
     {
         "id": 35,
+        "internal-id": 10012,
         "name": "Sudadera Roja",
         "image": "../common/assets/img/gear/clothes/Clt_PRK012.png",
         "main": "Quick Respawn",
@@ -793,6 +829,7 @@
     },
     {
         "id": 36,
+        "internal-id": 10014,
         "name": "Sudadera Celeste",
         "image": "../common/assets/img/gear/clothes/Clt_PRK014.png",
         "main": "Ninja Squid",
@@ -815,6 +852,7 @@
     },
     {
         "id": 37,
+        "internal-id": 8000,
         "name": "Lumberjack Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT000.png",
         "main": "Ink Saver (Main)",
@@ -837,6 +875,7 @@
     },
     {
         "id": 38,
+        "internal-id": 8003,
         "name": "White Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT003.png",
         "main": "Ink Recovery Up",
@@ -859,6 +898,7 @@
     },
     {
         "id": 39,
+        "internal-id": 8005,
         "name": "Aloha Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT005.png",
         "main": "Ink Recovery Up",
@@ -881,6 +921,7 @@
     },
     {
         "id": 40,
+        "internal-id": 8012,
         "name": "Logo Aloha Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT012.png",
         "main": "Ink Recovery Up",
@@ -903,6 +944,7 @@
     },
     {
         "id": 41,
+        "internal-id": 8017,
         "name": "Hula Punk Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT017.png",
         "main": "Ink Saver (Main)",
@@ -925,6 +967,7 @@
     },
     {
         "id": 42,
+        "internal-id": 8018,
         "name": "Octobowler Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT018.png",
         "main": "Ink Saver (Main)",
@@ -947,6 +990,7 @@
     },
     {
         "id": 43,
+        "internal-id": 8019,
         "name": "Inkfall Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT019.png",
         "main": "Special Charge Up",
@@ -969,6 +1013,7 @@
     },
     {
         "id": 44,
+        "internal-id": 8020,
         "name": "Crimson Parashooter",
         "image": "../common/assets/img/gear/clothes/Clt_SHT020.png",
         "main": "Special Charge Up",
@@ -991,6 +1036,7 @@
     },
     {
         "id": 45,
+        "internal-id": 8024,
         "name": "Chili Octo Aloha",
         "image": "../common/assets/img/gear/clothes/Clt_SHT024.png",
         "main": "Sub Resistance Up",
@@ -1013,6 +1059,7 @@
     },
     {
         "id": 46,
+        "internal-id": 8025,
         "name": "Annaki Flannel Hoodie",
         "image": "../common/assets/img/gear/clothes/Clt_SHT025.png",
         "main": "Sub Resistance Up",
@@ -1035,6 +1082,7 @@
     },
     {
         "id": 47,
+        "internal-id": 8030,
         "name": "Seahorse Shoreliner",
         "image": "../common/assets/img/gear/clothes/Clt_SHT030.png",
         "main": "Special Saver",
@@ -1057,6 +1105,7 @@
     },
     {
         "id": 48,
+        "internal-id": 8031,
         "name": "Button-Clown Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT031.png",
         "main": "Special Saver",
@@ -1079,6 +1128,7 @@
     },
     {
         "id": 49,
+        "internal-id": 8033,
         "name": "Business Animal",
         "image": "../common/assets/img/gear/clothes/Clt_SHT033.png",
         "main": "Ninja Squid",
@@ -1101,6 +1151,7 @@
     },
     {
         "id": 50,
+        "internal-id": 8034,
         "name": "Fancyfish Stitch",
         "image": "../common/assets/img/gear/clothes/Clt_SHT034.png",
         "main": "Sub Power Up",
@@ -1123,6 +1174,7 @@
     },
     {
         "id": 51,
+        "internal-id": 8036,
         "name": "Fashion Splash Shirt",
         "image": "../common/assets/img/gear/clothes/Clt_SHT036.png",
         "main": "Quick Respawn",
@@ -1145,6 +1197,7 @@
     },
     {
         "id": 52,
+        "internal-id": 8040,
         "name": "Urban Upcycle Top",
         "image": "../common/assets/img/gear/clothes/Clt_SHT040.png",
         "main": "Respawn Punisher",
@@ -1167,6 +1220,7 @@
     },
     {
         "id": 53,
+        "internal-id": 7001,
         "name": "Squidmark Sweat",
         "image": "../common/assets/img/gear/clothes/Clt_SWT001.png",
         "main": "Sub Power Up",
@@ -1189,6 +1243,7 @@
     },
     {
         "id": 54,
+        "internal-id": 7010,
         "name": "Annaki Blue Cuff",
         "image": "../common/assets/img/gear/clothes/Clt_SWT010.png",
         "main": "Special Saver",
@@ -1211,6 +1266,7 @@
     },
     {
         "id": 55,
+        "internal-id": 7016,
         "name": "Manatee Swag Sweat",
         "image": "../common/assets/img/gear/clothes/Clt_SWT016.png",
         "main": "Respawn Punisher",
@@ -1233,6 +1289,7 @@
     },
     {
         "id": 56,
+        "internal-id": 7017,
         "name": "Apex Sweater",
         "image": "../common/assets/img/gear/clothes/Clt_SWT017.png",
         "main": "Thermal Ink",
@@ -1255,6 +1312,7 @@
     },
     {
         "id": 57,
+        "internal-id": 7018,
         "name": "Octo Jumper Away",
         "image": "../common/assets/img/gear/clothes/Clt_SWT018.png",
         "main": "Swim Speed Up",
@@ -1277,6 +1335,7 @@
     },
     {
         "id": 58,
+        "internal-id": 2004,
         "name": "Zekko Baseball LS",
         "image": "../common/assets/img/gear/clothes/Clt_TEL004.png",
         "main": "Sub Resistance Up",
@@ -1299,6 +1358,7 @@
     },
     {
         "id": 59,
+        "internal-id": 1000,
         "name": "White Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES000.png",
         "main": "Ink Saver (Sub)",
@@ -1321,6 +1381,7 @@
     },
     {
         "id": 60,
+        "internal-id": 1001,
         "name": "Black Squideye",
         "image": "../common/assets/img/gear/clothes/Clt_TES001.png",
         "main": "Run Speed Up",
@@ -1343,6 +1404,7 @@
     },
     {
         "id": 61,
+        "internal-id": 1004,
         "name": "Rockenberg White",
         "image": "../common/assets/img/gear/clothes/Clt_TES004.png",
         "main": "Ink Recovery Up",
@@ -1365,6 +1427,7 @@
     },
     {
         "id": 62,
+        "internal-id": 1005,
         "name": "Rockenberg Black",
         "image": "../common/assets/img/gear/clothes/Clt_TES005.png",
         "main": "Respawn Punisher",
@@ -1387,6 +1450,7 @@
     },
     {
         "id": 63,
+        "internal-id": 1006,
         "name": "Black Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES006.png",
         "main": "Special Power Up",
@@ -1409,6 +1473,7 @@
     },
     {
         "id": 64,
+        "internal-id": 1013,
         "name": "Red Vector Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES013.png",
         "main": "Ink Saver (Main)",
@@ -1431,6 +1496,7 @@
     },
     {
         "id": 65,
+        "internal-id": 1014,
         "name": "Gray Vector Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES014.png",
         "main": "Quick Super Jump",
@@ -1453,6 +1519,7 @@
     },
     {
         "id": 66,
+        "internal-id": 1015,
         "name": "Blue Peaks Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES015.png",
         "main": "Ink Saver (Sub)",
@@ -1475,6 +1542,7 @@
     },
     {
         "id": 67,
+        "internal-id": 1016,
         "name": "Ivory Peaks Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES016.png",
         "main": "Haunt",
@@ -1497,6 +1565,7 @@
     },
     {
         "id": 68,
+        "internal-id": 1018,
         "name": "Pirate-Stripe Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES018.png",
         "main": "Special Power Up",
@@ -1519,6 +1588,7 @@
     },
     {
         "id": 69,
+        "internal-id": 1019,
         "name": "Sailor-Stripe Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES019.png",
         "main": "Run Speed Up",
@@ -1541,6 +1611,7 @@
     },
     {
         "id": 70,
+        "internal-id": 1020,
         "name": "White 8-Bit FishFry",
         "image": "../common/assets/img/gear/clothes/Clt_TES020.png",
         "main": "Sub Power Up",
@@ -1563,6 +1634,7 @@
     },
     {
         "id": 71,
+        "internal-id": 1021,
         "name": "Black 8-Bit FishFry",
         "image": "../common/assets/img/gear/clothes/Clt_TES021.png",
         "main": "Sub Resistance Up",
@@ -1585,6 +1657,7 @@
     },
     {
         "id": 72,
+        "internal-id": 1030,
         "name": "Black V-Neck Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES030.png",
         "main": "Thermal Ink",
@@ -1607,6 +1680,7 @@
     },
     {
         "id": 73,
+        "internal-id": 1035,
         "name": "White V-Neck Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES035.png",
         "main": "Special Saver",
@@ -1629,6 +1703,7 @@
     },
     {
         "id": 74,
+        "internal-id": 1062,
         "name": "Tri-Shred Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES063.png",
         "main": "Quick Respawn",
@@ -1651,6 +1726,7 @@
     },
     {
         "id": 75,
+        "internal-id": 1063,
         "name": "Tentatek Tandem",
         "image": "../common/assets/img/gear/clothes/Clt_TES064.png",
         "main": "Ink Saver (Main)",
@@ -1673,6 +1749,7 @@
     },
     {
         "id": 76,
+        "internal-id": 1066,
         "name": "Annaki Choker Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES066.png",
         "main": "Special Power Up",
@@ -1695,6 +1772,7 @@
     },
     {
         "id": 77,
+        "internal-id": 1067,
         "name": "Annaki Bracelet Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES067.png",
         "main": "Haunt",
@@ -1717,6 +1795,7 @@
     },
     {
         "id": 78,
+        "internal-id": 1069,
         "name": "Blue Retro Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES069.png",
         "main": "Special Saver",
@@ -1739,6 +1818,7 @@
     },
     {
         "id": 79,
+        "internal-id": 1070,
         "name": "Tan Retro Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES070.png",
         "main": "Ninja Squid",
@@ -1761,6 +1841,7 @@
     },
     {
         "id": 80,
+        "internal-id": 1071,
         "name": "Barazushi Wrap",
         "image": "../common/assets/img/gear/clothes/Clt_TES071.png",
         "main": "Ink Saver (Main)",
@@ -1783,6 +1864,7 @@
     },
     {
         "id": 81,
+        "internal-id": 1072,
         "name": "Barazushi Rice Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES072.png",
         "main": "Haunt",
@@ -1805,6 +1887,7 @@
     },
     {
         "id": 82,
+        "internal-id": 1073,
         "name": "Barazushi Black Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES073.png",
         "main": "Ink Resistance Up",
@@ -1827,6 +1910,7 @@
     },
     {
         "id": 83,
+        "internal-id": 1074,
         "name": "Barazushi Sakura Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES074.png",
         "main": "Sub Resistance Up",
@@ -1849,6 +1933,7 @@
     },
     {
         "id": 84,
+        "internal-id": 1075,
         "name": "Octosquid Tandem Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES075.png",
         "main": "Intensify Action",
@@ -1871,6 +1956,7 @@
     },
     {
         "id": 85,
+        "internal-id": 1076,
         "name": "Tri-Squid Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES076.png",
         "main": "Quick Respawn",
@@ -1893,6 +1979,7 @@
     },
     {
         "id": 86,
+        "internal-id": 1077,
         "name": "Tri-Octo Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES077.png",
         "main": "Ink Saver (Sub)",
@@ -1915,6 +2002,7 @@
     },
     {
         "id": 87,
+        "internal-id": 1082,
         "name": "Pineapple Ringer",
         "image": "../common/assets/img/gear/clothes/Clt_TES082.png",
         "main": "Ink Recovery Up",
@@ -1937,6 +2025,7 @@
     },
     {
         "id": 88,
+        "internal-id": 1083,
         "name": "Apple Ringer",
         "image": "../common/assets/img/gear/clothes/Clt_TES083.png",
         "main": "Sub Power Up",
@@ -1959,6 +2048,7 @@
     },
     {
         "id": 89,
+        "internal-id": 1084,
         "name": "Vaporwave Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES084.png",
         "main": "Thermal Ink",
@@ -1981,6 +2071,7 @@
     },
     {
         "id": 90,
+        "internal-id": 1085,
         "name": "Duskwave Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES085.png",
         "main": "Special Power Up",
@@ -2003,6 +2094,7 @@
     },
     {
         "id": 91,
+        "internal-id": 1088,
         "name": "Eelzebub Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES088.png",
         "main": "Intensify Action",
@@ -2025,6 +2117,7 @@
     },
     {
         "id": 92,
+        "internal-id": 1090,
         "name": "Lime BlobMob Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES090.png",
         "main": "Sub Power Up",
@@ -2047,6 +2140,7 @@
     },
     {
         "id": 93,
+        "internal-id": 1091,
         "name": "Berry BlobMob Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TES091.png",
         "main": "Run Speed Up",
@@ -2069,6 +2163,7 @@
     },
     {
         "id": 94,
+        "internal-id": 3000,
         "name": "White Layered LS",
         "image": "../common/assets/img/gear/clothes/Clt_TLY000.png",
         "main": "Special Saver",
@@ -2091,6 +2186,7 @@
     },
     {
         "id": 95,
+        "internal-id": 3001,
         "name": "Yellow Layered LS",
         "image": "../common/assets/img/gear/clothes/Clt_TLY001.png",
         "main": "Quick Super Jump",
@@ -2113,6 +2209,7 @@
     },
     {
         "id": 96,
+        "internal-id": 3004,
         "name": "Zink Layered LS",
         "image": "../common/assets/img/gear/clothes/Clt_TLY004.png",
         "main": "Respawn Punisher",
@@ -2135,6 +2232,7 @@
     },
     {
         "id": 97,
+        "internal-id": 3006,
         "name": "Choco Layered LS",
         "image": "../common/assets/img/gear/clothes/Clt_TLY006.png",
         "main": "Ink Saver (Sub)",
@@ -2157,6 +2255,7 @@
     },
     {
         "id": 98,
+        "internal-id": 3008,
         "name": "Layered Vector LS",
         "image": "../common/assets/img/gear/clothes/Clt_TLY008.png",
         "main": "Special Saver",
@@ -2179,6 +2278,7 @@
     },
     {
         "id": 99,
+        "internal-id": 3009,
         "name": "Green Tee",
         "image": "../common/assets/img/gear/clothes/Clt_TLY009.png",
         "main": "Special Saver",
@@ -2201,6 +2301,7 @@
     },
     {
         "id": 100,
+        "internal-id": 6000,
         "name": "B-ball Jersey (Home)",
         "image": "../common/assets/img/gear/clothes/Clt_TNK000.png",
         "main": "Special Saver",
@@ -2223,6 +2324,7 @@
     },
     {
         "id": 101,
+        "internal-id": 6003,
         "name": "White King Tank",
         "image": "../common/assets/img/gear/clothes/Clt_TNK003.png",
         "main": "Haunt",
@@ -2245,6 +2347,7 @@
     },
     {
         "id": 102,
+        "internal-id": 6008,
         "name": "Umibozu Home Jersey",
         "image": "../common/assets/img/gear/clothes/Clt_TNK008.png",
         "main": "Haunt",
@@ -2267,6 +2370,7 @@
     },
     {
         "id": 103,
+        "internal-id": 9010,
         "name": "Khaki Ranger Vest",
         "image": "../common/assets/img/gear/clothes/Clt_VST010.png",
         "main": "Sub Power Up",
@@ -2289,6 +2393,7 @@
     },
     {
         "id": 104,
+        "internal-id": 9011,
         "name": "Red Battlecrab Shell",
         "image": "../common/assets/img/gear/clothes/Clt_VST011.png",
         "main": "Sub Resistance Up",
@@ -2311,6 +2416,7 @@
     },
     {
         "id": 105,
+        "internal-id": 9012,
         "name": "Lime Battlecrab Shell",
         "image": "../common/assets/img/gear/clothes/Clt_VST012.png",
         "main": "Swim Speed Up",
@@ -2333,6 +2439,7 @@
     },
     {
         "id": 106,
+        "internal-id": 9013,
         "name": "Distressed Vest",
         "image": "../common/assets/img/gear/clothes/Clt_VST013.png",
         "main": "Sub Resistance Up",

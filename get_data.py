@@ -88,6 +88,7 @@ async def gear(type, type2, listie, locale_data):
     i = 0
     for gear_piece in listie:
         eyedee = gear_piece["__RowId"]
+        internal_id = gear_piece["Id"]
         if not (gear_piece["Id"] > 0 and gear_piece["HowToGet"] != "Impossible" and "_MSN" not in eyedee):
             continue
 
@@ -107,6 +108,7 @@ async def gear(type, type2, listie, locale_data):
         alll.append(
             {
                 "id": id,
+                "internal-id": internal_id,
                 "name": name,
                 "image": image,
                 "main": main,

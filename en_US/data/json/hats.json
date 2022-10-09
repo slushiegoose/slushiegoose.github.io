@@ -1,6 +1,7 @@
 [
     {
         "id": 0,
+        "internal-id": 25000,
         "name": "Squid Hairclip",
         "image": "../common/assets/img/gear/hats/Hed_AMB000.png",
         "main": "Swim Speed Up",
@@ -23,6 +24,7 @@
     },
     {
         "id": 1,
+        "internal-id": 25001,
         "name": "Samurai Helmet",
         "image": "../common/assets/img/gear/hats/Hed_AMB001.png",
         "main": "Quick Super Jump",
@@ -45,6 +47,7 @@
     },
     {
         "id": 2,
+        "internal-id": 25002,
         "name": "Power Mask",
         "image": "../common/assets/img/gear/hats/Hed_AMB002.png",
         "main": "Sub Resistance Up",
@@ -67,6 +70,7 @@
     },
     {
         "id": 3,
+        "internal-id": 25003,
         "name": "Squid Clip-Ons",
         "image": "../common/assets/img/gear/hats/Hed_AMB003.png",
         "main": "Opening Gambit",
@@ -89,6 +93,7 @@
     },
     {
         "id": 4,
+        "internal-id": 25004,
         "name": "Squinja Mask Mk II",
         "image": "../common/assets/img/gear/hats/Hed_AMB004.png",
         "main": "Quick Respawn",
@@ -111,6 +116,7 @@
     },
     {
         "id": 5,
+        "internal-id": 25005,
         "name": "Power Mask Mk I",
         "image": "../common/assets/img/gear/hats/Hed_AMB005.png",
         "main": "Ink Resistance Up",
@@ -133,6 +139,7 @@
     },
     {
         "id": 6,
+        "internal-id": 25006,
         "name": "Pearlescent Crown S",
         "image": "../common/assets/img/gear/hats/Hed_AMB006.png",
         "main": "Sub Resistance Up",
@@ -155,6 +162,7 @@
     },
     {
         "id": 7,
+        "internal-id": 25007,
         "name": "Marinated Headphones",
         "image": "../common/assets/img/gear/hats/Hed_AMB007.png",
         "main": "Special Saver",
@@ -177,6 +185,7 @@
     },
     {
         "id": 8,
+        "internal-id": 25008,
         "name": "Enchanted Hat",
         "image": "../common/assets/img/gear/hats/Hed_AMB008.png",
         "main": "Ink Saver (Main)",
@@ -199,6 +208,7 @@
     },
     {
         "id": 9,
+        "internal-id": 25009,
         "name": "Steel Helm",
         "image": "../common/assets/img/gear/hats/Hed_AMB009.png",
         "main": "Special Charge Up",
@@ -221,6 +231,7 @@
     },
     {
         "id": 10,
+        "internal-id": 25010,
         "name": "Fresh Fish Head",
         "image": "../common/assets/img/gear/hats/Hed_AMB010.png",
         "main": "Comeback",
@@ -243,6 +254,7 @@
     },
     {
         "id": 11,
+        "internal-id": 25016,
         "name": "Squinja Mask Mk I",
         "image": "../common/assets/img/gear/hats/Hed_AMB016.png",
         "main": "Quick Respawn",
@@ -265,6 +277,7 @@
     },
     {
         "id": 12,
+        "internal-id": 25017,
         "name": "Pearlescent Crown L",
         "image": "../common/assets/img/gear/hats/Hed_AMB017.png",
         "main": "Sub Resistance Up",
@@ -287,6 +300,7 @@
     },
     {
         "id": 13,
+        "internal-id": 1000,
         "name": "Urchins Cap",
         "image": "../common/assets/img/gear/hats/Hed_CAP000.png",
         "main": "Sub Power Up",
@@ -309,6 +323,7 @@
     },
     {
         "id": 14,
+        "internal-id": 1002,
         "name": "Takoroka Mesh",
         "image": "../common/assets/img/gear/hats/Hed_CAP002.png",
         "main": "Sub Resistance Up",
@@ -331,6 +346,7 @@
     },
     {
         "id": 15,
+        "internal-id": 1003,
         "name": "Streetstyle Cap",
         "image": "../common/assets/img/gear/hats/Hed_CAP003.png",
         "main": "Ink Saver (Sub)",
@@ -353,6 +369,7 @@
     },
     {
         "id": 16,
+        "internal-id": 1005,
         "name": "Squidvader Cap",
         "image": "../common/assets/img/gear/hats/Hed_CAP005.png",
         "main": "Special Charge Up",
@@ -375,6 +392,7 @@
     },
     {
         "id": 17,
+        "internal-id": 1012,
         "name": "Cycling Cap",
         "image": "../common/assets/img/gear/hats/Hed_CAP012.png",
         "main": "Sub Power Up",
@@ -397,6 +415,7 @@
     },
     {
         "id": 18,
+        "internal-id": 1020,
         "name": "Hickory Work Cap",
         "image": "../common/assets/img/gear/hats/Hed_CAP020.png",
         "main": "Special Power Up",
@@ -419,6 +438,7 @@
     },
     {
         "id": 19,
+        "internal-id": 1021,
         "name": "Woolly Urchins Classic",
         "image": "../common/assets/img/gear/hats/Hed_CAP021.png",
         "main": "Comeback",
@@ -441,6 +461,7 @@
     },
     {
         "id": 20,
+        "internal-id": 1028,
         "name": "Ink-Black Flap Cap",
         "image": "../common/assets/img/gear/hats/Hed_CAP028.png",
         "main": "Special Power Up",
@@ -463,6 +484,7 @@
     },
     {
         "id": 21,
+        "internal-id": 1036,
         "name": "Wharfside Cap",
         "image": "../common/assets/img/gear/hats/Hed_CAP036.png",
         "main": "Tenacity",
@@ -485,6 +507,7 @@
     },
     {
         "id": 22,
+        "internal-id": 21010,
         "name": "Bream-Brim Cap",
         "image": "../common/assets/img/gear/hats/Hed_COP110.png",
         "main": "Quick Respawn",
@@ -507,6 +530,7 @@
     },
     {
         "id": 23,
+        "internal-id": 21011,
         "name": "Lo-Vis Visor",
         "image": "../common/assets/img/gear/hats/Hed_COP111.png",
         "main": "Quick Respawn",
@@ -529,6 +553,7 @@
     },
     {
         "id": 24,
+        "internal-id": 21013,
         "name": "Astro Helm",
         "image": "../common/assets/img/gear/hats/Hed_COP113.png",
         "main": "Quick Respawn",
@@ -551,6 +576,7 @@
     },
     {
         "id": 25,
+        "internal-id": 21015,
         "name": "Brain Strainer",
         "image": "../common/assets/img/gear/hats/Hed_COP115.png",
         "main": "Quick Respawn",
@@ -573,6 +599,7 @@
     },
     {
         "id": 26,
+        "internal-id": 3001,
         "name": "Splash Goggles",
         "image": "../common/assets/img/gear/hats/Hed_EYE001.png",
         "main": "Sub Resistance Up",
@@ -595,6 +622,7 @@
     },
     {
         "id": 27,
+        "internal-id": 3002,
         "name": "Pilot Goggles",
         "image": "../common/assets/img/gear/hats/Hed_EYE002.png",
         "main": "Sub Power Up",
@@ -617,6 +645,7 @@
     },
     {
         "id": 28,
+        "internal-id": 3003,
         "name": "Tinted Shades",
         "image": "../common/assets/img/gear/hats/Hed_EYE003.png",
         "main": "Last-Ditch Effort",
@@ -639,6 +668,7 @@
     },
     {
         "id": 29,
+        "internal-id": 3008,
         "name": "18K Aviators",
         "image": "../common/assets/img/gear/hats/Hed_EYE008.png",
         "main": "Last-Ditch Effort",
@@ -661,6 +691,7 @@
     },
     {
         "id": 30,
+        "internal-id": 3009,
         "name": "Full-Moon Glasses",
         "image": "../common/assets/img/gear/hats/Hed_EYE009.png",
         "main": "Quick Super Jump",
@@ -683,6 +714,7 @@
     },
     {
         "id": 31,
+        "internal-id": 3011,
         "name": "Half-Rim Glasses",
         "image": "../common/assets/img/gear/hats/Hed_EYE011.png",
         "main": "Special Power Up",
@@ -705,6 +737,7 @@
     },
     {
         "id": 32,
+        "internal-id": 3012,
         "name": "Double Egg Shades",
         "image": "../common/assets/img/gear/hats/Hed_EYE012.png",
         "main": "Run Speed Up",
@@ -727,6 +760,7 @@
     },
     {
         "id": 33,
+        "internal-id": 3016,
         "name": "Swim Goggles",
         "image": "../common/assets/img/gear/hats/Hed_EYE016.png",
         "main": "Last-Ditch Effort",
@@ -749,6 +783,7 @@
     },
     {
         "id": 34,
+        "internal-id": 3021,
         "name": "Ink-Tinted Goggles",
         "image": "../common/assets/img/gear/hats/Hed_EYE021.png",
         "main": "Swim Speed Up",
@@ -771,6 +806,7 @@
     },
     {
         "id": 35,
+        "internal-id": 3022,
         "name": "Retro Framers",
         "image": "../common/assets/img/gear/hats/Hed_EYE022.png",
         "main": "Opening Gambit",
@@ -793,6 +829,7 @@
     },
     {
         "id": 36,
+        "internal-id": 3023,
         "name": "Glassless Glasses",
         "image": "../common/assets/img/gear/hats/Hed_EYE023.png",
         "main": "Quick Respawn",
@@ -815,6 +852,7 @@
     },
     {
         "id": 37,
+        "internal-id": 3024,
         "name": "Triple-Deck Specs",
         "image": "../common/assets/img/gear/hats/Hed_EYE024.png",
         "main": "Sub Power Up",
@@ -837,6 +875,7 @@
     },
     {
         "id": 38,
+        "internal-id": 3025,
         "name": "Invisifloats",
         "image": "../common/assets/img/gear/hats/Hed_EYE025.png",
         "main": "Comeback",
@@ -859,6 +898,7 @@
     },
     {
         "id": 39,
+        "internal-id": 3026,
         "name": "Moto Shades",
         "image": "../common/assets/img/gear/hats/Hed_EYE026.png",
         "main": "Last-Ditch Effort",
@@ -881,6 +921,7 @@
     },
     {
         "id": 40,
+        "internal-id": 3027,
         "name": "Annaki Charms",
         "image": "../common/assets/img/gear/hats/Hed_EYE027.png",
         "main": "Swim Speed Up",
@@ -903,6 +944,7 @@
     },
     {
         "id": 41,
+        "internal-id": 3029,
         "name": "Retro BluFocals",
         "image": "../common/assets/img/gear/hats/Hed_EYE029.png",
         "main": "Intensify Action",
@@ -925,6 +967,7 @@
     },
     {
         "id": 42,
+        "internal-id": 1,
         "name": "White Headband",
         "image": "../common/assets/img/gear/hats/Hed_FST000.png",
         "main": "Ink Recovery Up",
@@ -947,6 +990,7 @@
     },
     {
         "id": 43,
+        "internal-id": 4004,
         "name": "Bamboo Hat",
         "image": "../common/assets/img/gear/hats/Hed_HAT004.png",
         "main": "Ink Saver (Main)",
@@ -969,6 +1013,7 @@
     },
     {
         "id": 44,
+        "internal-id": 4006,
         "name": "Classic Straw Boater",
         "image": "../common/assets/img/gear/hats/Hed_HAT006.png",
         "main": "Special Power Up",
@@ -991,6 +1036,7 @@
     },
     {
         "id": 45,
+        "internal-id": 4008,
         "name": "Bucket Hat",
         "image": "../common/assets/img/gear/hats/Hed_HAT008.png",
         "main": "Special Saver",
@@ -1013,6 +1059,7 @@
     },
     {
         "id": 46,
+        "internal-id": 4015,
         "name": "Classic Bowler",
         "image": "../common/assets/img/gear/hats/Hed_HAT015.png",
         "main": "Run Speed Up",
@@ -1035,6 +1082,7 @@
     },
     {
         "id": 47,
+        "internal-id": 4016,
         "name": "Jean Dream Bucket",
         "image": "../common/assets/img/gear/hats/Hed_HAT016.png",
         "main": "Ink Recovery Up",
@@ -1057,6 +1105,7 @@
     },
     {
         "id": 48,
+        "internal-id": 4017,
         "name": "Howdy Hat",
         "image": "../common/assets/img/gear/hats/Hed_HAT017.png",
         "main": "Sub Resistance Up",
@@ -1079,6 +1128,7 @@
     },
     {
         "id": 49,
+        "internal-id": 4019,
         "name": "Beachcomber",
         "image": "../common/assets/img/gear/hats/Hed_HAT019.png",
         "main": "Opening Gambit",
@@ -1101,6 +1151,7 @@
     },
     {
         "id": 50,
+        "internal-id": 9003,
         "name": "Tennis Headband",
         "image": "../common/assets/img/gear/hats/Hed_HBD003.png",
         "main": "Comeback",
@@ -1123,6 +1174,7 @@
     },
     {
         "id": 51,
+        "internal-id": 9007,
         "name": "FishFry Biscuit Bandana",
         "image": "../common/assets/img/gear/hats/Hed_HBD007.png",
         "main": "Special Power Up",
@@ -1145,6 +1197,7 @@
     },
     {
         "id": 52,
+        "internal-id": 9009,
         "name": "Squidband",
         "image": "../common/assets/img/gear/hats/Hed_HBD009.png",
         "main": "Quick Respawn",
@@ -1167,6 +1220,7 @@
     },
     {
         "id": 53,
+        "internal-id": 5000,
         "name": "Studio Headphones",
         "image": "../common/assets/img/gear/hats/Hed_HDP000.png",
         "main": "Ink Saver (Main)",
@@ -1189,6 +1243,7 @@
     },
     {
         "id": 54,
+        "internal-id": 5001,
         "name": "Designer Headphones",
         "image": "../common/assets/img/gear/hats/Hed_HDP001.png",
         "main": "Ink Saver (Sub)",
@@ -1211,6 +1266,7 @@
     },
     {
         "id": 55,
+        "internal-id": 5004,
         "name": "Squidlife Headphones",
         "image": "../common/assets/img/gear/hats/Hed_HDP004.png",
         "main": "Ink Recovery Up",
@@ -1233,6 +1289,7 @@
     },
     {
         "id": 56,
+        "internal-id": 5007,
         "name": "Ocho OctoPhones",
         "image": "../common/assets/img/gear/hats/Hed_HDP007.png",
         "main": "Opening Gambit",
@@ -1255,6 +1312,7 @@
     },
     {
         "id": 57,
+        "internal-id": 5008,
         "name": "Cephalo Pods",
         "image": "../common/assets/img/gear/hats/Hed_HDP008.png",
         "main": "Ink Recovery Up",
@@ -1277,6 +1335,7 @@
     },
     {
         "id": 58,
+        "internal-id": 7007,
         "name": "Hockey Helmet",
         "image": "../common/assets/img/gear/hats/Hed_MET007.png",
         "main": "Intensify Action",
@@ -1299,6 +1358,7 @@
     },
     {
         "id": 59,
+        "internal-id": 7012,
         "name": "Winkle Stripe Helm",
         "image": "../common/assets/img/gear/hats/Hed_MET012.png",
         "main": "Sub Resistance Up",
@@ -1321,6 +1381,7 @@
     },
     {
         "id": 60,
+        "internal-id": 7013,
         "name": "Party Hard Hat",
         "image": "../common/assets/img/gear/hats/Hed_MET013.png",
         "main": "Quick Super Jump",
@@ -1343,6 +1404,7 @@
     },
     {
         "id": 61,
+        "internal-id": 7014,
         "name": "Home-Team Catcher",
         "image": "../common/assets/img/gear/hats/Hed_MET014.png",
         "main": "Ink Resistance Up",
@@ -1365,6 +1427,7 @@
     },
     {
         "id": 62,
+        "internal-id": 8005,
         "name": "Annaki Mask",
         "image": "../common/assets/img/gear/hats/Hed_MSK005.png",
         "main": "Opening Gambit",
@@ -1387,6 +1450,7 @@
     },
     {
         "id": 63,
+        "internal-id": 8008,
         "name": "Firefin Facemask",
         "image": "../common/assets/img/gear/hats/Hed_MSK008.png",
         "main": "Run Speed Up",
@@ -1409,6 +1473,7 @@
     },
     {
         "id": 64,
+        "internal-id": 8011,
         "name": "Forge Mask",
         "image": "../common/assets/img/gear/hats/Hed_MSK011.png",
         "main": "Intensify Action",
@@ -1431,6 +1496,7 @@
     },
     {
         "id": 65,
+        "internal-id": 8014,
         "name": "BlobMob Mask",
         "image": "../common/assets/img/gear/hats/Hed_MSK014.png",
         "main": "Tenacity",
@@ -1453,6 +1519,7 @@
     },
     {
         "id": 66,
+        "internal-id": 8015,
         "name": "Air Gills DX",
         "image": "../common/assets/img/gear/hats/Hed_MSK015.png",
         "main": "Tenacity",
@@ -1475,6 +1542,7 @@
     },
     {
         "id": 67,
+        "internal-id": 8016,
         "name": "Squidbeak Shield",
         "image": "../common/assets/img/gear/hats/Hed_MSK016.png",
         "main": "Sub Power Up",
@@ -1497,6 +1565,7 @@
     },
     {
         "id": 68,
+        "internal-id": 2008,
         "name": "Knitted Hat",
         "image": "../common/assets/img/gear/hats/Hed_NCP008.png",
         "main": "Ink Resistance Up",
@@ -1519,6 +1588,7 @@
     },
     {
         "id": 69,
+        "internal-id": 28000,
         "name": "Stay Crusty Cap",
         "image": "../common/assets/img/gear/hats/Hed_TRG000.png",
         "main": "Sub Power Up",
@@ -1541,6 +1611,7 @@
     },
     {
         "id": 70,
+        "internal-id": 6001,
         "name": "FishFry Visor",
         "image": "../common/assets/img/gear/hats/Hed_VIS001.png",
         "main": "Special Charge Up",
@@ -1563,6 +1634,7 @@
     },
     {
         "id": 71,
+        "internal-id": 6003,
         "name": "Takoroka Visor",
         "image": "../common/assets/img/gear/hats/Hed_VIS003.png",
         "main": "Quick Super Jump",
@@ -1585,6 +1657,7 @@
     },
     {
         "id": 72,
+        "internal-id": 6004,
         "name": "Face Visor",
         "image": "../common/assets/img/gear/hats/Hed_VIS004.png",
         "main": "Sub Resistance Up",
