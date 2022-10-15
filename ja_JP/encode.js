@@ -7,7 +7,7 @@
  * 
  * Format: 
  * 
- * 0 0 XX XXXXXXX XXXXXXX XXXXXXX XXXXXXXXXXXXXXXXXX PlayerName
+ * 0 X XX XXXXXXX XXXXXXX XXXXXXX XXXXXXXXXXXXXXXXXX PlayerName
  * ^ ^ ^  ^       ^       ^       ^    
  * | | |  |       |       |       |     
  * Version number |       |       |     
@@ -98,7 +98,7 @@
 
 function encode(selectedSetId, loadout) {
     var hexString = '0' // version number
-    hexString += selectedSetId
+    hexString += hex1(selectedSetId)
     hexString += hex8(loadout.weapon.id);
     hexString += encodeGear(loadout.head);
     hexString += encodeGear(loadout.clothes);
@@ -214,13 +214,19 @@ function dec4(val) {
     return dec;
 }
 
+function hex1(val) {
+    val &= 0xF;
+    var hex = val.toString(16).toLowerCase();
+    return ("0" + hex).slice(-1);
+}
+
 function decode(code) {
     if (code[0] != 0) {
         console.log("invalid code")
         return false;
     }
     try {
-        var weaponset = parseInt(code[1])
+        var weaponset = parseInt(code[1], 16)
         var weaponid = parseInt(code.substring(2, 4), 16)
         var head = decodeGear(code.substring(4, 11))
         var clothes = decodeGear(code.substring(11, 18))
