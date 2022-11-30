@@ -10,21 +10,23 @@ except ImportError:
 
 # TODO - 099 -> latest
 
-hats = "https://leanny.github.io/splat3/data/mush/110/GearInfoHead.json"
-shirts = "https://leanny.github.io/splat3/data/mush/110/GearInfoClothes.json"
-shoes = "https://leanny.github.io/splat3/data/mush/110/GearInfoShoes.json"
-weapons = "https://leanny.github.io/splat3/data/mush/110/WeaponInfoMain.json"
-subs = "https://leanny.github.io/splat3/data/mush/110/WeaponInfoSub.json"
-specials = "https://leanny.github.io/splat3/data/mush/110/WeaponInfoSpecial.json"
-brands = "https://leanny.github.io/splat3/data/parameter/110/misc/spl__BrandTraitsParam.spl__BrandTraitsParam.json"
-skills = "https://leanny.github.io/splat3/data/parameter/110/misc/spl__GearSkillTraitsParam.spl__GearSkillTraitsParam.json"
+VERSION = "200"
+
+hats = f"https://leanny.github.io/splat3/data/mush//{VERSION}/GearInfoHead.json"
+shirts = f"https://leanny.github.io/splat3/data/mush//{VERSION}/GearInfoClothes.json"
+shoes = f"https://leanny.github.io/splat3/data/mush//{VERSION}/GearInfoShoes.json"
+weapons = f"https://leanny.github.io/splat3/data/mush//{VERSION}/WeaponInfoMain.json"
+subs = f"https://leanny.github.io/splat3/data/mush//{VERSION}/WeaponInfoSub.json"
+specials = f"https://leanny.github.io/splat3/data/mush//{VERSION}/WeaponInfoSpecial.json"
+brands = f"https://leanny.github.io/splat3/data/parameter//{VERSION}/misc/spl__BrandTraitsParam.spl__BrandTraitsParam.json"
+skills = f"https://leanny.github.io/splat3/data/parameter//{VERSION}/misc/spl__GearSkillTraitsParam.spl__GearSkillTraitsParam.json"
 locale = "https://leanny.github.io/splat3/data/language/EUen.json"
 
 
-splashtags = "https://leanny.github.io/splat3/data/mush/110/NamePlateBgInfo.json"
-adjectives = "https://leanny.github.io/splat3/data/mush/110/BynameAdjectiveInfo.json"
-subjects = "https://leanny.github.io/splat3/data/mush/110/BynameSubjectInfo.json"
-badges = "https://leanny.github.io/splat3/data/mush/110/BadgeInfo.json"
+splashtags = f"https://leanny.github.io/splat3/data/mush//{VERSION}/NamePlateBgInfo.json"
+adjectives = f"https://leanny.github.io/splat3/data/mush//{VERSION}/BynameAdjectiveInfo.json"
+subjects = f"https://leanny.github.io/splat3/data/mush//{VERSION}/BynameSubjectInfo.json"
+badges = f"https://leanny.github.io/splat3/data/mush//{VERSION}/BadgeInfo.json"
 
 
 hats_path = Path("common", "assets", "img", "gear", "hats")
@@ -204,29 +206,29 @@ async def main():
     subjects_data = await json(subjects)
     badges_data = await json(badges)
 
-    # print("Getting hats...")
-    # await hat(hats_data, locale_data)
+    print("Getting hats...")
+    await hat(hats_data, locale_data)
 
-    # print("Getting shirts...")
-    # await shirt(shirts_data, locale_data)
+    print("Getting shirts...")
+    await shirt(shirts_data, locale_data)
 
-    # print("Getting shoes...")
-    # await shoe(shoes_data, locale_data)
+    print("Getting shoes...")
+    await shoe(shoes_data, locale_data)
 
-    # print("Getting weapons...")
-    # await weapon(weapons_data, locale_data)
+    print("Getting weapons...")
+    await weapon(weapons_data, locale_data)
 
-    # print("Getting subs...")
-    # await subspe(subs_data, locale_data, "b")
+    print("Getting subs...")
+    await subspe(subs_data, locale_data, "b")
 
-    # print("Getting specials...")
-    # await subspe(specials_data, locale_data, "p")
+    print("Getting specials...")
+    await subspe(specials_data, locale_data, "p")
 
-    # print("Getting brands...")
-    # await brand(brands_data, locale_data)
+    print("Getting brands...")
+    await brand(brands_data, locale_data)
 
-    # print("Getting skills...")
-    # await skill(skills_data, locale_data)
+    print("Getting skills...")
+    await skill(skills_data, locale_data)
 
     print("Getting splashtags...")
     await splashtag(splashtags_data, locale_data)

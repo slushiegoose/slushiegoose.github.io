@@ -1405,7 +1405,7 @@
             "fr_CA": "Amateur de spas",
             "de_DE": "Thermalquellen-Fan",
             "nl_NL": "saunafan",
-            "ru_RU": "\u043b\u044e\u0431\u0438\u0442\u0435\u043b\u044c \u0433\u043e\u0440\u044f\u0447\u0438\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u0432",
+            "ru_RU": "\u0444\u0430\u043d\u0430\u0442 \u0433\u043e\u0440\u044f\u0447\u0438\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u0432",
             "it_IT": "Amante delle terme",
             "ja_JP": "\u304d"
         },
@@ -2025,7 +2025,7 @@
             "fr_CA": "Fanatique",
             "de_DE": "Maniac",
             "nl_NL": "maniak",
-            "ru_RU": "\u043c\u0430\u043d\u044c\u044f\u043a",
+            "ru_RU": "\u043c\u0435\u0433\u0430\u0444\u0430\u043d\u0430\u0442",
             "it_IT": "Fanatico",
             "ja_JP": "\u30de\u30cb\u30a2"
         },
@@ -2645,7 +2645,7 @@
             "fr_CA": "Leader",
             "de_DE": "Anf\u00fchrer",
             "nl_NL": "machthebber",
-            "ru_RU": "\u0432\u0435\u0434\u0443\u0449\u0438\u0439",
+            "ru_RU": "\u043f\u0435\u0440\u0432\u043e\u043f\u0440\u043e\u0445\u043e\u0434\u0435\u0446",
             "it_IT": "Condottiero",
             "ja_JP": "\u30ea\u30fc\u30c0\u30fc"
         },
@@ -10117,7 +10117,7 @@
             "de_DE": "Dedf1sh-Fan",
             "nl_NL": "Dedf1sh-fan",
             "ru_RU": "\u0444\u0430\u043d\u0430\u0442 Dedf1sh",
-            "it_IT": "Fan dei Dedf1sh",
+            "it_IT": "Fan di Dedf1sh",
             "ja_JP": "Dedf1sh\u30d5\u30a1\u30f3"
         },
         "available": {
@@ -14580,7 +14580,7 @@
             "fr_CA": "Cadre",
             "de_DE": "Vorsitzender",
             "nl_NL": "voorzitter",
-            "ru_RU": "",
+            "ru_RU": "\u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c",
             "it_IT": "Dirigente",
             "ja_JP": ""
         },
@@ -17296,5 +17296,284 @@
         },
         "id": 557,
         "internal": "0380"
+    },
+    {
+        "name": "Recollection",
+        "localizedName": {
+            "en_GB": "Recollection",
+            "en_US": "Recollection",
+            "es_ES": "Recuerdo",
+            "es_MX": "Recuerdo",
+            "fr_FR": "R\u00e9miniscence",
+            "fr_CA": "R\u00e9miniscence",
+            "de_DE": "R\u00fcckblick",
+            "nl_NL": "aandenken",
+            "ru_RU": "\u043d\u043e\u0441\u0442\u0430\u043b\u044c\u0433\u0438\u044f",
+            "it_IT": "Memoria",
+            "ja_JP": ""
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 558,
+        "internal": "2002"
+    },
+    {
+        "name": "Stylist",
+        "localizedName": {
+            "en_GB": "Stylist",
+            "en_US": "Stylist",
+            "es_ES": "Marcatendencias",
+            "es_MX": "Modista",
+            "fr_FR": "Styliste",
+            "fr_CA": "Styliste",
+            "de_DE": "Stylist",
+            "nl_NL": "stylist",
+            "ru_RU": "\u0441\u0442\u0438\u043b\u0438\u0441\u0442",
+            "it_IT": "Tipo di classe",
+            "ja_JP": "\u30b9\u30bf\u30a4\u30ea\u30b9\u30c8"
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 559,
+        "internal": "2003"
+    },
+    {
+        "name": "Protected Species",
+        "localizedName": {
+            "en_GB": "Protected Species",
+            "en_US": "Protected Species",
+            "es_ES": "Esp\u00e9cimen protegido",
+            "es_MX": "Esp\u00e9cimen protegido",
+            "fr_FR": "Esp\u00e8ce prot\u00e9g\u00e9e",
+            "fr_CA": "Esp\u00e8ce prot\u00e9g\u00e9e",
+            "de_DE": "Naturdenkmal",
+            "nl_NL": "beschermde diersoort",
+            "ru_RU": "\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u043c\u044b\u0439 \u0432\u0438\u0434",
+            "it_IT": "Specie protetta",
+            "ja_JP": ""
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 560,
+        "internal": "2501"
+    },
+    {
+        "name": "Cyclist",
+        "localizedName": {
+            "en_GB": "Cyclist",
+            "en_US": "Cyclist",
+            "es_ES": "Ciclista",
+            "es_MX": "Ciclista",
+            "fr_FR": "Cycliste",
+            "fr_CA": "Cycliste",
+            "de_DE": "Radfahrer",
+            "nl_NL": "fietser",
+            "ru_RU": "\u0432\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434\u0438\u0441\u0442",
+            "it_IT": "Ciclista",
+            "ja_JP": "\u308a"
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 561,
+        "internal": "3301"
+    },
+    {
+        "name": "Front Roe Fan",
+        "localizedName": {
+            "en_GB": "Front Roe Fan",
+            "en_US": "Front Roe Fan",
+            "es_ES": "Fan de Front Roe",
+            "es_MX": "Fan de Front Roe",
+            "fr_FR": "Fan de Front Roe",
+            "fr_CA": "Fan de Front Roe",
+            "de_DE": "Front-Roe-Fan",
+            "nl_NL": "Front Roe-fan",
+            "ru_RU": "\u0444\u0430\u043d\u0430\u0442 Front Roe",
+            "it_IT": "Fan dei Front Roe",
+            "ja_JP": "Front Roe\u30d5\u30a1\u30f3"
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 562,
+        "internal": "0192"
+    },
+    {
+        "name": "Damp Socks Fan",
+        "localizedName": {
+            "en_GB": "Damp Socks Fan",
+            "en_US": "Damp Socks Fan",
+            "es_ES": "Fan de Damp Socks",
+            "es_MX": "Fan de Damp Socks",
+            "fr_FR": "Fan de Damp Socks",
+            "fr_CA": "Fan de Damp Socks",
+            "de_DE": "Damp-Socks-Fan",
+            "nl_NL": "Damp Socks-fan",
+            "ru_RU": "\u0444\u0430\u043d\u0430\u0442 Damp Socks",
+            "it_IT": "Fan dei Damp Socks",
+            "ja_JP": "\u30d3\u30b8\u30fc\u30fb\u30d0\u30b1\u30fc\u30b7\u30e7\u30f3\u30d5\u30a1\u30f3"
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 563,
+        "internal": "0193"
+    },
+    {
+        "name": "Snipewriter 5H User",
+        "localizedName": {
+            "en_GB": "Snipewriter 5H User",
+            "en_US": "Snipewriter 5H User",
+            "es_ES": "Chico con Cargaminas 5H",
+            "es_MX": "Chico con cargaminas 5H",
+            "fr_FR": "Adepte du Crayon X - 5H",
+            "fr_CA": "Adepte du Crayon X - 5H",
+            "de_DE": "R-BLR-NZR",
+            "nl_NL": "Schotlood 5H-fan",
+            "ru_RU": "\u0431\u043e\u0435\u0446 \u0441 \u043f\u0430\u0442\u0440\u043e\u043d\u0434\u0430\u0448\u043e\u043c 5\u0422",
+            "it_IT": "Utente di lapis cecchino 5H",
+            "ja_JP": "R-PEN\u3044"
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 564,
+        "internal": "0056"
+    },
+    {
+        "name": "Big Swig Roller User",
+        "localizedName": {
+            "en_GB": "Big Swig Roller User",
+            "en_US": "Big Swig Roller User",
+            "es_ES": "Chico con Rodillo m\u00e1gnum",
+            "es_MX": "Chico con rodillo m\u00e1gnum",
+            "fr_FR": "Adepte du Rouleau large",
+            "fr_CA": "Adepte du Rouleau large",
+            "de_DE": "Breitroller",
+            "nl_NL": "Breedroller-fan",
+            "ru_RU": "\u0431\u043e\u0435\u0446 \u0441 \u043c\u0430\u043a\u0441\u0438-\u0432\u0430\u043b\u0438\u043a\u043e\u043c",
+            "it_IT": "Utente di ampiorullo",
+            "ja_JP": "\u30ef\u30a4\u30c9\u30ed\u30fc\u30e9\u30fc\u3044"
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 565,
+        "internal": "0055"
+    },
+    {
+        "name": "Splattershot Nova User",
+        "localizedName": {
+            "en_GB": "Splattershot Nova User",
+            "en_US": "Splattershot Nova User",
+            "es_ES": "Chico con Lanzatintas espacial",
+            "es_MX": "Chico con rociador espacial",
+            "fr_FR": "Adepte du Lanceur spatial",
+            "fr_CA": "Adepte du Lanceur spatial",
+            "de_DE": "Kosmo-Kleckser",
+            "nl_NL": "Superspetter Nova-fan",
+            "ru_RU": "\u0431\u043e\u0435\u0446 \u0441 \u043a\u0430\u043f\u043b\u0435\u0441\u0442\u0440\u0435\u043b\u043e\u043c \u041d\u041e\u0412\u0410",
+            "it_IT": "Utente di splasher Nova",
+            "ja_JP": "\u30b9\u30da\u30fc\u30b9\u30b7\u30e5\u30fc\u30bf\u30fc\u3044"
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 566,
+        "internal": "0054"
     }
 ]

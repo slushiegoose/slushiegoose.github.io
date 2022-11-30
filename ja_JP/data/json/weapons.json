@@ -134,6 +134,28 @@
                     "ja_JP": "\u30ce\u30f4\u30a1\u30d6\u30e9\u30b9\u30bf\u30fc"
                 },
                 "internal": "Blaster_Short_00"
+            },
+            {
+                "id": 6,
+                "name": "Luna Blaster Neo",
+                "image": "../common/assets/img/weapons/Blaster_Short_01.png",
+                "class": "Blaster",
+                "sub": "Fizzy Bomb",
+                "special": "Ultra Stamp",
+                "localizedName": {
+                    "en_GB": "Luna Blaster Neo",
+                    "en_US": "Luna Blaster Neo",
+                    "es_ES": "Ultradevastador neo",
+                    "es_MX": "Lanzamotas Nova neo",
+                    "fr_FR": "Proxiblaster N\u00e9o",
+                    "fr_CA": "Proxiblasteur n\u00e9o",
+                    "de_DE": "Luna-Blaster Neo",
+                    "nl_NL": "Lunablaster Neo",
+                    "ru_RU": "\u041b\u0443\u043d\u043e\u0431\u043b\u0430\u0441\u0442\u0435\u0440 \u00ab\u041d\u0435\u043e\u00bb",
+                    "it_IT": "Blaster lunar Neo",
+                    "ja_JP": "\u30ce\u30f4\u30a1\u30d6\u30e9\u30b9\u30bf\u30fc\u30cd\u30aa"
+                },
+                "internal": "Blaster_Short_01"
             }
         ],
         "localizedName": {
@@ -197,6 +219,28 @@
                     "ja_JP": "\u30db\u30af\u30b5\u30a4"
                 },
                 "internal": "Brush_Normal_00"
+            },
+            {
+                "id": 2,
+                "name": "Inkbrush Nouveau",
+                "image": "../common/assets/img/weapons/Brush_Mini_01.png",
+                "class": "Brush",
+                "sub": "Ink Mine",
+                "special": "Ultra Stamp",
+                "localizedName": {
+                    "en_GB": "Inkbrush Nouveau",
+                    "en_US": "Inkbrush Nouveau",
+                    "es_ES": "Pincel maestro",
+                    "es_MX": "Pincel maestro",
+                    "fr_FR": "\u00c9pinceau nuanc\u00e9",
+                    "fr_CA": "\u00c9pinceau nuanc\u00e9",
+                    "de_DE": "Quasto Fresco",
+                    "nl_NL": "Inktkwast Nouveau",
+                    "ru_RU": "\u041a\u0438\u0441\u0442\u044c \u00ab\u041d\u0443\u0412\u043e\u00bb",
+                    "it_IT": "Calamaravaggio master",
+                    "ja_JP": "\u30d1\u30d6\u30ed\u30fb\u30d2\u30e5\u30fc"
+                },
+                "internal": "Brush_Mini_01"
             }
         ],
         "localizedName": {
@@ -370,6 +414,28 @@
                     "ja_JP": "\u30b9\u30af\u30a4\u30c3\u30af\u30ea\u30f3\u03b1"
                 },
                 "internal": "Charger_Quick_00"
+            },
+            {
+                "id": 7,
+                "name": "Snipewriter 5H",
+                "image": "../common/assets/img/weapons/Charger_Pencil_00.png",
+                "class": "Charger",
+                "sub": "Sprinkler",
+                "special": "Tacticooler",
+                "localizedName": {
+                    "en_GB": "Snipewriter 5H",
+                    "en_US": "Snipewriter 5H",
+                    "es_ES": "Cargaminas 5H",
+                    "es_MX": "Cargaminas 5H",
+                    "fr_FR": "Crayon X - 5H",
+                    "fr_CA": "Crayon X - 5H",
+                    "de_DE": "R-BLR/5H",
+                    "nl_NL": "Schotlood 5H",
+                    "ru_RU": "\u041f\u0430\u0442\u0440\u043e\u043d\u0434\u0430\u0448 5\u0422",
+                    "it_IT": "Lapis cecchino 5H",
+                    "ja_JP": "R-PEN/5H"
+                },
+                "internal": "Charger_Pencil_00"
             }
         ],
         "localizedName": {
@@ -499,6 +565,28 @@
                     "ja_JP": "\u30af\u30a2\u30c3\u30c9\u30db\u30c3\u30d1\u30fc\u30d6\u30e9\u30c3\u30af"
                 },
                 "internal": "Maneuver_Stepper_00"
+            },
+            {
+                "id": 5,
+                "name": "Dapple Dualies Nouveau",
+                "image": "../common/assets/img/weapons/Maneuver_Short_01.png",
+                "class": "Maneuver",
+                "sub": "Torpedo",
+                "special": "Reefslider",
+                "localizedName": {
+                    "en_GB": "Dapple Dualies Nouveau",
+                    "en_US": "Dapple Dualies Nouveau",
+                    "es_ES": "Atomizador dual maestro",
+                    "es_MX": "Atomizador dual maestro",
+                    "fr_FR": "Double moucheteur nuanc\u00e9",
+                    "fr_CA": "Double moucheteur nuanc\u00e9",
+                    "de_DE": "Sprenkler Fresco",
+                    "nl_NL": "Dubbelspatters Nouveau",
+                    "ru_RU": "\u0418\u043c\u043f\u0440\u0435\u0441\u0441\u0438\u043e\u043c\u0435\u0442\u044b \u00ab\u041d\u0443\u0412\u043e\u00bb",
+                    "it_IT": "Ripolpella duplo master",
+                    "ja_JP": "\u30b9\u30d1\u30c3\u30bf\u30ea\u30fc\u30fb\u30d2\u30e5\u30fc"
+                },
+                "internal": "Maneuver_Short_01"
             }
         ],
         "localizedName": {
@@ -508,7 +596,7 @@
             "es_MX": "Armas duales",
             "fr_FR": "Armes doubles",
             "fr_CA": "Armes doubles",
-            "de_DE": "Sprenkler",
+            "de_DE": "Doppler",
             "nl_NL": "Dubbelknallers",
             "ru_RU": "\u0421\u043f\u0443\u0440\u0442\u043e\u043c\u0435\u0442\u044b",
             "it_IT": "Repolper",
@@ -606,6 +694,50 @@
                     "ja_JP": "\u30b9\u30d7\u30e9\u30ed\u30fc\u30e9\u30fc"
                 },
                 "internal": "Roller_Normal_00"
+            },
+            {
+                "id": 4,
+                "name": "Carbon Roller Deco",
+                "image": "../common/assets/img/weapons/Roller_Compact_01.png",
+                "class": "Roller",
+                "sub": "Burst Bomb",
+                "special": "Trizooka",
+                "localizedName": {
+                    "en_GB": "Carbon Roller Deco",
+                    "en_US": "Carbon Roller Deco",
+                    "es_ES": "Rodillo de carbono DX",
+                    "es_MX": "Rodillo de carbono chic",
+                    "fr_FR": "Rouleau carbone chic",
+                    "fr_CA": "Rouleau carbone chic",
+                    "de_DE": "Karbonroller Deko",
+                    "nl_NL": "Carbonroller Deco",
+                    "ru_RU": "\u0412\u0430\u043b\u0438\u043a \u041b\u0410\u0419\u0422 \u00ab\u0414\u0435\u043a\u043e\u00bb",
+                    "it_IT": "Rullo di carbonio DX",
+                    "ja_JP": "\u30ab\u30fc\u30dc\u30f3\u30ed\u30fc\u30e9\u30fc\u30c7\u30b3"
+                },
+                "internal": "Roller_Compact_01"
+            },
+            {
+                "id": 5,
+                "name": "Big Swig Roller",
+                "image": "../common/assets/img/weapons/Roller_Wide_00.png",
+                "class": "Roller",
+                "sub": "Splash Wall",
+                "special": "Ink Vac",
+                "localizedName": {
+                    "en_GB": "Big Swig Roller",
+                    "en_US": "Big Swig Roller",
+                    "es_ES": "Rodillo m\u00e1gnum",
+                    "es_MX": "Rodillo m\u00e1gnum",
+                    "fr_FR": "Rouleau large",
+                    "fr_CA": "Rouleau large",
+                    "de_DE": "Breitroller",
+                    "nl_NL": "Breedroller",
+                    "ru_RU": "\u041c\u0430\u043a\u0441\u0438-\u0432\u0430\u043b\u0438\u043a",
+                    "it_IT": "Ampiorullo",
+                    "ja_JP": "\u30ef\u30a4\u30c9\u30ed\u30fc\u30e9\u30fc"
+                },
+                "internal": "Roller_Wide_00"
             }
         ],
         "localizedName": {
@@ -1081,6 +1213,116 @@
                     "ja_JP": "L3\u30ea\u30fc\u30eb\u30ac\u30f3"
                 },
                 "internal": "Shooter_TripleQuick_00"
+            },
+            {
+                "id": 14,
+                "name": "Aerospray RG",
+                "image": "../common/assets/img/weapons/Shooter_Blaze_01.png",
+                "class": "Shooter",
+                "sub": "Sprinkler",
+                "special": "Booyah Bomb",
+                "localizedName": {
+                    "en_GB": "Aerospray RG",
+                    "en_US": "Aerospray RG",
+                    "es_ES": "Aer\u00f3grafo plus",
+                    "es_MX": "Aer\u00f3grafo GN",
+                    "fr_FR": "A\u00e9rogun premium",
+                    "fr_CA": "Pouche-pouche premium",
+                    "de_DE": "Airbrush RG",
+                    "nl_NL": "Kladderwerper Pro",
+                    "ru_RU": "\u0410\u044d\u0440\u043e\u0441\u043f\u0440\u0435\u0439 \u0414\u0415\u041b\u042e\u041a\u0421",
+                    "it_IT": "Aerografo \u00e9lite",
+                    "ja_JP": "\u30d7\u30ed\u30e2\u30c7\u30e9\u30fcRG"
+                },
+                "internal": "Shooter_Blaze_01"
+            },
+            {
+                "id": 15,
+                "name": "Forge Splattershot Pro",
+                "image": "../common/assets/img/weapons/Shooter_Expert_01.png",
+                "class": "Shooter",
+                "sub": "Suction Bomb",
+                "special": "Booyah Bomb",
+                "localizedName": {
+                    "en_GB": "Forge Splattershot Pro",
+                    "en_US": "Forge Splattershot Pro",
+                    "es_ES": "Lanzatintas plus B",
+                    "es_MX": "Rociador Forima",
+                    "fr_FR": "Liquidateur pro griff\u00e9",
+                    "fr_CA": "Liqu\u00e9ficateur pro Fosia",
+                    "de_DE": "Focus-Profi-Kleckser",
+                    "nl_NL": "Forge Superspetter Pro",
+                    "ru_RU": "\u041a\u0430\u043f\u043b\u0435\u0441\u0442\u0440\u0435\u043b \u041f\u0420\u041e \u00ab\u0411\u043b\u0438\u0446\u00bb",
+                    "it_IT": "Splasher \u00e9lite logo",
+                    "ja_JP": "\u30d7\u30e9\u30a4\u30e0\u30b7\u30e5\u30fc\u30bf\u30fc\u30b3\u30e9\u30dc"
+                },
+                "internal": "Shooter_Expert_01"
+            },
+            {
+                "id": 16,
+                "name": "Custom Splattershot Jr.",
+                "image": "../common/assets/img/weapons/Shooter_First_01.png",
+                "class": "Shooter",
+                "sub": "Torpedo",
+                "special": "Wave Breaker",
+                "localizedName": {
+                    "en_GB": "Custom Splattershot Jr.",
+                    "en_US": "Custom Splattershot Jr.",
+                    "es_ES": "Lanzatintas novato B",
+                    "es_MX": "Rociador b\u00e1sico adaptado",
+                    "fr_FR": "Liquidateur Sr.",
+                    "fr_CA": "Liqu\u00e9ficateur ultra modifi\u00e9",
+                    "de_DE": "Junior-Kleckser Plus",
+                    "nl_NL": "Gemodde Superspetter jr.",
+                    "ru_RU": "\u041a\u0430\u043f\u043b\u0435\u0441\u0442\u0440\u0435\u043b-\u0423 2.0",
+                    "it_IT": "Sparacolore logo",
+                    "ja_JP": "\u3082\u307f\u3058\u30b7\u30e5\u30fc\u30bf\u30fc"
+                },
+                "internal": "Shooter_First_01"
+            },
+            {
+                "id": 17,
+                "name": "Tentatek Splattershot",
+                "image": "../common/assets/img/weapons/Shooter_Normal_01.png",
+                "class": "Shooter",
+                "sub": "Splat Bomb",
+                "special": "Triple Inkstrike",
+                "localizedName": {
+                    "en_GB": "Tentatek Splattershot",
+                    "en_US": "Tentatek Splattershot",
+                    "es_ES": "Lanzatintas B",
+                    "es_MX": "Rociador Tent\u00e1ctica",
+                    "fr_FR": "Liquidateur griff\u00e9",
+                    "fr_CA": "Liqu\u00e9ficateur Tentatek",
+                    "de_DE": "Tentatek-Kleckser",
+                    "nl_NL": "Tentatek Superspetter",
+                    "ru_RU": "\u041a\u0430\u043f\u043b\u0435\u0441\u0442\u0440\u0435\u043b \u00ab\u0429\u0443\u0447\u0447\u0438\u00bb",
+                    "it_IT": "Splasher logo",
+                    "ja_JP": "\u30b9\u30d7\u30e9\u30b7\u30e5\u30fc\u30bf\u30fc\u30b3\u30e9\u30dc"
+                },
+                "internal": "Shooter_Normal_01"
+            },
+            {
+                "id": 18,
+                "name": "Splattershot Nova",
+                "image": "../common/assets/img/weapons/Shooter_QuickLong_00.png",
+                "class": "Shooter",
+                "sub": "Point Sensor",
+                "special": "Killer Wail 5.1",
+                "localizedName": {
+                    "en_GB": "Splattershot Nova",
+                    "en_US": "Splattershot Nova",
+                    "es_ES": "Lanzatintas espacial",
+                    "es_MX": "Rociador espacial",
+                    "fr_FR": "Lanceur spatial",
+                    "fr_CA": "Lanceur spatial",
+                    "de_DE": "Kosmo-Kleckser",
+                    "nl_NL": "Superspetter Nova",
+                    "ru_RU": "\u041a\u0430\u043f\u043b\u0435\u0441\u0442\u0440\u0435\u043b \u041d\u041e\u0412\u0410",
+                    "it_IT": "Splasher Nova",
+                    "ja_JP": "\u30b9\u30da\u30fc\u30b9\u30b7\u30e5\u30fc\u30bf\u30fc"
+                },
+                "internal": "Shooter_QuickLong_00"
             }
         ],
         "localizedName": {
@@ -1210,6 +1452,28 @@
                     "ja_JP": "\u30a8\u30af\u30b9\u30d7\u30ed\u30c3\u30b7\u30e3\u30fc"
                 },
                 "internal": "Slosher_Washtub_00"
+            },
+            {
+                "id": 5,
+                "name": "Slosher Deco",
+                "image": "../common/assets/img/weapons/Slosher_Strong_01.png",
+                "class": "Slosher",
+                "sub": "Angle Shooter",
+                "special": "Zipcaster",
+                "localizedName": {
+                    "en_GB": "Slosher Deco",
+                    "en_US": "Slosher Deco",
+                    "es_ES": "Derramatic DX",
+                    "es_MX": "Derramatic chic",
+                    "fr_FR": "Seauceur chic",
+                    "fr_CA": "Seauceur chic",
+                    "de_DE": "Schwapper Deko",
+                    "nl_NL": "Morser Deco",
+                    "ru_RU": "\u0412\u0435\u0434\u0440\u043e\u0433\u0430\u043d \u00ab\u0414\u0435\u043a\u043e\u00bb",
+                    "it_IT": "Secchiostro DX",
+                    "ja_JP": "\u30d0\u30b1\u30c3\u30c8\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc\u30c7\u30b3"
+                },
+                "internal": "Slosher_Strong_01"
             }
         ],
         "localizedName": {
@@ -1339,6 +1603,28 @@
                     "ja_JP": "\u30d0\u30ec\u30eb\u30b9\u30d4\u30ca\u30fc"
                 },
                 "internal": "Spinner_Standard_00"
+            },
+            {
+                "id": 5,
+                "name": "Zink Mini Splatling",
+                "image": "../common/assets/img/weapons/Spinner_Quick_01.png",
+                "class": "Spinner",
+                "sub": "Toxic Mist",
+                "special": "Big Bubbler",
+                "localizedName": {
+                    "en_GB": "Zink Mini Splatling",
+                    "en_US": "Zink Mini Splatling",
+                    "es_ES": "Tintralladora ligera B",
+                    "es_MX": "Garabateador Tintaz",
+                    "fr_FR": "Badigeonneur XS griff\u00e9",
+                    "fr_CA": "Badigeonneur XP Leviathus",
+                    "de_DE": "Sagitron-Klecks-Splatling",
+                    "nl_NL": "Zink Mini-Spetling",
+                    "ru_RU": "\u0411\u0440\u044b\u0437\u0433\u043e\u043c\u0435\u0442-\u041c \u00ab\u0428\u043f\u0440\u043e\u0442\u0443\u0441\u00bb",
+                    "it_IT": "Mini splatling logo",
+                    "ja_JP": "\u30b9\u30d7\u30e9\u30b9\u30d4\u30ca\u30fc\u30b3\u30e9\u30dc"
+                },
+                "internal": "Spinner_Quick_01"
             }
         ],
         "localizedName": {

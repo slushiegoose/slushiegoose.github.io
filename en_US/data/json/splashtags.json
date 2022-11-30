@@ -988,5 +988,35 @@
             "b": 1.0
         },
         "internal": "Npl_Tutorial00"
+    },
+    {
+        "id": 99,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season02_Lv01.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_Catalog_Season02_Lv01"
+    },
+    {
+        "id": 100,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season02_Lv02.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_Catalog_Season02_Lv02"
+    },
+    {
+        "id": 101,
+        "image": "../common/assets/img/splashtags/Npl_Lot_Season02_Lv01.png",
+        "color": {
+            "r": 0.05882,
+            "g": 0.02353,
+            "b": 0.0
+        },
+        "internal": "Npl_Lot_Season02_Lv01"
     }
 ]
