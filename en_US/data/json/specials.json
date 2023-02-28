@@ -430,5 +430,41 @@
             "ja_JP": "\u30a6\u30eb\u30c8\u30e9\u30cf\u30f3\u30b3"
         },
         "internal": "Wsp_SpUltraStamp"
+    },
+    {
+        "name": "Kraken Royale",
+        "image": "../common/assets/img/subspe/Wsp_SpCastle.png",
+        "localizedName": {
+            "en_GB": "Kraken Royale",
+            "en_US": "Kraken Royale",
+            "es_ES": "Calamar imperial",
+            "es_MX": "Calamar imperial",
+            "fr_FR": "Kraken royal",
+            "fr_CA": "Kraken royal",
+            "de_DE": "Tintentyrann",
+            "nl_NL": "Monstermorfose",
+            "ru_RU": "\u0422\u0438\u0440\u0430\u043d\u043d\u043e\u043a\u0440\u0430\u043a\u0435\u043d",
+            "it_IT": "Kraken reale",
+            "ja_JP": "\u30c6\u30a4\u30aa\u30a6\u30a4\u30ab"
+        },
+        "internal": "Wsp_SpCastle"
+    },
+    {
+        "name": "Super Chump",
+        "image": "../common/assets/img/subspe/Wsp_SpFirework.png",
+        "localizedName": {
+            "en_GB": "Super Chump",
+            "en_US": "Super Chump",
+            "es_ES": "Multise\u00f1uelos",
+            "es_MX": "Multise\u00f1uelos",
+            "fr_FR": "Multi-leurres",
+            "fr_CA": "Multi-leurres",
+            "de_DE": "Bluffbomber",
+            "nl_NL": "Voorschutter",
+            "ru_RU": "\u0421\u0443\u043f\u0435\u0440\u043f\u0440\u044b\u0436\u0430\u0442\u043e\u0440",
+            "it_IT": "Diversivo esplosivo",
+            "ja_JP": "\u30c7\u30b3\u30a4\u30c1\u30e9\u30b7"
+        },
+        "internal": "Wsp_SpFirework"
     }
 ]

@@ -156,6 +156,50 @@
                     "ja_JP": "\u30ce\u30f4\u30a1\u30d6\u30e9\u30b9\u30bf\u30fc\u30cd\u30aa"
                 },
                 "internal": "Blaster_Short_01"
+            },
+            {
+                "id": 7,
+                "name": "Clash Blaster Neo",
+                "image": "../common/assets/img/weapons/Blaster_LightShort_01.png",
+                "class": "Blaster",
+                "sub": "Curling Bomb",
+                "special": "Super Chump",
+                "localizedName": {
+                    "en_GB": "Clash Blaster Neo",
+                    "en_US": "Clash Blaster Neo",
+                    "es_ES": "Turbodevastador neo",
+                    "es_MX": "Hiperlanzamotas neo",
+                    "fr_FR": "Rafablaster N\u00e9o",
+                    "fr_CA": "Rafalblasteur n\u00e9o",
+                    "de_DE": "Kontra-Blaster Neo",
+                    "nl_NL": "Knalblaster Neo",
+                    "ru_RU": "\u041a\u043e\u043d\u0442\u0440\u0430\u0431\u043b\u0430\u0441\u0442\u0435\u0440 \u00ab\u041d\u0435\u043e\u00bb",
+                    "it_IT": "Blaster da mischia Neo",
+                    "ja_JP": "\u30af\u30e9\u30c3\u30b7\u30e5\u30d6\u30e9\u30b9\u30bf\u30fc\u30cd\u30aa"
+                },
+                "internal": "Blaster_LightShort_01"
+            },
+            {
+                "id": 8,
+                "name": "Rapid Blaster Deco",
+                "image": "../common/assets/img/weapons/Blaster_Light_01.png",
+                "class": "Blaster",
+                "sub": "Torpedo",
+                "special": "Inkjet",
+                "localizedName": {
+                    "en_GB": "Rapid Blaster Deco",
+                    "en_US": "Rapid Blaster Deco",
+                    "es_ES": "Devastador expr\u00e9s DX",
+                    "es_MX": "Turbolanzamotas chic",
+                    "fr_FR": "Turboblaster chic",
+                    "fr_CA": "Turboblasteur chic",
+                    "de_DE": "Turbo-Blaster Deko",
+                    "nl_NL": "Flitsblaster Deco",
+                    "ru_RU": "\u0411\u043b\u0430\u0441\u0442\u0435\u0440\u043c\u0430\u0442 \u00ab\u0414\u0435\u043a\u043e\u00bb",
+                    "it_IT": "Blaster rapido DX",
+                    "ja_JP": "\u30e9\u30d4\u30c3\u30c9\u30d6\u30e9\u30b9\u30bf\u30fc\u30c7\u30b3"
+                },
+                "internal": "Blaster_Light_01"
             }
         ],
         "localizedName": {
@@ -436,6 +480,50 @@
                     "ja_JP": "R-PEN/5H"
                 },
                 "internal": "Charger_Pencil_00"
+            },
+            {
+                "id": 8,
+                "name": "Z+F Splatterscope",
+                "image": "../common/assets/img/weapons/Charger_NormalScope_01.png",
+                "class": "Charger",
+                "sub": "Splash Wall",
+                "special": "Triple Inkstrike",
+                "localizedName": {
+                    "en_GB": "Z+F Splatterscope",
+                    "en_US": "Z+F Splatterscope",
+                    "es_ES": "Cargatintas con mira Ezkkor",
+                    "es_MX": "Telecargatintas ZyS",
+                    "fr_FR": "Concentraceur zoom E+F",
+                    "fr_CA": "Concentraceur zoom E+A",
+                    "de_DE": "Zekkori-Ziel-Konzentrator",
+                    "nl_NL": "Zekkofin Schelpschutter",
+                    "ru_RU": "\u0421\u043d\u0430\u0439\u043f\u043e\u043a\u0440\u0430\u0441 \u00ab\u0419\u043e\u0436\u043a\u043e\u0422\u044e\u0440\u00bb",
+                    "it_IT": "Splatter con mirino logo",
+                    "ja_JP": "\u30b9\u30d7\u30e9\u30b9\u30b3\u30fc\u30d7\u30b3\u30e9\u30dc"
+                },
+                "internal": "Charger_NormalScope_01"
+            },
+            {
+                "id": 9,
+                "name": "Z+F Splat Charger",
+                "image": "../common/assets/img/weapons/Charger_Normal_01.png",
+                "class": "Charger",
+                "sub": "Splash Wall",
+                "special": "Triple Inkstrike",
+                "localizedName": {
+                    "en_GB": "Z+F Splat Charger",
+                    "en_US": "Z+F Splat Charger",
+                    "es_ES": "Cargatintas Ezkkor",
+                    "es_MX": "Cargatintas ZyS",
+                    "fr_FR": "Concentraceur E+F",
+                    "fr_CA": "Concentraceur E+A",
+                    "de_DE": "Zekkori-Klecks-Konzentrator",
+                    "nl_NL": "Zekkofin Bloplader",
+                    "ru_RU": "\u0421\u043f\u043b\u0430\u0442\u0433\u0430\u043d \u00ab\u0419\u043e\u0436\u043a\u043e\u0422\u044e\u0440\u00bb",
+                    "it_IT": "Splatter a carica logo",
+                    "ja_JP": "\u30b9\u30d7\u30e9\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc\u30b3\u30e9\u30dc"
+                },
+                "internal": "Charger_Normal_01"
             }
         ],
         "localizedName": {
@@ -738,6 +826,28 @@
                     "ja_JP": "\u30ef\u30a4\u30c9\u30ed\u30fc\u30e9\u30fc"
                 },
                 "internal": "Roller_Wide_00"
+            },
+            {
+                "id": 6,
+                "name": "Krak-On Splat Roller",
+                "image": "../common/assets/img/weapons/Roller_Normal_01.png",
+                "class": "Roller",
+                "sub": "Squid Beakon",
+                "special": "Kraken Royale",
+                "localizedName": {
+                    "en_GB": "Krak-On Splat Roller",
+                    "en_US": "Krak-On Splat Roller",
+                    "es_ES": "Rodillo b\u00e1sico B",
+                    "es_MX": "Rodillo b\u00e1sico Meddux",
+                    "fr_FR": "Rouleau griff\u00e9",
+                    "fr_CA": "Rouleau Krakeurs",
+                    "de_DE": "Medusa-Klecksroller",
+                    "nl_NL": "Krak-On Klodderroller",
+                    "ru_RU": "\u0421\u043f\u043b\u0430\u0442-\u0432\u0430\u043b\u0438\u043a \u00ab\u041a\u0440\u0430-\u041a\u0435\u043d\u00bb",
+                    "it_IT": "Rullo splat logo",
+                    "ja_JP": "\u30b9\u30d7\u30e9\u30ed\u30fc\u30e9\u30fc\u30b3\u30e9\u30dc"
+                },
+                "internal": "Roller_Normal_01"
             }
         ],
         "localizedName": {
@@ -1323,6 +1433,138 @@
                     "ja_JP": "\u30b9\u30da\u30fc\u30b9\u30b7\u30e5\u30fc\u30bf\u30fc"
                 },
                 "internal": "Shooter_QuickLong_00"
+            },
+            {
+                "id": 19,
+                "name": ".96 Gal Deco",
+                "image": "../common/assets/img/weapons/Shooter_Heavy_01.png",
+                "class": "Shooter",
+                "sub": "Splash Wall",
+                "special": "Kraken Royale",
+                "localizedName": {
+                    "en_GB": ".96 Gal Deco",
+                    "en_US": ".96 Gal Deco",
+                    "es_ES": "Salpicadora 3000 DX",
+                    "es_MX": "Salpicadora 3000 chic",
+                    "fr_FR": "Calibre 3000 chic",
+                    "fr_CA": "Calibre 3000 chic",
+                    "de_DE": ".96 Gallon Deko",
+                    "nl_NL": ".96 Kaliter Deco",
+                    "ru_RU": "\u0421\u0442\u0440\u0443\u0435\u0432\u0438\u043a .96 \u00ab\u0414\u0435\u043a\u043e\u00bb",
+                    "it_IT": "Calibro 3000 DX",
+                    "ja_JP": ".96\u30ac\u30ed\u30f3\u30c7\u30b3"
+                },
+                "internal": "Shooter_Heavy_01"
+            },
+            {
+                "id": 20,
+                "name": "Custom Jet Squelcher",
+                "image": "../common/assets/img/weapons/Shooter_Long_01.png",
+                "class": "Shooter",
+                "sub": "Toxic Mist",
+                "special": "Ink Storm",
+                "localizedName": {
+                    "en_GB": "Custom Jet Squelcher",
+                    "en_US": "Custom Jet Squelcher",
+                    "es_ES": "Megabarredora SP",
+                    "es_MX": "Megasoplador adaptado",
+                    "fr_FR": "Nettoyeur XL modifi\u00e9",
+                    "fr_CA": "M\u00e9ganettoyeur modifi\u00e9",
+                    "de_DE": "Platscher SE",
+                    "nl_NL": "Gemodde Straalplonzer",
+                    "ru_RU": "\u041f\u043b\u0435\u0441\u043a\u0430\u0440\u044c \u00ab\u041f\u043e\u043d\u0442\u00bb",
+                    "it_IT": "Sweeper CM",
+                    "ja_JP": "\u30b8\u30a7\u30c3\u30c8\u30b9\u30a4\u30fc\u30d1\u30fc\u30ab\u30b9\u30bf\u30e0"
+                },
+                "internal": "Shooter_Long_01"
+            },
+            {
+                "id": 21,
+                "name": "Neo Splash-o-matic",
+                "image": "../common/assets/img/weapons/Shooter_Precision_01.png",
+                "class": "Shooter",
+                "sub": "Suction Bomb",
+                "special": "Triple Inkstrike",
+                "localizedName": {
+                    "en_GB": "Neo Splash-o-matic",
+                    "en_US": "Neo Splash-o-matic",
+                    "es_ES": "Marcador fino neo",
+                    "es_MX": "Plum\u00f3n neo",
+                    "fr_FR": "Marqueur l\u00e9ger N\u00e9o",
+                    "fr_CA": "Marqueur l\u00e9ger n\u00e9o",
+                    "de_DE": "Fein-Disperser Neo",
+                    "nl_NL": "Spetterspuit Neo",
+                    "ru_RU": "\u041f\u043b\u044e\u0445\u043e\u043c\u0435\u0442 \u00ab\u041d\u0435\u043e\u00bb",
+                    "it_IT": "Marker d'assalto Neo",
+                    "ja_JP": "\u30b7\u30e3\u30fc\u30d7\u30de\u30fc\u30ab\u30fc\u30cd\u30aa"
+                },
+                "internal": "Shooter_Precision_01"
+            },
+            {
+                "id": 22,
+                "name": "N-ZAP '89",
+                "image": "../common/assets/img/weapons/Shooter_QuickMiddle_01.png",
+                "class": "Shooter",
+                "sub": "Autobomb",
+                "special": "Super Chump",
+                "localizedName": {
+                    "en_GB": "N-ZAP '89",
+                    "en_US": "N-ZAP '89",
+                    "es_ES": "N-ZAP 89",
+                    "es_MX": "N-ZAP 89",
+                    "fr_FR": "N-ZAP 89",
+                    "fr_CA": "N-ZAP 89",
+                    "de_DE": "N-ZAP89",
+                    "nl_NL": "N-ZAP '89",
+                    "ru_RU": "N-ZAP 89",
+                    "it_IT": "N-ZAP89",
+                    "ja_JP": "N-ZAP89"
+                },
+                "internal": "Shooter_QuickMiddle_01"
+            },
+            {
+                "id": 23,
+                "name": "Neo Sploosh-o-matic",
+                "image": "../common/assets/img/weapons/Shooter_Short_01.png",
+                "class": "Shooter",
+                "sub": "Squid Beakon",
+                "special": "Killer Wail 5.1",
+                "localizedName": {
+                    "en_GB": "Neo Sploosh-o-matic",
+                    "en_US": "Neo Sploosh-o-matic",
+                    "es_ES": "Marcador neo",
+                    "es_MX": "Marcador grueso neo",
+                    "fr_FR": "Marqueur lourd N\u00e9o",
+                    "fr_CA": "Marqueur lourd n\u00e9o",
+                    "de_DE": "Disperser Neo",
+                    "nl_NL": "Spettertuit Neo",
+                    "ru_RU": "\u041f\u043b\u044e\u0445\u043e\u0442\u0440\u043e\u043d \u00ab\u041d\u0435\u043e\u00bb",
+                    "it_IT": "Marker Neo",
+                    "ja_JP": "\u30dc\u30fc\u30eb\u30c9\u30de\u30fc\u30ab\u30fc\u30cd\u30aa"
+                },
+                "internal": "Shooter_Short_01"
+            },
+            {
+                "id": 24,
+                "name": "L-3 Nozzlenose D",
+                "image": "../common/assets/img/weapons/Shooter_TripleQuick_01.png",
+                "class": "Shooter",
+                "sub": "Burst Bomb",
+                "special": "Ultra Stamp",
+                "localizedName": {
+                    "en_GB": "L-3 Nozzlenose D",
+                    "en_US": "L-3 Nozzlenose D",
+                    "es_ES": "Tintambor ligero D",
+                    "es_MX": "Manguera ligera D",
+                    "fr_FR": "Arroseur l\u00e9ger C\u00e9tac\u00e9",
+                    "fr_CA": "Arroseur l\u00e9ger requin",
+                    "de_DE": "L3 Tintenwerfer D",
+                    "nl_NL": "L-3 Stompsnuit D",
+                    "ru_RU": "\u041a\u0430\u043f\u043b\u0435\u0442\u0440\u043e\u043d-\u043a\u043e\u043c\u043f\u0430\u043a\u0442 2.0",
+                    "it_IT": "Triplete compatto D",
+                    "ja_JP": "L3\u30ea\u30fc\u30eb\u30ac\u30f3D"
+                },
+                "internal": "Shooter_TripleQuick_01"
             }
         ],
         "localizedName": {
@@ -1474,6 +1716,28 @@
                     "ja_JP": "\u30d0\u30b1\u30c3\u30c8\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc\u30c7\u30b3"
                 },
                 "internal": "Slosher_Strong_01"
+            },
+            {
+                "id": 6,
+                "name": "Tri-Slosher Nouveau",
+                "image": "../common/assets/img/weapons/Slosher_Diffusion_01.png",
+                "class": "Slosher",
+                "sub": "Fizzy Bomb",
+                "special": "Tacticooler",
+                "localizedName": {
+                    "en_GB": "Tri-Slosher Nouveau",
+                    "en_US": "Tri-Slosher Nouveau",
+                    "es_ES": "Derramatic triple maestro",
+                    "es_MX": "Derramatic triple maestro",
+                    "fr_FR": "D\u00e9poteur nuanc\u00e9",
+                    "fr_CA": "Seauceur nuanc\u00e9",
+                    "de_DE": "3R-Schwapper Fresco",
+                    "nl_NL": "Triomorser Nouveau",
+                    "ru_RU": "\u0412\u0435\u0434\u0440\u043e\u0433\u0430\u043d 3 \u0432 1 \u00ab\u041d\u0443\u0412\u043e\u00bb",
+                    "it_IT": "Secchiostro triplo master",
+                    "ja_JP": "\u30d2\u30c3\u30bb\u30f3\u30fb\u30d2\u30e5\u30fc"
+                },
+                "internal": "Slosher_Diffusion_01"
             }
         ],
         "localizedName": {

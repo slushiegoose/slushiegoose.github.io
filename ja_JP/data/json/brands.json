@@ -299,6 +299,26 @@
         },
         "internal": "B17"
     },
+    "Z+F": {
+        "name": "Z+F",
+        "image": "../common/assets/img/brands/B18.png",
+        "common": "Special Saver",
+        "uncommon": "Ink Recovery Up",
+        "localizedName": {
+            "en_GB": "Z+F",
+            "en_US": "Z+F",
+            "es_ES": "Ezkkor",
+            "es_MX": "ZyS",
+            "fr_FR": "E+F",
+            "fr_CA": "E+A",
+            "de_DE": "Zekkori",
+            "nl_NL": "Zekkofin",
+            "ru_RU": "\u0419\u043e\u0436\u043a\u043e\u0422\u044e\u0440",
+            "it_IT": "E+T",
+            "ja_JP": "\u30a8\u30be\u30c3\u30b3\u30ea\u30fc"
+        },
+        "internal": "B18"
+    },
     "Barazushi": {
         "name": "Barazushi",
         "image": "../common/assets/img/brands/B19.png",

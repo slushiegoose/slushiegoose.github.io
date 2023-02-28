@@ -128,6 +128,7 @@ angular
             var newLoadout = new Loadout();
             var results = decode(code)
             if (results) {
+                console.log(results)
                 $scope.selectedSet = $scope.getWeaponSetById(results.set)
                 newLoadout.weapon = $scope.getWeaponById(results.set, results.weapon)
                 newLoadout.head.equipped = $scope.getHatById(results.head.gear)
@@ -155,6 +156,7 @@ angular
                 newLoadout.splashtag.discriminator = results.splashtag.discriminator
                 newLoadout.splashtag.name = results.splashtag.name
 
+                console.log(newLoadout)
                 return newLoadout
             }
             return false;

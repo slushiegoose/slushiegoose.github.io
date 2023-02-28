@@ -8,6 +8,7 @@ import re
 VERSIONS = [
     "110",
     "200",
+    "300",
 ]
 
 hats = "https://leanny.github.io/splat3/data/mush/{VERSION}/GearInfoHead.json"

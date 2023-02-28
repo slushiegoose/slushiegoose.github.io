@@ -1981,7 +1981,7 @@
         "localizedName": {
             "en_GB": "100K Man-o'-Wardrobe Club",
             "en_US": "100K Man-o'-Wardrobe Club",
-            "es_ES": "Tu gasto en la tienda de ropa ha llegado a 100 000.",
+            "es_ES": "Tu gasto en la tienda de ropa\nde Tintelia ha llegado a 100 000.",
             "es_MX": "Gastaste 100 000 en Pr\u00eat-\u00e0-Ventouse.",
             "fr_FR": "Somme de 100 000 d\u00e9pens\u00e9e au Vestarium",
             "fr_CA": "Somme de 100 000 d\u00e9pens\u00e9e au Vestarium",
@@ -1989,7 +1989,7 @@
             "nl_NL": "100.000 uitgegeven bij Modusa!",
             "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u00ab\u041a\u0430\u0440\u0430\u0432\u0435\u043b\u043b\u0435\u00bb: 100 000",
             "it_IT": "Speso 100.000 da La Modusa",
-            "ja_JP": "\u30d5\u30af\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+            "ja_JP": "\u30d0\u30f3\u30ab\u30e9\u8857\u306e\u30d5\u30af\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
         },
         "id": 104,
         "internal": "Badge_SpendShop_Clothes_Lv00"
@@ -2000,7 +2000,7 @@
         "localizedName": {
             "en_GB": "1MM Man-o'-Wardrobe Club",
             "en_US": "1MM Man-o'-Wardrobe Club",
-            "es_ES": "Tu gasto en la tienda de ropa ha llegado a 1 000 000.",
+            "es_ES": "Tu gasto en la tienda de ropa\nde Tintelia ha llegado a 1 000 000.",
             "es_MX": "Gastaste 1 000 000 en Pr\u00eat-\u00e0-Ventouse.",
             "fr_FR": "Somme d'un million d\u00e9pens\u00e9e au Vestarium",
             "fr_CA": "Somme d'un million d\u00e9pens\u00e9e au Vestarium",
@@ -2008,7 +2008,7 @@
             "nl_NL": "1 miljoen uitgegeven bij Modusa!",
             "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u00ab\u041a\u0430\u0440\u0430\u0432\u0435\u043b\u043b\u0435\u00bb: 1 000 000",
             "it_IT": "Speso 1.000.000 da La Modusa",
-            "ja_JP": "\u30d5\u30af\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11,\uff10\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+            "ja_JP": "\u30d0\u30f3\u30ab\u30e9\u8857\u306e\u30d5\u30af\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11,\uff10\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
         },
         "id": 105,
         "internal": "Badge_SpendShop_Clothes_Lv01"
@@ -2057,7 +2057,7 @@
         "localizedName": {
             "en_GB": "100K Naut Couture Club",
             "en_US": "100K Naut Couture Club",
-            "es_ES": "Tu gasto en la tienda de accesorios ha llegado a 100 000.",
+            "es_ES": "Tu gasto en la tienda de accesorios\nde Tintelia ha llegado a 100 000.",
             "es_MX": "Gastaste 100 000 en Estilo Nautilo.",
             "fr_FR": "Somme de 100 000 d\u00e9pens\u00e9e aux Eaux-de-forme",
             "fr_CA": "Somme de 100 000 d\u00e9pens\u00e9e aux Eaux-de-forme",
@@ -2065,7 +2065,7 @@
             "nl_NL": "100.000 uitgegeven bij Nauts Deals!",
             "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u00ab\u0428\u043c\u043e\u0442-\u043a\u0443\u0442\u044e\u0440\u0435\u00bb: 100 000",
             "it_IT": "Speso 100.000 da Guscintesta",
-            "ja_JP": "\u30a2\u30bf\u30de\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+            "ja_JP": "\u30d0\u30f3\u30ab\u30e9\u8857\u306e\u30a2\u30bf\u30de\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
         },
         "id": 108,
         "internal": "Badge_SpendShop_Head_Lv00"
@@ -2076,7 +2076,7 @@
         "localizedName": {
             "en_GB": "1MM Naut Couture Club",
             "en_US": "1MM Naut Couture Club",
-            "es_ES": "Tu gasto en la tienda de accesorios ha llegado a 1 000 000.",
+            "es_ES": "Tu gasto en la tienda de accesorios\nde Tintelia ha llegado a 1 000 000.",
             "es_MX": "Gastaste 1 000 000 en Estilo Nautilo.",
             "fr_FR": "Somme d'un million d\u00e9pens\u00e9e aux Eaux-de-forme",
             "fr_CA": "Somme d'un million d\u00e9pens\u00e9e aux Eaux-de-forme",
@@ -2084,7 +2084,7 @@
             "nl_NL": "1 miljoen uitgegeven bij Nauts Deals!",
             "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u00ab\u0428\u043c\u043e\u0442-\u043a\u0443\u0442\u044e\u0440\u0435\u00bb: 1 000 000",
             "it_IT": "Speso 1.000.000 da Guscintesta",
-            "ja_JP": "\u30a2\u30bf\u30de\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11,\uff10\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+            "ja_JP": "\u30d0\u30f3\u30ab\u30e9\u8857\u306e\u30a2\u30bf\u30de\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11,\uff10\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
         },
         "id": 109,
         "internal": "Badge_SpendShop_Head_Lv01"
@@ -2095,7 +2095,7 @@
         "localizedName": {
             "en_GB": "100K Crush Station Club",
             "en_US": "100K Crush Station Club",
-            "es_ES": "Tu gasto en la tienda de zapatos ha llegado a 100 000.",
+            "es_ES": "Tu gasto en la tienda de zapatos\nde Tintelia ha llegado a 100 000.",
             "es_MX": "Gastaste 100 000 en Calzando Fuerte.",
             "fr_FR": "Somme de 100 000 d\u00e9pens\u00e9e au Pied agile",
             "fr_CA": "Somme de 100 000 d\u00e9pens\u00e9e au Pied agile",
@@ -2103,7 +2103,7 @@
             "nl_NL": "100.000 uitgegeven bij Krab voor Stap!",
             "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u00ab\u0412\u043e\u0434\u043e\u043a\u0430\u0447\u0435\u00bb: 100 000",
             "it_IT": "Speso 100.000 da Chelescarpe",
-            "ja_JP": "\u30af\u30c4\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+            "ja_JP": "\u30d0\u30f3\u30ab\u30e9\u8857\u306e\u30af\u30c4\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
         },
         "id": 110,
         "internal": "Badge_SpendShop_Shoes_Lv00"
@@ -2114,7 +2114,7 @@
         "localizedName": {
             "en_GB": "1MM Crush Station Club",
             "en_US": "1MM Crush Station Club",
-            "es_ES": "Tu gasto en la tienda de zapatos ha llegado a 1 000 000.",
+            "es_ES": "Tu gasto en la tienda de zapatos\nde Tintelia ha llegado a 1 000 000.",
             "es_MX": "Gastaste 1 000 000 en Calzando Fuerte.",
             "fr_FR": "Somme d'un million d\u00e9pens\u00e9e au Pied agile",
             "fr_CA": "Somme d'un million d\u00e9pens\u00e9e au Pied agile",
@@ -2122,7 +2122,7 @@
             "nl_NL": "1 miljoen uitgegeven bij Krab voor Stap!",
             "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u00ab\u0412\u043e\u0434\u043e\u043a\u0430\u0447\u0435\u00bb: 1 000 000",
             "it_IT": "Speso 1.000.000 da Chelescarpe",
-            "ja_JP": "\u30af\u30c4\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11,\uff10\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+            "ja_JP": "\u30d0\u30f3\u30ab\u30e9\u8857\u306e\u30af\u30c4\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11,\uff10\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
         },
         "id": 111,
         "internal": "Badge_SpendShop_Shoes_Lv01"
@@ -6211,5 +6211,1164 @@
         },
         "id": 326,
         "internal": "Badge_WeaponLevel_Spinner_Quick_01_Lv01"
+    },
+    {
+        "name": "Horrorboros Splats x 10",
+        "image": "../common/assets/img/badges/Badge_CoopBossKillNum_SakeRope_Lv00.png",
+        "localizedName": {
+            "en_GB": "Horrorboros Splats x 10",
+            "en_US": "Horrorboros Splats x 10",
+            "es_ES": "Has eliminado 10 salm\u00f3nidos de tipo Drag\u00f3n.",
+            "es_MX": "Eliminaste 10 salm\u00f3nidos de tipo Drag\u00f3n.",
+            "fr_FR": "Salmophide : 10 sp\u00e9cimens vaincus",
+            "fr_CA": "Salmophide : 10 sp\u00e9cimens vaincus",
+            "de_DE": "Horroboros \u00d710 besiegt!",
+            "nl_NL": "10 keer een Horroboros verslagen!",
+            "ru_RU": "10 \u043f\u043b\u044e\u0445\u043e\u0432: \u0441\u043a\u0432\u0435\u0440\u043d\u043e\u0431\u043e\u0440\u043e\u0441",
+            "it_IT": "10 Salmonarchi sconfitti (tipo: Orroboros)",
+            "ja_JP": "\u30bf\u30c4\u3092\uff11\uff10\u4f53\u5012\u3057\u305f"
+        },
+        "id": 327,
+        "internal": "Badge_CoopBossKillNum_SakeRope_Lv00"
+    },
+    {
+        "name": "Horrorboros Splats x 100",
+        "image": "../common/assets/img/badges/Badge_CoopBossKillNum_SakeRope_Lv01.png",
+        "localizedName": {
+            "en_GB": "Horrorboros Splats x 100",
+            "en_US": "Horrorboros Splats x 100",
+            "es_ES": "Has eliminado 100 salm\u00f3nidos de tipo Drag\u00f3n.",
+            "es_MX": "Eliminaste 100 salm\u00f3nidos de tipo Drag\u00f3n.",
+            "fr_FR": "Salmophide : 100 sp\u00e9cimens vaincus",
+            "fr_CA": "Salmophide : 100 sp\u00e9cimens vaincus",
+            "de_DE": "Horroboros \u00d7100 besiegt!",
+            "nl_NL": "100 keer een Horroboros verslagen!",
+            "ru_RU": "100 \u043f\u043b\u044e\u0445\u043e\u0432: \u0441\u043a\u0432\u0435\u0440\u043d\u043e\u0431\u043e\u0440\u043e\u0441",
+            "it_IT": "100 Salmonarchi sconfitti (tipo: Orroboros)",
+            "ja_JP": "\u30bf\u30c4\u3092\uff11\uff10\uff10\u4f53\u5012\u3057\u305f"
+        },
+        "id": 328,
+        "internal": "Badge_CoopBossKillNum_SakeRope_Lv01"
+    },
+    {
+        "name": "Horrorboros Splats x 1,000",
+        "image": "../common/assets/img/badges/Badge_CoopBossKillNum_SakeRope_Lv02.png",
+        "localizedName": {
+            "en_GB": "Horrorboros Splats x 1,000",
+            "en_US": "Horrorboros Splats x 1,000",
+            "es_ES": "Has eliminado 1000 salm\u00f3nidos de tipo Drag\u00f3n.",
+            "es_MX": "Eliminaste 1000 salm\u00f3nidos de tipo Drag\u00f3n.",
+            "fr_FR": "Salmophide : 1 000 sp\u00e9cimens vaincus",
+            "fr_CA": "Salmophide : 1000 sp\u00e9cimens vaincus",
+            "de_DE": "Horroboros \u00d71000 besiegt!",
+            "nl_NL": "1000 keer een Horroboros verslagen!",
+            "ru_RU": "1000 \u043f\u043b\u044e\u0445\u043e\u0432: \u0441\u043a\u0432\u0435\u0440\u043d\u043e\u0431\u043e\u0440\u043e\u0441",
+            "it_IT": "1000 Salmonarchi sconfitti (tipo: Orroboros)",
+            "ja_JP": "\u30bf\u30c4\u3092\uff11\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
+        },
+        "id": 329,
+        "internal": "Badge_CoopBossKillNum_SakeRope_Lv02"
+    },
+    {
+        "name": "Top 50% in Eggstra Work!",
+        "image": "../common/assets/img/badges/Badge_CoopContestTrophy_Lv00.png",
+        "localizedName": {
+            "en_GB": "Top 50% in Eggstra Work!",
+            "en_US": "Top 50% in Eggstra Work!",
+            "es_ES": "\u00a1Est\u00e1s entre el 50 % de jugadores en cabeza de alianza alev\u00ednica!",
+            "es_MX": "\u00a1Est\u00e1s entre el 50 % de los mejores jugadores de recolecci\u00f3n extra!",
+            "fr_FR": "Atteins le top 50 % lors d'un d\u00e9fi \u0153uf sup' !",
+            "fr_CA": "Atteins le top 50 % lors d'un d\u00e9fi \u0153uf sup'!",
+            "de_DE": "Top 50 % beim Team-Wettkampf!",
+            "nl_NL": "Top 50% in Bedrijfseitje!",
+            "ru_RU": "\u0422\u043e\u043f 50% \u0432 \u0438\u043a\u043e\u0440\u043d\u043e\u043c \u043e\u0432\u0435\u0440\u0442\u0430\u0439\u043c\u0435!",
+            "it_IT": "Top 50% dei giocatori di Sfida tra colleghi!",
+            "ja_JP": "\u30d0\u30a4\u30c8\u30c1\u30fc\u30e0\u30b3\u30f3\u30c6\u30b9\u30c8\u3067\u4e0a\u4f4d\uff15\uff10%\u306b\u5165\u3063\u305f"
+        },
+        "id": 330,
+        "internal": "Badge_CoopContestTrophy_Lv00"
+    },
+    {
+        "name": "Top 20% in Eggstra Work!",
+        "image": "../common/assets/img/badges/Badge_CoopContestTrophy_Lv01.png",
+        "localizedName": {
+            "en_GB": "Top 20% in Eggstra Work!",
+            "en_US": "Top 20% in Eggstra Work!",
+            "es_ES": "\u00a1Est\u00e1s entre el 20 % de jugadores en cabeza de alianza alev\u00ednica!",
+            "es_MX": "\u00a1Est\u00e1s entre el 20 % de los mejores jugadores de recolecci\u00f3n extra!",
+            "fr_FR": "Atteins le top 20 % lors d'un d\u00e9fi \u0153uf sup' !",
+            "fr_CA": "Atteins le top 20 % lors d'un d\u00e9fi \u0153uf sup'!",
+            "de_DE": "Top 20 % beim Team-Wettkampf!",
+            "nl_NL": "Top 20% in Bedrijfseitje!",
+            "ru_RU": "\u0422\u043e\u043f 20% \u0432 \u0438\u043a\u043e\u0440\u043d\u043e\u043c \u043e\u0432\u0435\u0440\u0442\u0430\u0439\u043c\u0435!",
+            "it_IT": "Top 20% dei giocatori di Sfida tra colleghi!",
+            "ja_JP": "\u30d0\u30a4\u30c8\u30c1\u30fc\u30e0\u30b3\u30f3\u30c6\u30b9\u30c8\u3067\u4e0a\u4f4d\uff12\uff10%\u306b\u5165\u3063\u305f"
+        },
+        "id": 331,
+        "internal": "Badge_CoopContestTrophy_Lv01"
+    },
+    {
+        "name": "Top 5% in Eggstra Work!",
+        "image": "../common/assets/img/badges/Badge_CoopContestTrophy_Lv02.png",
+        "localizedName": {
+            "en_GB": "Top 5% in Eggstra Work!",
+            "en_US": "Top 5% in Eggstra Work!",
+            "es_ES": "\u00a1Est\u00e1s entre el 5 % de jugadores en cabeza de alianza alev\u00ednica!",
+            "es_MX": "\u00a1Est\u00e1s entre el 5 % de los mejores jugadores de recolecci\u00f3n extra!",
+            "fr_FR": "Atteins le top 5 % lors d'un d\u00e9fi \u0153uf sup' !",
+            "fr_CA": "Atteins le top 5 % lors d'un d\u00e9fi \u0153uf sup'!",
+            "de_DE": "Top 5 % beim Team-Wettkampf!",
+            "nl_NL": "Top 5% in Bedrijfseitje!",
+            "ru_RU": "\u0422\u043e\u043f 5% \u0432 \u0438\u043a\u043e\u0440\u043d\u043e\u043c \u043e\u0432\u0435\u0440\u0442\u0430\u0439\u043c\u0435!",
+            "it_IT": "Top 5% dei giocatori di Sfida tra colleghi!",
+            "ja_JP": "\u30d0\u30a4\u30c8\u30c1\u30fc\u30e0\u30b3\u30f3\u30c6\u30b9\u30c8\u3067\u4e0a\u4f4d\uff15%\u306b\u5165\u3063\u305f"
+        },
+        "id": 332,
+        "internal": "Badge_CoopContestTrophy_Lv02"
+    },
+    {
+        "name": "Combined Z+F Gear at 30+ Stars",
+        "image": "../common/assets/img/badges/Badge_GearTotalRarity_B18_Lv00.png",
+        "localizedName": {
+            "en_GB": "Combined Z+F Gear at 30+ Stars",
+            "en_US": "Combined Z+F Gear at 30+ Stars",
+            "es_ES": "Exclusividad de art\u00edculos Ezkkor: 30 estrellas en total.",
+            "es_MX": "Art\u00edculos ZyS: 30 estrellas en total",
+            "fr_FR": "E+F : nombre d'\u00e9toiles total au moins \u00e9gal \u00e0 30",
+            "fr_CA": "E+A : nombre d'\u00e9toiles total au moins \u00e9gal \u00e0 30",
+            "de_DE": "30 Sterne insgesamt auf Zekkori-Ausr\u00fcstung erreicht!",
+            "nl_NL": "30 sterren of meer voor Zekkofin-uitrusting!",
+            "ru_RU": "\u041e\u0431\u0449\u0430\u044f \u0440\u0435\u0434\u043a\u043e\u0441\u0442\u044c \u0441\u043d\u0430\u0440\u044f\u0436\u0435\u043d\u0438\u044f \u043e\u0442 \u0419\u043e\u0436\u043a\u043e\u0422\u044e\u0440: 30+",
+            "it_IT": "E+T: mitilicit\u00e0 totale 30+ stelle",
+            "ja_JP": "\u30a8\u30be\u30c3\u30b3\u30ea\u30fc\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff13\uff10\u306b\u306a\u3063\u305f"
+        },
+        "id": 333,
+        "internal": "Badge_GearTotalRarity_B18_Lv00"
+    },
+    {
+        "name": "Combined Z+F Gear at 100+ Stars",
+        "image": "../common/assets/img/badges/Badge_GearTotalRarity_B18_Lv01.png",
+        "localizedName": {
+            "en_GB": "Combined Z+F Gear at 100+ Stars",
+            "en_US": "Combined Z+F Gear at 100+ Stars",
+            "es_ES": "Exclusividad de art\u00edculos Ezkkor: 100 estrellas en total.",
+            "es_MX": "Art\u00edculos ZyS: 100 estrellas en total",
+            "fr_FR": "E+F : nombre d'\u00e9toiles total au moins \u00e9gal \u00e0 100",
+            "fr_CA": "E+A : nombre d'\u00e9toiles total au moins \u00e9gal \u00e0 100",
+            "de_DE": "100 Sterne insgesamt auf Zekkori-Ausr\u00fcstung erreicht!",
+            "nl_NL": "100 sterren of meer voor Zekkofin-uitrusting!",
+            "ru_RU": "\u041e\u0431\u0449\u0430\u044f \u0440\u0435\u0434\u043a\u043e\u0441\u0442\u044c \u0441\u043d\u0430\u0440\u044f\u0436\u0435\u043d\u0438\u044f \u043e\u0442 \u0419\u043e\u0436\u043a\u043e\u0422\u044e\u0440: 100+",
+            "it_IT": "E+T: mitilicit\u00e0 totale 100+ stelle",
+            "ja_JP": "\u30a8\u30be\u30c3\u30b3\u30ea\u30fc\u306e\u30ae\u30a2\u306e\u30ec\u30a2\u5ea6\u304c\u5408\u8a08\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
+        },
+        "id": 334,
+        "internal": "Badge_GearTotalRarity_B18_Lv01"
+    },
+    {
+        "name": "10 Spyke Orders",
+        "image": "../common/assets/img/badges/Badge_OrderVendor_Fsodr_Lv00.png",
+        "localizedName": {
+            "en_GB": "10 Spyke Orders",
+            "en_US": "10 Spyke Orders",
+            "es_ES": "Le has hecho 10 encargos a Eri.",
+            "es_MX": "Le hiciste 10 encargos a Eri.",
+            "fr_FR": "10 commandes pass\u00e9es \u00e0 Kipik",
+            "fr_CA": "10 commandes pass\u00e9es \u00e0 Kipik",
+            "de_DE": "10 Bestellungen bei Siggi aufgegeben!",
+            "nl_NL": "10 bestellingen geplaatst bij Spyke!",
+            "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u0437\u0430\u043a\u0430\u0437\u043e\u0432 \u0443 \u0428\u0438\u043f\u0430\u043d\u0438: 10",
+            "it_IT": "Ordinato 10 volte da Richie",
+            "ja_JP": "\u30c0\u30a6\u30cb\u30fc\u306b\uff11\uff10\u56de\u30ae\u30a2\u3092\u6ce8\u6587\u3057\u305f"
+        },
+        "id": 335,
+        "internal": "Badge_OrderVendor_Fsodr_Lv00"
+    },
+    {
+        "name": "100 Spyke Orders",
+        "image": "../common/assets/img/badges/Badge_OrderVendor_Fsodr_Lv01.png",
+        "localizedName": {
+            "en_GB": "100 Spyke Orders",
+            "en_US": "100 Spyke Orders",
+            "es_ES": "Le has hecho 100 encargos a Eri.",
+            "es_MX": "Le hiciste 100 encargos a Eri.",
+            "fr_FR": "100 commandes pass\u00e9es \u00e0 Kipik",
+            "fr_CA": "100 commandes pass\u00e9es \u00e0 Kipik",
+            "de_DE": "100 Bestellungen bei Siggi aufgegeben!",
+            "nl_NL": "100 bestellingen geplaatst bij Spyke!",
+            "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u0437\u0430\u043a\u0430\u0437\u043e\u0432 \u0443 \u0428\u0438\u043f\u0430\u043d\u0438: 100",
+            "it_IT": "Ordinato 100 volte da Richie",
+            "ja_JP": "\u30c0\u30a6\u30cb\u30fc\u306b\uff11\uff10\uff10\u56de\u30ae\u30a2\u3092\u6ce8\u6587\u3057\u305f"
+        },
+        "id": 336,
+        "internal": "Badge_OrderVendor_Fsodr_Lv01"
+    },
+    {
+        "name": "Reached Level 30",
+        "image": "../common/assets/img/badges/Badge_PlayerRank_Lv00.png",
+        "localizedName": {
+            "en_GB": "Reached Level 30",
+            "en_US": "Reached Level 30",
+            "es_ES": "Has alcanzado el nivel 30.",
+            "es_MX": "Alcanzaste el nivel 30.",
+            "fr_FR": "Niveau 30 atteint",
+            "fr_CA": "Niveau 30 atteint",
+            "de_DE": "Stufe 30 erreicht!",
+            "nl_NL": "Niveau 30 bereikt!",
+            "ru_RU": "\u0423\u0440\u043e\u0432\u0435\u043d\u044c: 30",
+            "it_IT": "Livello 30 raggiunto",
+            "ja_JP": "\u30e9\u30f3\u30af\u304c\uff13\uff10\u306b\u306a\u3063\u305f"
+        },
+        "id": 337,
+        "internal": "Badge_PlayerRank_Lv00"
+    },
+    {
+        "name": "Reached Level 50",
+        "image": "../common/assets/img/badges/Badge_PlayerRank_Lv01.png",
+        "localizedName": {
+            "en_GB": "Reached Level 50",
+            "en_US": "Reached Level 50",
+            "es_ES": "Has alcanzado el nivel 50.",
+            "es_MX": "Alcanzaste el nivel 50.",
+            "fr_FR": "Niveau 50 atteint",
+            "fr_CA": "Niveau 50 atteint",
+            "de_DE": "Stufe 50 erreicht!",
+            "nl_NL": "Niveau 50 bereikt!",
+            "ru_RU": "\u0423\u0440\u043e\u0432\u0435\u043d\u044c: 50",
+            "it_IT": "Livello 50 raggiunto",
+            "ja_JP": "\u30e9\u30f3\u30af\u304c\uff15\uff10\u306b\u306a\u3063\u305f"
+        },
+        "id": 338,
+        "internal": "Badge_PlayerRank_Lv01"
+    },
+    {
+        "name": "Reached Level 100",
+        "image": "../common/assets/img/badges/Badge_PlayerRank_Lv02.png",
+        "localizedName": {
+            "en_GB": "Reached Level 100",
+            "en_US": "Reached Level 100",
+            "es_ES": "Has alcanzado el nivel 100.",
+            "es_MX": "Alcanzaste el nivel 100.",
+            "fr_FR": "Niveau 100 atteint",
+            "fr_CA": "Niveau 100 atteint",
+            "de_DE": "Stufe 100 erreicht!",
+            "nl_NL": "Niveau 100 bereikt!",
+            "ru_RU": "\u0423\u0440\u043e\u0432\u0435\u043d\u044c: 100",
+            "it_IT": "Livello 100 raggiunto",
+            "ja_JP": "\u30e9\u30f3\u30af\u304c\uff11\uff10\uff10\u306b\u306a\u3063\u305f"
+        },
+        "id": 339,
+        "internal": "Badge_PlayerRank_Lv02"
+    },
+    {
+        "name": "Reached Level 200",
+        "image": "../common/assets/img/badges/Badge_PlayerRank_Lv03.png",
+        "localizedName": {
+            "en_GB": "Reached Level 200",
+            "en_US": "Reached Level 200",
+            "es_ES": "Has alcanzado el nivel 200.",
+            "es_MX": "Alcanzaste el nivel 200.",
+            "fr_FR": "Niveau 200 atteint",
+            "fr_CA": "Niveau 200 atteint",
+            "de_DE": "Stufe 200 erreicht!",
+            "nl_NL": "Niveau 200 bereikt!",
+            "ru_RU": "\u0423\u0440\u043e\u0432\u0435\u043d\u044c: 200",
+            "it_IT": "Livello 200 raggiunto",
+            "ja_JP": "\u30e9\u30f3\u30af\u304c\uff12\uff10\uff10\u306b\u306a\u3063\u305f"
+        },
+        "id": 340,
+        "internal": "Badge_PlayerRank_Lv03"
+    },
+    {
+        "name": "Reached Level 300",
+        "image": "../common/assets/img/badges/Badge_PlayerRank_Lv04.png",
+        "localizedName": {
+            "en_GB": "Reached Level 300",
+            "en_US": "Reached Level 300",
+            "es_ES": "Has alcanzado el nivel 300.",
+            "es_MX": "Alcanzaste el nivel 300.",
+            "fr_FR": "Niveau 300 atteint",
+            "fr_CA": "Niveau 300 atteint",
+            "de_DE": "Stufe 300 erreicht!",
+            "nl_NL": "Niveau 300 bereikt!",
+            "ru_RU": "\u0423\u0440\u043e\u0432\u0435\u043d\u044c: 300",
+            "it_IT": "Livello 300 raggiunto",
+            "ja_JP": "\u30e9\u30f3\u30af\u304c\uff13\uff10\uff10\u306b\u306a\u3063\u305f"
+        },
+        "id": 341,
+        "internal": "Badge_PlayerRank_Lv04"
+    },
+    {
+        "name": "Reached Level 400",
+        "image": "../common/assets/img/badges/Badge_PlayerRank_Lv05.png",
+        "localizedName": {
+            "en_GB": "Reached Level 400",
+            "en_US": "Reached Level 400",
+            "es_ES": "Has alcanzado el nivel 400.",
+            "es_MX": "Alcanzaste el nivel 400.",
+            "fr_FR": "Niveau 400 atteint",
+            "fr_CA": "Niveau 400 atteint",
+            "de_DE": "Stufe 400 erreicht!",
+            "nl_NL": "Niveau 400 bereikt!",
+            "ru_RU": "\u0423\u0440\u043e\u0432\u0435\u043d\u044c: 400",
+            "it_IT": "Livello 400 raggiunto",
+            "ja_JP": "\u30e9\u30f3\u30af\u304c\uff14\uff10\uff10\u306b\u306a\u3063\u305f"
+        },
+        "id": 342,
+        "internal": "Badge_PlayerRank_Lv05"
+    },
+    {
+        "name": "Reached Level 500",
+        "image": "../common/assets/img/badges/Badge_PlayerRank_Lv06.png",
+        "localizedName": {
+            "en_GB": "Reached Level 500",
+            "en_US": "Reached Level 500",
+            "es_ES": "Has alcanzado el nivel 500.",
+            "es_MX": "Alcanzaste el nivel 500.",
+            "fr_FR": "Niveau 500 atteint",
+            "fr_CA": "Niveau 500 atteint",
+            "de_DE": "Stufe 500 erreicht!",
+            "nl_NL": "Niveau 500 bereikt!",
+            "ru_RU": "\u0423\u0440\u043e\u0432\u0435\u043d\u044c: 500",
+            "it_IT": "Livello 500 raggiunto",
+            "ja_JP": "\u30e9\u30f3\u30af\u304c\uff15\uff10\uff10\u306b\u306a\u3063\u305f"
+        },
+        "id": 343,
+        "internal": "Badge_PlayerRank_Lv06"
+    },
+    {
+        "name": "Reached Level 600",
+        "image": "../common/assets/img/badges/Badge_PlayerRank_Lv07.png",
+        "localizedName": {
+            "en_GB": "Reached Level 600",
+            "en_US": "Reached Level 600",
+            "es_ES": "Has alcanzado el nivel 600.",
+            "es_MX": "Alcanzaste el nivel 600.",
+            "fr_FR": "Niveau 600 atteint",
+            "fr_CA": "Niveau 600 atteint",
+            "de_DE": "Stufe 600 erreicht!",
+            "nl_NL": "Niveau 600 bereikt!",
+            "ru_RU": "\u0423\u0440\u043e\u0432\u0435\u043d\u044c: 600",
+            "it_IT": "Livello 600 raggiunto",
+            "ja_JP": "\u30e9\u30f3\u30af\u304c\uff16\uff10\uff10\u306b\u306a\u3063\u305f"
+        },
+        "id": 344,
+        "internal": "Badge_PlayerRank_Lv07"
+    },
+    {
+        "name": "Reached Level 700",
+        "image": "../common/assets/img/badges/Badge_PlayerRank_Lv08.png",
+        "localizedName": {
+            "en_GB": "Reached Level 700",
+            "en_US": "Reached Level 700",
+            "es_ES": "Has alcanzado el nivel 700.",
+            "es_MX": "Alcanzaste el nivel 700.",
+            "fr_FR": "Niveau 700 atteint",
+            "fr_CA": "Niveau 700 atteint",
+            "de_DE": "Stufe 700 erreicht!",
+            "nl_NL": "Niveau 700 bereikt!",
+            "ru_RU": "\u0423\u0440\u043e\u0432\u0435\u043d\u044c: 700",
+            "it_IT": "Livello 700 raggiunto",
+            "ja_JP": "\u30e9\u30f3\u30af\u304c\uff17\uff10\uff10\u306b\u306a\u3063\u305f"
+        },
+        "id": 345,
+        "internal": "Badge_PlayerRank_Lv08"
+    },
+    {
+        "name": "Reached Level 800",
+        "image": "../common/assets/img/badges/Badge_PlayerRank_Lv09.png",
+        "localizedName": {
+            "en_GB": "Reached Level 800",
+            "en_US": "Reached Level 800",
+            "es_ES": "Has alcanzado el nivel 800.",
+            "es_MX": "Alcanzaste el nivel 800.",
+            "fr_FR": "Niveau 800 atteint",
+            "fr_CA": "Niveau 800 atteint",
+            "de_DE": "Stufe 800 erreicht!",
+            "nl_NL": "Niveau 800 bereikt!",
+            "ru_RU": "\u0423\u0440\u043e\u0432\u0435\u043d\u044c: 800",
+            "it_IT": "Livello 800 raggiunto",
+            "ja_JP": "\u30e9\u30f3\u30af\u304c\uff18\uff10\uff10\u306b\u306a\u3063\u305f"
+        },
+        "id": 346,
+        "internal": "Badge_PlayerRank_Lv09"
+    },
+    {
+        "name": "Reached Level 900",
+        "image": "../common/assets/img/badges/Badge_PlayerRank_Lv10.png",
+        "localizedName": {
+            "en_GB": "Reached Level 900",
+            "en_US": "Reached Level 900",
+            "es_ES": "Has alcanzado el nivel 900.",
+            "es_MX": "Alcanzaste el nivel 900.",
+            "fr_FR": "Niveau 900 atteint",
+            "fr_CA": "Niveau 900 atteint",
+            "de_DE": "Stufe 900 erreicht!",
+            "nl_NL": "Niveau 900 bereikt!",
+            "ru_RU": "\u0423\u0440\u043e\u0432\u0435\u043d\u044c: 900",
+            "it_IT": "Livello 900 raggiunto",
+            "ja_JP": "\u30e9\u30f3\u30af\u304c\uff19\uff10\uff10\u306b\u306a\u3063\u305f"
+        },
+        "id": 347,
+        "internal": "Badge_PlayerRank_Lv10"
+    },
+    {
+        "name": "Reached Level 999",
+        "image": "../common/assets/img/badges/Badge_PlayerRank_Lv11.png",
+        "localizedName": {
+            "en_GB": "Reached Level 999",
+            "en_US": "Reached Level 999",
+            "es_ES": "Has alcanzado el nivel 999.",
+            "es_MX": "Alcanzaste el nivel 999.",
+            "fr_FR": "Niveau 999 atteint",
+            "fr_CA": "Niveau 999 atteint",
+            "de_DE": "Stufe 999 erreicht!",
+            "nl_NL": "Niveau 999 bereikt!",
+            "ru_RU": "\u0423\u0440\u043e\u0432\u0435\u043d\u044c: 999",
+            "it_IT": "Livello 999 raggiunto",
+            "ja_JP": "\u30e9\u30f3\u30af\u304c\uff19\uff19\uff19\u306b\u306a\u3063\u305f"
+        },
+        "id": 348,
+        "internal": "Badge_PlayerRank_Lv11"
+    },
+    {
+        "name": "100K Jelly Fresh Club",
+        "image": "../common/assets/img/badges/Badge_SpendShop_Clothes_Fsodr_Lv00.png",
+        "localizedName": {
+            "en_GB": "100K Jelly Fresh Club",
+            "en_US": "100K Jelly Fresh Club",
+            "es_ES": "Tu gasto en la tienda de ropa\nde Crom\u00f3polis ha llegado a 100 000.",
+            "es_MX": "Gastaste 100 000 en Pr\u00eat-\u00e0-M\u00e9duse.",
+            "fr_FR": "Somme de 100 000 d\u00e9pens\u00e9e \u00e0 Octo'Mode",
+            "fr_CA": "Somme de 100 000 d\u00e9pens\u00e9e \u00e0 Octo'Mode",
+            "de_DE": "F\u00fcr 100.000 bei Emporium Quallani eingekauft!",
+            "nl_NL": "100.000 uitgegeven bij Beste Maatjes!",
+            "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u00ab\u0420\u044b\u0431\u044c\u0435\u043c \u043c\u0435\u0445\u0443\u00bb: 100 000",
+            "it_IT": "Speso 100.000 da Meduchic",
+            "ja_JP": "\u30cf\u30a4\u30ab\u30e9\u30b7\u30c6\u30a3\u306e\u30d5\u30af\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+        },
+        "id": 349,
+        "internal": "Badge_SpendShop_Clothes_Fsodr_Lv00"
+    },
+    {
+        "name": "1MM Jelly Fresh Club",
+        "image": "../common/assets/img/badges/Badge_SpendShop_Clothes_Fsodr_Lv01.png",
+        "localizedName": {
+            "en_GB": "1MM Jelly Fresh Club",
+            "en_US": "1MM Jelly Fresh Club",
+            "es_ES": "Tu gasto en la tienda de ropa de\nCrom\u00f3polis ha llegado a 1 000 000.",
+            "es_MX": "Gastaste 1 000 000 en Pr\u00eat-\u00e0-M\u00e9duse.",
+            "fr_FR": "Somme d'un million d\u00e9pens\u00e9e \u00e0 Octo'Mode",
+            "fr_CA": "Somme d'un million d\u00e9pens\u00e9e \u00e0 Octo'Mode",
+            "de_DE": "F\u00fcr 1.000.000 bei Emporium Quallani eingekauft!",
+            "nl_NL": "1 miljoen uitgegeven bij Beste Maatjes!",
+            "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u00ab\u0420\u044b\u0431\u044c\u0435\u043c \u043c\u0435\u0445\u0443\u00bb: 1 000 000",
+            "it_IT": "Speso 1.000.000 da Meduchic",
+            "ja_JP": "\u30cf\u30a4\u30ab\u30e9\u30b7\u30c6\u30a3\u306e\u30d5\u30af\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11,\uff10\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+        },
+        "id": 350,
+        "internal": "Badge_SpendShop_Clothes_Fsodr_Lv01"
+    },
+    {
+        "name": "100K Cooler Heads Club",
+        "image": "../common/assets/img/badges/Badge_SpendShop_Head_Fsodr_Lv00.png",
+        "localizedName": {
+            "en_GB": "100K Cooler Heads Club",
+            "en_US": "100K Cooler Heads Club",
+            "es_ES": "Tu gasto en la tienda de accesorios\nde Crom\u00f3polis ha llegado a 100 000.",
+            "es_MX": "Gastaste 100 000 en De cabeza.",
+            "fr_FR": "Somme de 100 000 d\u00e9pens\u00e9e \u00e0 Kamat\u00eate",
+            "fr_CA": "Somme de 100 000 d\u00e9pens\u00e9e \u00e0 Kamat\u00eate",
+            "de_DE": "F\u00fcr 100.000 bei Tent-\u00e0-T\u00eate eingekauft!",
+            "nl_NL": "100.000 uitgegeven bij Onder een Hoedje!",
+            "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u00ab\u041a\u0435\u043f\u0430\u0440\u044c-\u041b\u043e\u0431\u0430\u043d\u0435\u00bb: 100 000",
+            "it_IT": "Speso 100.000 da Testa a posto",
+            "ja_JP": "\u30cf\u30a4\u30ab\u30e9\u30b7\u30c6\u30a3\u306e\u30a2\u30bf\u30de\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+        },
+        "id": 351,
+        "internal": "Badge_SpendShop_Head_Fsodr_Lv00"
+    },
+    {
+        "name": "1MM Cooler Heads Club",
+        "image": "../common/assets/img/badges/Badge_SpendShop_Head_Fsodr_Lv01.png",
+        "localizedName": {
+            "en_GB": "1MM Cooler Heads Club",
+            "en_US": "1MM Cooler Heads Club",
+            "es_ES": "Tu gasto en la tienda de accesorios\nde Crom\u00f3polis ha llegado a 1 000 000.",
+            "es_MX": "Gastaste 1 000 000 en De cabeza.",
+            "fr_FR": "Somme d'un million d\u00e9pens\u00e9e \u00e0 Kamat\u00eate",
+            "fr_CA": "Somme d'un million d\u00e9pens\u00e9e \u00e0 Kamat\u00eate",
+            "de_DE": "F\u00fcr 1.000.000 bei Tent-\u00e0-T\u00eate eingekauft!",
+            "nl_NL": "1 miljoen uitgegeven bij Onder een Hoedje!",
+            "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u00ab\u041a\u0435\u043f\u0430\u0440\u044c-\u041b\u043e\u0431\u0430\u043d\u0435\u00bb: 1 000 000",
+            "it_IT": "Speso 1.000.000 da Testa a posto",
+            "ja_JP": "\u30cf\u30a4\u30ab\u30e9\u30b7\u30c6\u30a3\u306e\u30a2\u30bf\u30de\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11,\uff10\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+        },
+        "id": 352,
+        "internal": "Badge_SpendShop_Head_Fsodr_Lv01"
+    },
+    {
+        "name": "100K Shrimp Kicks Club",
+        "image": "../common/assets/img/badges/Badge_SpendShop_Shoes_Fsodr_Lv00.png",
+        "localizedName": {
+            "en_GB": "100K Shrimp Kicks Club",
+            "en_US": "100K Shrimp Kicks Club",
+            "es_ES": "Tu gasto en la tienda de zapatos\nde Crom\u00f3polis ha llegado a 100 000.",
+            "es_MX": "Gastaste 100 000 en Calzapodi.",
+            "fr_FR": "Somme de 100 000 d\u00e9pens\u00e9e \u00e0 Crustapied",
+            "fr_CA": "Somme de 100 000 d\u00e9pens\u00e9e \u00e0 Crustapied",
+            "de_DE": "F\u00fcr 100.000 bei Shrimpy Shoes eingekauft!",
+            "nl_NL": "100.000 uitgegeven bij De Schoener!",
+            "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u00ab\u041a\u0435\u0434\u043e\u043a\u0440\u0435\u0434\u043e\u00bb: 100 000",
+            "it_IT": "Speso 100.000 da Gamberto scarpe",
+            "ja_JP": "\u30cf\u30a4\u30ab\u30e9\u30b7\u30c6\u30a3\u306e\u30af\u30c4\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+        },
+        "id": 353,
+        "internal": "Badge_SpendShop_Shoes_Fsodr_Lv00"
+    },
+    {
+        "name": "1MM Shrimp Kicks Club",
+        "image": "../common/assets/img/badges/Badge_SpendShop_Shoes_Fsodr_Lv01.png",
+        "localizedName": {
+            "en_GB": "1MM Shrimp Kicks Club",
+            "en_US": "1MM Shrimp Kicks Club",
+            "es_ES": "Tu gasto en la tienda de zapatos de\nCrom\u00f3polis ha llegado a 1 000 000.",
+            "es_MX": "Gastaste 1 000 000 en Calzapodi.",
+            "fr_FR": "Somme d'un million d\u00e9pens\u00e9e \u00e0 Crustapied",
+            "fr_CA": "Somme d'un million d\u00e9pens\u00e9e \u00e0 Crustapied",
+            "de_DE": "F\u00fcr 1.000.000 bei Shrimpy Shoes eingekauft!",
+            "nl_NL": "1 miljoen uitgegeven bij De Schoener!",
+            "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u00ab\u041a\u0435\u0434\u043e\u043a\u0440\u0435\u0434\u043e\u00bb: 1 000 000",
+            "it_IT": "Speso 1.000.000 da Gamberto scarpe",
+            "ja_JP": "\u30cf\u30a4\u30ab\u30e9\u30b7\u30c6\u30a3\u306e\u30af\u30c4\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11,\uff10\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+        },
+        "id": 354,
+        "internal": "Badge_SpendShop_Shoes_Fsodr_Lv01"
+    },
+    {
+        "name": "4\u2605 Clash Blaster Neo User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Blaster_LightShort_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Clash Blaster Neo User",
+            "en_US": "4\u2605 Clash Blaster Neo User",
+            "es_ES": "Tu destreza con Turbodevastador neo ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Hiperlanzamotas neo",
+            "fr_FR": "Rafablaster N\u00e9o : niveau 4\u2605 atteint",
+            "fr_CA": "Rafalblasteur n\u00e9o : niveau 4\u2605 atteint",
+            "de_DE": "Kontra-Blaster Neo: 4 Sterne erreicht!",
+            "nl_NL": "Knalblaster Neo: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041a\u043e\u043d\u0442\u0440\u0430\u0431\u043b\u0430\u0441\u0442\u0435\u0440 \u00ab\u041d\u0435\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Blaster da mischia Neo: 4\u2605",
+            "ja_JP": "\u30af\u30e9\u30c3\u30b7\u30e5\u30d6\u30e9\u30b9\u30bf\u30fc\u30cd\u30aa\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 355,
+        "internal": "Badge_WeaponLevel_Blaster_LightShort_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Clash Blaster Neo User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Blaster_LightShort_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Clash Blaster Neo User",
+            "en_US": "5\u2605 Clash Blaster Neo User",
+            "es_ES": "Tu destreza con Turbodevastador neo ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Hiperlanzamotas neo",
+            "fr_FR": "Rafablaster N\u00e9o : niveau 5\u2605 atteint",
+            "fr_CA": "Rafalblasteur n\u00e9o : niveau 5\u2605 atteint",
+            "de_DE": "Kontra-Blaster Neo: 5 Sterne erreicht!",
+            "nl_NL": "Knalblaster Neo: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041a\u043e\u043d\u0442\u0440\u0430\u0431\u043b\u0430\u0441\u0442\u0435\u0440 \u00ab\u041d\u0435\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Blaster da mischia Neo: 5\u2605",
+            "ja_JP": "\u30af\u30e9\u30c3\u30b7\u30e5\u30d6\u30e9\u30b9\u30bf\u30fc\u30cd\u30aa\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 356,
+        "internal": "Badge_WeaponLevel_Blaster_LightShort_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Rapid Blaster Deco User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Blaster_Light_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Rapid Blaster Deco User",
+            "en_US": "4\u2605 Rapid Blaster Deco User",
+            "es_ES": "Tu destreza con Devastador expr\u00e9s DX ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Turbolanzamotas chic",
+            "fr_FR": "Turboblaster chic : niveau 4\u2605 atteint",
+            "fr_CA": "Turboblasteur chic : niveau 4\u2605 atteint",
+            "de_DE": "Turbo-Blaster Deko: 4 Sterne erreicht!",
+            "nl_NL": "Flitsblaster Deco: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0411\u043b\u0430\u0441\u0442\u0435\u0440\u043c\u0430\u0442 \u00ab\u0414\u0435\u043a\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Blaster rapido DX: 4\u2605",
+            "ja_JP": "\u30e9\u30d4\u30c3\u30c9\u30d6\u30e9\u30b9\u30bf\u30fc\u30c7\u30b3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 357,
+        "internal": "Badge_WeaponLevel_Blaster_Light_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Rapid Blaster Deco User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Blaster_Light_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Rapid Blaster Deco User",
+            "en_US": "5\u2605 Rapid Blaster Deco User",
+            "es_ES": "Tu destreza con Devastador expr\u00e9s DX ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Turbolanzamotas chic",
+            "fr_FR": "Turboblaster chic : niveau 5\u2605 atteint",
+            "fr_CA": "Turboblasteur chic : niveau 5\u2605 atteint",
+            "de_DE": "Turbo-Blaster Deko: 5 Sterne erreicht!",
+            "nl_NL": "Flitsblaster Deco: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0411\u043b\u0430\u0441\u0442\u0435\u0440\u043c\u0430\u0442 \u00ab\u0414\u0435\u043a\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Blaster rapido DX: 5\u2605",
+            "ja_JP": "\u30e9\u30d4\u30c3\u30c9\u30d6\u30e9\u30b9\u30bf\u30fc\u30c7\u30b3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 358,
+        "internal": "Badge_WeaponLevel_Blaster_Light_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Z+F Splatterscope User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Charger_NormalScope_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Z+F Splatterscope User",
+            "en_US": "4\u2605 Z+F Splatterscope User",
+            "es_ES": "Tu destreza con Cargatintas con mira Ezkkor ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Telecargatintas ZyS",
+            "fr_FR": "Concentraceur zoom E+F : niveau 4\u2605 atteint",
+            "fr_CA": "Concentraceur zoom E+A : niveau 4\u2605 atteint",
+            "de_DE": "Zekkori-Ziel-Konzentrator: 4 Sterne erreicht!",
+            "nl_NL": "Zekkofin Schelpschutter: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043d\u0430\u0439\u043f\u043e\u043a\u0440\u0430\u0441 \u00ab\u0419\u043e\u0436\u043a\u043e\u0422\u044e\u0440\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Splatter con mirino logo: 4\u2605",
+            "ja_JP": "\u30b9\u30d7\u30e9\u30b9\u30b3\u30fc\u30d7\u30b3\u30e9\u30dc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 359,
+        "internal": "Badge_WeaponLevel_Charger_NormalScope_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Z+F Splatterscope User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Charger_NormalScope_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Z+F Splatterscope User",
+            "en_US": "5\u2605 Z+F Splatterscope User",
+            "es_ES": "Tu destreza con Cargatintas con mira Ezkkor ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Telecargatintas ZyS",
+            "fr_FR": "Concentraceur zoom E+F : niveau 5\u2605 atteint",
+            "fr_CA": "Concentraceur zoom E+A : niveau 5\u2605 atteint",
+            "de_DE": "Zekkori-Ziel-Konzentrator: 5 Sterne erreicht!",
+            "nl_NL": "Zekkofin Schelpschutter: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043d\u0430\u0439\u043f\u043e\u043a\u0440\u0430\u0441 \u00ab\u0419\u043e\u0436\u043a\u043e\u0422\u044e\u0440\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Splatter con mirino logo: 5\u2605",
+            "ja_JP": "\u30b9\u30d7\u30e9\u30b9\u30b3\u30fc\u30d7\u30b3\u30e9\u30dc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 360,
+        "internal": "Badge_WeaponLevel_Charger_NormalScope_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Z+F Splat Charger User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Charger_Normal_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Z+F Splat Charger User",
+            "en_US": "4\u2605 Z+F Splat Charger User",
+            "es_ES": "Tu destreza con Cargatintas Ezkkor ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Cargatintas ZyS",
+            "fr_FR": "Concentraceur E+F : niveau 4\u2605 atteint",
+            "fr_CA": "Concentraceur E+A : niveau 4\u2605 atteint",
+            "de_DE": "Zekkori-Klecks-Konzentrator: 4 Sterne erreicht!",
+            "nl_NL": "Zekkofin Bloplader: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u043b\u0430\u0442\u0433\u0430\u043d \u00ab\u0419\u043e\u0436\u043a\u043e\u0422\u044e\u0440\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Splatter a carica logo: 4\u2605",
+            "ja_JP": "\u30b9\u30d7\u30e9\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc\u30b3\u30e9\u30dc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 361,
+        "internal": "Badge_WeaponLevel_Charger_Normal_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Z+F Splat Charger User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Charger_Normal_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Z+F Splat Charger User",
+            "en_US": "5\u2605 Z+F Splat Charger User",
+            "es_ES": "Tu destreza con Cargatintas Ezkkor ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Cargatintas ZyS",
+            "fr_FR": "Concentraceur E+F : niveau 5\u2605 atteint",
+            "fr_CA": "Concentraceur E+A : niveau 5\u2605 atteint",
+            "de_DE": "Zekkori-Klecks-Konzentrator: 5 Sterne erreicht!",
+            "nl_NL": "Zekkofin Bloplader: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u043b\u0430\u0442\u0433\u0430\u043d \u00ab\u0419\u043e\u0436\u043a\u043e\u0422\u044e\u0440\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Splatter a carica logo: 5\u2605",
+            "ja_JP": "\u30b9\u30d7\u30e9\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc\u30b3\u30e9\u30dc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 362,
+        "internal": "Badge_WeaponLevel_Charger_Normal_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Krak-On Splat Roller User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Roller_Normal_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Krak-On Splat Roller User",
+            "en_US": "4\u2605 Krak-On Splat Roller User",
+            "es_ES": "Tu destreza con Rodillo b\u00e1sico B ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Rodillo b\u00e1sico Meddux",
+            "fr_FR": "Rouleau griff\u00e9 : niveau 4\u2605 atteint",
+            "fr_CA": "Rouleau Krakeurs : niveau 4\u2605 atteint",
+            "de_DE": "Medusa-Klecksroller: 4 Sterne erreicht!",
+            "nl_NL": "Krak-On Klodderroller: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u043b\u0430\u0442-\u0432\u0430\u043b\u0438\u043a \u00ab\u041a\u0440\u0430-\u041a\u0435\u043d\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Rullo splat logo: 4\u2605",
+            "ja_JP": "\u30b9\u30d7\u30e9\u30ed\u30fc\u30e9\u30fc\u30b3\u30e9\u30dc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 363,
+        "internal": "Badge_WeaponLevel_Roller_Normal_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Krak-On Splat Roller User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Roller_Normal_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Krak-On Splat Roller User",
+            "en_US": "5\u2605 Krak-On Splat Roller User",
+            "es_ES": "Tu destreza con Rodillo b\u00e1sico B ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Rodillo b\u00e1sico Meddux",
+            "fr_FR": "Rouleau griff\u00e9 : niveau 5\u2605 atteint",
+            "fr_CA": "Rouleau Krakeurs : niveau 5\u2605 atteint",
+            "de_DE": "Medusa-Klecksroller: 5 Sterne erreicht!",
+            "nl_NL": "Krak-On Klodderroller: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u043b\u0430\u0442-\u0432\u0430\u043b\u0438\u043a \u00ab\u041a\u0440\u0430-\u041a\u0435\u043d\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Rullo splat logo: 5\u2605",
+            "ja_JP": "\u30b9\u30d7\u30e9\u30ed\u30fc\u30e9\u30fc\u30b3\u30e9\u30dc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 364,
+        "internal": "Badge_WeaponLevel_Roller_Normal_01_Lv01"
+    },
+    {
+        "name": "4\u2605 .96 Gal Deco User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_Heavy_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 .96 Gal Deco User",
+            "en_US": "4\u2605 .96 Gal Deco User",
+            "es_ES": "Tu destreza con Salpicadora 3000 DX ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Salpicadora 3000 chic",
+            "fr_FR": "Calibre 3000 chic : niveau 4\u2605 atteint",
+            "fr_CA": "Calibre 3000 chic : niveau 4\u2605 atteint",
+            "de_DE": ".96 Gallon Deko: 4 Sterne erreicht!",
+            "nl_NL": ".96 Kaliter Deco: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u0442\u0440\u0443\u0435\u0432\u0438\u043a .96 \u00ab\u0414\u0435\u043a\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Calibro 3000 DX: 4\u2605",
+            "ja_JP": ".96\u30ac\u30ed\u30f3\u30c7\u30b3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 365,
+        "internal": "Badge_WeaponLevel_Shooter_Heavy_01_Lv00"
+    },
+    {
+        "name": "5\u2605 .96 Gal Deco User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_Heavy_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 .96 Gal Deco User",
+            "en_US": "5\u2605 .96 Gal Deco User",
+            "es_ES": "Tu destreza con Salpicadora 3000 DX ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Salpicadora 3000 chic",
+            "fr_FR": "Calibre 3000 chic : niveau 5\u2605 atteint",
+            "fr_CA": "Calibre 3000 chic : niveau 5\u2605 atteint",
+            "de_DE": ".96 Gallon Deko: 5 Sterne erreicht!",
+            "nl_NL": ".96 Kaliter Deco: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u0442\u0440\u0443\u0435\u0432\u0438\u043a .96 \u00ab\u0414\u0435\u043a\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Calibro 3000 DX: 5\u2605",
+            "ja_JP": ".96\u30ac\u30ed\u30f3\u30c7\u30b3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 366,
+        "internal": "Badge_WeaponLevel_Shooter_Heavy_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Custom Jet Squelcher User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_Long_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Custom Jet Squelcher User",
+            "en_US": "4\u2605 Custom Jet Squelcher User",
+            "es_ES": "Tu destreza con Megabarredora SP ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Megasoplador adaptado",
+            "fr_FR": "Nettoyeur XL modifi\u00e9 : niveau 4\u2605 atteint",
+            "fr_CA": "M\u00e9ganettoyeur modifi\u00e9 : niveau 4\u2605 atteint",
+            "de_DE": "Platscher SE: 4 Sterne erreicht!",
+            "nl_NL": "Gemodde Straalplonzer: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041f\u043b\u0435\u0441\u043a\u0430\u0440\u044c \u00ab\u041f\u043e\u043d\u0442\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Sweeper CM: 4\u2605",
+            "ja_JP": "\u30b8\u30a7\u30c3\u30c8\u30b9\u30a4\u30fc\u30d1\u30fc\u30ab\u30b9\u30bf\u30e0\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 367,
+        "internal": "Badge_WeaponLevel_Shooter_Long_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Custom Jet Squelcher User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_Long_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Custom Jet Squelcher User",
+            "en_US": "5\u2605 Custom Jet Squelcher User",
+            "es_ES": "Tu destreza con Megabarredora SP ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Megasoplador adaptado",
+            "fr_FR": "Nettoyeur XL modifi\u00e9 : niveau 5\u2605 atteint",
+            "fr_CA": "M\u00e9ganettoyeur modifi\u00e9 : niveau 5\u2605 atteint",
+            "de_DE": "Platscher SE: 5 Sterne erreicht!",
+            "nl_NL": "Gemodde Straalplonzer: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041f\u043b\u0435\u0441\u043a\u0430\u0440\u044c \u00ab\u041f\u043e\u043d\u0442\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Sweeper CM: 5\u2605",
+            "ja_JP": "\u30b8\u30a7\u30c3\u30c8\u30b9\u30a4\u30fc\u30d1\u30fc\u30ab\u30b9\u30bf\u30e0\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 368,
+        "internal": "Badge_WeaponLevel_Shooter_Long_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Neo Splash-o-matic User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_Precision_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Neo Splash-o-matic User",
+            "en_US": "4\u2605 Neo Splash-o-matic User",
+            "es_ES": "Tu destreza con Marcador fino neo ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Plum\u00f3n neo",
+            "fr_FR": "Marqueur l\u00e9ger N\u00e9o : niveau 4\u2605 atteint",
+            "fr_CA": "Marqueur l\u00e9ger n\u00e9o : niveau 4\u2605 atteint",
+            "de_DE": "Fein-Disperser Neo: 4 Sterne erreicht!",
+            "nl_NL": "Spetterspuit Neo: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041f\u043b\u044e\u0445\u043e\u043c\u0435\u0442 \u00ab\u041d\u0435\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Marker d'assalto Neo: 4\u2605",
+            "ja_JP": "\u30b7\u30e3\u30fc\u30d7\u30de\u30fc\u30ab\u30fc\u30cd\u30aa\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 369,
+        "internal": "Badge_WeaponLevel_Shooter_Precision_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Neo Splash-o-matic User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_Precision_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Neo Splash-o-matic User",
+            "en_US": "5\u2605 Neo Splash-o-matic User",
+            "es_ES": "Tu destreza con Marcador fino neo ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Plum\u00f3n neo",
+            "fr_FR": "Marqueur l\u00e9ger N\u00e9o : niveau 5\u2605 atteint",
+            "fr_CA": "Marqueur l\u00e9ger n\u00e9o : niveau 5\u2605 atteint",
+            "de_DE": "Fein-Disperser Neo: 5 Sterne erreicht!",
+            "nl_NL": "Spetterspuit Neo: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041f\u043b\u044e\u0445\u043e\u043c\u0435\u0442 \u00ab\u041d\u0435\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Marker d'assalto Neo: 5\u2605",
+            "ja_JP": "\u30b7\u30e3\u30fc\u30d7\u30de\u30fc\u30ab\u30fc\u30cd\u30aa\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 370,
+        "internal": "Badge_WeaponLevel_Shooter_Precision_01_Lv01"
+    },
+    {
+        "name": "4\u2605 N-ZAP '89 User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_QuickMiddle_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 N-ZAP '89 User",
+            "en_US": "4\u2605 N-ZAP '89 User",
+            "es_ES": "Tu destreza con N-ZAP 89 ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con N-ZAP 89",
+            "fr_FR": "N-ZAP 89 : niveau 4\u2605 atteint",
+            "fr_CA": "N-ZAP 89 : niveau 4\u2605 atteint",
+            "de_DE": "N-ZAP89: 4 Sterne erreicht!",
+            "nl_NL": "N-ZAP '89: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00abN-ZAP 89\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "N-ZAP89: 4\u2605",
+            "ja_JP": "N-ZAP89\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 371,
+        "internal": "Badge_WeaponLevel_Shooter_QuickMiddle_01_Lv00"
+    },
+    {
+        "name": "5\u2605 N-ZAP '89 User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_QuickMiddle_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 N-ZAP '89 User",
+            "en_US": "5\u2605 N-ZAP '89 User",
+            "es_ES": "Tu destreza con N-ZAP 89 ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con N-ZAP 89",
+            "fr_FR": "N-ZAP 89 : niveau 5\u2605 atteint",
+            "fr_CA": "N-ZAP 89 : niveau 5\u2605 atteint",
+            "de_DE": "N-ZAP89: 5 Sterne erreicht!",
+            "nl_NL": "N-ZAP '89: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00abN-ZAP 89\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "N-ZAP89: 5\u2605",
+            "ja_JP": "N-ZAP89\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 372,
+        "internal": "Badge_WeaponLevel_Shooter_QuickMiddle_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Neo Sploosh-o-matic User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_Short_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Neo Sploosh-o-matic User",
+            "en_US": "4\u2605 Neo Sploosh-o-matic User",
+            "es_ES": "Tu destreza con Marcador neo ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Marcador grueso neo",
+            "fr_FR": "Marqueur lourd N\u00e9o : niveau 4\u2605 atteint",
+            "fr_CA": "Marqueur lourd n\u00e9o : niveau 4\u2605 atteint",
+            "de_DE": "Disperser Neo: 4 Sterne erreicht!",
+            "nl_NL": "Spettertuit Neo: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041f\u043b\u044e\u0445\u043e\u0442\u0440\u043e\u043d \u00ab\u041d\u0435\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Marker Neo: 4\u2605",
+            "ja_JP": "\u30dc\u30fc\u30eb\u30c9\u30de\u30fc\u30ab\u30fc\u30cd\u30aa\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 373,
+        "internal": "Badge_WeaponLevel_Shooter_Short_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Neo Sploosh-o-matic User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_Short_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Neo Sploosh-o-matic User",
+            "en_US": "5\u2605 Neo Sploosh-o-matic User",
+            "es_ES": "Tu destreza con Marcador neo ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Marcador grueso neo",
+            "fr_FR": "Marqueur lourd N\u00e9o : niveau 5\u2605 atteint",
+            "fr_CA": "Marqueur lourd n\u00e9o : niveau 5\u2605 atteint",
+            "de_DE": "Disperser Neo: 5 Sterne erreicht!",
+            "nl_NL": "Spettertuit Neo: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041f\u043b\u044e\u0445\u043e\u0442\u0440\u043e\u043d \u00ab\u041d\u0435\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Marker Neo: 5\u2605",
+            "ja_JP": "\u30dc\u30fc\u30eb\u30c9\u30de\u30fc\u30ab\u30fc\u30cd\u30aa\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 374,
+        "internal": "Badge_WeaponLevel_Shooter_Short_01_Lv01"
+    },
+    {
+        "name": "4\u2605 L-3 Nozzlenose D User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_TripleQuick_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 L-3 Nozzlenose D User",
+            "en_US": "4\u2605 L-3 Nozzlenose D User",
+            "es_ES": "Tu destreza con Tintambor ligero D ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Manguera ligera D",
+            "fr_FR": "Arroseur l\u00e9ger C\u00e9tac\u00e9 : niveau 4\u2605 atteint",
+            "fr_CA": "Arroseur l\u00e9ger requin : niveau 4\u2605 atteint",
+            "de_DE": "L3 Tintenwerfer D: 4 Sterne erreicht!",
+            "nl_NL": "L-3 Stompsnuit D: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041a\u0430\u043f\u043b\u0435\u0442\u0440\u043e\u043d-\u043a\u043e\u043c\u043f\u0430\u043a\u0442 2.0\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Triplete compatto D: 4\u2605",
+            "ja_JP": "L3\u30ea\u30fc\u30eb\u30ac\u30f3D\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 375,
+        "internal": "Badge_WeaponLevel_Shooter_TripleQuick_01_Lv00"
+    },
+    {
+        "name": "5\u2605 L-3 Nozzlenose D User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_TripleQuick_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 L-3 Nozzlenose D User",
+            "en_US": "5\u2605 L-3 Nozzlenose D User",
+            "es_ES": "Tu destreza con Tintambor ligero D ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Manguera ligera D",
+            "fr_FR": "Arroseur l\u00e9ger C\u00e9tac\u00e9 : niveau 5\u2605 atteint",
+            "fr_CA": "Arroseur l\u00e9ger requin : niveau 5\u2605 atteint",
+            "de_DE": "L3 Tintenwerfer D: 5 Sterne erreicht!",
+            "nl_NL": "L-3 Stompsnuit D: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041a\u0430\u043f\u043b\u0435\u0442\u0440\u043e\u043d-\u043a\u043e\u043c\u043f\u0430\u043a\u0442 2.0\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Triplete compatto D: 5\u2605",
+            "ja_JP": "L3\u30ea\u30fc\u30eb\u30ac\u30f3D\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 376,
+        "internal": "Badge_WeaponLevel_Shooter_TripleQuick_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Tri-Slosher Nouveau User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Slosher_Diffusion_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Tri-Slosher Nouveau User",
+            "en_US": "4\u2605 Tri-Slosher Nouveau User",
+            "es_ES": "Tu destreza con Derramatic triple maestro ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Derramatic triple maestro",
+            "fr_FR": "D\u00e9poteur nuanc\u00e9 : niveau 4\u2605 atteint",
+            "fr_CA": "Seauceur nuanc\u00e9 : niveau 4\u2605 atteint",
+            "de_DE": "3R-Schwapper Fresco: 4 Sterne erreicht!",
+            "nl_NL": "Triomorser Nouveau: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0412\u0435\u0434\u0440\u043e\u0433\u0430\u043d 3 \u0432 1 \u00ab\u041d\u0443\u0412\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Secchiostro triplo master: 4\u2605",
+            "ja_JP": "\u30d2\u30c3\u30bb\u30f3\u30fb\u30d2\u30e5\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 377,
+        "internal": "Badge_WeaponLevel_Slosher_Diffusion_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Tri-Slosher Nouveau User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Slosher_Diffusion_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Tri-Slosher Nouveau User",
+            "en_US": "5\u2605 Tri-Slosher Nouveau User",
+            "es_ES": "Tu destreza con Derramatic triple maestro ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Derramatic triple maestro",
+            "fr_FR": "D\u00e9poteur nuanc\u00e9 : niveau 5\u2605 atteint",
+            "fr_CA": "Seauceur nuanc\u00e9 : niveau 5\u2605 atteint",
+            "de_DE": "3R-Schwapper Fresco: 5 Sterne erreicht!",
+            "nl_NL": "Triomorser Nouveau: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0412\u0435\u0434\u0440\u043e\u0433\u0430\u043d 3 \u0432 1 \u00ab\u041d\u0443\u0412\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Secchiostro triplo master: 5\u2605",
+            "ja_JP": "\u30d2\u30c3\u30bb\u30f3\u30fb\u30d2\u30e5\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 378,
+        "internal": "Badge_WeaponLevel_Slosher_Diffusion_01_Lv01"
+    },
+    {
+        "name": "30 Wins with Kraken Royale",
+        "image": "../common/assets/img/badges/Badge_WinCount_WeaponSp_SpCastle_Lv00.png",
+        "localizedName": {
+            "en_GB": "30 Wins with Kraken Royale",
+            "en_US": "30 Wins with Kraken Royale",
+            "es_ES": "Has logrado 30 victorias usando Calamar imperial.",
+            "es_MX": "Lograste 30 victorias usando Calamar imperial.",
+            "fr_FR": "Kraken royal : 30 victoires remport\u00e9es",
+            "fr_CA": "Kraken royal : 30 victoires remport\u00e9es",
+            "de_DE": "30 Siege mit Tintentyrann!",
+            "nl_NL": "30 overwinningen met Monstermorfose!",
+            "ru_RU": "30 \u043f\u043e\u0431\u0435\u0434 \u0441 \u043e\u0440\u0443\u0436\u0438\u0435\u043c \u00ab\u0422\u0438\u0440\u0430\u043d\u043d\u043e\u043a\u0440\u0430\u043a\u0435\u043d\u00bb",
+            "it_IT": "Kraken reale: 30 vittorie",
+            "ja_JP": "\u30c6\u30a4\u30aa\u30a6\u30a4\u30ab\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
+        },
+        "id": 379,
+        "internal": "Badge_WinCount_WeaponSp_SpCastle_Lv00"
+    },
+    {
+        "name": "180 Wins with Kraken Royale",
+        "image": "../common/assets/img/badges/Badge_WinCount_WeaponSp_SpCastle_Lv01.png",
+        "localizedName": {
+            "en_GB": "180 Wins with Kraken Royale",
+            "en_US": "180 Wins with Kraken Royale",
+            "es_ES": "Has logrado 180 victorias usando Calamar imperial.",
+            "es_MX": "Lograste 180 victorias usando Calamar imperial.",
+            "fr_FR": "Kraken royal : 180 victoires remport\u00e9es",
+            "fr_CA": "Kraken royal : 180 victoires remport\u00e9es",
+            "de_DE": "180 Siege mit Tintentyrann!",
+            "nl_NL": "180 overwinningen met Monstermorfose!",
+            "ru_RU": "180 \u043f\u043e\u0431\u0435\u0434 \u0441 \u043e\u0440\u0443\u0436\u0438\u0435\u043c \u00ab\u0422\u0438\u0440\u0430\u043d\u043d\u043e\u043a\u0440\u0430\u043a\u0435\u043d\u00bb",
+            "it_IT": "Kraken reale: 180 vittorie",
+            "ja_JP": "\u30c6\u30a4\u30aa\u30a6\u30a4\u30ab\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
+        },
+        "id": 380,
+        "internal": "Badge_WinCount_WeaponSp_SpCastle_Lv01"
+    },
+    {
+        "name": "1,200 Wins with Kraken Royale",
+        "image": "../common/assets/img/badges/Badge_WinCount_WeaponSp_SpCastle_Lv02.png",
+        "localizedName": {
+            "en_GB": "1,200 Wins with Kraken Royale",
+            "en_US": "1,200 Wins with Kraken Royale",
+            "es_ES": "Has logrado 1200 victorias usando Calamar imperial.",
+            "es_MX": "Lograste 1200 victorias usando Calamar imperial.",
+            "fr_FR": "Kraken royal : 1 200 victoires remport\u00e9es",
+            "fr_CA": "Kraken royal : 1200 victoires remport\u00e9es",
+            "de_DE": "1200 Siege mit Tintentyrann!",
+            "nl_NL": "1200 overwinningen met Monstermorfose!",
+            "ru_RU": "1200 \u043f\u043e\u0431\u0435\u0434 \u0441 \u043e\u0440\u0443\u0436\u0438\u0435\u043c \u00ab\u0422\u0438\u0440\u0430\u043d\u043d\u043e\u043a\u0440\u0430\u043a\u0435\u043d\u00bb",
+            "it_IT": "Kraken reale: 1200 vittorie",
+            "ja_JP": "\u30c6\u30a4\u30aa\u30a6\u30a4\u30ab\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
+        },
+        "id": 381,
+        "internal": "Badge_WinCount_WeaponSp_SpCastle_Lv02"
+    },
+    {
+        "name": "30 Wins with Super Chump",
+        "image": "../common/assets/img/badges/Badge_WinCount_WeaponSp_SpFirework_Lv00.png",
+        "localizedName": {
+            "en_GB": "30 Wins with Super Chump",
+            "en_US": "30 Wins with Super Chump",
+            "es_ES": "Has logrado 30 victorias usando Multise\u00f1uelos.",
+            "es_MX": "Lograste 30 victorias usando Multise\u00f1uelos.",
+            "fr_FR": "Multi-leurres : 30 victoires remport\u00e9es",
+            "fr_CA": "Multi-leurres : 30 victoires remport\u00e9es",
+            "de_DE": "30 Siege mit Bluffbomber!",
+            "nl_NL": "30 overwinningen met Voorschutter!",
+            "ru_RU": "30 \u043f\u043e\u0431\u0435\u0434 \u0441 \u043e\u0440\u0443\u0436\u0438\u0435\u043c \u00ab\u0421\u0443\u043f\u0435\u0440\u043f\u0440\u044b\u0436\u0430\u0442\u043e\u0440\u00bb",
+            "it_IT": "Diversivo esplosivo: 30 vittorie",
+            "ja_JP": "\u30c7\u30b3\u30a4\u30c1\u30e9\u30b7\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
+        },
+        "id": 382,
+        "internal": "Badge_WinCount_WeaponSp_SpFirework_Lv00"
+    },
+    {
+        "name": "180 Wins with Super Chump",
+        "image": "../common/assets/img/badges/Badge_WinCount_WeaponSp_SpFirework_Lv01.png",
+        "localizedName": {
+            "en_GB": "180 Wins with Super Chump",
+            "en_US": "180 Wins with Super Chump",
+            "es_ES": "Has logrado 180 victorias usando Multise\u00f1uelos.",
+            "es_MX": "Lograste 180 victorias usando Multise\u00f1uelos.",
+            "fr_FR": "Multi-leurres : 180 victoires remport\u00e9es",
+            "fr_CA": "Multi-leurres : 180 victoires remport\u00e9es",
+            "de_DE": "180 Siege mit Bluffbomber!",
+            "nl_NL": "180 overwinningen met Voorschutter!",
+            "ru_RU": "180 \u043f\u043e\u0431\u0435\u0434 \u0441 \u043e\u0440\u0443\u0436\u0438\u0435\u043c \u00ab\u0421\u0443\u043f\u0435\u0440\u043f\u0440\u044b\u0436\u0430\u0442\u043e\u0440\u00bb",
+            "it_IT": "Diversivo esplosivo: 180 vittorie",
+            "ja_JP": "\u30c7\u30b3\u30a4\u30c1\u30e9\u30b7\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
+        },
+        "id": 383,
+        "internal": "Badge_WinCount_WeaponSp_SpFirework_Lv01"
+    },
+    {
+        "name": "1,200 Wins with Super Chump",
+        "image": "../common/assets/img/badges/Badge_WinCount_WeaponSp_SpFirework_Lv02.png",
+        "localizedName": {
+            "en_GB": "1,200 Wins with Super Chump",
+            "en_US": "1,200 Wins with Super Chump",
+            "es_ES": "Has logrado 1200 victorias usando Multise\u00f1uelos.",
+            "es_MX": "Lograste 1200 victorias usando Multise\u00f1uelos.",
+            "fr_FR": "Multi-leurres : 1 200 victoires remport\u00e9es",
+            "fr_CA": "Multi-leurres : 1200 victoires remport\u00e9es",
+            "de_DE": "1200 Siege mit Bluffbomber!",
+            "nl_NL": "1200 overwinningen met Voorschutter!",
+            "ru_RU": "1200 \u043f\u043e\u0431\u0435\u0434 \u0441 \u043e\u0440\u0443\u0436\u0438\u0435\u043c \u00ab\u0421\u0443\u043f\u0435\u0440\u043f\u0440\u044b\u0436\u0430\u0442\u043e\u0440\u00bb",
+            "it_IT": "Diversivo esplosivo: 1200 vittorie",
+            "ja_JP": "\u30c7\u30b3\u30a4\u30c1\u30e9\u30b7\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
+        },
+        "id": 384,
+        "internal": "Badge_WinCount_WeaponSp_SpFirework_Lv02"
+    },
+    {
+        "name": "Top 3,000 in X Battle!",
+        "image": "../common/assets/img/badges/Badge_XRank_Lv00.png",
+        "localizedName": {
+            "en_GB": "Top 3,000 in X Battle!",
+            "en_US": "Top 3,000 in X Battle!",
+            "es_ES": "Has entrado en los 3000 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 3000 mejores de combate X.",
+            "fr_FR": "Top 3 000 des matchs X atteint",
+            "fr_CA": "Top 3000 des matchs X atteint",
+            "de_DE": "Top 3000 im X-Kampf!",
+            "nl_NL": "Top 3000 in X-gevecht!",
+            "ru_RU": "\u0412 \u0422\u041e\u041f-3000 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 3000 nelle partite X!",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff13\uff10\uff10\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 385,
+        "internal": "Badge_XRank_Lv00"
+    },
+    {
+        "name": "Top 500 in X Battle!",
+        "image": "../common/assets/img/badges/Badge_XRank_Lv01.png",
+        "localizedName": {
+            "en_GB": "Top 500 in X Battle!",
+            "en_US": "Top 500 in X Battle!",
+            "es_ES": "Has entrado en los 500 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 500 mejores de combate X.",
+            "fr_FR": "Top 500 des matchs X atteint",
+            "fr_CA": "Top 500 des matchs X atteint",
+            "de_DE": "Top 500 im X-Kampf!",
+            "nl_NL": "Top 500 in X-gevecht!",
+            "ru_RU": "\u0412 \u0422\u041e\u041f-500 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 500 nelle partite X!",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff15\uff10\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 386,
+        "internal": "Badge_XRank_Lv01"
+    },
+    {
+        "name": "Top 10 in X Battle!",
+        "image": "../common/assets/img/badges/Badge_XRank_Lv02.png",
+        "localizedName": {
+            "en_GB": "Top 10 in X Battle!",
+            "en_US": "Top 10 in X Battle!",
+            "es_ES": "Has entrado en los 10 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 10 mejores de combate X.",
+            "fr_FR": "Top 10 des matchs X atteint",
+            "fr_CA": "Top 10 des matchs X atteint",
+            "de_DE": "Top 10 im X-Kampf!",
+            "nl_NL": "Top 10 in X-gevecht!",
+            "ru_RU": "\u0412 \u0422\u041e\u041f-10 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 10 nelle partite X!",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff11\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 387,
+        "internal": "Badge_XRank_Lv02"
     }
 ]

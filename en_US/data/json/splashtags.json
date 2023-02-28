@@ -1018,5 +1018,105 @@
             "b": 0.0
         },
         "internal": "Npl_Lot_Season02_Lv01"
+    },
+    {
+        "id": 102,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season03_Lv01.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_Catalog_Season03_Lv01"
+    },
+    {
+        "id": 103,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season03_Lv02.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_Catalog_Season03_Lv02"
+    },
+    {
+        "id": 104,
+        "image": "../common/assets/img/splashtags/Npl_Coop_Season03_Lv01.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_Coop_Season03_Lv01"
+    },
+    {
+        "id": 105,
+        "image": "../common/assets/img/splashtags/Npl_Coop_Season03_Lv02.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_Coop_Season03_Lv02"
+    },
+    {
+        "id": 106,
+        "image": "../common/assets/img/splashtags/Npl_Coop_Season03_Lv03.png",
+        "color": {
+            "r": 0.05882,
+            "g": 0.02353,
+            "b": 0.0
+        },
+        "internal": "Npl_Coop_Season03_Lv03"
+    },
+    {
+        "id": 107,
+        "image": "../common/assets/img/splashtags/Npl_Coop_Season03_Lv04.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_Coop_Season03_Lv04"
+    },
+    {
+        "id": 108,
+        "image": "../common/assets/img/splashtags/Npl_Fsodr00.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_Fsodr00"
+    },
+    {
+        "id": 109,
+        "image": "../common/assets/img/splashtags/Npl_Lot_Season03_Lv01.png",
+        "color": {
+            "r": 0.05882,
+            "g": 0.02353,
+            "b": 0.0
+        },
+        "internal": "Npl_Lot_Season03_Lv01"
+    },
+    {
+        "id": 110,
+        "image": "../common/assets/img/splashtags/Npl_Trg_Season03_Lv01.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_Trg_Season03_Lv01"
+    },
+    {
+        "id": 111,
+        "image": "../common/assets/img/splashtags/Npl_Trg_Season03_Lv02.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_Trg_Season03_Lv02"
     }
 ]
