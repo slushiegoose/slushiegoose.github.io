@@ -34,7 +34,7 @@
         }
 
         function redirect(lang) {
-            var URL = "https://localhost:5000/" + language_map[lang] + "/"
+            var URL = "https://slushiegoose.github.io/" + language_map[lang] + "/"
             if (window.location.hash) URL += window.location.hash
             if (typeof(Storage) !== "undefined") {
                 localStorage.selectedLang = lang;
