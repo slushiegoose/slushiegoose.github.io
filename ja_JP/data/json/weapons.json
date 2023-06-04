@@ -200,6 +200,50 @@
                     "ja_JP": "\u30e9\u30d4\u30c3\u30c9\u30d6\u30e9\u30b9\u30bf\u30fc\u30c7\u30b3"
                 },
                 "internal": "Blaster_Light_01"
+            },
+            {
+                "id": 9,
+                "name": "Rapid Blaster Pro Deco",
+                "image": "../common/assets/img/weapons/Blaster_LightLong_01.png",
+                "class": "Blaster",
+                "sub": "Angle Shooter",
+                "special": "Killer Wail 5.1",
+                "localizedName": {
+                    "en_GB": "Rapid Blaster Pro Deco",
+                    "en_US": "Rapid Blaster Pro Deco",
+                    "es_ES": "Superdevastador DX",
+                    "es_MX": "Turbolanzamotas Pro chic",
+                    "fr_FR": "Turboblaster pro chic",
+                    "fr_CA": "Turboblasteur pro chic",
+                    "de_DE": "Turbo-Blaster Plus Deko",
+                    "nl_NL": "Flitsblaster Pro Deco",
+                    "ru_RU": "\u0411\u043b\u0430\u0441\u0442\u0435\u0440\u043c\u0430\u0442 \u041f\u0420\u041e \u00ab\u0414\u0435\u043a\u043e\u00bb",
+                    "it_IT": "Blaster \u00e9lite DX",
+                    "ja_JP": "R\u30d6\u30e9\u30b9\u30bf\u30fc\u30a8\u30ea\u30fc\u30c8\u30c7\u30b3"
+                },
+                "internal": "Blaster_LightLong_01"
+            },
+            {
+                "id": 10,
+                "name": "S-BLAST '92",
+                "image": "../common/assets/img/weapons/Blaster_Precision_00.png",
+                "class": "Blaster",
+                "sub": "Sprinkler",
+                "special": "Reefslider",
+                "localizedName": {
+                    "en_GB": "S-BLAST '92",
+                    "en_US": "S-BLAST '92",
+                    "es_ES": "D-VAST 92",
+                    "es_MX": "L-MOT 92",
+                    "fr_FR": "S-Blaster '92",
+                    "fr_CA": "S-Blasteur '92",
+                    "de_DE": "S-BLAST92",
+                    "nl_NL": "S-BLAST '92",
+                    "ru_RU": "S-BLAST 92",
+                    "it_IT": "S-BLAST92",
+                    "ja_JP": "S-BLAST92"
+                },
+                "internal": "Blaster_Precision_00"
             }
         ],
         "localizedName": {
@@ -285,6 +329,28 @@
                     "ja_JP": "\u30d1\u30d6\u30ed\u30fb\u30d2\u30e5\u30fc"
                 },
                 "internal": "Brush_Mini_01"
+            },
+            {
+                "id": 3,
+                "name": "Painbrush",
+                "image": "../common/assets/img/weapons/Brush_Heavy_00.png",
+                "class": "Brush",
+                "sub": "Curling Bomb",
+                "special": "Wave Breaker",
+                "localizedName": {
+                    "en_GB": "Painbrush",
+                    "en_US": "Painbrush",
+                    "es_ES": "Brocha abanico",
+                    "es_MX": "Pincel abanico",
+                    "fr_FR": "\u00c9pinceau \u00e9ca\u00efe",
+                    "fr_CA": "\u00c9pinceau \u00e9ca\u00efe",
+                    "de_DE": "F\u00e4cherf\u00e4rber",
+                    "nl_NL": "Kwistkwast",
+                    "ru_RU": "\u0412\u0435\u0435\u0440\u043e\u043a\u0438\u0441\u0442\u044c \u00ab\u041f\u043b\u044e\u0445\u0430\u0441\u0441\u043e\u00bb",
+                    "it_IT": "Tonnoretto",
+                    "ja_JP": "\u30d5\u30a3\u30f3\u30bb\u30f3\u30c8"
+                },
+                "internal": "Brush_Heavy_00"
             }
         ],
         "localizedName": {
@@ -675,6 +741,50 @@
                     "ja_JP": "\u30b9\u30d1\u30c3\u30bf\u30ea\u30fc\u30fb\u30d2\u30e5\u30fc"
                 },
                 "internal": "Maneuver_Short_01"
+            },
+            {
+                "id": 6,
+                "name": "Custom Dualie Squelchers",
+                "image": "../common/assets/img/weapons/Maneuver_Dual_01.png",
+                "class": "Maneuver",
+                "sub": "Squid Beakon",
+                "special": "Super Chump",
+                "localizedName": {
+                    "en_GB": "Custom Dualie Squelchers",
+                    "en_US": "Custom Dualie Squelchers",
+                    "es_ES": "Barredora dual SP",
+                    "es_MX": "Soplador dual adaptado",
+                    "fr_FR": "Double nettoyeur modifi\u00e9",
+                    "fr_CA": "Double nettoyeur modifi\u00e9",
+                    "de_DE": "Dual-Platscher SE",
+                    "nl_NL": "Gemodde Dubbelplonzers",
+                    "ru_RU": "\u0421\u043f\u0443\u0440\u0442-\u043f\u043b\u0435\u0441\u043a\u0430\u0440\u0438 \u00ab\u041f\u043e\u043d\u0442\u00bb",
+                    "it_IT": "Sweeper duplo CM",
+                    "ja_JP": "\u30c7\u30e5\u30a2\u30eb\u30b9\u30a4\u30fc\u30d1\u30fc\u30ab\u30b9\u30bf\u30e0"
+                },
+                "internal": "Maneuver_Dual_01"
+            },
+            {
+                "id": 7,
+                "name": "Light Tetra Dualies",
+                "image": "../common/assets/img/weapons/Maneuver_Stepper_01.png",
+                "class": "Maneuver",
+                "sub": "Sprinkler",
+                "special": "Zipcaster",
+                "localizedName": {
+                    "en_GB": "Light Tetra Dualies",
+                    "en_US": "Light Tetra Dualies",
+                    "es_ES": "Motatr\u00f3nic dual blanco",
+                    "es_MX": "Tetra dual blanco",
+                    "fr_FR": "Double voltigeur blanc",
+                    "fr_CA": "Double voltigeur blanc",
+                    "de_DE": "Quadhopper Blanc",
+                    "nl_NL": "Quadhoppers Wit",
+                    "ru_RU": "\u0411\u0435\u043b\u044b\u0435 \u0441\u043f\u0443\u0440\u0442\u043e\u043a\u0440\u043e\u0441\u0441\u044b",
+                    "it_IT": "Moscarpino duplo bianco",
+                    "ja_JP": "\u30af\u30a2\u30c3\u30c9\u30db\u30c3\u30d1\u30fc\u30db\u30ef\u30a4\u30c8"
+                },
+                "internal": "Maneuver_Stepper_01"
             }
         ],
         "localizedName": {
@@ -848,6 +958,28 @@
                     "ja_JP": "\u30b9\u30d7\u30e9\u30ed\u30fc\u30e9\u30fc\u30b3\u30e9\u30dc"
                 },
                 "internal": "Roller_Normal_01"
+            },
+            {
+                "id": 7,
+                "name": "Big Swig Roller Express",
+                "image": "../common/assets/img/weapons/Roller_Wide_01.png",
+                "class": "Roller",
+                "sub": "Angle Shooter",
+                "special": "Ink Storm",
+                "localizedName": {
+                    "en_GB": "Big Swig Roller Express",
+                    "en_US": "Big Swig Roller Express",
+                    "es_ES": "Rodillo m\u00e1gnum B",
+                    "es_MX": "Rodillo m\u00e1gnum expr\u00e9s",
+                    "fr_FR": "Rouleau large Xpress",
+                    "fr_CA": "Rouleau large Xpress",
+                    "de_DE": "Breitroller Express",
+                    "nl_NL": "Breedroller Impuls",
+                    "ru_RU": "\u041c\u0430\u043a\u0441\u0438-\u0432\u0430\u043b\u0438\u043a \u00ab\u042d\u043a\u0441\u043f\u0440\u0435\u0441\u0441\u00bb",
+                    "it_IT": "Ampiorullo Express",
+                    "ja_JP": "\u30ef\u30a4\u30c9\u30ed\u30fc\u30e9\u30fc\u30b3\u30e9\u30dc"
+                },
+                "internal": "Roller_Wide_01"
             }
         ],
         "localizedName": {
@@ -911,6 +1043,28 @@
                     "ja_JP": "\u30b8\u30e0\u30ef\u30a4\u30d1\u30fc"
                 },
                 "internal": "Saber_Normal_00"
+            },
+            {
+                "id": 2,
+                "name": "Splatana Wiper Deco",
+                "image": "../common/assets/img/weapons/Saber_Lite_01.png",
+                "class": "Saber",
+                "sub": "Squid Beakon",
+                "special": "Tenta Missiles",
+                "localizedName": {
+                    "en_GB": "Splatana Wiper Deco",
+                    "en_US": "Splatana Wiper Deco",
+                    "es_ES": "Azotintador brisa DX",
+                    "es_MX": "Azotintador brisa chic",
+                    "fr_FR": "\u00c9clatana Doto chic",
+                    "fr_CA": "\u00c9clatana Doto chic",
+                    "de_DE": "Wischer-Splatana Deko",
+                    "nl_NL": "Wisserbladzwieper Deco",
+                    "ru_RU": "C\u043f\u043b\u0430\u0442-\u0434\u0432\u043e\u0440\u043d\u0438\u043a \u00ab\u0414\u0435\u043a\u043e\u00bb",
+                    "it_IT": "Tergilama DX",
+                    "ja_JP": "\u30c9\u30e9\u30a4\u30d6\u30ef\u30a4\u30d1\u30fc\u30c7\u30b3"
+                },
+                "internal": "Saber_Lite_01"
             }
         ],
         "localizedName": {
@@ -996,6 +1150,28 @@
                     "ja_JP": "\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30b7\u30a7\u30eb\u30bf\u30fc"
                 },
                 "internal": "Shelter_Wide_00"
+            },
+            {
+                "id": 3,
+                "name": "Tenta Sorella Brella",
+                "image": "../common/assets/img/weapons/Shelter_Wide_01.png",
+                "class": "Shelter",
+                "sub": "Ink Mine",
+                "special": "Trizooka",
+                "localizedName": {
+                    "en_GB": "Tenta Sorella Brella",
+                    "en_US": "Tenta Sorella Brella",
+                    "es_ES": "Paratintas maxi B",
+                    "es_MX": "Paratintas forestal Sorella",
+                    "fr_FR": "Para-encre XL Sorella",
+                    "fr_CA": "M\u00e9ga para-encre Sorella",
+                    "de_DE": "Sorella-Camp-Pluviator",
+                    "nl_NL": "Sorella Kampeerplenzer",
+                    "ru_RU": "\u0417\u043e\u043d\u0442\u0435\u043d\u0442 \u00ab\u0420\u043e\u0434\u0438\u0447\u0447\u0438\u00bb",
+                    "it_IT": "Sparatenda Solerra",
+                    "ja_JP": "\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30b7\u30a7\u30eb\u30bf\u30fc\u30bd\u30ec\u30fc\u30e9"
+                },
+                "internal": "Shelter_Wide_01"
             }
         ],
         "localizedName": {
@@ -1565,6 +1741,50 @@
                     "ja_JP": "L3\u30ea\u30fc\u30eb\u30ac\u30f3D"
                 },
                 "internal": "Shooter_TripleQuick_01"
+            },
+            {
+                "id": 25,
+                "name": "Annaki Splattershot Nova",
+                "image": "../common/assets/img/weapons/Shooter_QuickLong_01.png",
+                "class": "Shooter",
+                "sub": "Ink Mine",
+                "special": "Inkjet",
+                "localizedName": {
+                    "en_GB": "Annaki Splattershot Nova",
+                    "en_US": "Annaki Splattershot Nova",
+                    "es_ES": "Lanzatintas espacial B",
+                    "es_MX": "Rociador espacial Annak",
+                    "fr_FR": "Lanceur spatial Aroz",
+                    "fr_CA": "Lanceur spatial Aroz",
+                    "de_DE": "Annaki-Kosmo-Kleckser",
+                    "nl_NL": "Annaki Superspetter Nova",
+                    "ru_RU": "\u041a\u0430\u043f\u043b\u0435\u0441\u0442\u0440\u0435\u043b \u041d\u041e\u0412\u0410-\u041f\u0410\u041d\u041a",
+                    "it_IT": "Splasher Nova Annak",
+                    "ja_JP": "\u30b9\u30da\u30fc\u30b9\u30b7\u30e5\u30fc\u30bf\u30fc\u30b3\u30e9\u30dc"
+                },
+                "internal": "Shooter_QuickLong_01"
+            },
+            {
+                "id": 26,
+                "name": "H-3 Nozzlenose D",
+                "image": "../common/assets/img/weapons/Shooter_TripleMiddle_01.png",
+                "class": "Shooter",
+                "sub": "Splash Wall",
+                "special": "Big Bubbler",
+                "localizedName": {
+                    "en_GB": "H-3 Nozzlenose D",
+                    "en_US": "H-3 Nozzlenose D",
+                    "es_ES": "Tintambor pesado D",
+                    "es_MX": "Manguera pesada D",
+                    "fr_FR": "Arroseur lourd C\u00e9tac\u00e9",
+                    "fr_CA": "Arroseur lourd requin",
+                    "de_DE": "S3 Tintenwerfer D",
+                    "nl_NL": "H-3 Langsnuit D",
+                    "ru_RU": "\u0422\u044f\u0436\u0435\u043b\u044b\u0439 \u043a\u0430\u043f\u043b\u0435\u0442\u0440\u043e\u043d 2.0",
+                    "it_IT": "Triplete D",
+                    "ja_JP": "H3\u30ea\u30fc\u30eb\u30ac\u30f3D"
+                },
+                "internal": "Shooter_TripleMiddle_01"
             }
         ],
         "localizedName": {
@@ -1889,6 +2109,28 @@
                     "ja_JP": "\u30b9\u30d7\u30e9\u30b9\u30d4\u30ca\u30fc\u30b3\u30e9\u30dc"
                 },
                 "internal": "Spinner_Quick_01"
+            },
+            {
+                "id": 6,
+                "name": "Heavy Splatling Deco",
+                "image": "../common/assets/img/weapons/Spinner_Standard_01.png",
+                "class": "Spinner",
+                "sub": "Point Sensor",
+                "special": "Kraken Royale",
+                "localizedName": {
+                    "en_GB": "Heavy Splatling Deco",
+                    "en_US": "Heavy Splatling Deco",
+                    "es_ES": "Tintralladora DX",
+                    "es_MX": "Garabateador Pro chic",
+                    "fr_FR": "Badigeonneur chic",
+                    "fr_CA": "Badigeonneur chic",
+                    "de_DE": "Splatling Deko",
+                    "nl_NL": "Spetling Deco",
+                    "ru_RU": "\u0411\u0440\u044b\u0437\u0433\u043e\u043c\u0435\u0442 XL \u00ab\u0414\u0435\u043a\u043e\u00bb",
+                    "it_IT": "Splatling a tanica DX",
+                    "ja_JP": "\u30d0\u30ec\u30eb\u30b9\u30d4\u30ca\u30fc\u30c7\u30b3"
+                },
+                "internal": "Spinner_Standard_01"
             }
         ],
         "localizedName": {

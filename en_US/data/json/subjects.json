@@ -9404,7 +9404,7 @@
             "de_DE": "Ink-Theory-Fan",
             "nl_NL": "Ink Theory-fan",
             "ru_RU": "\u0444\u0430\u043d\u0430\u0442 Ink Theory",
-            "it_IT": "Fan degli Ink Theory",
+            "it_IT": "Fan delle Ink Theory",
             "ja_JP": "\u30ab\u30ec\u30f3\u30c8\u30ea\u30c3\u30d7\u30d5\u30a1\u30f3"
         },
         "available": {
@@ -17792,5 +17792,284 @@
         },
         "id": 573,
         "internal": "3302"
+    },
+    {
+        "name": "S-BLAST '92 User",
+        "localizedName": {
+            "en_GB": "S-BLAST '92 User",
+            "en_US": "S-BLAST '92 User",
+            "es_ES": "Chico con D-VAST 92",
+            "es_MX": "Chico con L-MOT 92",
+            "fr_FR": "Adepte du S-Blaster '92",
+            "fr_CA": "Adepte du S-Blasteur '92",
+            "de_DE": "S-Blaster",
+            "nl_NL": "S-BLAST '92-fan",
+            "ru_RU": "\u0431\u043e\u0435\u0446 \u0441 S-BLAST 92",
+            "it_IT": "Utente di S-BLAST92",
+            "ja_JP": "S-BLAST\u3044"
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 574,
+        "internal": "0057"
+    },
+    {
+        "name": "Painbrush User",
+        "localizedName": {
+            "en_GB": "Painbrush User",
+            "en_US": "Painbrush User",
+            "es_ES": "Chico con Brocha abanico",
+            "es_MX": "Chico con pincel abanico",
+            "fr_FR": "Adepte de l'\u00c9pinceau \u00e9ca\u00efe",
+            "fr_CA": "Adepte de l'\u00c9pinceau \u00e9ca\u00efe",
+            "de_DE": "F\u00e4cherf\u00e4rber",
+            "nl_NL": "Kwistkwast-fan",
+            "ru_RU": "\u0431\u043e\u0435\u0446 \u0441 \u00ab\u041f\u043b\u044e\u0445\u0430\u0441\u0441\u043e\u00bb",
+            "it_IT": "Utente di tonnoretto",
+            "ja_JP": "\u30d5\u30a3\u30f3\u30bb\u30f3\u30c8\u3044"
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 575,
+        "internal": "0058"
+    },
+    {
+        "name": "Yoko & the Gold Bazookas Fan",
+        "localizedName": {
+            "en_GB": "Yoko & the Gold Bazookas Fan",
+            "en_US": "Yoko & the Gold Bazookas Fan",
+            "es_ES": "Fan de the Gold Bazookas",
+            "es_MX": "Fan de the Gold Bazookas",
+            "fr_FR": "Fan de Gold Bazookas",
+            "fr_CA": "Fan de Gold Bazookas",
+            "de_DE": "Yoko & the Gold Bazookas-Fan",
+            "nl_NL": "Yoko & the Gold Bazookas-fan",
+            "ru_RU": "\u0444\u0430\u043d\u0430\u0442 Gold Bazookas",
+            "it_IT": "Fan dei Gold Bazookas",
+            "ja_JP": "YOKO HORNS & FRIENDS\u30d5\u30a1\u30f3"
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 576,
+        "internal": "0194"
+    },
+    {
+        "name": "Mariner",
+        "localizedName": {
+            "en_GB": "Mariner",
+            "en_US": "Mariner",
+            "es_ES": "Lobo de mar",
+            "es_MX": "Lobo de mar",
+            "fr_FR": "Gabier",
+            "fr_CA": "Marin",
+            "de_DE": "Seefahrer",
+            "nl_NL": "matroos",
+            "ru_RU": "\u043c\u043e\u0440\u044f\u043a",
+            "it_IT": "Navigatore",
+            "ja_JP": "\u308a"
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 577,
+        "internal": "0731"
+    },
+    {
+        "name": "Fashion Designer",
+        "localizedName": {
+            "en_GB": "Fashion Designer",
+            "en_US": "Fashion Designer",
+            "es_ES": "Modista",
+            "es_MX": "Costurero",
+            "fr_FR": "Cr\u00e9ateur de mode",
+            "fr_CA": "Cr\u00e9ateur de mode",
+            "de_DE": "Modesch\u00f6pfer",
+            "nl_NL": "modeontwerper",
+            "ru_RU": "\u043c\u043e\u0434\u0435\u043b\u044c\u0435\u0440",
+            "it_IT": "Fashionista",
+            "ja_JP": "\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3\u30c7\u30b6\u30a4\u30ca\u30fc"
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 578,
+        "internal": "0732"
+    },
+    {
+        "name": "Commander",
+        "localizedName": {
+            "en_GB": "Commander",
+            "en_US": "Commander",
+            "es_ES": "Comandante",
+            "es_MX": "Comandante",
+            "fr_FR": "Commandant",
+            "fr_CA": "Commandant",
+            "de_DE": "Kommandant",
+            "nl_NL": "admiraal",
+            "ru_RU": "\u043a\u043e\u043c\u0430\u043d\u0434\u0438\u0440",
+            "it_IT": "Comandante",
+            "ja_JP": ""
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 579,
+        "internal": "0733"
+    },
+    {
+        "name": "Party Star",
+        "localizedName": {
+            "en_GB": "Party Star",
+            "en_US": "Party Star",
+            "es_ES": "Animador",
+            "es_MX": "Animador",
+            "fr_FR": "Boute-en-train",
+            "fr_CA": "Boute-en-train",
+            "de_DE": "Partykanone",
+            "nl_NL": "smaakmaker",
+            "ru_RU": "\u0434\u0443\u0448\u0430 \u0432\u0435\u0447\u0435\u0440\u0438\u043d\u043a\u0438",
+            "it_IT": "Animatore",
+            "ja_JP": "\u30e0\u30fc\u30c9\u30e1\u30fc\u30ab\u30fc"
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 580,
+        "internal": "2006"
+    },
+    {
+        "name": "Mercenary",
+        "localizedName": {
+            "en_GB": "Mercenary",
+            "en_US": "Mercenary",
+            "es_ES": "Mercenario",
+            "es_MX": "Mercenario",
+            "fr_FR": "Mercenaire",
+            "fr_CA": "Mercenaire",
+            "de_DE": "Gl\u00fccksritter",
+            "nl_NL": "huurling",
+            "ru_RU": "\u0440\u044b\u0446\u0430\u0440\u044c \u0443\u0434\u0430\u0447\u0438",
+            "it_IT": "Mercenario",
+            "ja_JP": ""
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 581,
+        "internal": "2007"
+    },
+    {
+        "name": "Gadabout",
+        "localizedName": {
+            "en_GB": "Gadabout",
+            "en_US": "Gadabout",
+            "es_ES": "Juerguista",
+            "es_MX": "Cosmopolita",
+            "fr_FR": "Galant",
+            "fr_CA": "Galant",
+            "de_DE": "Genussfisch",
+            "nl_NL": "troubadour",
+            "ru_RU": "\u0433\u0443\u043b\u044f\u043a\u0430",
+            "it_IT": "Bighellone",
+            "ja_JP": ""
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 582,
+        "internal": "2503"
     }
 ]

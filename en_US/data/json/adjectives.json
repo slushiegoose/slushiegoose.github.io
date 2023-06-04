@@ -14415,10 +14415,10 @@
         "internal": "0391"
     },
     {
-        "name": "Easygoing ",
+        "name": "Easygoing",
         "localizedName": {
-            "en_GB": "Easygoing ",
-            "en_US": "Easygoing ",
+            "en_GB": "Easygoing",
+            "en_US": "Easygoing",
             "es_ES": "perezos",
             "es_MX": "perezos",
             "fr_FR": "flegmatique",
@@ -17583,8 +17583,8 @@
             "en_US": "Um'ami Ruins",
             "es_ES": "en Ruinas Ceviche",
             "es_MX": "en Ruinas Ceviche",
-            "fr_FR": "des ruines Um'ami",
-            "fr_CA": "des ruines Um'ami",
+            "fr_FR": "des ruines Uma'mi",
+            "fr_CA": "des ruines Uma'mi",
             "de_DE": "Um'ami-Ruinen-",
             "nl_NL": "Ruisvoornru\u00efnes-",
             "ru_RU": "\u0430\u043a\u0442\u0438\u0432\u043d \u0432 \u0420\u044b\u0431\u043e\u0436\u0438\u0440\u043d\u044b\u0445 \u0440\u0443\u0438\u043d\u0430\u0445",
@@ -17737,7 +17737,7 @@
             "en_GB": "One-in-a-Million",
             "en_US": "One-in-a-Million",
             "es_ES": "de  que ya no quedan",
-            "es_MX": "como ningun",
+            "es_MX": "de  que ya no quedan",
             "fr_FR": "inestimable",
             "fr_CA": "inestimable",
             "de_DE": "Von Millionen ",
@@ -17792,5 +17792,284 @@
         },
         "id": 573,
         "internal": "3302"
+    },
+    {
+        "name": "Barnacle & Dime",
+        "localizedName": {
+            "en_GB": "Barnacle & Dime",
+            "en_US": "Barnacle & Dime",
+            "es_ES": "en Centro Comercial Flet\u00e1n",
+            "es_MX": "en Unicentro Carite",
+            "fr_FR": "des halles de Port-merlu",
+            "fr_CA": "des halles de Port-merlu",
+            "de_DE": "Talerfisch & Pock-",
+            "nl_NL": "Winkelcentrum Poon & Zeehaan-",
+            "ru_RU": "\u0430\u043a\u0442\u0438\u0432\u043d \u0432 \u0423\u0441\u043e\u043d\u043e\u0433\u0422\u043e\u0440\u0433\u0435",
+            "it_IT": "dell'Empolporio",
+            "ja_JP": "\u30bf\u30e9\u30dd\u30fc\u30c8\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u30d1\u30fc\u30af\u306e"
+        },
+        "available": {
+            "en_GB": true,
+            "en_US": true,
+            "es_ES": "Unknown",
+            "es_MX": "Unknown",
+            "fr_FR": "Unknown",
+            "fr_CA": "Unknown",
+            "de_DE": "Unknown",
+            "nl_NL": "Unknown",
+            "ru_RU": "Unknown",
+            "it_IT": "Unknown",
+            "ja_JP": true
+        },
+        "id": 574,
+        "internal": "0015"
+    },
+    {
+        "name": "Humpback Pump Track",
+        "localizedName": {
+            "en_GB": "Humpback Pump Track",
+            "en_US": "Humpback Pump Track",
+            "es_ES": "en Tibur\u00f3dromo",
+            "es_MX": "en Tibur\u00f3dromo",
+            "fr_FR": "de la piste M\u00e9roule",
+            "fr_CA": "de la piste M\u00e9roule",
+            "de_DE": "Buckelwal-Pisten-",
+            "nl_NL": "Lekkerbektrack-",
+            "ru_RU": "\u0430\u043a\u0442\u0438\u0432\u043d \u0432 \u00ab9-\u043c \u0432\u0430\u043b\u0435\u00bb",
+            "it_IT": "del Tintodromo Montecarpa",
+            "ja_JP": "\u30b3\u30f3\u30d6\u30c8\u30e9\u30c3\u30af\u306e"
+        },
+        "available": {
+            "en_GB": true,
+            "en_US": true,
+            "es_ES": "Unknown",
+            "es_MX": "Unknown",
+            "fr_FR": "Unknown",
+            "fr_CA": "Unknown",
+            "de_DE": "Unknown",
+            "nl_NL": "Unknown",
+            "ru_RU": "Unknown",
+            "it_IT": "Unknown",
+            "ja_JP": true
+        },
+        "id": 575,
+        "internal": "0016"
+    },
+    {
+        "name": "Jammin' Salmon Junction",
+        "localizedName": {
+            "en_GB": "Jammin' Salmon Junction",
+            "en_US": "Jammin' Salmon Junction",
+            "es_ES": "en Salmopista",
+            "es_MX": "en Salmopista",
+            "fr_FR": "de la rocade R\u00e9mora",
+            "fr_CA": "de la rocade R\u00e9mora",
+            "de_DE": "Hakenzahn-Highway-",
+            "nl_NL": "Graattraject-",
+            "ru_RU": "\u0430\u043a\u0442\u0438\u0432\u043d \u043d\u0430 \u00ab\u041f\u0435\u0441\u043d\u0435\u043f\u043b\u044f\u0441\u043a\u0435\u00bb",
+            "it_IT": "del R-Accordo musicale",
+            "ja_JP": "\u3059\u3058\u3053\u30b8\u30e3\u30f3\u30af\u30b7\u30e7\u30f3\u306e"
+        },
+        "available": {
+            "en_GB": true,
+            "en_US": true,
+            "es_ES": "Unknown",
+            "es_MX": "Unknown",
+            "fr_FR": "Unknown",
+            "fr_CA": "Unknown",
+            "de_DE": "Unknown",
+            "nl_NL": "Unknown",
+            "ru_RU": "Unknown",
+            "it_IT": "Unknown",
+            "ja_JP": true
+        },
+        "id": 576,
+        "internal": "0047"
+    },
+    {
+        "name": "Challenge",
+        "localizedName": {
+            "en_GB": "Challenge",
+            "en_US": "Challenge",
+            "es_ES": "en combates evento",
+            "es_MX": "en combates especiales",
+            "fr_FR": "de match Challenge",
+            "fr_CA": "de match \u00e9preuve",
+            "de_DE": "Event-Kampf-",
+            "nl_NL": "Eventgevecht-spelend",
+            "ru_RU": "\u0430\u043a\u0442\u0438\u0432\u043d \u0432 \u0431\u043e\u044e-\u0441\u043e\u0431\u044b\u0442\u0438\u0438",
+            "it_IT": "delle partite evento",
+            "ja_JP": "\u30a4\u30d9\u30f3\u30c8\u30de\u30c3\u30c1\u306e"
+        },
+        "available": {
+            "en_GB": true,
+            "en_US": true,
+            "es_ES": "Unknown",
+            "es_MX": "Unknown",
+            "fr_FR": "Unknown",
+            "fr_CA": "Unknown",
+            "de_DE": "Unknown",
+            "nl_NL": "Unknown",
+            "ru_RU": "Unknown",
+            "it_IT": "Unknown",
+            "ja_JP": true
+        },
+        "id": 577,
+        "internal": "0066"
+    },
+    {
+        "name": "Big Run",
+        "localizedName": {
+            "en_GB": "Big Run",
+            "en_US": "Big Run",
+            "es_ES": "en Big Run",
+            "es_MX": "en Big Run",
+            "fr_FR": "du Big Run",
+            "fr_CA": "du Big Run",
+            "de_DE": "Big Run-",
+            "nl_NL": "Big Run-spelend",
+            "ru_RU": "\u0430\u043a\u0442\u0438\u0432\u043d \u0432 Big Run",
+            "it_IT": "della Big Run",
+            "ja_JP": "\u30d3\u30c3\u30b0\u30e9\u30f3\u306e"
+        },
+        "available": {
+            "en_GB": true,
+            "en_US": true,
+            "es_ES": "Unknown",
+            "es_MX": "Unknown",
+            "fr_FR": "Unknown",
+            "fr_CA": "Unknown",
+            "de_DE": "Unknown",
+            "nl_NL": "Unknown",
+            "ru_RU": "Unknown",
+            "it_IT": "Unknown",
+            "ja_JP": true
+        },
+        "id": 578,
+        "internal": "0068"
+    },
+    {
+        "name": "Eggstra Work",
+        "localizedName": {
+            "en_GB": "Eggstra Work",
+            "en_US": "Eggstra Work",
+            "es_ES": "en alianza alev\u00ednica",
+            "es_MX": "en recolecci\u00f3n extra",
+            "fr_FR": "du d\u00e9fi \u0153uf sup'",
+            "fr_CA": "du d\u00e9fi \u0153uf sup'",
+            "de_DE": "Team-Wettkampf-",
+            "nl_NL": "Bedrijfseitjesklus-spelend",
+            "ru_RU": "\u0430\u043a\u0442\u0438\u0432\u043d \u0432 \u0438\u043a\u043e\u0440\u043d\u043e\u043c \u043e\u0432\u0435\u0440\u0442\u0430\u0439\u043c\u0435",
+            "it_IT": "delle sfide tra colleghi",
+            "ja_JP": "\u30d0\u30a4\u30c8\u30c1\u30fc\u30e0\u30b3\u30f3\u30c6\u30b9\u30c8\u306e"
+        },
+        "available": {
+            "en_GB": true,
+            "en_US": true,
+            "es_ES": "Unknown",
+            "es_MX": "Unknown",
+            "fr_FR": "Unknown",
+            "fr_CA": "Unknown",
+            "de_DE": "Unknown",
+            "nl_NL": "Unknown",
+            "ru_RU": "Unknown",
+            "it_IT": "Unknown",
+            "ja_JP": true
+        },
+        "id": 579,
+        "internal": "0069"
+    },
+    {
+        "name": "Refreshing",
+        "localizedName": {
+            "en_GB": "Refreshing",
+            "en_US": "Refreshing",
+            "es_ES": "refrigerante",
+            "es_MX": "refrigerante",
+            "fr_FR": "r\u00e9frig\u00e9rant",
+            "fr_CA": "r\u00e9frig\u00e9rant",
+            "de_DE": "Erfrischend",
+            "nl_NL": "Verfrissend",
+            "ru_RU": "\u043e\u0441\u0432\u0435\u0436\u0430\u044e\u0449",
+            "it_IT": "rinfrescante",
+            "ja_JP": "\u3055\u308f\u3084\u304b\u306a"
+        },
+        "available": {
+            "en_GB": true,
+            "en_US": true,
+            "es_ES": "Unknown",
+            "es_MX": "Unknown",
+            "fr_FR": "Unknown",
+            "fr_CA": "Unknown",
+            "de_DE": "Unknown",
+            "nl_NL": "Unknown",
+            "ru_RU": "Unknown",
+            "it_IT": "Unknown",
+            "ja_JP": true
+        },
+        "id": 580,
+        "internal": "2006"
+    },
+    {
+        "name": "Simmering",
+        "localizedName": {
+            "en_GB": "Simmering",
+            "en_US": "Simmering",
+            "es_ES": "en ebullici\u00f3n",
+            "es_MX": "en ebullici\u00f3n",
+            "fr_FR": "fr\u00e9missant",
+            "fr_CA": "fr\u00e9missant",
+            "de_DE": "Siedend",
+            "nl_NL": "Sudderend",
+            "ru_RU": "\u0437\u0430\u043a\u0438\u043f\u0430\u044e\u0449",
+            "it_IT": "in ebollizione",
+            "ja_JP": "\u305f\u304e\u308b"
+        },
+        "available": {
+            "en_GB": true,
+            "en_US": true,
+            "es_ES": "Unknown",
+            "es_MX": "Unknown",
+            "fr_FR": "Unknown",
+            "fr_CA": "Unknown",
+            "de_DE": "Unknown",
+            "nl_NL": "Unknown",
+            "ru_RU": "Unknown",
+            "it_IT": "Unknown",
+            "ja_JP": true
+        },
+        "id": 581,
+        "internal": "2007"
+    },
+    {
+        "name": "Ace",
+        "localizedName": {
+            "en_GB": "Ace",
+            "en_US": "Ace",
+            "es_ES": "con gancho",
+            "es_MX": "habilidos",
+            "fr_FR": "magistral",
+            "fr_CA": "magistral",
+            "de_DE": "Ass-",
+            "nl_NL": "Top-",
+            "ru_RU": "\u0432\u044b\u0434\u0430\u044e\u0449",
+            "it_IT": "imbattibile",
+            "ja_JP": "\u3044"
+        },
+        "available": {
+            "en_GB": true,
+            "en_US": true,
+            "es_ES": "Unknown",
+            "es_MX": "Unknown",
+            "fr_FR": "Unknown",
+            "fr_CA": "Unknown",
+            "de_DE": "Unknown",
+            "nl_NL": "Unknown",
+            "ru_RU": "Unknown",
+            "it_IT": "Unknown",
+            "ja_JP": true
+        },
+        "id": 582,
+        "internal": "2503"
     }
 ]

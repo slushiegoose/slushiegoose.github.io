@@ -10,7 +10,7 @@ except ImportError:
 
 # TODO - 099 -> latest
 
-VERSION = "300"
+VERSION = "400"
 
 hats = f"https://leanny.github.io/splat3/data/mush//{VERSION}/GearInfoHead.json"
 shirts = f"https://leanny.github.io/splat3/data/mush//{VERSION}/GearInfoClothes.json"

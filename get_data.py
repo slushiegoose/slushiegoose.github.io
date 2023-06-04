@@ -9,6 +9,7 @@ VERSIONS = [
     "110",
     "200",
     "300",
+    "400",
 ]
 
 hats = "https://leanny.github.io/splat3/data/mush/{VERSION}/GearInfoHead.json"

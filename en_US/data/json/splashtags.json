@@ -1118,5 +1118,35 @@
             "b": 1.0
         },
         "internal": "Npl_Trg_Season03_Lv02"
+    },
+    {
+        "id": 112,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season04_Lv01.png",
+        "color": {
+            "r": 0.02352941,
+            "g": 0.04705882,
+            "b": 0.1921569
+        },
+        "internal": "Npl_Catalog_Season04_Lv01"
+    },
+    {
+        "id": 113,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season04_Lv02.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_Catalog_Season04_Lv02"
+    },
+    {
+        "id": 114,
+        "image": "../common/assets/img/splashtags/Npl_Lot_Season04_Lv01.png",
+        "color": {
+            "r": 0.05882,
+            "g": 0.02353,
+            "b": 0.0
+        },
+        "internal": "Npl_Lot_Season04_Lv01"
     }
 ]
