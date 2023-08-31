@@ -10,6 +10,7 @@ VERSIONS = [
     "200",
     "300",
     "400",
+    "500",
 ]
 
 hats = "https://leanny.github.io/splat3/data/mush/{VERSION}/GearInfoHead.json"
@@ -186,6 +187,7 @@ async def special(listies, locale_data):
             eyedee = special["__RowId"]
             if "Mission" in eyedee: continue
             if "Coop" in eyedee: continue
+            if "Event" in eyedee: continue
             if eyedee in eyedees: continue
             image = f"../common/assets/img/subspe/Wsp_{eyedee}.png"
             localizedName = {}

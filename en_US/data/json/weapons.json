@@ -351,6 +351,28 @@
                     "ja_JP": "\u30d5\u30a3\u30f3\u30bb\u30f3\u30c8"
                 },
                 "internal": "Brush_Heavy_00"
+            },
+            {
+                "id": 4,
+                "name": "Octobrush Nouveau",
+                "image": "../common/assets/img/weapons/Brush_Normal_01.png",
+                "class": "Brush",
+                "sub": "Squid Beakon",
+                "special": "Ink Storm",
+                "localizedName": {
+                    "en_GB": "Octobrush Nouveau",
+                    "en_US": "Octobrush Nouveau",
+                    "es_ES": "Brocha maestra",
+                    "es_MX": "Pincel caligraf\u00eda maestro",
+                    "fr_FR": "\u00c9pinceau brosse nuanc\u00e9",
+                    "fr_CA": "\u00c9pinceau brosse nuanc\u00e9",
+                    "de_DE": "Kalligraf Fresco",
+                    "nl_NL": "Octokwast Nouveau",
+                    "ru_RU": "\u0410\u0440\u0442-\u043a\u0438\u0441\u0442\u044c \u00ab\u041d\u0443\u0412\u043e\u00bb",
+                    "it_IT": "Tinturicchio master",
+                    "ja_JP": "\u30db\u30af\u30b5\u30a4\u30fb\u30d2\u30e5\u30fc"
+                },
+                "internal": "Brush_Normal_01"
             }
         ],
         "localizedName": {
@@ -590,6 +612,28 @@
                     "ja_JP": "\u30b9\u30d7\u30e9\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc\u30b3\u30e9\u30dc"
                 },
                 "internal": "Charger_Normal_01"
+            },
+            {
+                "id": 10,
+                "name": "Custom Goo Tuber",
+                "image": "../common/assets/img/weapons/Charger_Keeper_01.png",
+                "class": "Charger",
+                "sub": "Fizzy Bomb",
+                "special": "Ultra Stamp",
+                "localizedName": {
+                    "en_GB": "Custom Goo Tuber",
+                    "en_US": "Custom Goo Tuber",
+                    "es_ES": "Tubofusil SP",
+                    "es_MX": "Entintubo adaptado",
+                    "fr_FR": "D\u00e9tubeur modifi\u00e9",
+                    "fr_CA": "D\u00e9tubeur modifi\u00e9",
+                    "de_DE": "T-Tuber SE",
+                    "nl_NL": "Gemodde Spetbuizer",
+                    "ru_RU": "\u0422\u0440\u0443\u0431\u0430\u0441\u0442\u0435\u0440 \u00ab\u041f\u043e\u043d\u0442\u00bb",
+                    "it_IT": "Tintubator CM",
+                    "ja_JP": "\u30bd\u30a4\u30c1\u30e5\u30fc\u30d0\u30fc\u30ab\u30b9\u30bf\u30e0"
+                },
+                "internal": "Charger_Keeper_01"
             }
         ],
         "localizedName": {
@@ -980,6 +1024,28 @@
                     "ja_JP": "\u30ef\u30a4\u30c9\u30ed\u30fc\u30e9\u30fc\u30b3\u30e9\u30dc"
                 },
                 "internal": "Roller_Wide_01"
+            },
+            {
+                "id": 8,
+                "name": "Gold Dynamo Roller",
+                "image": "../common/assets/img/weapons/Roller_Heavy_01.png",
+                "class": "Roller",
+                "sub": "Splat Bomb",
+                "special": "Super Chump",
+                "localizedName": {
+                    "en_GB": "Gold Dynamo Roller",
+                    "en_US": "Gold Dynamo Roller",
+                    "es_ES": "Dinamorrodillo T",
+                    "es_MX": "Rodillo Pro dorado",
+                    "fr_FR": "Dynamo-rouleau tesla",
+                    "fr_CA": "Dynamo-rouleau pro",
+                    "de_DE": "Dynaroller Tesla",
+                    "nl_NL": "Gouden Dynamoroller",
+                    "ru_RU": "\u041c\u043e\u0442\u043e\u0432\u0430\u043b\u0438\u043a VIP",
+                    "it_IT": "Rullo dinamo dorato",
+                    "ja_JP": "\u30c0\u30a4\u30ca\u30e2\u30ed\u30fc\u30e9\u30fc\u30c6\u30b9\u30e9"
+                },
+                "internal": "Roller_Heavy_01"
             }
         ],
         "localizedName": {
@@ -1172,6 +1238,28 @@
                     "ja_JP": "\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30b7\u30a7\u30eb\u30bf\u30fc\u30bd\u30ec\u30fc\u30e9"
                 },
                 "internal": "Shelter_Wide_01"
+            },
+            {
+                "id": 4,
+                "name": "Sorella Brella",
+                "image": "../common/assets/img/weapons/Shelter_Normal_01.png",
+                "class": "Shelter",
+                "sub": "Autobomb",
+                "special": "Inkjet",
+                "localizedName": {
+                    "en_GB": "Sorella Brella",
+                    "en_US": "Sorella Brella",
+                    "es_ES": "Paratintas B",
+                    "es_MX": "Paratintas Sorella",
+                    "fr_FR": "Para-encre Sorella",
+                    "fr_CA": "Para-encre Sorella",
+                    "de_DE": "Sorella-Parapluviator",
+                    "nl_NL": "Sorella Plenzer",
+                    "ru_RU": "\u0417\u043e\u043d\u0442\u0433\u0430\u043d \u00ab\u0420\u043e\u0434\u0438\u0447\u0447\u0438\u00bb",
+                    "it_IT": "Sparasole Solerra",
+                    "ja_JP": "\u30d1\u30e9\u30b7\u30a7\u30eb\u30bf\u30fc\u30bd\u30ec\u30fc\u30e9"
+                },
+                "internal": "Shelter_Normal_01"
             }
         ],
         "localizedName": {
@@ -1958,6 +2046,72 @@
                     "ja_JP": "\u30d2\u30c3\u30bb\u30f3\u30fb\u30d2\u30e5\u30fc"
                 },
                 "internal": "Slosher_Diffusion_01"
+            },
+            {
+                "id": 7,
+                "name": "Bloblobber Deco",
+                "image": "../common/assets/img/weapons/Slosher_Bathtub_01.png",
+                "class": "Slosher",
+                "sub": "Angle Shooter",
+                "special": "Kraken Royale",
+                "localizedName": {
+                    "en_GB": "Bloblobber Deco",
+                    "en_US": "Bloblobber Deco",
+                    "es_ES": "Derramatic ba\u00f1o DX",
+                    "es_MX": "Derramatic ba\u00f1o chic",
+                    "fr_FR": "Bassineur chic",
+                    "fr_CA": "Bassineur chic",
+                    "de_DE": "Wannen-Schwapper Deko",
+                    "nl_NL": "Spatkuip Deco",
+                    "ru_RU": "\u0412\u0430\u043d\u043d\u0430\u0433\u0430\u043d \u00ab\u0414\u0435\u043a\u043e\u00bb",
+                    "it_IT": "Secchiostro vasca DX",
+                    "ja_JP": "\u30aa\u30fc\u30d0\u30fc\u30d5\u30ed\u30c3\u30b7\u30e3\u30fc\u30c7\u30b3"
+                },
+                "internal": "Slosher_Bathtub_01"
+            },
+            {
+                "id": 8,
+                "name": "Dread Wringer",
+                "image": "../common/assets/img/weapons/Slosher_Double_00.png",
+                "class": "Slosher",
+                "sub": "Suction Bomb",
+                "special": "Reefslider",
+                "localizedName": {
+                    "en_GB": "Dread Wringer",
+                    "en_US": "Dread Wringer",
+                    "es_ES": "Friegamatic",
+                    "es_MX": "Friegamatic",
+                    "fr_FR": "Seau S-Horreur",
+                    "fr_CA": "Seau S-Horreur",
+                    "de_DE": "Schwappwascher",
+                    "nl_NL": "Wringmorser",
+                    "ru_RU": "\u041e\u0442\u0436\u0438\u043c\u0430\u0442\u0435\u043b\u044c",
+                    "it_IT": "Secchiapavimenti",
+                    "ja_JP": "\u30e2\u30c3\u30d7\u30ea\u30f3"
+                },
+                "internal": "Slosher_Double_00"
+            },
+            {
+                "id": 9,
+                "name": "Sloshing Machine Neo",
+                "image": "../common/assets/img/weapons/Slosher_Launcher_01.png",
+                "class": "Slosher",
+                "sub": "Point Sensor",
+                "special": "Trizooka",
+                "localizedName": {
+                    "en_GB": "Sloshing Machine Neo",
+                    "en_US": "Sloshing Machine Neo",
+                    "es_ES": "Derramatic centr\u00edfugo neo",
+                    "es_MX": "Derramatic centr\u00edfugo neo",
+                    "fr_FR": "Encrifugeur N\u00e9o",
+                    "fr_CA": "Encrifugeur n\u00e9o",
+                    "de_DE": "Trommel-Schwapper Neo",
+                    "nl_NL": "Klotstrommel Neo",
+                    "ru_RU": "\u0426\u0435\u043d\u0442\u0440\u0438\u0444\u0443\u0433\u0435\u0440 \u00ab\u041d\u0435\u043e\u00bb",
+                    "it_IT": "Secchiostro centrifuga Neo",
+                    "ja_JP": "\u30b9\u30af\u30ea\u30e5\u30fc\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc\u30cd\u30aa"
+                },
+                "internal": "Slosher_Launcher_01"
             }
         ],
         "localizedName": {
@@ -2131,6 +2285,50 @@
                     "ja_JP": "\u30d0\u30ec\u30eb\u30b9\u30d4\u30ca\u30fc\u30c7\u30b3"
                 },
                 "internal": "Spinner_Standard_01"
+            },
+            {
+                "id": 7,
+                "name": "Ballpoint Splatling Nouveau",
+                "image": "../common/assets/img/weapons/Spinner_Downpour_01.png",
+                "class": "Spinner",
+                "sub": "Ink Mine",
+                "special": "Ink Vac",
+                "localizedName": {
+                    "en_GB": "Ballpoint Splatling Nouveau",
+                    "en_US": "Ballpoint Splatling Nouveau",
+                    "es_ES": "Ametrall\u00f3grafo maestro",
+                    "es_MX": "Garabateador PLM maestro",
+                    "fr_FR": "Badigeonneur stylo nuanc\u00e9",
+                    "fr_CA": "Badigeonneur stylo nuanc\u00e9",
+                    "de_DE": "Kuli-Splatling Fresco",
+                    "nl_NL": "Stylospetling Nouveau",
+                    "ru_RU": "\u041a\u0443\u0433\u0435\u043b\u044c\u0448\u0440\u0430\u0439\u0431\u0435\u0440 \u00ab\u041d\u0443\u0412\u043e\u00bb",
+                    "it_IT": "Tetrapenna master",
+                    "ja_JP": "\u30af\u30fc\u30b2\u30eb\u30b7\u30e5\u30e9\u30a4\u30d0\u30fc\u30fb\u30d2\u30e5\u30fc"
+                },
+                "internal": "Spinner_Downpour_01"
+            },
+            {
+                "id": 8,
+                "name": "Heavy Edit Splatling",
+                "image": "../common/assets/img/weapons/Spinner_HyperShort_00.png",
+                "class": "Spinner",
+                "sub": "Curling Bomb",
+                "special": "Tacticooler",
+                "localizedName": {
+                    "en_GB": "Heavy Edit Splatling",
+                    "en_US": "Heavy Edit Splatling",
+                    "es_ES": "Corrigetintas",
+                    "es_MX": "Corrigetintas",
+                    "fr_FR": "Correcteur",
+                    "fr_CA": "Correcteur",
+                    "de_DE": "Kartuschierer",
+                    "nl_NL": "Examinator",
+                    "ru_RU": "\u0411\u0440\u044b\u0437\u0433\u043e\u043c\u0435\u0442 XL \u00ab\u041a\u043e\u0440\u0440\u0435\u043a\u0442\u043e\u0440\u00bb",
+                    "it_IT": "Splatling a pennarelli",
+                    "ja_JP": "\u30a4\u30b0\u30b6\u30df\u30ca\u30fc"
+                },
+                "internal": "Spinner_HyperShort_00"
             }
         ],
         "localizedName": {
@@ -2194,6 +2392,28 @@
                     "ja_JP": "LACT-450"
                 },
                 "internal": "Stringer_Short_00"
+            },
+            {
+                "id": 2,
+                "name": "Inkline Tri-Stringer",
+                "image": "../common/assets/img/weapons/Stringer_Normal_01.png",
+                "class": "Stringer",
+                "sub": "Sprinkler",
+                "special": "Super Chump",
+                "localizedName": {
+                    "en_GB": "Inkline Tri-Stringer",
+                    "en_US": "Inkline Tri-Stringer",
+                    "es_ES": "Arcromatizador triple B",
+                    "es_MX": "Arcromatizador triple Moluskia",
+                    "fr_FR": "Trisperceur Abysma",
+                    "fr_CA": "Trisperceur Abysma",
+                    "de_DE": "Alpomar-Tri-Stringer",
+                    "nl_NL": "Inkline Triospanner",
+                    "ru_RU": "\u0422\u0440\u0438\u0442\u0438\u0432\u0430\u0442\u043e\u0440 \u00ab\u041a\u043e\u043b\u043b\u0430\u0431\u00bb",
+                    "it_IT": "Tri-calamarco Maremont",
+                    "ja_JP": "\u30c8\u30e9\u30a4\u30b9\u30c8\u30ea\u30f3\u30ac\u30fc\u30b3\u30e9\u30dc"
+                },
+                "internal": "Stringer_Normal_01"
             }
         ],
         "localizedName": {
