@@ -2068,5 +2068,95 @@
             "b": 1.0
         },
         "internal": "Npl_Trg_Season05_Lv02"
+    },
+    {
+        "id": 207,
+        "image": "../common/assets/img/splashtags/Npl_Sdodr00.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_Sdodr00"
+    },
+    {
+        "id": 208,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season06_Lv01.png",
+        "color": {
+            "r": 0.1607843,
+            "g": 0.1490196,
+            "b": 0.05490196
+        },
+        "internal": "Npl_Catalog_Season06_Lv01"
+    },
+    {
+        "id": 209,
+        "image": "../common/assets/img/splashtags/Npl_Catalog_Season06_Lv02.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_Catalog_Season06_Lv02"
+    },
+    {
+        "id": 210,
+        "image": "../common/assets/img/splashtags/Npl_Lot_Season06_Lv01.png",
+        "color": {
+            "r": 0.05882,
+            "g": 0.02353,
+            "b": 0.0
+        },
+        "internal": "Npl_Lot_Season06_Lv01"
+    },
+    {
+        "id": 211,
+        "image": "../common/assets/img/splashtags/Npl_News_Season05_Lv04.png",
+        "color": {
+            "r": 0.9075472,
+            "g": 0.08464152,
+            "b": 0.01991784
+        },
+        "internal": "Npl_News_Season05_Lv04"
+    },
+    {
+        "id": 212,
+        "image": "../common/assets/img/splashtags/Npl_News_Season06_Lv01.png",
+        "color": {
+            "r": 0.0,
+            "g": 0.07450981,
+            "b": 0.3843137
+        },
+        "internal": "Npl_News_Season06_Lv01"
+    },
+    {
+        "id": 213,
+        "image": "../common/assets/img/splashtags/Npl_Trg_Season05_Lv03.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_Trg_Season05_Lv03"
+    },
+    {
+        "id": 214,
+        "image": "../common/assets/img/splashtags/Npl_Trg_Season05_Lv04.png",
+        "color": {
+            "r": 0.04705882,
+            "g": 0.1294118,
+            "b": 0.3215686
+        },
+        "internal": "Npl_Trg_Season05_Lv04"
+    },
+    {
+        "id": 215,
+        "image": "../common/assets/img/splashtags/Npl_Trg_Season06_Lv01.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_Trg_Season06_Lv01"
     }
 ]

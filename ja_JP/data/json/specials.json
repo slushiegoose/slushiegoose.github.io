@@ -466,5 +466,41 @@
             "ja_JP": "\u30c7\u30b3\u30a4\u30c1\u30e9\u30b7"
         },
         "internal": "Wsp_SpFirework"
+    },
+    {
+        "name": "Splattercolor Screen",
+        "image": "../common/assets/img/subspe/Wsp_SpChimney.png",
+        "localizedName": {
+            "en_GB": "Splattercolor Screen",
+            "en_US": "Splattercolor Screen",
+            "es_ES": "Pantintalla",
+            "es_MX": "Muro marmoleado",
+            "fr_FR": "Barri\u00e8re barbouill\u00e9e",
+            "fr_CA": "Barri\u00e8re barbouill\u00e9e",
+            "de_DE": "Unsichtbarriere",
+            "nl_NL": "PLED-scherm",
+            "ru_RU": "\u0417\u0430\u043b\u0438\u0432\u043d\u043e\u0439 \u0431\u0430\u0440\u044c\u0435\u0440",
+            "it_IT": "Cortina ingannevole",
+            "ja_JP": "\u30b9\u30df\u30ca\u30ac\u30b7\u30fc\u30c8"
+        },
+        "internal": "Wsp_SpChimney"
+    },
+    {
+        "name": "Triple Splashdown",
+        "image": "../common/assets/img/subspe/Wsp_SpPogo.png",
+        "localizedName": {
+            "en_GB": "Triple Splashdown",
+            "en_US": "Triple Splashdown",
+            "es_ES": "Pu\u00f1etazos explosivos",
+            "es_MX": "Clavado triple",
+            "fr_FR": "Triple choc chromatique",
+            "fr_CA": "Triple choc chromatique",
+            "de_DE": "Tri-Tintenschock",
+            "nl_NL": "Ultralanding",
+            "ru_RU": "\u0422\u0440\u043e\u0439\u043d\u043e\u0439 \u043c\u0435\u0433\u0430\u043f\u043b\u044e\u0445",
+            "it_IT": "Triplo vernischianto",
+            "ja_JP": "\u30a6\u30eb\u30c8\u30e9\u30c1\u30e3\u30af\u30c1"
+        },
+        "internal": "Wsp_SpPogo"
     }
 ]

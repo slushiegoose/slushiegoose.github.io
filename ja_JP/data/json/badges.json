@@ -5472,58 +5472,58 @@
         "internal": "Badge_WinCount_WeaponSp_SpUltraStamp_Lv02"
     },
     {
-        "name": "Top 50% in Big Run!",
+        "name": "Got a Bronze Decoration in Big Run",
         "image": "../common/assets/img/badges/Badge_CoopBigRunTrophy_Lv00.png",
         "localizedName": {
-            "en_GB": "Top 50% in Big Run!",
-            "en_US": "Top 50% in Big Run!",
-            "es_ES": "\u00a1Est\u00e1s entre el 50 % de jugadores en cabeza de Big Run!",
-            "es_MX": "\u00a1Est\u00e1s entre el 50 % de los mejores jugadores de Big Run!",
-            "fr_FR": "Atteins le top 50 % lors d'un Big Run !",
-            "fr_CA": "Atteins le top 50 % lors d'un Big Run!",
-            "de_DE": "Top 50 % beim Big Run!",
-            "nl_NL": "Bij de beste 50% in Big Run!",
-            "ru_RU": "\u0422\u043e\u043f 50% \u0432 Big Run!",
-            "it_IT": "Top 50% dei giocatori della Big Run!",
-            "ja_JP": "\u30d3\u30c3\u30b0\u30e9\u30f3\u3067\u4e0a\u4f4d\uff15\uff10%\u306b\u5165\u3063\u305f"
+            "en_GB": "Got a Bronze Decoration in Big Run",
+            "en_US": "Got a Bronze Decoration in Big Run",
+            "es_ES": "\u00a1Has conseguido un adorno de bronce en Big Run!",
+            "es_MX": "\u00a1Recibiste un adorno de bronce en Big Run!",
+            "fr_FR": "Objet de d\u00e9coration en bronze obtenu lors d'un Big Run",
+            "fr_CA": "Objet de d\u00e9coration en bronze obtenu lors d'un Big Run",
+            "de_DE": "Big Run-Bronzebelohnung erzielt!",
+            "nl_NL": "Bronzen versiering behaald in Big Run!",
+            "ru_RU": "\u0411\u0440\u043e\u043d\u0437\u043e\u0432\u043e\u0435 \u0443\u043a\u0440\u0430\u0448\u0435\u043d\u0438\u0435 \u0432 Big Run!",
+            "it_IT": "Ottenuta decorazione di bronzo nella Big Run",
+            "ja_JP": "\u30d3\u30c3\u30b0\u30e9\u30f3\u3067\u9285\u306e\u30aa\u30ad\u30e2\u30ce\u3092\u3082\u3089\u3063\u305f"
         },
         "id": 288,
         "internal": "Badge_CoopBigRunTrophy_Lv00"
     },
     {
-        "name": "Top 20% in Big Run!",
+        "name": "Got a Silver Decoration in Big Run",
         "image": "../common/assets/img/badges/Badge_CoopBigRunTrophy_Lv01.png",
         "localizedName": {
-            "en_GB": "Top 20% in Big Run!",
-            "en_US": "Top 20% in Big Run!",
-            "es_ES": "\u00a1Est\u00e1s entre el 20 % de jugadores en cabeza de Big Run!",
-            "es_MX": "\u00a1Est\u00e1s entre el 20 % de los mejores jugadores de Big Run!",
-            "fr_FR": "Atteins le top 20 % lors d'un Big Run !",
-            "fr_CA": "Atteins le top 20 % lors d'un Big Run!",
-            "de_DE": "Top 20 % beim Big Run!",
-            "nl_NL": "Bij de beste 20% in Big Run!",
-            "ru_RU": "\u0422\u043e\u043f 20% \u0432 Big Run!",
-            "it_IT": "Top 20% dei giocatori della Big Run!",
-            "ja_JP": "\u30d3\u30c3\u30b0\u30e9\u30f3\u3067\u4e0a\u4f4d\uff12\uff10%\u306b\u5165\u3063\u305f"
+            "en_GB": "Got a Silver Decoration in Big Run",
+            "en_US": "Got a Silver Decoration in Big Run",
+            "es_ES": "\u00a1Has conseguido un adorno de plata en Big Run!",
+            "es_MX": "\u00a1Recibiste un adorno de plata en Big Run!",
+            "fr_FR": "Objet de d\u00e9coration en argent obtenu lors d'un Big Run",
+            "fr_CA": "Objet de d\u00e9coration en argent obtenu lors d'un Big Run",
+            "de_DE": "Big Run-Silberbelohnung erzielt!",
+            "nl_NL": "Zilveren versiering behaald in Big Run!",
+            "ru_RU": "\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u043e\u0435 \u0443\u043a\u0440\u0430\u0448\u0435\u043d\u0438\u0435 \u0432 Big Run!",
+            "it_IT": "Ottenuta decorazione d'argento nella Big Run",
+            "ja_JP": "\u30d3\u30c3\u30b0\u30e9\u30f3\u3067\u9280\u306e\u30aa\u30ad\u30e2\u30ce\u3092\u3082\u3089\u3063\u305f"
         },
         "id": 289,
         "internal": "Badge_CoopBigRunTrophy_Lv01"
     },
     {
-        "name": "Top 5% in Big Run!",
+        "name": "Got a Gold Decoration in Big Run",
         "image": "../common/assets/img/badges/Badge_CoopBigRunTrophy_Lv02.png",
         "localizedName": {
-            "en_GB": "Top 5% in Big Run!",
-            "en_US": "Top 5% in Big Run!",
-            "es_ES": "\u00a1Est\u00e1s entre el 5 % de jugadores en cabeza de Big Run!",
-            "es_MX": "\u00a1Est\u00e1s entre el 5 % de los mejores jugadores de Big Run!",
-            "fr_FR": "Atteins le top 5 % lors d'un Big Run !",
-            "fr_CA": "Atteins le top 5 % lors d'un Big Run!",
-            "de_DE": "Top 5 % beim Big Run!",
-            "nl_NL": "Bij de beste 5% in Big Run!",
-            "ru_RU": "\u0422\u043e\u043f 5% \u0432 Big Run!",
-            "it_IT": "Top 5% dei giocatori della Big Run!",
-            "ja_JP": "\u30d3\u30c3\u30b0\u30e9\u30f3\u3067\u4e0a\u4f4d\uff15%\u306b\u5165\u3063\u305f"
+            "en_GB": "Got a Gold Decoration in Big Run",
+            "en_US": "Got a Gold Decoration in Big Run",
+            "es_ES": "\u00a1Has conseguido un adorno de oro en Big Run!",
+            "es_MX": "\u00a1Recibiste un adorno de oro en Big Run!",
+            "fr_FR": "Objet de d\u00e9coration en or obtenu lors d'un Big Run",
+            "fr_CA": "Objet de d\u00e9coration en or obtenu lors d'un Big Run",
+            "de_DE": "Big Run-Goldbelohnung erzielt!",
+            "nl_NL": "Gouden versiering behaald in Big Run!",
+            "ru_RU": "\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u0443\u043a\u0440\u0430\u0448\u0435\u043d\u0438\u0435 \u0432 Big Run!",
+            "it_IT": "Ottenuta decorazione d'oro nella Big Run",
+            "ja_JP": "\u30d3\u30c3\u30b0\u30e9\u30f3\u3067\u91d1\u306e\u30aa\u30ad\u30e2\u30ce\u3092\u3082\u3089\u3063\u305f"
         },
         "id": 290,
         "internal": "Badge_CoopBigRunTrophy_Lv02"
@@ -8681,5 +8681,1031 @@
         },
         "id": 456,
         "internal": "Badge_WeaponLevel_Stringer_Normal_01_Lv01"
+    },
+    {
+        "name": "Won 10 Straight Anarchy Battles (Series)",
+        "image": "../common/assets/img/badges/Badge_ChallengeWinStreak_Lv00.png",
+        "localizedName": {
+            "en_GB": "Won 10 Straight Anarchy Battles (Series)",
+            "en_US": "Won 10 Straight Anarchy Battles (Series)",
+            "es_ES": "\u00a1Has logrado 10 series de victorias en combates ca\u00f3ticos formales!",
+            "es_MX": "\u00a1Ganaste 10 series de combates ca\u00f3ticos formales!",
+            "fr_FR": "Dix matchs anarchie (s\u00e9rie) remport\u00e9s d'affil\u00e9e",
+            "fr_CA": "Dix matchs anarchie (s\u00e9rie) remport\u00e9s d'affil\u00e9e",
+            "de_DE": "10 Anarchie-Kampf (Serie)-Siege in Folge",
+            "nl_NL": "10 keer op rij een chaosgevechtsessie gewonnen!",
+            "ru_RU": "10 \u043f\u043e\u0431\u0435\u0434 \u043f\u043e\u0434\u0440\u044f\u0434 \u0432 \u0441\u0442\u0438\u0445\u0438\u0439\u043d\u044b\u0445 \u0431\u043e\u044f\u0445 (\u0441\u0435\u0440\u0438\u044f)!",
+            "it_IT": "Vinte 10 partite anarchiche di fila (Serie)",
+            "ja_JP": "\u30d0\u30f3\u30ab\u30e9\u30de\u30c3\u30c1\uff08\u30c1\u30e3\u30ec\u30f3\u30b8\uff09\u3067\uff11\uff10\u56de\u52dd\u3061\u306c\u3051\u3057\u305f"
+        },
+        "id": 457,
+        "internal": "Badge_ChallengeWinStreak_Lv00"
+    },
+    {
+        "name": "Won 50 Straight Anarchy Battles (Series)",
+        "image": "../common/assets/img/badges/Badge_ChallengeWinStreak_Lv01.png",
+        "localizedName": {
+            "en_GB": "Won 50 Straight Anarchy Battles (Series)",
+            "en_US": "Won 50 Straight Anarchy Battles (Series)",
+            "es_ES": "\u00a1Has logrado 50 series de victorias en combates ca\u00f3ticos formales!",
+            "es_MX": "\u00a1Ganaste 50 series de combates ca\u00f3ticos formales!",
+            "fr_FR": "50 matchs anarchie (s\u00e9rie) remport\u00e9s d'affil\u00e9e",
+            "fr_CA": "50 matchs anarchie (s\u00e9rie) remport\u00e9s d'affil\u00e9e",
+            "de_DE": "50 Anarchie-Kampf (Serie)-Siege in Folge",
+            "nl_NL": "50 keer op rij een chaosgevechtsessie gewonnen!",
+            "ru_RU": "50 \u043f\u043e\u0431\u0435\u0434 \u043f\u043e\u0434\u0440\u044f\u0434 \u0432 \u0441\u0442\u0438\u0445\u0438\u0439\u043d\u044b\u0445 \u0431\u043e\u044f\u0445 (\u0441\u0435\u0440\u0438\u044f)!",
+            "it_IT": "Vinte 50 partite anarchiche di fila (Serie)",
+            "ja_JP": "\u30d0\u30f3\u30ab\u30e9\u30de\u30c3\u30c1\uff08\u30c1\u30e3\u30ec\u30f3\u30b8\uff09\u3067\uff15\uff10\u56de\u52dd\u3061\u306c\u3051\u3057\u305f"
+        },
+        "id": 458,
+        "internal": "Badge_ChallengeWinStreak_Lv01"
+    },
+    {
+        "name": "Won 250 Straight Anarchy Battles (Series)",
+        "image": "../common/assets/img/badges/Badge_ChallengeWinStreak_Lv02.png",
+        "localizedName": {
+            "en_GB": "Won 250 Straight Anarchy Battles (Series)",
+            "en_US": "Won 250 Straight Anarchy Battles (Series)",
+            "es_ES": "\u00a1Has logrado 250 series de victorias en combates ca\u00f3ticos formales!",
+            "es_MX": "\u00a1Ganaste 250 series de combates ca\u00f3ticos formales!",
+            "fr_FR": "250 matchs anarchie (s\u00e9rie) remport\u00e9s d'affil\u00e9e",
+            "fr_CA": "250 matchs anarchie (s\u00e9rie) remport\u00e9s d'affil\u00e9e",
+            "de_DE": "250 Anarchie-Kampf (Serie)-Siege in Folge",
+            "nl_NL": "250 keer op rij een chaosgevechtsessie gewonnen!",
+            "ru_RU": "250 \u043f\u043e\u0431\u0435\u0434 \u043f\u043e\u0434\u0440\u044f\u0434 \u0432 \u0441\u0442\u0438\u0445\u0438\u0439\u043d\u044b\u0445 \u0431\u043e\u044f\u0445 (\u0441\u0435\u0440\u0438\u044f)!",
+            "it_IT": "Vinte 250 partite anarchiche di fila (Serie)",
+            "ja_JP": "\u30d0\u30f3\u30ab\u30e9\u30de\u30c3\u30c1\uff08\u30c1\u30e3\u30ec\u30f3\u30b8\uff09\u3067\uff12\uff15\uff10\u56de\u52dd\u3061\u306c\u3051\u3057\u305f"
+        },
+        "id": 459,
+        "internal": "Badge_ChallengeWinStreak_Lv02"
+    },
+    {
+        "name": "Megalodontia Splats x 10",
+        "image": "../common/assets/img/badges/Badge_CoopBossKillNum_SakeJaw_Lv00.png",
+        "localizedName": {
+            "en_GB": "Megalodontia Splats x 10",
+            "en_US": "Megalodontia Splats x 10",
+            "es_ES": "Has eliminado 10 salm\u00f3nidos de tipo Megalodoncio.",
+            "es_MX": "Eliminaste 10 salm\u00f3nidos de tipo Megalodoncio.",
+            "fr_FR": "Salmodon : 10 sp\u00e9cimens vaincus",
+            "fr_CA": "Salmodon : 10 sp\u00e9cimens vaincus",
+            "de_DE": "Kataklysmaul \u00d710 besiegt!",
+            "nl_NL": "10 keer een Beugelbakkes verslagen!",
+            "ru_RU": "10 \u043f\u043b\u044e\u0445\u043e\u0432: \u043c\u0435\u0433\u0430\u043b\u043e\u0434\u0435\u043d\u0442",
+            "it_IT": "10 Salmonarchi sconfitti (tipo: Mascello)",
+            "ja_JP": "\u30b8\u30e7\u30fc\u3092\uff11\uff10\u4f53\u5012\u3057\u305f"
+        },
+        "id": 460,
+        "internal": "Badge_CoopBossKillNum_SakeJaw_Lv00"
+    },
+    {
+        "name": "Megalodontia Splats x 100",
+        "image": "../common/assets/img/badges/Badge_CoopBossKillNum_SakeJaw_Lv01.png",
+        "localizedName": {
+            "en_GB": "Megalodontia Splats x 100",
+            "en_US": "Megalodontia Splats x 100",
+            "es_ES": "Has eliminado 100 salm\u00f3nidos de tipo Megalodoncio.",
+            "es_MX": "Eliminaste 100 salm\u00f3nidos de tipo Megalodoncio.",
+            "fr_FR": "Salmodon : 100 sp\u00e9cimens vaincus",
+            "fr_CA": "Salmodon : 100 sp\u00e9cimens vaincus",
+            "de_DE": "Kataklysmaul \u00d7100 besiegt!",
+            "nl_NL": "100 keer een Beugelbakkes verslagen!",
+            "ru_RU": "100 \u043f\u043b\u044e\u0445\u043e\u0432: \u043c\u0435\u0433\u0430\u043b\u043e\u0434\u0435\u043d\u0442",
+            "it_IT": "100 Salmonarchi sconfitti (tipo: Mascello)",
+            "ja_JP": "\u30b8\u30e7\u30fc\u3092\uff11\uff10\uff10\u4f53\u5012\u3057\u305f"
+        },
+        "id": 461,
+        "internal": "Badge_CoopBossKillNum_SakeJaw_Lv01"
+    },
+    {
+        "name": "Megalodontia Splats x 1,000",
+        "image": "../common/assets/img/badges/Badge_CoopBossKillNum_SakeJaw_Lv02.png",
+        "localizedName": {
+            "en_GB": "Megalodontia Splats x 1,000",
+            "en_US": "Megalodontia Splats x 1,000",
+            "es_ES": "Has eliminado 1000 salm\u00f3nidos de tipo Megalodoncio.",
+            "es_MX": "Eliminaste 1000 salm\u00f3nidos de tipo Megalodoncio.",
+            "fr_FR": "Salmodon : 1 000 sp\u00e9cimens vaincus",
+            "fr_CA": "Salmodon : 1000 sp\u00e9cimens vaincus",
+            "de_DE": "Kataklysmaul \u00d71000 besiegt!",
+            "nl_NL": "1000 keer een Beugelbakkes verslagen!",
+            "ru_RU": "1000 \u043f\u043b\u044e\u0445\u043e\u0432: \u043c\u0435\u0433\u0430\u043b\u043e\u0434\u0435\u043d\u0442",
+            "it_IT": "1000 Salmonarchi sconfitti (tipo: Mascello)",
+            "ja_JP": "\u30b8\u30e7\u30fc\u3092\uff11\uff10\uff10\uff10\u4f53\u5012\u3057\u305f"
+        },
+        "id": 462,
+        "internal": "Badge_CoopBossKillNum_SakeJaw_Lv02"
+    },
+    {
+        "name": "4\u2605 Custom Blaster User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Blaster_Middle_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Custom Blaster User",
+            "en_US": "4\u2605 Custom Blaster User",
+            "es_ES": "Tu destreza con Devastador SP ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Lanzamotas adaptado",
+            "fr_FR": "\u00c9clablaster modifi\u00e9 : niveau 4\u2605 atteint",
+            "fr_CA": "\u00c9clablasteur modifi\u00e9 : niveau 4\u2605 atteint",
+            "de_DE": "Blaster SE: 4 Sterne erreicht!",
+            "nl_NL": "Gemodde Klodderblaster: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0411\u043b\u0430\u0441\u0442\u0435\u0440 \u00ab\u041f\u043e\u043d\u0442\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Blaster CM: 4\u2605",
+            "ja_JP": "\u30db\u30c3\u30c8\u30d6\u30e9\u30b9\u30bf\u30fc\u30ab\u30b9\u30bf\u30e0\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 463,
+        "internal": "Badge_WeaponLevel_Blaster_Middle_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Custom Blaster User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Blaster_Middle_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Custom Blaster User",
+            "en_US": "5\u2605 Custom Blaster User",
+            "es_ES": "Tu destreza con Devastador SP ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Lanzamotas adaptado",
+            "fr_FR": "\u00c9clablaster modifi\u00e9 : niveau 5\u2605 atteint",
+            "fr_CA": "\u00c9clablasteur modifi\u00e9 : niveau 5\u2605 atteint",
+            "de_DE": "Blaster SE: 5 Sterne erreicht!",
+            "nl_NL": "Gemodde Klodderblaster: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0411\u043b\u0430\u0441\u0442\u0435\u0440 \u00ab\u041f\u043e\u043d\u0442\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Blaster CM: 5\u2605",
+            "ja_JP": "\u30db\u30c3\u30c8\u30d6\u30e9\u30b9\u30bf\u30fc\u30ab\u30b9\u30bf\u30e0\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 464,
+        "internal": "Badge_WeaponLevel_Blaster_Middle_01_Lv01"
+    },
+    {
+        "name": "4\u2605 S-BLAST '91 User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Blaster_Precision_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 S-BLAST '91 User",
+            "en_US": "4\u2605 S-BLAST '91 User",
+            "es_ES": "Tu destreza con D-VAST 91 ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con L-MOT 91",
+            "fr_FR": "S-Blaster '91 : niveau 4\u2605 atteint",
+            "fr_CA": "S-Blasteur '91 : niveau 4\u2605 atteint",
+            "de_DE": "S-BLAST91: 4 Sterne erreicht!",
+            "nl_NL": "S-BLAST '91: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00abS-BLAST 91\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "S-BLAST91: 4\u2605",
+            "ja_JP": "S-BLAST91\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 465,
+        "internal": "Badge_WeaponLevel_Blaster_Precision_01_Lv00"
+    },
+    {
+        "name": "5\u2605 S-BLAST '91 User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Blaster_Precision_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 S-BLAST '91 User",
+            "en_US": "5\u2605 S-BLAST '91 User",
+            "es_ES": "Tu destreza con D-VAST 91 ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con L-MOT 91",
+            "fr_FR": "S-Blaster '91 : niveau 5\u2605 atteint",
+            "fr_CA": "S-Blasteur '91 : niveau 5\u2605 atteint",
+            "de_DE": "S-BLAST91: 5 Sterne erreicht!",
+            "nl_NL": "S-BLAST '91: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00abS-BLAST 91\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "S-BLAST91: 5\u2605",
+            "ja_JP": "S-BLAST91\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 466,
+        "internal": "Badge_WeaponLevel_Blaster_Precision_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Painbrush Nouveau User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Brush_Heavy_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Painbrush Nouveau User",
+            "en_US": "4\u2605 Painbrush Nouveau User",
+            "es_ES": "Tu destreza con Brocha abanico maestra ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Pincel abanico maestro",
+            "fr_FR": "\u00c9pinceau \u00e9ca\u00efe nuanc\u00e9 : niveau 4\u2605 atteint",
+            "fr_CA": "\u00c9pinceau \u00e9ca\u00efe nuanc\u00e9 : niveau 4\u2605 atteint",
+            "de_DE": "F\u00e4cherf\u00e4rber Fresco: 4 Sterne erreicht!",
+            "nl_NL": "Kwistkwast Nouveau: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0412\u0435\u0435\u0440\u043e\u043a\u0438\u0441\u0442\u044c \u00ab\u041d\u0443\u0412\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Tonnoretto master: 4\u2605",
+            "ja_JP": "\u30d5\u30a3\u30f3\u30bb\u30f3\u30c8\u30fb\u30d2\u30e5\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 467,
+        "internal": "Badge_WeaponLevel_Brush_Heavy_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Painbrush Nouveau User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Brush_Heavy_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Painbrush Nouveau User",
+            "en_US": "5\u2605 Painbrush Nouveau User",
+            "es_ES": "Tu destreza con Brocha abanico maestra ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Pincel abanico maestro",
+            "fr_FR": "\u00c9pinceau \u00e9ca\u00efe nuanc\u00e9 : niveau 5\u2605 atteint",
+            "fr_CA": "\u00c9pinceau \u00e9ca\u00efe nuanc\u00e9 : niveau 5\u2605 atteint",
+            "de_DE": "F\u00e4cherf\u00e4rber Fresco: 5 Sterne erreicht!",
+            "nl_NL": "Kwistkwast Nouveau: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0412\u0435\u0435\u0440\u043e\u043a\u0438\u0441\u0442\u044c \u00ab\u041d\u0443\u0412\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Tonnoretto master: 5\u2605",
+            "ja_JP": "\u30d5\u30a3\u30f3\u30bb\u30f3\u30c8\u30fb\u30d2\u30e5\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 468,
+        "internal": "Badge_WeaponLevel_Brush_Heavy_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Snipewriter 5B User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Charger_Pencil_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Snipewriter 5B User",
+            "en_US": "4\u2605 Snipewriter 5B User",
+            "es_ES": "Tu destreza con Cargaminas 5B ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Cargaminas 5B",
+            "fr_FR": "Crayon X - 5B : niveau 4\u2605 atteint",
+            "fr_CA": "Crayon X - 5B : niveau 4\u2605 atteint",
+            "de_DE": "R-BLR/5B: 4 Sterne erreicht!",
+            "nl_NL": "Schotlood 5B: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041f\u0430\u0442\u0440\u043e\u043d\u0434\u0430\u0448 5\u041c\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Lapis cecchino 5B: 4\u2605",
+            "ja_JP": "R-PEN/5B\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 469,
+        "internal": "Badge_WeaponLevel_Charger_Pencil_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Snipewriter 5B User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Charger_Pencil_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Snipewriter 5B User",
+            "en_US": "5\u2605 Snipewriter 5B User",
+            "es_ES": "Tu destreza con Cargaminas 5B ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Cargaminas 5B",
+            "fr_FR": "Crayon X - 5B : niveau 5\u2605 atteint",
+            "fr_CA": "Crayon X - 5B : niveau 5\u2605 atteint",
+            "de_DE": "R-BLR/5B: 5 Sterne erreicht!",
+            "nl_NL": "Schotlood 5B: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041f\u0430\u0442\u0440\u043e\u043d\u0434\u0430\u0448 5\u041c\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Lapis cecchino 5B: 5\u2605",
+            "ja_JP": "R-PEN/5B\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 470,
+        "internal": "Badge_WeaponLevel_Charger_Pencil_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Enperry Splat Dualies User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Maneuver_Normal_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Enperry Splat Dualies User",
+            "en_US": "4\u2605 Enperry Splat Dualies User",
+            "es_ES": "Tu destreza con Difusor dual B ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Difusor dual Emperi",
+            "fr_FR": "Double encreur griff\u00e9 : niveau 4\u2605 atteint",
+            "fr_CA": "Double encreur DUX : niveau 4\u2605 atteint",
+            "de_DE": "Enperry-Klecks-Doppler: 4 Sterne erreicht!",
+            "nl_NL": "Enperry Dubbelknallers: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u0443\u0440\u0442\u043e\u043c\u0435\u0442\u044b \u00ab\u041a.\u041a.\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Repolper duplo logo: 4\u2605",
+            "ja_JP": "\u30b9\u30d7\u30e9\u30de\u30cb\u30e5\u30fc\u30d0\u30fc\u30b3\u30e9\u30dc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 471,
+        "internal": "Badge_WeaponLevel_Maneuver_Normal_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Enperry Splat Dualies User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Maneuver_Normal_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Enperry Splat Dualies User",
+            "en_US": "5\u2605 Enperry Splat Dualies User",
+            "es_ES": "Tu destreza con Difusor dual B ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Difusor dual Emperi",
+            "fr_FR": "Double encreur griff\u00e9 : niveau 5\u2605 atteint",
+            "fr_CA": "Double encreur DUX : niveau 5\u2605 atteint",
+            "de_DE": "Enperry-Klecks-Doppler: 5 Sterne erreicht!",
+            "nl_NL": "Enperry Dubbelknallers: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u0443\u0440\u0442\u043e\u043c\u0435\u0442\u044b \u00ab\u041a.\u041a.\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Repolper duplo logo: 5\u2605",
+            "ja_JP": "\u30b9\u30d7\u30e9\u30de\u30cb\u30e5\u30fc\u30d0\u30fc\u30b3\u30e9\u30dc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 472,
+        "internal": "Badge_WeaponLevel_Maneuver_Normal_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Neo Splatana Stamper User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Saber_Normal_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Neo Splatana Stamper User",
+            "en_US": "4\u2605 Neo Splatana Stamper User",
+            "es_ES": "Tu destreza con Azotintador pro maestro ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Azotintador Pro neo",
+            "fr_FR": "\u00c9clatana d'estampe N\u00e9o : niveau 4\u2605 atteint",
+            "fr_CA": "\u00c9clatana d'estampe n\u00e9o : niveau 4\u2605 atteint",
+            "de_DE": "Stempel-Splatana Neo: 4 Sterne erreicht!",
+            "nl_NL": "Stempelzwieper Neo: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u043b\u0430\u0442-\u043f\u0435\u0447\u0430\u0442\u0435\u043b\u044c \u00ab\u041d\u0435\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Splattalama Neo: 4\u2605",
+            "ja_JP": "\u30b8\u30e0\u30ef\u30a4\u30d1\u30fc\u30fb\u30d2\u30e5\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 473,
+        "internal": "Badge_WeaponLevel_Saber_Normal_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Neo Splatana Stamper User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Saber_Normal_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Neo Splatana Stamper User",
+            "en_US": "5\u2605 Neo Splatana Stamper User",
+            "es_ES": "Tu destreza con Azotintador pro maestro ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Azotintador Pro neo",
+            "fr_FR": "\u00c9clatana d'estampe N\u00e9o : niveau 5\u2605 atteint",
+            "fr_CA": "\u00c9clatana d'estampe n\u00e9o : niveau 5\u2605 atteint",
+            "de_DE": "Stempel-Splatana Neo: 5 Sterne erreicht!",
+            "nl_NL": "Stempelzwieper Neo: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u043b\u0430\u0442-\u043f\u0435\u0447\u0430\u0442\u0435\u043b\u044c \u00ab\u041d\u0435\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Splattalama Neo: 5\u2605",
+            "ja_JP": "\u30b8\u30e0\u30ef\u30a4\u30d1\u30fc\u30fb\u30d2\u30e5\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 474,
+        "internal": "Badge_WeaponLevel_Saber_Normal_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Undercover Sorella Brella User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shelter_Compact_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Undercover Sorella Brella User",
+            "en_US": "4\u2605 Undercover Sorella Brella User",
+            "es_ES": "Tu destreza con Paratintas cl\u00e1sico B ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Paratintas discreto Sorella",
+            "fr_FR": "Para-encre espion Sorella : niveau 4\u2605 atteint",
+            "fr_CA": "Para-encre espion Sorella : niveau 4\u2605 atteint",
+            "de_DE": "Sorella-UnderCover: 4 Sterne erreicht!",
+            "nl_NL": "Sorella Paraplenzer: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0428\u043f\u0438\u043e\u043d\u0441\u043a\u0438\u0439 \u0437\u043e\u043d\u0442 \u00ab\u0420\u043e\u0434\u0438\u0447\u0447\u0438\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Bombrello Solerra: 4\u2605",
+            "ja_JP": "\u30b9\u30d1\u30a4\u30ac\u30b8\u30a7\u30c3\u30c8\u30bd\u30ec\u30fc\u30e9\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 475,
+        "internal": "Badge_WeaponLevel_Shelter_Compact_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Undercover Sorella Brella User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shelter_Compact_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Undercover Sorella Brella User",
+            "en_US": "5\u2605 Undercover Sorella Brella User",
+            "es_ES": "Tu destreza con Paratintas cl\u00e1sico B ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Paratintas discreto Sorella",
+            "fr_FR": "Para-encre espion Sorella : niveau 5\u2605 atteint",
+            "fr_CA": "Para-encre espion Sorella : niveau 5\u2605 atteint",
+            "de_DE": "Sorella-UnderCover: 5 Sterne erreicht!",
+            "nl_NL": "Sorella Paraplenzer: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0428\u043f\u0438\u043e\u043d\u0441\u043a\u0438\u0439 \u0437\u043e\u043d\u0442 \u00ab\u0420\u043e\u0434\u0438\u0447\u0447\u0438\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Bombrello Solerra: 5\u2605",
+            "ja_JP": "\u30b9\u30d1\u30a4\u30ac\u30b8\u30a7\u30c3\u30c8\u30bd\u30ec\u30fc\u30e9\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 476,
+        "internal": "Badge_WeaponLevel_Shelter_Compact_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Foil Squeezer User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_Flash_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Foil Squeezer User",
+            "en_US": "4\u2605 Foil Squeezer User",
+            "es_ES": "Tu destreza con Tintopresor B ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Tintopresor Foil",
+            "fr_FR": "Compresseur alu : niveau 4\u2605 atteint",
+            "fr_CA": "Compresseur aluminium : niveau 4\u2605 atteint",
+            "de_DE": "Quetscher Fol: 4 Sterne erreicht!",
+            "nl_NL": "Foil Floeper: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0411\u0443\u0442\u044b\u043b\u044f\u0442\u043e\u0440 \u00ab\u0411\u043b\u0435\u0441\u043a\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Strizzer B: 4\u2605",
+            "ja_JP": "\u30dc\u30c8\u30eb\u30ac\u30a4\u30b6\u30fc\u30d5\u30a9\u30a4\u30eb\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 477,
+        "internal": "Badge_WeaponLevel_Shooter_Flash_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Foil Squeezer User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_Flash_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Foil Squeezer User",
+            "en_US": "5\u2605 Foil Squeezer User",
+            "es_ES": "Tu destreza con Tintopresor B ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Tintopresor Foil",
+            "fr_FR": "Compresseur alu : niveau 5\u2605 atteint",
+            "fr_CA": "Compresseur aluminium : niveau 5\u2605 atteint",
+            "de_DE": "Quetscher Fol: 5 Sterne erreicht!",
+            "nl_NL": "Foil Floeper: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0411\u0443\u0442\u044b\u043b\u044f\u0442\u043e\u0440 \u00ab\u0411\u043b\u0435\u0441\u043a\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Strizzer B: 5\u2605",
+            "ja_JP": "\u30dc\u30c8\u30eb\u30ac\u30a4\u30b6\u30fc\u30d5\u30a9\u30a4\u30eb\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 478,
+        "internal": "Badge_WeaponLevel_Shooter_Flash_01_Lv01"
+    },
+    {
+        "name": "4\u2605 REEF-LUX 450 Deco User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Stringer_Short_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 REEF-LUX 450 Deco User",
+            "en_US": "4\u2605 REEF-LUX 450 Deco User",
+            "es_ES": "Tu destreza con AR-CR0 450 DX ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con AR-CR0 450 chic",
+            "fr_FR": "Coralux 450 chic : niveau 4\u2605 atteint",
+            "fr_CA": "Coralux 450 chic : niveau 4\u2605 atteint",
+            "de_DE": "LACT-450 Deko: 4 Sterne erreicht!",
+            "nl_NL": "RIF-LEX 450 Deco: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041a\u041e-\u0420\u0410\u041b\u041b 450 \u00ab\u0414\u0435\u043a\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "ARCO-RAL 450 DX: 4\u2605",
+            "ja_JP": "LACT-450\u30c7\u30b3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 479,
+        "internal": "Badge_WeaponLevel_Stringer_Short_01_Lv00"
+    },
+    {
+        "name": "5\u2605 REEF-LUX 450 Deco User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Stringer_Short_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 REEF-LUX 450 Deco User",
+            "en_US": "5\u2605 REEF-LUX 450 Deco User",
+            "es_ES": "Tu destreza con AR-CR0 450 DX ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con AR-CR0 450 chic",
+            "fr_FR": "Coralux 450 chic : niveau 5\u2605 atteint",
+            "fr_CA": "Coralux 450 chic : niveau 5\u2605 atteint",
+            "de_DE": "LACT-450 Deko: 5 Sterne erreicht!",
+            "nl_NL": "RIF-LEX 450 Deco: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041a\u041e-\u0420\u0410\u041b\u041b 450 \u00ab\u0414\u0435\u043a\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "ARCO-RAL 450 DX: 5\u2605",
+            "ja_JP": "LACT-450\u30c7\u30b3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 480,
+        "internal": "Badge_WeaponLevel_Stringer_Short_01_Lv01"
+    },
+    {
+        "name": "Won 15 Straight X Battles with X Power at 2,000+",
+        "image": "../common/assets/img/badges/Badge_WinCount_HighXPower_Atlantic_Lv00.png",
+        "localizedName": {
+            "en_GB": "Won 15 Straight X Battles with X Power at 2,000+",
+            "en_US": "Won 15 Straight X Battles with X Power at 2,000+",
+            "es_ES": "\u00a1Has logrado 15 series de victorias en combates X alcanzando 2000 puntos de energ\u00eda X!",
+            "es_MX": "\u00a1Ganaste 15 series de combates X con 2000+ puntos de fuerza X!",
+            "fr_FR": "15 matchs X remport\u00e9s d'affil\u00e9e avec un X Power d'au moins 2 000",
+            "fr_CA": "15 matchs X remport\u00e9s d'affil\u00e9e avec une Force X d'au moins 2000",
+            "de_DE": "15 X-Kampf-Siege \u00fcber 2000 X-Power in Folge",
+            "nl_NL": "15 keer op rij een X-gevecht gewonnen met een X-kracht van meer dan 2000!",
+            "ru_RU": "15 \u043f\u043e\u0431\u0435\u0434 \u043f\u043e\u0434\u0440\u044f\u0434 \u0432 \u0431\u043e\u044f\u0445 X \u0441 \u0441\u0438\u043b\u043e\u0439 X \u043d\u0435 \u043c\u0435\u043d\u044c\u0448\u0435 2000!",
+            "it_IT": "Vinte 15 partite X di fila con energia X a 2000 o pi\u00f9",
+            "ja_JP": "X\u30d1\u30ef\u30fc\uff12\uff10\uff10\uff10\u4ee5\u4e0a\u3067X\u30de\u30c3\u30c1\u3092\uff11\uff15\u56de\u52dd\u3061\u306c\u3051\u3057\u305f"
+        },
+        "id": 481,
+        "internal": "Badge_WinCount_HighXPower_Atlantic_Lv00"
+    },
+    {
+        "name": "Won 70 Straight X Battles with X Power at 2,000+",
+        "image": "../common/assets/img/badges/Badge_WinCount_HighXPower_Atlantic_Lv01.png",
+        "localizedName": {
+            "en_GB": "Won 70 Straight X Battles with X Power at 2,000+",
+            "en_US": "Won 70 Straight X Battles with X Power at 2,000+",
+            "es_ES": "\u00a1Has logrado 70 series de victorias en combates X alcanzando 2000 puntos de energ\u00eda X!",
+            "es_MX": "\u00a1Ganaste 70 series de combates X con 2000+ puntos de fuerza X!",
+            "fr_FR": "70 matchs X remport\u00e9s d'affil\u00e9e avec un X Power d'au moins 2 000",
+            "fr_CA": "70 matchs X remport\u00e9s d'affil\u00e9e avec une Force X d'au moins 2000",
+            "de_DE": "70 X-Kampf-Siege \u00fcber 2000 X-Power in Folge",
+            "nl_NL": "70 keer op rij een X-gevecht gewonnen met een X-kracht van meer dan 2000!",
+            "ru_RU": "70 \u043f\u043e\u0431\u0435\u0434 \u043f\u043e\u0434\u0440\u044f\u0434 \u0432 \u0431\u043e\u044f\u0445 X \u0441 \u0441\u0438\u043b\u043e\u0439 X \u043d\u0435 \u043c\u0435\u043d\u044c\u0448\u0435 2000!",
+            "it_IT": "Vinte 70 partite X di fila con energia X a 2000 o pi\u00f9",
+            "ja_JP": "X\u30d1\u30ef\u30fc\uff12\uff10\uff10\uff10\u4ee5\u4e0a\u3067X\u30de\u30c3\u30c1\u3092\uff17\uff10\u56de\u52dd\u3061\u306c\u3051\u3057\u305f"
+        },
+        "id": 482,
+        "internal": "Badge_WinCount_HighXPower_Atlantic_Lv01"
+    },
+    {
+        "name": "Won 350 Straight X Battles with X Power at 2,000+",
+        "image": "../common/assets/img/badges/Badge_WinCount_HighXPower_Atlantic_Lv02.png",
+        "localizedName": {
+            "en_GB": "Won 350 Straight X Battles with X Power at 2,000+",
+            "en_US": "Won 350 Straight X Battles with X Power at 2,000+",
+            "es_ES": "\u00a1Has logrado 350 series de victorias en combates X alcanzando 2000 puntos de energ\u00eda X!",
+            "es_MX": "\u00a1Ganaste 350 series de combates X con 2000+ puntos de fuerza X!",
+            "fr_FR": "350 matchs X remport\u00e9s d'affil\u00e9e avec un X Power d'au moins 2 000",
+            "fr_CA": "350 matchs X remport\u00e9s d'affil\u00e9e avec une Force X d'au moins 2000",
+            "de_DE": "350 X-Kampf-Siege \u00fcber 2000 X-Power in Folge",
+            "nl_NL": "350 keer op rij een X-gevecht gewonnen met een X-kracht van meer dan 2000!",
+            "ru_RU": "350 \u043f\u043e\u0431\u0435\u0434 \u043f\u043e\u0434\u0440\u044f\u0434 \u0432 \u0431\u043e\u044f\u0445 X \u0441 \u0441\u0438\u043b\u043e\u0439 X \u043d\u0435 \u043c\u0435\u043d\u044c\u0448\u0435 2000!",
+            "it_IT": "Vinte 350 partite X di fila con energia X a 2000 o pi\u00f9",
+            "ja_JP": "X\u30d1\u30ef\u30fc\uff12\uff10\uff10\uff10\u4ee5\u4e0a\u3067X\u30de\u30c3\u30c1\u3092\uff13\uff15\uff10\u56de\u52dd\u3061\u306c\u3051\u3057\u305f"
+        },
+        "id": 483,
+        "internal": "Badge_WinCount_HighXPower_Atlantic_Lv02"
+    },
+    {
+        "name": "Won 15 Straight X Battles with X Power at 2,000+",
+        "image": "../common/assets/img/badges/Badge_WinCount_HighXPower_Pacific_Lv00.png",
+        "localizedName": {
+            "en_GB": "Won 15 Straight X Battles with X Power at 2,000+",
+            "en_US": "Won 15 Straight X Battles with X Power at 2,000+",
+            "es_ES": "\u00a1Has logrado 15 series de victorias en combates X alcanzando 2000 puntos de energ\u00eda X!",
+            "es_MX": "\u00a1Ganaste 15 series de combates X con 2000+ puntos de fuerza X!",
+            "fr_FR": "15 matchs X remport\u00e9s d'affil\u00e9e avec un X Power d'au moins 2 000",
+            "fr_CA": "15 matchs X remport\u00e9s d'affil\u00e9e avec une Force X d'au moins 2000",
+            "de_DE": "15 X-Kampf-Siege \u00fcber 2000 X-Power in Folge",
+            "nl_NL": "15 keer op rij een X-gevecht gewonnen met een X-kracht van meer dan 2000!",
+            "ru_RU": "15 \u043f\u043e\u0431\u0435\u0434 \u043f\u043e\u0434\u0440\u044f\u0434 \u0432 \u0431\u043e\u044f\u0445 X \u0441 \u0441\u0438\u043b\u043e\u0439 X \u043d\u0435 \u043c\u0435\u043d\u044c\u0448\u0435 2000!",
+            "it_IT": "Vinte 15 partite X di fila con energia X a 2000 o pi\u00f9",
+            "ja_JP": "X\u30d1\u30ef\u30fc\uff12\uff10\uff10\uff10\u4ee5\u4e0a\u3067X\u30de\u30c3\u30c1\u3092\uff11\uff15\u56de\u52dd\u3061\u306c\u3051\u3057\u305f"
+        },
+        "id": 484,
+        "internal": "Badge_WinCount_HighXPower_Pacific_Lv00"
+    },
+    {
+        "name": "Won 70 Straight X Battles with X Power at 2,000+",
+        "image": "../common/assets/img/badges/Badge_WinCount_HighXPower_Pacific_Lv01.png",
+        "localizedName": {
+            "en_GB": "Won 70 Straight X Battles with X Power at 2,000+",
+            "en_US": "Won 70 Straight X Battles with X Power at 2,000+",
+            "es_ES": "\u00a1Has logrado 70 series de victorias en combates X alcanzando 2000 puntos de energ\u00eda X!",
+            "es_MX": "\u00a1Ganaste 70 series de combates X con 2000+ puntos de fuerza X!",
+            "fr_FR": "70 matchs X remport\u00e9s d'affil\u00e9e avec un X Power d'au moins 2 000",
+            "fr_CA": "70 matchs X remport\u00e9s d'affil\u00e9e avec une Force X d'au moins 2000",
+            "de_DE": "70 X-Kampf-Siege \u00fcber 2000 X-Power in Folge",
+            "nl_NL": "70 keer op rij een X-gevecht gewonnen met een X-kracht van meer dan 2000!",
+            "ru_RU": "70 \u043f\u043e\u0431\u0435\u0434 \u043f\u043e\u0434\u0440\u044f\u0434 \u0432 \u0431\u043e\u044f\u0445 X \u0441 \u0441\u0438\u043b\u043e\u0439 X \u043d\u0435 \u043c\u0435\u043d\u044c\u0448\u0435 2000!",
+            "it_IT": "Vinte 70 partite X di fila con energia X a 2000 o pi\u00f9",
+            "ja_JP": "X\u30d1\u30ef\u30fc\uff12\uff10\uff10\uff10\u4ee5\u4e0a\u3067X\u30de\u30c3\u30c1\u3092\uff17\uff10\u56de\u52dd\u3061\u306c\u3051\u3057\u305f"
+        },
+        "id": 485,
+        "internal": "Badge_WinCount_HighXPower_Pacific_Lv01"
+    },
+    {
+        "name": "Won 350 Straight X Battles with X Power at 2,000+",
+        "image": "../common/assets/img/badges/Badge_WinCount_HighXPower_Pacific_Lv02.png",
+        "localizedName": {
+            "en_GB": "Won 350 Straight X Battles with X Power at 2,000+",
+            "en_US": "Won 350 Straight X Battles with X Power at 2,000+",
+            "es_ES": "\u00a1Has logrado 350 series de victorias en combates X alcanzando 2000 puntos de energ\u00eda X!",
+            "es_MX": "\u00a1Ganaste 350 series de combates X con 2000+ puntos de fuerza X!",
+            "fr_FR": "350 matchs X remport\u00e9s d'affil\u00e9e avec un X Power d'au moins 2 000",
+            "fr_CA": "350 matchs X remport\u00e9s d'affil\u00e9e avec une Force X d'au moins 2000",
+            "de_DE": "350 X-Kampf-Siege \u00fcber 2000 X-Power in Folge",
+            "nl_NL": "350 keer op rij een X-gevecht gewonnen met een X-kracht van meer dan 2000!",
+            "ru_RU": "350 \u043f\u043e\u0431\u0435\u0434 \u043f\u043e\u0434\u0440\u044f\u0434 \u0432 \u0431\u043e\u044f\u0445 X \u0441 \u0441\u0438\u043b\u043e\u0439 X \u043d\u0435 \u043c\u0435\u043d\u044c\u0448\u0435 2000!",
+            "it_IT": "Vinte 350 partite X di fila con energia X a 2000 o pi\u00f9",
+            "ja_JP": "X\u30d1\u30ef\u30fc\uff12\uff10\uff10\uff10\u4ee5\u4e0a\u3067X\u30de\u30c3\u30c1\u3092\uff13\uff15\uff10\u56de\u52dd\u3061\u306c\u3051\u3057\u305f"
+        },
+        "id": 486,
+        "internal": "Badge_WinCount_HighXPower_Pacific_Lv02"
+    },
+    {
+        "name": "30 Wins with Splattercolor Screen",
+        "image": "../common/assets/img/badges/Badge_WinCount_WeaponSp_SpChimney_Lv00.png",
+        "localizedName": {
+            "en_GB": "30 Wins with Splattercolor Screen",
+            "en_US": "30 Wins with Splattercolor Screen",
+            "es_ES": "Has logrado 30 victorias usando Pantintalla.",
+            "es_MX": "Lograste 30 victorias usando Muro marmoleado.",
+            "fr_FR": "Barri\u00e8re barbouill\u00e9e : 30 victoires remport\u00e9es",
+            "fr_CA": "Barri\u00e8re barbouill\u00e9e : 30 victoires remport\u00e9es",
+            "de_DE": "30 Siege mit Unsichtbarriere!",
+            "nl_NL": "30 overwinningen met PLED-scherm!",
+            "ru_RU": "30 \u043f\u043e\u0431\u0435\u0434 \u0441 \u043e\u0440\u0443\u0436\u0438\u0435\u043c \u00ab\u0417\u0430\u043b\u0438\u0432\u043d\u043e\u0439 \u0431\u0430\u0440\u044c\u0435\u0440\u00bb",
+            "it_IT": "Cortina ingannevole: 30 vittorie",
+            "ja_JP": "\u30b9\u30df\u30ca\u30ac\u30b7\u30fc\u30c8\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
+        },
+        "id": 487,
+        "internal": "Badge_WinCount_WeaponSp_SpChimney_Lv00"
+    },
+    {
+        "name": "180 Wins with Splattercolor Screen",
+        "image": "../common/assets/img/badges/Badge_WinCount_WeaponSp_SpChimney_Lv01.png",
+        "localizedName": {
+            "en_GB": "180 Wins with Splattercolor Screen",
+            "en_US": "180 Wins with Splattercolor Screen",
+            "es_ES": "Has logrado 180 victorias usando Pantintalla.",
+            "es_MX": "Lograste 180 victorias usando Muro marmoleado.",
+            "fr_FR": "Barri\u00e8re barbouill\u00e9e : 180 victoires remport\u00e9es",
+            "fr_CA": "Barri\u00e8re barbouill\u00e9e : 180 victoires remport\u00e9es",
+            "de_DE": "180 Siege mit Unsichtbarriere!",
+            "nl_NL": "180 overwinningen met PLED-scherm!",
+            "ru_RU": "180 \u043f\u043e\u0431\u0435\u0434 \u0441 \u043e\u0440\u0443\u0436\u0438\u0435\u043c \u00ab\u0417\u0430\u043b\u0438\u0432\u043d\u043e\u0439 \u0431\u0430\u0440\u044c\u0435\u0440\u00bb",
+            "it_IT": "Cortina ingannevole: 180 vittorie",
+            "ja_JP": "\u30b9\u30df\u30ca\u30ac\u30b7\u30fc\u30c8\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
+        },
+        "id": 488,
+        "internal": "Badge_WinCount_WeaponSp_SpChimney_Lv01"
+    },
+    {
+        "name": "1,200 Wins with Splattercolor Screen",
+        "image": "../common/assets/img/badges/Badge_WinCount_WeaponSp_SpChimney_Lv02.png",
+        "localizedName": {
+            "en_GB": "1,200 Wins with Splattercolor Screen",
+            "en_US": "1,200 Wins with Splattercolor Screen",
+            "es_ES": "Has logrado 1200 victorias usando Pantintalla.",
+            "es_MX": "Lograste 1200 victorias usando Muro marmoleado.",
+            "fr_FR": "Barri\u00e8re barbouill\u00e9e : 1 200 victoires remport\u00e9es",
+            "fr_CA": "Barri\u00e8re barbouill\u00e9e : 1200 victoires remport\u00e9es",
+            "de_DE": "1200 Siege mit Unsichtbarriere!",
+            "nl_NL": "1200 overwinningen met PLED-scherm!",
+            "ru_RU": "1200 \u043f\u043e\u0431\u0435\u0434 \u0441 \u043e\u0440\u0443\u0436\u0438\u0435\u043c \u00ab\u0417\u0430\u043b\u0438\u0432\u043d\u043e\u0439 \u0431\u0430\u0440\u044c\u0435\u0440\u00bb",
+            "it_IT": "Cortina ingannevole: 1200 vittorie",
+            "ja_JP": "\u30b9\u30df\u30ca\u30ac\u30b7\u30fc\u30c8\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
+        },
+        "id": 489,
+        "internal": "Badge_WinCount_WeaponSp_SpChimney_Lv02"
+    },
+    {
+        "name": "30 Wins with Triple Splashdown",
+        "image": "../common/assets/img/badges/Badge_WinCount_WeaponSp_SpPogo_Lv00.png",
+        "localizedName": {
+            "en_GB": "30 Wins with Triple Splashdown",
+            "en_US": "30 Wins with Triple Splashdown",
+            "es_ES": "Has logrado 30 victorias usando Pu\u00f1etazos explosivos.",
+            "es_MX": "Lograste 30 victorias usando Clavado triple.",
+            "fr_FR": "Triple choc chromatique : 30 victoires remport\u00e9es",
+            "fr_CA": "Triple choc chromatique : 30 victoires remport\u00e9es",
+            "de_DE": "30 Siege mit Tri-Tintenschock!",
+            "nl_NL": "30 overwinningen met Ultralanding!",
+            "ru_RU": "30 \u043f\u043e\u0431\u0435\u0434 \u0441 \u043e\u0440\u0443\u0436\u0438\u0435\u043c \u00ab\u0422\u0440\u043e\u0439\u043d\u043e\u0439 \u043c\u0435\u0433\u0430\u043f\u043b\u044e\u0445\u00bb",
+            "it_IT": "Triplo vernischianto: 30 vittorie",
+            "ja_JP": "\u30a6\u30eb\u30c8\u30e9\u30c1\u30e3\u30af\u30c1\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff13\uff10\u56de\u52dd\u5229\u3057\u305f"
+        },
+        "id": 490,
+        "internal": "Badge_WinCount_WeaponSp_SpPogo_Lv00"
+    },
+    {
+        "name": "180 Wins with Triple Splashdown",
+        "image": "../common/assets/img/badges/Badge_WinCount_WeaponSp_SpPogo_Lv01.png",
+        "localizedName": {
+            "en_GB": "180 Wins with Triple Splashdown",
+            "en_US": "180 Wins with Triple Splashdown",
+            "es_ES": "Has logrado 180 victorias usando Pu\u00f1etazos explosivos.",
+            "es_MX": "Lograste 180 victorias usando Clavado triple.",
+            "fr_FR": "Triple choc chromatique : 180 victoires remport\u00e9es",
+            "fr_CA": "Triple choc chromatique : 180 victoires remport\u00e9es",
+            "de_DE": "180 Siege mit Tri-Tintenschock!",
+            "nl_NL": "180 overwinningen met Ultralanding!",
+            "ru_RU": "180 \u043f\u043e\u0431\u0435\u0434 \u0441 \u043e\u0440\u0443\u0436\u0438\u0435\u043c \u00ab\u0422\u0440\u043e\u0439\u043d\u043e\u0439 \u043c\u0435\u0433\u0430\u043f\u043b\u044e\u0445\u00bb",
+            "it_IT": "Triplo vernischianto: 180 vittorie",
+            "ja_JP": "\u30a6\u30eb\u30c8\u30e9\u30c1\u30e3\u30af\u30c1\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff18\uff10\u56de\u52dd\u5229\u3057\u305f"
+        },
+        "id": 491,
+        "internal": "Badge_WinCount_WeaponSp_SpPogo_Lv01"
+    },
+    {
+        "name": "1,200 Wins with Triple Splashdown",
+        "image": "../common/assets/img/badges/Badge_WinCount_WeaponSp_SpPogo_Lv02.png",
+        "localizedName": {
+            "en_GB": "1,200 Wins with Triple Splashdown",
+            "en_US": "1,200 Wins with Triple Splashdown",
+            "es_ES": "Has logrado 1200 victorias usando Pu\u00f1etazos explosivos.",
+            "es_MX": "Lograste 1200 victorias usando Clavado triple.",
+            "fr_FR": "Triple choc chromatique : 1 200 victoires remport\u00e9es",
+            "fr_CA": "Triple choc chromatique : 1200 victoires remport\u00e9es",
+            "de_DE": "1200 Siege mit Tri-Tintenschock!",
+            "nl_NL": "1200 overwinningen met Ultralanding!",
+            "ru_RU": "1200 \u043f\u043e\u0431\u0435\u0434 \u0441 \u043e\u0440\u0443\u0436\u0438\u0435\u043c \u00ab\u0422\u0440\u043e\u0439\u043d\u043e\u0439 \u043c\u0435\u0433\u0430\u043f\u043b\u044e\u0445\u00bb",
+            "it_IT": "Triplo vernischianto: 1200 vittorie",
+            "ja_JP": "\u30a6\u30eb\u30c8\u30e9\u30c1\u30e3\u30af\u30c1\u3092\u4f7f\u3063\u3066\u30d0\u30c8\u30eb\u3067\uff11\uff12\uff10\uff10\u56de\u52dd\u5229\u3057\u305f"
+        },
+        "id": 492,
+        "internal": "Badge_WinCount_WeaponSp_SpPogo_Lv02"
+    },
+    {
+        "name": "Hit 2,000+ X Power",
+        "image": "../common/assets/img/badges/Badge_XPower_Atlantic_Lv00.png",
+        "localizedName": {
+            "en_GB": "Hit 2,000+ X Power",
+            "en_US": "Hit 2,000+ X Power",
+            "es_ES": "Has alcanzado 2000 puntos de energ\u00eda X.",
+            "es_MX": "Conseguiste m\u00e1s de 2000 puntos de fuerza X.",
+            "fr_FR": "2 000 points de X Power obtenus",
+            "fr_CA": "2000 points de Force X obtenus",
+            "de_DE": "2000 X-Power \u00fcbertroffen!",
+            "nl_NL": "Een X-kracht behaald van meer dan 2000!",
+            "ru_RU": "\u0421\u0438\u043b\u0430 X: 2000 \u0438\u043b\u0438 \u0431\u043e\u043b\u044c\u0448\u0435!",
+            "it_IT": "Raggiunti 2000 o pi\u00f9 punti di energia X",
+            "ja_JP": "X\u30d1\u30ef\u30fc\u304c\uff12\uff10\uff10\uff10\u4ee5\u4e0a\u306b\u306a\u3063\u305f"
+        },
+        "id": 493,
+        "internal": "Badge_XPower_Atlantic_Lv00"
+    },
+    {
+        "name": "Hit 2,000+ X Power",
+        "image": "../common/assets/img/badges/Badge_XPower_Pacific_Lv00.png",
+        "localizedName": {
+            "en_GB": "Hit 2,000+ X Power",
+            "en_US": "Hit 2,000+ X Power",
+            "es_ES": "Has alcanzado 2000 puntos de energ\u00eda X.",
+            "es_MX": "Conseguiste m\u00e1s de 2000 puntos de fuerza X.",
+            "fr_FR": "2 000 points de X Power obtenus",
+            "fr_CA": "2000 points de Force X obtenus",
+            "de_DE": "2000 X-Power \u00fcbertroffen!",
+            "nl_NL": "Een X-kracht behaald van meer dan 2000!",
+            "ru_RU": "\u0421\u0438\u043b\u0430 X: 2000 \u0438\u043b\u0438 \u0431\u043e\u043b\u044c\u0448\u0435!",
+            "it_IT": "Raggiunti 2000 o pi\u00f9 punti di energia X",
+            "ja_JP": "X\u30d1\u30ef\u30fc\u304c\uff12\uff10\uff10\uff10\u4ee5\u4e0a\u306b\u306a\u3063\u305f"
+        },
+        "id": 494,
+        "internal": "Badge_XPower_Pacific_Lv00"
+    },
+    {
+        "name": "Top 50,000 X Battle Rank",
+        "image": "../common/assets/img/badges/Badge_XRank_Revised_Atlantic_Lv00.png",
+        "localizedName": {
+            "en_GB": "Top 50,000 X Battle Rank",
+            "en_US": "Top 50,000 X Battle Rank",
+            "es_ES": "Has entrado en los 50 000 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 50 000 mejores de combate X.",
+            "fr_FR": "Rang dans le top 50 000 atteint lors de matchs X",
+            "fr_CA": "Rang dans le top 50 000 atteint lors de matchs X",
+            "de_DE": "Top 50 000 der X-Kampf-Rangliste erreicht!",
+            "nl_NL": "Bij de beste 50.000 X-gevechtspelers!",
+            "ru_RU": "\u0420\u0430\u0437\u0440\u044f\u0434: \u0441\u0440\u0435\u0434\u0438 50 000 \u043b\u0443\u0447\u0448\u0438\u0445 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 50.000 nelle partite X!",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff15\uff10\uff10\uff10\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 495,
+        "internal": "Badge_XRank_Revised_Atlantic_Lv00"
+    },
+    {
+        "name": "Top 30,000 X Battle Rank",
+        "image": "../common/assets/img/badges/Badge_XRank_Revised_Atlantic_Lv01.png",
+        "localizedName": {
+            "en_GB": "Top 30,000 X Battle Rank",
+            "en_US": "Top 30,000 X Battle Rank",
+            "es_ES": "Has entrado en los 30 000 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 30 000 mejores de combate X.",
+            "fr_FR": "Rang dans le top 30 000 atteint lors de matchs X",
+            "fr_CA": "Rang dans le top 30 000 atteint lors de matchs X",
+            "de_DE": "Top 30 000 der X-Kampf-Rangliste erreicht!",
+            "nl_NL": "Bij de beste 30.000 X-gevechtspelers!",
+            "ru_RU": "\u0420\u0430\u0437\u0440\u044f\u0434: \u0441\u0440\u0435\u0434\u0438 30 000 \u043b\u0443\u0447\u0448\u0438\u0445 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 30.000 nelle partite X",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff13\uff10\uff10\uff10\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 496,
+        "internal": "Badge_XRank_Revised_Atlantic_Lv01"
+    },
+    {
+        "name": "Top 10,000 X Battle Rank",
+        "image": "../common/assets/img/badges/Badge_XRank_Revised_Atlantic_Lv02.png",
+        "localizedName": {
+            "en_GB": "Top 10,000 X Battle Rank",
+            "en_US": "Top 10,000 X Battle Rank",
+            "es_ES": "Has entrado en los 10 000 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 10 000 mejores de combate X.",
+            "fr_FR": "Rang dans le top 10 000 atteint lors de matchs X",
+            "fr_CA": "Rang dans le top 10 000 atteint lors de matchs X",
+            "de_DE": "Top 10 000 der X-Kampf-Rangliste erreicht!",
+            "nl_NL": "Bij de beste 10.000 X-gevechtspelers!",
+            "ru_RU": "\u0420\u0430\u0437\u0440\u044f\u0434: \u0441\u0440\u0435\u0434\u0438 10 000 \u043b\u0443\u0447\u0448\u0438\u0445 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 10.000 nelle partite X",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff11\uff10\uff10\uff10\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 497,
+        "internal": "Badge_XRank_Revised_Atlantic_Lv02"
+    },
+    {
+        "name": "Top 5,000 X Battle Rank",
+        "image": "../common/assets/img/badges/Badge_XRank_Revised_Atlantic_Lv03.png",
+        "localizedName": {
+            "en_GB": "Top 5,000 X Battle Rank",
+            "en_US": "Top 5,000 X Battle Rank",
+            "es_ES": "Has entrado en los 5000 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 5000 mejores de combate X.",
+            "fr_FR": "Rang dans le top 5 000 atteint lors de matchs X",
+            "fr_CA": "Rang dans le top 5000 atteint lors de matchs X",
+            "de_DE": "Top 5000 der X-Kampf-Rangliste erreicht!",
+            "nl_NL": "Bij de beste 5000 X-gevechtspelers!",
+            "ru_RU": "\u0420\u0430\u0437\u0440\u044f\u0434: \u0441\u0440\u0435\u0434\u0438 5000 \u043b\u0443\u0447\u0448\u0438\u0445 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 5000 nelle partite X",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff15\uff10\uff10\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 498,
+        "internal": "Badge_XRank_Revised_Atlantic_Lv03"
+    },
+    {
+        "name": "Top 3,000 X Battle Rank",
+        "image": "../common/assets/img/badges/Badge_XRank_Revised_Atlantic_Lv04.png",
+        "localizedName": {
+            "en_GB": "Top 3,000 X Battle Rank",
+            "en_US": "Top 3,000 X Battle Rank",
+            "es_ES": "Has entrado en los 3000 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 3000 mejores de combate X.",
+            "fr_FR": "Rang dans le top 3 000 atteint lors de matchs X",
+            "fr_CA": "Rang dans le top 3000 atteint lors de matchs X",
+            "de_DE": "Top 3000 der X-Kampf-Rangliste erreicht!",
+            "nl_NL": "Bij de beste 3000 X-gevechtspelers!",
+            "ru_RU": "\u0420\u0430\u0437\u0440\u044f\u0434: \u0441\u0440\u0435\u0434\u0438 3000 \u043b\u0443\u0447\u0448\u0438\u0445 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 3000 nelle partite X",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff13\uff10\uff10\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 499,
+        "internal": "Badge_XRank_Revised_Atlantic_Lv04"
+    },
+    {
+        "name": "Top 1,000 X Battle Rank",
+        "image": "../common/assets/img/badges/Badge_XRank_Revised_Atlantic_Lv05.png",
+        "localizedName": {
+            "en_GB": "Top 1,000 X Battle Rank",
+            "en_US": "Top 1,000 X Battle Rank",
+            "es_ES": "Has entrado en los 1000 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 1000 mejores de combate X.",
+            "fr_FR": "Rang dans le top 1 000 atteint lors de matchs X",
+            "fr_CA": "Rang dans le top 1000 atteint lors de matchs X",
+            "de_DE": "Top 1000 der X-Kampf-Rangliste erreicht!",
+            "nl_NL": "Bij de beste 1000 X-gevechtspelers!",
+            "ru_RU": "\u0420\u0430\u0437\u0440\u044f\u0434: \u0441\u0440\u0435\u0434\u0438 1000 \u043b\u0443\u0447\u0448\u0438\u0445 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 1000 nelle partite X",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff11\uff10\uff10\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 500,
+        "internal": "Badge_XRank_Revised_Atlantic_Lv05"
+    },
+    {
+        "name": "Top 500 X Battle Rank",
+        "image": "../common/assets/img/badges/Badge_XRank_Revised_Atlantic_Lv06.png",
+        "localizedName": {
+            "en_GB": "Top 500 X Battle Rank",
+            "en_US": "Top 500 X Battle Rank",
+            "es_ES": "Has entrado en los 500 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 500 mejores de combate X.",
+            "fr_FR": "Rang dans le top 500 atteint lors de matchs X",
+            "fr_CA": "Rang dans le top 500 atteint lors de matchs X",
+            "de_DE": "Top 500 der X-Kampf-Rangliste erreicht!",
+            "nl_NL": "Bij de beste 500 X-gevechtspelers!",
+            "ru_RU": "\u0420\u0430\u0437\u0440\u044f\u0434: \u0441\u0440\u0435\u0434\u0438 500 \u043b\u0443\u0447\u0448\u0438\u0445 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 500 nelle partite X",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff15\uff10\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 501,
+        "internal": "Badge_XRank_Revised_Atlantic_Lv06"
+    },
+    {
+        "name": "Top 10 X Battle Rank",
+        "image": "../common/assets/img/badges/Badge_XRank_Revised_Atlantic_Lv07.png",
+        "localizedName": {
+            "en_GB": "Top 10 X Battle Rank",
+            "en_US": "Top 10 X Battle Rank",
+            "es_ES": "Has entrado en los 10 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 10 mejores de combate X.",
+            "fr_FR": "Rang dans le top 10 atteint lors de matchs X",
+            "fr_CA": "Rang dans le top 10 atteint lors de matchs X",
+            "de_DE": "Top 10 der X-Kampf-Rangliste erreicht!",
+            "nl_NL": "Bij de beste 10 X-gevechtspelers!",
+            "ru_RU": "\u0420\u0430\u0437\u0440\u044f\u0434: \u0441\u0440\u0435\u0434\u0438 10 \u043b\u0443\u0447\u0448\u0438\u0445 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 10 nelle partite X",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff11\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 502,
+        "internal": "Badge_XRank_Revised_Atlantic_Lv07"
+    },
+    {
+        "name": "Top 50,000 X Battle Rank",
+        "image": "../common/assets/img/badges/Badge_XRank_Revised_Pacific_Lv00.png",
+        "localizedName": {
+            "en_GB": "Top 50,000 X Battle Rank",
+            "en_US": "Top 50,000 X Battle Rank",
+            "es_ES": "Has entrado en los 50 000 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 50 000 mejores de combate X.",
+            "fr_FR": "Rang dans le top 50 000 atteint lors de matchs X",
+            "fr_CA": "Rang dans le top 50 000 atteint lors de matchs X",
+            "de_DE": "Top 50 000 der X-Kampf-Rangliste erreicht!",
+            "nl_NL": "Bij de beste 50.000 X-gevechtspelers!",
+            "ru_RU": "\u0420\u0430\u0437\u0440\u044f\u0434: \u0441\u0440\u0435\u0434\u0438 50 000 \u043b\u0443\u0447\u0448\u0438\u0445 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 50.000 nelle partite X!",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff15\uff10\uff10\uff10\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 503,
+        "internal": "Badge_XRank_Revised_Pacific_Lv00"
+    },
+    {
+        "name": "Top 30,000 X Battle Rank",
+        "image": "../common/assets/img/badges/Badge_XRank_Revised_Pacific_Lv01.png",
+        "localizedName": {
+            "en_GB": "Top 30,000 X Battle Rank",
+            "en_US": "Top 30,000 X Battle Rank",
+            "es_ES": "Has entrado en los 30 000 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 30 000 mejores de combate X.",
+            "fr_FR": "Rang dans le top 30 000 atteint lors de matchs X",
+            "fr_CA": "Rang dans le top 30 000 atteint lors de matchs X",
+            "de_DE": "Top 30 000 der X-Kampf-Rangliste erreicht!",
+            "nl_NL": "Bij de beste 30.000 X-gevechtspelers!",
+            "ru_RU": "\u0420\u0430\u0437\u0440\u044f\u0434: \u0441\u0440\u0435\u0434\u0438 30 000 \u043b\u0443\u0447\u0448\u0438\u0445 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 30.000 nelle partite X",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff13\uff10\uff10\uff10\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 504,
+        "internal": "Badge_XRank_Revised_Pacific_Lv01"
+    },
+    {
+        "name": "Top 10,000 X Battle Rank",
+        "image": "../common/assets/img/badges/Badge_XRank_Revised_Pacific_Lv02.png",
+        "localizedName": {
+            "en_GB": "Top 10,000 X Battle Rank",
+            "en_US": "Top 10,000 X Battle Rank",
+            "es_ES": "Has entrado en los 10 000 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 10 000 mejores de combate X.",
+            "fr_FR": "Rang dans le top 10 000 atteint lors de matchs X",
+            "fr_CA": "Rang dans le top 10 000 atteint lors de matchs X",
+            "de_DE": "Top 10 000 der X-Kampf-Rangliste erreicht!",
+            "nl_NL": "Bij de beste 10.000 X-gevechtspelers!",
+            "ru_RU": "\u0420\u0430\u0437\u0440\u044f\u0434: \u0441\u0440\u0435\u0434\u0438 10 000 \u043b\u0443\u0447\u0448\u0438\u0445 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 10.000 nelle partite X",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff11\uff10\uff10\uff10\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 505,
+        "internal": "Badge_XRank_Revised_Pacific_Lv02"
+    },
+    {
+        "name": "Top 5,000 X Battle Rank",
+        "image": "../common/assets/img/badges/Badge_XRank_Revised_Pacific_Lv03.png",
+        "localizedName": {
+            "en_GB": "Top 5,000 X Battle Rank",
+            "en_US": "Top 5,000 X Battle Rank",
+            "es_ES": "Has entrado en los 5000 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 5000 mejores de combate X.",
+            "fr_FR": "Rang dans le top 5 000 atteint lors de matchs X",
+            "fr_CA": "Rang dans le top 5000 atteint lors de matchs X",
+            "de_DE": "Top 5000 der X-Kampf-Rangliste erreicht!",
+            "nl_NL": "Bij de beste 5000 X-gevechtspelers!",
+            "ru_RU": "\u0420\u0430\u0437\u0440\u044f\u0434: \u0441\u0440\u0435\u0434\u0438 5000 \u043b\u0443\u0447\u0448\u0438\u0445 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 5000 nelle partite X",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff15\uff10\uff10\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 506,
+        "internal": "Badge_XRank_Revised_Pacific_Lv03"
+    },
+    {
+        "name": "Top 3,000 X Battle Rank",
+        "image": "../common/assets/img/badges/Badge_XRank_Revised_Pacific_Lv04.png",
+        "localizedName": {
+            "en_GB": "Top 3,000 X Battle Rank",
+            "en_US": "Top 3,000 X Battle Rank",
+            "es_ES": "Has entrado en los 3000 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 3000 mejores de combate X.",
+            "fr_FR": "Rang dans le top 3 000 atteint lors de matchs X",
+            "fr_CA": "Rang dans le top 3000 atteint lors de matchs X",
+            "de_DE": "Top 3000 der X-Kampf-Rangliste erreicht!",
+            "nl_NL": "Bij de beste 3000 X-gevechtspelers!",
+            "ru_RU": "\u0420\u0430\u0437\u0440\u044f\u0434: \u0441\u0440\u0435\u0434\u0438 3000 \u043b\u0443\u0447\u0448\u0438\u0445 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 3000 nelle partite X",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff13\uff10\uff10\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 507,
+        "internal": "Badge_XRank_Revised_Pacific_Lv04"
+    },
+    {
+        "name": "Top 1,000 X Battle Rank",
+        "image": "../common/assets/img/badges/Badge_XRank_Revised_Pacific_Lv05.png",
+        "localizedName": {
+            "en_GB": "Top 1,000 X Battle Rank",
+            "en_US": "Top 1,000 X Battle Rank",
+            "es_ES": "Has entrado en los 1000 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 1000 mejores de combate X.",
+            "fr_FR": "Rang dans le top 1 000 atteint lors de matchs X",
+            "fr_CA": "Rang dans le top 1000 atteint lors de matchs X",
+            "de_DE": "Top 1000 der X-Kampf-Rangliste erreicht!",
+            "nl_NL": "Bij de beste 1000 X-gevechtspelers!",
+            "ru_RU": "\u0420\u0430\u0437\u0440\u044f\u0434: \u0441\u0440\u0435\u0434\u0438 1000 \u043b\u0443\u0447\u0448\u0438\u0445 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 1000 nelle partite X",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff11\uff10\uff10\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 508,
+        "internal": "Badge_XRank_Revised_Pacific_Lv05"
+    },
+    {
+        "name": "Top 500 X Battle Rank",
+        "image": "../common/assets/img/badges/Badge_XRank_Revised_Pacific_Lv06.png",
+        "localizedName": {
+            "en_GB": "Top 500 X Battle Rank",
+            "en_US": "Top 500 X Battle Rank",
+            "es_ES": "Has entrado en los 500 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 500 mejores de combate X.",
+            "fr_FR": "Rang dans le top 500 atteint lors de matchs X",
+            "fr_CA": "Rang dans le top 500 atteint lors de matchs X",
+            "de_DE": "Top 500 der X-Kampf-Rangliste erreicht!",
+            "nl_NL": "Bij de beste 500 X-gevechtspelers!",
+            "ru_RU": "\u0420\u0430\u0437\u0440\u044f\u0434: \u0441\u0440\u0435\u0434\u0438 500 \u043b\u0443\u0447\u0448\u0438\u0445 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 500 nelle partite X",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff15\uff10\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 509,
+        "internal": "Badge_XRank_Revised_Pacific_Lv06"
+    },
+    {
+        "name": "Top 10 X Battle Rank",
+        "image": "../common/assets/img/badges/Badge_XRank_Revised_Pacific_Lv07.png",
+        "localizedName": {
+            "en_GB": "Top 10 X Battle Rank",
+            "en_US": "Top 10 X Battle Rank",
+            "es_ES": "Has entrado en los 10 mejores de combate X.",
+            "es_MX": "Est\u00e1s entre los 10 mejores de combate X.",
+            "fr_FR": "Rang dans le top 10 atteint lors de matchs X",
+            "fr_CA": "Rang dans le top 10 atteint lors de matchs X",
+            "de_DE": "Top 10 der X-Kampf-Rangliste erreicht!",
+            "nl_NL": "Bij de beste 10 X-gevechtspelers!",
+            "ru_RU": "\u0420\u0430\u0437\u0440\u044f\u0434: \u0441\u0440\u0435\u0434\u0438 10 \u043b\u0443\u0447\u0448\u0438\u0445 \u0432 \u0431\u043e\u044e X!",
+            "it_IT": "Tra i primi 10 nelle partite X",
+            "ja_JP": "X\u30de\u30c3\u30c1\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\uff11\uff10\u4f4d\u4ee5\u5185\u306b\u5165\u3063\u305f"
+        },
+        "id": 510,
+        "internal": "Badge_XRank_Revised_Pacific_Lv07"
     }
 ]

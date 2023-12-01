@@ -11,6 +11,7 @@ VERSIONS = [
     "300",
     "400",
     "500",
+    "600",
 ]
 
 hats = "https://leanny.github.io/splat3/data/mush/{VERSION}/GearInfoHead.json"
@@ -338,6 +339,11 @@ async def splashtag(listies, locale_data):
     eyedees = []
     i = 0
     for listie in listies:
+        oth = next((tag for tag in listie if tag["__RowId"] == "Npl_Sdodr00"), None)
+        if oth:
+            # move to end
+            listie.remove(oth)
+            listie.append(oth)
         for tag in listie:
             eyedee = tag["__RowId"]
             if eyedee in eyedees: continue

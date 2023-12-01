@@ -822,7 +822,7 @@
             "nl_NL": "Oranje plastic sandalen",
             "ru_RU": "\u041e\u0440\u0430\u043d\u0436\u0435\u0432\u044b\u0435 \u0448\u043b\u0435\u043f\u043e\u0434\u044b",
             "it_IT": "Fluosandali arancioni",
-            "ja_JP": "\u3079\u30ea\u3079\u30ea\u30b5\u30f3 \u30aa\u30ec\u30f3\u30b8"
+            "ja_JP": "\u30d9\u30ea\u30d9\u30ea\u30b5\u30f3 \u30aa\u30ec\u30f3\u30b8"
         },
         "brand": "Zink",
         "internal": "Shs_SDL013"
@@ -845,7 +845,7 @@
             "nl_NL": "Roze plastic sandalen",
             "ru_RU": "\u0420\u043e\u0437\u043e\u0432\u044b\u0435 \u0448\u043b\u0435\u043f\u043e\u0434\u044b",
             "it_IT": "Fluosandali rosa",
-            "ja_JP": "\u3079\u30ea\u3079\u30ea\u30b5\u30f3 \u30de\u30bc\u30f3\u30bf"
+            "ja_JP": "\u30d9\u30ea\u30d9\u30ea\u30b5\u30f3 \u30de\u30bc\u30f3\u30bf"
         },
         "brand": "Zink",
         "internal": "Shs_SDL017"
@@ -868,7 +868,7 @@
             "nl_NL": "Turquoise plastic sandalen",
             "ru_RU": "\u0411\u0438\u0440\u044e\u0437\u043e\u0432\u044b\u0435 \u0448\u043b\u0435\u043f\u043e\u0434\u044b",
             "it_IT": "Fluosandali celesti",
-            "ja_JP": "\u3079\u30ea\u3079\u30ea\u30b5\u30f3 \u30b7\u30a2\u30f3"
+            "ja_JP": "\u30d9\u30ea\u30d9\u30ea\u30b5\u30f3 \u30b7\u30a2\u30f3"
         },
         "brand": "Zink",
         "internal": "Shs_SDL018"
@@ -3425,5 +3425,189 @@
         },
         "brand": "Enperry",
         "internal": "Shs_SHI051"
+    },
+    {
+        "id": 149,
+        "internal-id": 25018,
+        "name": "Faux Sharkskin Platfins",
+        "image": "../common/assets/img/gear/shoes/Shs_AMB018.png",
+        "main": "Ink Resistance Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Faux Sharkskin Platfins",
+            "en_US": "Faux Sharkskin Platfins",
+            "es_ES": "Sandalia clan Hohojiro",
+            "es_MX": "Sandalias clan Hohojiro",
+            "fr_FR": "Sabots des Hohojiro",
+            "fr_CA": "Sabots des Hohojiro",
+            "de_DE": "Haifisch-Pokkuri",
+            "nl_NL": "Hohojiro-plateauschoenen",
+            "ru_RU": "\u041a\u0443\u043b-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b",
+            "it_IT": "Squalozoccoli",
+            "ja_JP": "\u30db\u30db\u30b8\u30ed\u30ce\u30dd\u30c3\u30af\u30ea"
+        },
+        "brand": "amiibo",
+        "internal": "Shs_AMB018"
+    },
+    {
+        "id": 150,
+        "internal-id": 25019,
+        "name": "Eel Heel Socks",
+        "image": "../common/assets/img/gear/shoes/Shs_AMB019.png",
+        "main": "Special Saver",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Eel Heel Socks",
+            "en_US": "Eel Heel Socks",
+            "es_ES": "Calcet\u00edn clan Onaga",
+            "es_MX": "Calcetines clan Onaga",
+            "fr_FR": "Socquettes des Onaga",
+            "fr_CA": "Bas des Onaga",
+            "de_DE": "Traumt\u00e4nzerchen",
+            "nl_NL": "Onaga-sokken",
+            "ru_RU": "\u041c\u0443\u0440\u0435\u043d\u043e\u0441\u043a\u0438 \u0431\u0435\u0437 \u043f\u0430\u043b\u044c\u0446\u0435\u0432",
+            "it_IT": "Murenacalze",
+            "ja_JP": "\u30aa\u30ca\u30ac\u30ce\u30bf\u30d3"
+        },
+        "brand": "amiibo",
+        "internal": "Shs_AMB019"
+    },
+    {
+        "id": 151,
+        "internal-id": 25020,
+        "name": "Big Muds",
+        "image": "../common/assets/img/gear/shoes/Shs_AMB020.png",
+        "main": "Stealth Jump",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Big Muds",
+            "en_US": "Big Muds",
+            "es_ES": "Bota clan Manda",
+            "es_MX": "Botas clan Manda",
+            "fr_FR": "Bottes des Manta",
+            "fr_CA": "Bottes des Manta",
+            "de_DE": "Mantoletten",
+            "nl_NL": "Manta-laarzen",
+            "ru_RU": "\u0420\u0435\u0437\u0438\u043d\u043e\u0432\u044b\u0435 \u043c\u0430\u043d\u0442\u043e\u0431\u043e\u0442\u044b",
+            "it_IT": "Mantastivali",
+            "ja_JP": "\u30de\u30f3\u30c0\u30ce\u30ca\u30ac\u30b0\u30c4"
+        },
+        "brand": "amiibo",
+        "internal": "Shs_AMB020"
+    },
+    {
+        "id": 152,
+        "internal-id": 6029,
+        "name": "Spiked Duck Boots",
+        "image": "../common/assets/img/gear/shoes/Shs_BOT029.png",
+        "main": "Ink Recovery Up",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Spiked Duck Boots",
+            "en_US": "Spiked Duck Boots",
+            "es_ES": "Bota de pato monta\u00f1era",
+            "es_MX": "Botas de pato monta\u00f1eras",
+            "fr_FR": "Chaussures \u00e0 pointes",
+            "fr_CA": "Chaussures \u00e0 pointes",
+            "de_DE": "Kraxel-Duck-Boots",
+            "nl_NL": "Halfrubberen stekellaarzen",
+            "ru_RU": "\u0423\u0442\u043a\u043e\u0431\u043e\u0442\u044b-\u043b\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u044b",
+            "it_IT": "Anfibi con ramponi",
+            "ja_JP": "\u30c0\u30c3\u30af\u30d6\u30fc\u30c4 \u30ab\u30af\u30bf\u30b9"
+        },
+        "brand": "Barazushi",
+        "internal": "Shs_BOT029"
+    },
+    {
+        "id": 153,
+        "internal-id": 6030,
+        "name": "Buckle-Down Boots",
+        "image": "../common/assets/img/gear/shoes/Shs_BOT030.png",
+        "main": "Special Power Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "Buckle-Down Boots",
+            "en_US": "Buckle-Down Boots",
+            "es_ES": "Bota de cuero",
+            "es_MX": "Botas de cuero",
+            "fr_FR": "Bottes \u00e0 lani\u00e8res",
+            "fr_CA": "Bottes \u00e0 lani\u00e8res",
+            "de_DE": "Schnallenstiefel",
+            "nl_NL": "Enkellaarzen met gesp",
+            "ru_RU": "\u0421\u0430\u043f\u043e\u0433\u0438 \u0441 \u043f\u0440\u044f\u0436\u043a\u043e\u0439",
+            "it_IT": "Stivali con fibbia",
+            "ja_JP": "\u30a8\u30f3\u30b8\u30cb\u30a2\u30d6\u30fc\u30c4"
+        },
+        "brand": "Rockenberg",
+        "internal": "Shs_BOT030"
+    },
+    {
+        "id": 154,
+        "internal-id": 21007,
+        "name": "Trevally Derby Rollers",
+        "image": "../common/assets/img/gear/shoes/Shs_COP107.png",
+        "main": "Quick Respawn",
+        "stars": 2,
+        "localizedName": {
+            "en_GB": "Trevally Derby Rollers",
+            "en_US": "Trevally Derby Rollers",
+            "es_ES": "Pat\u00edn jurel",
+            "es_MX": "Patines jurel",
+            "fr_FR": "Patins \u00e0 roulettes",
+            "fr_CA": "Patins \u00e0 roulettes",
+            "de_DE": "Flitzpantoffeln DK",
+            "nl_NL": "Makreelrolschaatsen",
+            "ru_RU": "\u041a\u0430\u0440\u0430\u043d\u043a\u0441-\u043a\u0432\u0430\u0434\u044b",
+            "it_IT": "Pattini carango",
+            "ja_JP": "\u30ed\u30fc\u30e9\u30fc\u30b7\u30e5\u30fc\u30baGT"
+        },
+        "brand": "Grizzco",
+        "internal": "Shs_COP107"
+    },
+    {
+        "id": 155,
+        "internal-id": 8015,
+        "name": "Tricolor Boaties",
+        "image": "../common/assets/img/gear/shoes/Shs_LTS015.png",
+        "main": "Intensify Action",
+        "stars": 0,
+        "localizedName": {
+            "en_GB": "Tricolor Boaties",
+            "en_US": "Tricolor Boaties",
+            "es_ES": "N\u00e1utico tricolor",
+            "es_MX": "Mocasines tricolor",
+            "fr_FR": "Chaussures bateau tricolores",
+            "fr_CA": "Chaussures bateau tricolores",
+            "de_DE": "Dreifarb-Boaties",
+            "nl_NL": "Driekleurige bootschoenen",
+            "ru_RU": "\u0422\u0440\u0435\u0445\u0446\u0432\u0435\u0442\u043d\u044b\u0435 \u0442\u043e\u043f-\u0441\u0430\u0439\u0434\u0435\u0440\u044b",
+            "it_IT": "Scarpe da vela tricolore",
+            "ja_JP": "\u30c7\u30c3\u30ad\u30b7\u30e5\u30fc\u30ba \u30d6\u30ec\u30f3\u30c9"
+        },
+        "brand": "Rockenberg",
+        "internal": "Shs_LTS015"
+    },
+    {
+        "id": 156,
+        "internal-id": 3027,
+        "name": "E-JECT 30VV",
+        "image": "../common/assets/img/gear/shoes/Shs_SHT027.png",
+        "main": "Special Charge Up",
+        "stars": 1,
+        "localizedName": {
+            "en_GB": "E-JECT 30VV",
+            "en_US": "E-JECT 30VV",
+            "es_ES": "Deportiva AL-GA 30YY",
+            "es_MX": "Tenis AL-GA 30YY",
+            "fr_FR": "AL-GA 30VV",
+            "fr_CA": "AL-GA 30VV",
+            "de_DE": "AL-G 9S",
+            "nl_NL": "A.L.G. 30VV",
+            "ru_RU": "\u041a\u0440\u043e\u0441\u0441\u044b \u00ab\u041c-\u0415\u0425\u0410 2\u00bb",
+            "it_IT": "AL-GA 30VV",
+            "ja_JP": "MODZ-9S"
+        },
+        "brand": "Emberz",
+        "internal": "Shs_SHT027"
     }
 ]

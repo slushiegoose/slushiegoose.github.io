@@ -10,7 +10,7 @@ except ImportError:
 
 # TODO - 099 -> latest
 
-VERSION = "500"
+VERSION = "600"
 
 hats = f"https://leanny.github.io/splat3/data/mush//{VERSION}/GearInfoHead.json"
 shirts = f"https://leanny.github.io/splat3/data/mush//{VERSION}/GearInfoClothes.json"
@@ -53,11 +53,12 @@ async def get(url: str):
 
 
 async def download(directory: Path, file_name: str, url: str):
+    name = "{}.png".format(file_name)
+    path = directory / name
+    if path.exists(): return
     data, status = await get(url)
     if status > 299:
         return
-    name = "{}.png".format(file_name)
-    path = directory / name
     with path.open("wb") as file:
         file.write(data)
 
