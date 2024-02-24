@@ -91,24 +91,6 @@
     },
     {
         "name": "-",
-        "image": "../common/assets/img/subspe/Wsp_SpGreatBarrier_Rival.png",
-        "localizedName": {
-            "en_GB": "-",
-            "en_US": "-",
-            "es_ES": "-",
-            "es_MX": "-",
-            "fr_FR": "-",
-            "fr_CA": "-",
-            "de_DE": "-",
-            "nl_NL": "-",
-            "ru_RU": "-",
-            "it_IT": "-",
-            "ja_JP": "-"
-        },
-        "internal": "Wsp_SpGreatBarrier_Rival"
-    },
-    {
-        "name": "-",
         "image": "../common/assets/img/subspe/Wsp_SpIkuraShoot.png",
         "localizedName": {
             "en_GB": "-",
@@ -144,24 +126,6 @@
         "internal": "Wsp_SpInkStorm"
     },
     {
-        "name": "-",
-        "image": "../common/assets/img/subspe/Wsp_SpInkStorm_Rival.png",
-        "localizedName": {
-            "en_GB": "-",
-            "en_US": "-",
-            "es_ES": "-",
-            "es_MX": "-",
-            "fr_FR": "-",
-            "fr_CA": "-",
-            "de_DE": "-",
-            "nl_NL": "-",
-            "ru_RU": "-",
-            "it_IT": "-",
-            "ja_JP": "-"
-        },
-        "internal": "Wsp_SpInkStorm_Rival"
-    },
-    {
         "name": "Inkjet",
         "image": "../common/assets/img/subspe/Wsp_SpJetpack.png",
         "localizedName": {
@@ -178,24 +142,6 @@
             "ja_JP": "\u30b8\u30a7\u30c3\u30c8\u30d1\u30c3\u30af"
         },
         "internal": "Wsp_SpJetpack"
-    },
-    {
-        "name": "-",
-        "image": "../common/assets/img/subspe/Wsp_SpJetpack_Rival.png",
-        "localizedName": {
-            "en_GB": "-",
-            "en_US": "-",
-            "es_ES": "-",
-            "es_MX": "-",
-            "fr_FR": "-",
-            "fr_CA": "-",
-            "de_DE": "-",
-            "nl_NL": "-",
-            "ru_RU": "-",
-            "it_IT": "-",
-            "ja_JP": "-"
-        },
-        "internal": "Wsp_SpJetpack_Rival"
     },
     {
         "name": "Killer Wail 5.1",
@@ -234,24 +180,6 @@
         "internal": "Wsp_SpMultiMissile"
     },
     {
-        "name": "-",
-        "image": "../common/assets/img/subspe/Wsp_SpMultiMissile_Rival.png",
-        "localizedName": {
-            "en_GB": "-",
-            "en_US": "-",
-            "es_ES": "-",
-            "es_MX": "-",
-            "fr_FR": "-",
-            "fr_CA": "-",
-            "de_DE": "-",
-            "nl_NL": "-",
-            "ru_RU": "-",
-            "it_IT": "-",
-            "ja_JP": "-"
-        },
-        "internal": "Wsp_SpMultiMissile_Rival"
-    },
-    {
         "name": "Booyah Bomb",
         "image": "../common/assets/img/subspe/Wsp_SpNiceBall.png",
         "localizedName": {
@@ -286,24 +214,6 @@
             "ja_JP": "\u30db\u30c3\u30d7\u30bd\u30ca\u30fc"
         },
         "internal": "Wsp_SpShockSonar"
-    },
-    {
-        "name": "-",
-        "image": "../common/assets/img/subspe/Wsp_SpShockSonar_Rival.png",
-        "localizedName": {
-            "en_GB": "-",
-            "en_US": "-",
-            "es_ES": "-",
-            "es_MX": "-",
-            "fr_FR": "-",
-            "fr_CA": "-",
-            "de_DE": "-",
-            "nl_NL": "-",
-            "ru_RU": "-",
-            "it_IT": "-",
-            "ja_JP": "-"
-        },
-        "internal": "Wsp_SpShockSonar_Rival"
     },
     {
         "name": "Reefslider",
@@ -358,24 +268,6 @@
             "ja_JP": "\u30b9\u30fc\u30d1\u30fc\u30c1\u30e3\u30af\u30c1"
         },
         "internal": "Wsp_SpSuperLanding"
-    },
-    {
-        "name": "-",
-        "image": "../common/assets/img/subspe/Wsp_SpSuperLanding_Rival.png",
-        "localizedName": {
-            "en_GB": "-",
-            "en_US": "-",
-            "es_ES": "-",
-            "es_MX": "-",
-            "fr_FR": "-",
-            "fr_CA": "-",
-            "de_DE": "-",
-            "nl_NL": "-",
-            "ru_RU": "-",
-            "it_IT": "-",
-            "ja_JP": "-"
-        },
-        "internal": "Wsp_SpSuperLanding_Rival"
     },
     {
         "name": "Triple Inkstrike",

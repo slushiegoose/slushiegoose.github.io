@@ -12,6 +12,7 @@ VERSIONS = [
     "400",
     "500",
     "600",
+    "700",
 ]
 
 hats = "https://leanny.github.io/splat3/data/mush/{VERSION}/GearInfoHead.json"
@@ -158,6 +159,11 @@ async def sub(listies, locale_data):
     for listie in listies:
         for sub in listie:
             eyedee = sub["__RowId"]
+            if "Mission" in eyedee: continue
+            if "Coop" in eyedee: continue
+            if "Event" in eyedee: continue#
+            if "Sdodr" in eyedee: continue
+            if "Rival" in eyedee: continue
             if eyedee in eyedees: continue
             image = f"../common/assets/img/subspe/Wsb_{eyedee}.png"
             localizedName = {}
@@ -189,6 +195,8 @@ async def special(listies, locale_data):
             if "Mission" in eyedee: continue
             if "Coop" in eyedee: continue
             if "Event" in eyedee: continue
+            if "Sdodr" in eyedee: continue
+            if "Rival" in eyedee: continue
             if eyedee in eyedees: continue
             image = f"../common/assets/img/subspe/Wsp_{eyedee}.png"
             localizedName = {}

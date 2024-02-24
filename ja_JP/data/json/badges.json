@@ -5472,39 +5472,39 @@
         "internal": "Badge_WinCount_WeaponSp_SpUltraStamp_Lv02"
     },
     {
-        "name": "Got a Bronze Decoration in Big Run",
+        "name": "Got a Bronze or Higher Decoration in Big Run",
         "image": "../common/assets/img/badges/Badge_CoopBigRunTrophy_Lv00.png",
         "localizedName": {
-            "en_GB": "Got a Bronze Decoration in Big Run",
-            "en_US": "Got a Bronze Decoration in Big Run",
-            "es_ES": "\u00a1Has conseguido un adorno de bronce en Big Run!",
-            "es_MX": "\u00a1Recibiste un adorno de bronce en Big Run!",
-            "fr_FR": "Objet de d\u00e9coration en bronze obtenu lors d'un Big Run",
-            "fr_CA": "Objet de d\u00e9coration en bronze obtenu lors d'un Big Run",
-            "de_DE": "Big Run-Bronzebelohnung erzielt!",
-            "nl_NL": "Bronzen versiering behaald in Big Run!",
-            "ru_RU": "\u0411\u0440\u043e\u043d\u0437\u043e\u0432\u043e\u0435 \u0443\u043a\u0440\u0430\u0448\u0435\u043d\u0438\u0435 \u0432 Big Run!",
-            "it_IT": "Ottenuta decorazione di bronzo nella Big Run",
-            "ja_JP": "\u30d3\u30c3\u30b0\u30e9\u30f3\u3067\u9285\u306e\u30aa\u30ad\u30e2\u30ce\u3092\u3082\u3089\u3063\u305f"
+            "en_GB": "Got a Bronze or Higher Decoration in Big Run",
+            "en_US": "Got a Bronze or Higher Decoration in Big Run",
+            "es_ES": "\u00a1Has conseguido un adorno de bronce o superior en Big Run!",
+            "es_MX": "\u00a1Recibiste un adorno de bronce o superior en Big Run!",
+            "fr_FR": "Objet de d\u00e9coration en bronze ou mieux obtenu lors d'un Big Run",
+            "fr_CA": "Objet de d\u00e9coration en bronze ou mieux obtenu lors d'un Big Run",
+            "de_DE": "Big Run-Bronzebelohnung oder h\u00f6her erzielt!",
+            "nl_NL": "Bronzen versiering of beter behaald in Big Run!",
+            "ru_RU": "\u0411\u0440\u043e\u043d\u0437\u043e\u0432\u043e\u0435 \u0443\u043a\u0440\u0430\u0448\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u0432\u044b\u0448\u0435 \u0432 Big Run!",
+            "it_IT": "Ottenuta decorazione di bronzo o superiore nella Big Run",
+            "ja_JP": "\u30d3\u30c3\u30b0\u30e9\u30f3\u3067\u9285\u4ee5\u4e0a\u306e\u30aa\u30ad\u30e2\u30ce\u3092\u3082\u3089\u3063\u305f"
         },
         "id": 288,
         "internal": "Badge_CoopBigRunTrophy_Lv00"
     },
     {
-        "name": "Got a Silver Decoration in Big Run",
+        "name": "Got a Silver or Higher Decoration in Big Run",
         "image": "../common/assets/img/badges/Badge_CoopBigRunTrophy_Lv01.png",
         "localizedName": {
-            "en_GB": "Got a Silver Decoration in Big Run",
-            "en_US": "Got a Silver Decoration in Big Run",
-            "es_ES": "\u00a1Has conseguido un adorno de plata en Big Run!",
-            "es_MX": "\u00a1Recibiste un adorno de plata en Big Run!",
-            "fr_FR": "Objet de d\u00e9coration en argent obtenu lors d'un Big Run",
-            "fr_CA": "Objet de d\u00e9coration en argent obtenu lors d'un Big Run",
-            "de_DE": "Big Run-Silberbelohnung erzielt!",
-            "nl_NL": "Zilveren versiering behaald in Big Run!",
-            "ru_RU": "\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u043e\u0435 \u0443\u043a\u0440\u0430\u0448\u0435\u043d\u0438\u0435 \u0432 Big Run!",
-            "it_IT": "Ottenuta decorazione d'argento nella Big Run",
-            "ja_JP": "\u30d3\u30c3\u30b0\u30e9\u30f3\u3067\u9280\u306e\u30aa\u30ad\u30e2\u30ce\u3092\u3082\u3089\u3063\u305f"
+            "en_GB": "Got a Silver or Higher Decoration in Big Run",
+            "en_US": "Got a Silver or Higher Decoration in Big Run",
+            "es_ES": "\u00a1Has conseguido un adorno de plata o superior en Big Run!",
+            "es_MX": "\u00a1Recibiste un adorno de plata o superior en Big Run!",
+            "fr_FR": "Objet de d\u00e9coration en argent ou mieux obtenu lors d'un Big Run",
+            "fr_CA": "Objet de d\u00e9coration en argent ou mieux obtenu lors d'un Big Run",
+            "de_DE": "Big Run-Silberbelohnung oder h\u00f6her erzielt!",
+            "nl_NL": "Zilveren versiering of beter behaald in Big Run!",
+            "ru_RU": "\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u043e\u0435 \u0443\u043a\u0440\u0430\u0448\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u0432\u044b\u0448\u0435 \u0432 Big Run!",
+            "it_IT": "Ottenuta decorazione d'argento o superiore nella Big Run",
+            "ja_JP": "\u30d3\u30c3\u30b0\u30e9\u30f3\u3067\u9280\u4ee5\u4e0a\u306e\u30aa\u30ad\u30e2\u30ce\u3092\u3082\u3089\u3063\u305f"
         },
         "id": 289,
         "internal": "Badge_CoopBigRunTrophy_Lv01"
@@ -8987,38 +8987,38 @@
         "internal": "Badge_WeaponLevel_Maneuver_Normal_01_Lv01"
     },
     {
-        "name": "4\u2605 Neo Splatana Stamper User",
+        "name": "4\u2605 Splatana Stamper Nouveau User",
         "image": "../common/assets/img/badges/Badge_WeaponLevel_Saber_Normal_01_Lv00.png",
         "localizedName": {
-            "en_GB": "4\u2605 Neo Splatana Stamper User",
-            "en_US": "4\u2605 Neo Splatana Stamper User",
+            "en_GB": "4\u2605 Splatana Stamper Nouveau User",
+            "en_US": "4\u2605 Splatana Stamper Nouveau User",
             "es_ES": "Tu destreza con Azotintador pro maestro ha alcanzado 4\u2605.",
-            "es_MX": "4\u2605 con Azotintador Pro neo",
-            "fr_FR": "\u00c9clatana d'estampe N\u00e9o : niveau 4\u2605 atteint",
-            "fr_CA": "\u00c9clatana d'estampe n\u00e9o : niveau 4\u2605 atteint",
-            "de_DE": "Stempel-Splatana Neo: 4 Sterne erreicht!",
-            "nl_NL": "Stempelzwieper Neo: 4\u2605!",
-            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u043b\u0430\u0442-\u043f\u0435\u0447\u0430\u0442\u0435\u043b\u044c \u00ab\u041d\u0435\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
-            "it_IT": "Splattalama Neo: 4\u2605",
+            "es_MX": "4\u2605 con Azotintador Pro maestro",
+            "fr_FR": "\u00c9clatana d'estampe nuanc\u00e9 : niveau 4\u2605 atteint",
+            "fr_CA": "\u00c9clatana d'estampe nuanc\u00e9 : niveau 4\u2605 atteint",
+            "de_DE": "Stempel-Splatana Fresco: 4 Sterne erreicht!",
+            "nl_NL": "Stempelzwieper Nouveau: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u043b\u0430\u0442-\u043f\u0435\u0447\u0430\u0442\u0435\u043b\u044c \u00ab\u041d\u0443\u0412\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Splattalama master: 4\u2605",
             "ja_JP": "\u30b8\u30e0\u30ef\u30a4\u30d1\u30fc\u30fb\u30d2\u30e5\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
         },
         "id": 473,
         "internal": "Badge_WeaponLevel_Saber_Normal_01_Lv00"
     },
     {
-        "name": "5\u2605 Neo Splatana Stamper User",
+        "name": "5\u2605 Splatana Stamper Nouveau User",
         "image": "../common/assets/img/badges/Badge_WeaponLevel_Saber_Normal_01_Lv01.png",
         "localizedName": {
-            "en_GB": "5\u2605 Neo Splatana Stamper User",
-            "en_US": "5\u2605 Neo Splatana Stamper User",
+            "en_GB": "5\u2605 Splatana Stamper Nouveau User",
+            "en_US": "5\u2605 Splatana Stamper Nouveau User",
             "es_ES": "Tu destreza con Azotintador pro maestro ha alcanzado 5\u2605.",
-            "es_MX": "5\u2605 con Azotintador Pro neo",
-            "fr_FR": "\u00c9clatana d'estampe N\u00e9o : niveau 5\u2605 atteint",
-            "fr_CA": "\u00c9clatana d'estampe n\u00e9o : niveau 5\u2605 atteint",
-            "de_DE": "Stempel-Splatana Neo: 5 Sterne erreicht!",
-            "nl_NL": "Stempelzwieper Neo: 5\u2605!",
-            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u043b\u0430\u0442-\u043f\u0435\u0447\u0430\u0442\u0435\u043b\u044c \u00ab\u041d\u0435\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
-            "it_IT": "Splattalama Neo: 5\u2605",
+            "es_MX": "5\u2605 con Azotintador Pro maestro",
+            "fr_FR": "\u00c9clatana d'estampe nuanc\u00e9 : niveau 5\u2605 atteint",
+            "fr_CA": "\u00c9clatana d'estampe nuanc\u00e9 : niveau 5\u2605 atteint",
+            "de_DE": "Stempel-Splatana Fresco: 5 Sterne erreicht!",
+            "nl_NL": "Stempelzwieper Nouveau: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u043b\u0430\u0442-\u043f\u0435\u0447\u0430\u0442\u0435\u043b\u044c \u00ab\u041d\u0443\u0412\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Splattalama master: 5\u2605",
             "ja_JP": "\u30b8\u30e0\u30ef\u30a4\u30d1\u30fc\u30fb\u30d2\u30e5\u30fc\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
         },
         "id": 474,
@@ -9707,5 +9707,1582 @@
         },
         "id": 510,
         "internal": "Badge_XRank_Revised_Pacific_Lv07"
+    },
+    {
+        "name": "Cleared the Initial Spire",
+        "image": "../common/assets/img/badges/Badge_Achievement_Sdodr_Lv00.png",
+        "localizedName": {
+            "en_GB": "Cleared the Initial Spire",
+            "en_US": "Cleared the Initial Spire",
+            "es_ES": "Has completado la primera torre.",
+            "es_MX": "Completaste la primera torre.",
+            "fr_FR": "Premi\u00e8re tour termin\u00e9e",
+            "fr_CA": "Premi\u00e8re tour termin\u00e9e",
+            "de_DE": "Startturm abgeschlossen!",
+            "nl_NL": "De begintoren voltooid.",
+            "ru_RU": "\u041f\u0435\u0440\u0432\u0430\u044f \u0431\u0430\u0448\u043d\u044f \u043f\u0440\u043e\u0439\u0434\u0435\u043d\u0430!",
+            "it_IT": "Torre iniziale superata",
+            "ja_JP": "\u6700\u521d\u306e\u5854\u3092\u30af\u30ea\u30a2\u3057\u305f"
+        },
+        "id": 511,
+        "internal": "Badge_Achievement_Sdodr_Lv00"
+    },
+    {
+        "name": "Cleared the Initial Spire",
+        "image": "../common/assets/img/badges/Badge_Achievement_Sdodr_Lv01.png",
+        "localizedName": {
+            "en_GB": "Cleared the Initial Spire",
+            "en_US": "Cleared the Initial Spire",
+            "es_ES": "Has completado la primera torre.",
+            "es_MX": "Completaste la primera torre.",
+            "fr_FR": "Premi\u00e8re tour termin\u00e9e",
+            "fr_CA": "Premi\u00e8re tour termin\u00e9e",
+            "de_DE": "Startturm abgeschlossen!",
+            "nl_NL": "De begintoren voltooid.",
+            "ru_RU": "\u041f\u0435\u0440\u0432\u0430\u044f \u0431\u0430\u0448\u043d\u044f \u043f\u0440\u043e\u0439\u0434\u0435\u043d\u0430!",
+            "it_IT": "Torre iniziale superata",
+            "ja_JP": "\u6700\u521d\u306e\u5854\u3092\u30af\u30ea\u30a2\u3057\u305f"
+        },
+        "id": 512,
+        "internal": "Badge_Achievement_Sdodr_Lv01"
+    },
+    {
+        "name": "Cleared Side Order",
+        "image": "../common/assets/img/badges/Badge_Achievement_Sdodr_Lv02.png",
+        "localizedName": {
+            "en_GB": "Cleared Side Order",
+            "en_US": "Cleared Side Order",
+            "es_ES": "Has completado \u00abLa cara del orden\u00bb.",
+            "es_MX": "Completaste La cara del orden.",
+            "fr_FR": "Sc\u00e9nario \u00ab Tour de l'Ordre \u00bb termin\u00e9",
+            "fr_CA": "Sc\u00e9nario \u00ab Tour de l'Ordre \u00bb termin\u00e9",
+            "de_DE": "\u201eRuf zur Ordnung\u201c abgeschlossen!",
+            "nl_NL": "'De Toren der Orde' voltooid.",
+            "ru_RU": "\u041f\u043e\u0440\u044f\u0434\u043e\u0447\u043d\u0430\u044f \u043f\u043e\u0440\u0446\u0438\u044f \u043f\u0440\u043e\u0439\u0434\u0435\u043d\u0430!",
+            "it_IT": "Torre dell'Ordine superata",
+            "ja_JP": "\u30b5\u30a4\u30c9\u30fb\u30aa\u30fc\u30c0\u30fc\u3092\u30af\u30ea\u30a2\u3057\u305f"
+        },
+        "id": 513,
+        "internal": "Badge_Achievement_Sdodr_Lv02"
+    },
+    {
+        "name": "Cleared the Spire of Order with Every Palette",
+        "image": "../common/assets/img/badges/Badge_Achievement_Sdodr_Lv03.png",
+        "localizedName": {
+            "en_GB": "Cleared the Spire of Order with Every Palette",
+            "en_US": "Cleared the Spire of Order with Every Palette",
+            "es_ES": "Has completado todas las paletas de la Torre del Orden.",
+            "es_MX": "Completaste todas las paletas de la Torre del Orden.",
+            "fr_FR": "Tour de l'Ordre termin\u00e9e avec toutes les palettes",
+            "fr_CA": "Tour de l'Ordre termin\u00e9e avec toutes les palettes",
+            "de_DE": "Turm der Ordnung mit jeder Palette abgeschlossen!",
+            "nl_NL": "De Toren der Orde met ieder palet voltooid.",
+            "ru_RU": "\u0411\u0430\u0448\u043d\u044f \u041f\u043e\u0440\u044f\u0434\u043a\u0430 \u043f\u0440\u043e\u0439\u0434\u0435\u043d\u0430 \u0441 \u043a\u0430\u0436\u0434\u044b\u043c \u0442\u043e\u043d-\u0431\u043e\u043a\u0441\u043e\u043c!",
+            "it_IT": "Torre dell'Ordine superata con ogni tavoletta",
+            "ja_JP": "\u5168\u3066\u306e\u30d1\u30ec\u30c3\u30c8\u3067\u79e9\u5e8f\u306e\u5854\u3092\u30af\u30ea\u30a2\u3057\u305f"
+        },
+        "id": 514,
+        "internal": "Badge_Achievement_Sdodr_Lv03"
+    },
+    {
+        "name": "Bought Everything from Cipher's Siftings",
+        "image": "../common/assets/img/badges/Badge_Achievement_Sdodr_Lv04.png",
+        "localizedName": {
+            "en_GB": "Bought Everything from Cipher's Siftings",
+            "en_US": "Bought Everything from Cipher's Siftings",
+            "es_ES": "Has canjeado todos los art\u00edculos del puesto de Lucifredo.",
+            "es_MX": "Canjeaste todos los art\u00edculos del puesto de Lucifredo.",
+            "fr_FR": "Tous les articles des Affaires de Crustifer achet\u00e9s",
+            "fr_CA": "Tous les articles du Bazar de Sif\u00e8re achet\u00e9s",
+            "de_DE": "S\u00e4mtliche Artikel aus Ciphers Zeug erworben!",
+            "nl_NL": "Alles gekocht bij Cifers koopjeskraam.",
+            "ru_RU": "\u041a\u0443\u043f\u043b\u0435\u043d\u043e \u0432\u0441\u0435 \u0432 \u0421\u0442\u043e\u043a-\u043b\u043e\u0442\u043a\u0435 \u0426\u0438\u0444\u0435\u0440\u0430!",
+            "it_IT": "Comprato tutto alla bancarella di Cifero",
+            "ja_JP": "\u30e6\u30e1\u30a8\u30d3\u306e\u9732\u5e97\u3067\u5168\u3066\u306e\u54c1\u3092\u4ea4\u63db\u3057\u305f"
+        },
+        "id": 515,
+        "internal": "Badge_Achievement_Sdodr_Lv04"
+    },
+    {
+        "name": "Cleared the Spire of Order with the Low-Hacks Eight's Palette",
+        "image": "../common/assets/img/badges/Badge_Achievement_Sdodr_Lv05.png",
+        "localizedName": {
+            "en_GB": "Cleared the Spire of Order with the Low-Hacks Eight's Palette",
+            "en_US": "Cleared the Spire of Order with the Low-Hacks Eight's Palette",
+            "es_ES": "Has completado la Torre del Orden con hackeos m\u00ednimos de la paleta de Ocho.",
+            "es_MX": "Completaste la Torre del Orden con la paleta de Ocho\ny hackeos limitados.",
+            "fr_FR": "Tour de l'Ordre termin\u00e9e avec les hacks limit\u00e9s de la palette de Huit",
+            "fr_CA": "Tour de l'Ordre termin\u00e9e avec les piratages limit\u00e9s de la palette de Huit",
+            "de_DE": "Turm der Ordnung mit Minimal-Hack-Palette von Nr. 8 abgeschlossen!",
+            "nl_NL": "Toren der Orde voltooid met Achts palet met minimale hacks.",
+            "ru_RU": "\u0411\u0430\u0448\u043d\u044f \u041f\u043e\u0440\u044f\u0434\u043a\u0430 \u043f\u0440\u043e\u0439\u0434\u0435\u043d\u0430 \u0441 \u0442\u043e\u043d-\u0431\u043e\u043a\u0441\u043e\u043c \u0412\u043e\u0441\u044c\u043c\u0435\u0440\u043a\u0438 (\u043c\u0438\u043d\u0438\u043c\u0443\u043c \u043c\u043e\u0434\u043e\u0432)!",
+            "it_IT": "Torre dell'Ordine superata con la tavoletta di Otto e hackeraggi limitati",
+            "ja_JP": "\u30cf\u30c3\u30ad\u30f3\u30b0\u6975\u5c11\u306e\u30cf\u30c1\u306e\u30d1\u30ec\u30c3\u30c8\u3067\u79e9\u5e8f\u306e\u5854\u3092\u30af\u30ea\u30a2\u3057\u305f"
+        },
+        "id": 516,
+        "internal": "Badge_Achievement_Sdodr_Lv05"
+    },
+    {
+        "name": "Eggsecutive VP 200 at Bonerattle Arena Reached!",
+        "image": "../common/assets/img/badges/Badge_CoopGrade_Normal_Shakerail_Lv00.png",
+        "localizedName": {
+            "en_GB": "Eggsecutive VP 200 at Bonerattle Arena Reached!",
+            "en_US": "Eggsecutive VP 200 at Bonerattle Arena Reached!",
+            "es_ES": "Has logrado el grado \u00abdirector 200\u00bb en Coliseo \u00d3seo.",
+            "es_MX": "Lograste el grado \"director 200\" en Coliseo \u00d3seo.",
+            "fr_FR": "Colis\u00e9e enlis\u00e9 : Niveau L\u00e9gende 200 atteint",
+            "fr_CA": "Colis\u00e9e enlis\u00e9 : Niveau L\u00e9gende 200 atteint",
+            "de_DE": "Krawallhalla: Legenden-Stufe 200 erreicht!",
+            "nl_NL": "Vechtfuik: legendeniveau 200 bereikt!",
+            "ru_RU": "\u041a\u043e\u0441\u0442\u043e\u043b\u0438\u0437\u0435\u0439: \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u00ab\u0413\u0435\u043d\u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440 200\u00bb",
+            "it_IT": "Arena Ossoscosso: Dirigente livello 200 raggiunto!",
+            "ja_JP": "\u3069\u3093\u3074\u3053\u95d8\u6280\u5834\u3067\u300c\u3067\u3093\u305b\u3064\uff12\uff10\uff10\u300d\u306b\u306a\u3063\u305f"
+        },
+        "id": 517,
+        "internal": "Badge_CoopGrade_Normal_Shakerail_Lv00"
+    },
+    {
+        "name": "Eggsecutive VP 400 at Bonerattle Arena Reached!",
+        "image": "../common/assets/img/badges/Badge_CoopGrade_Normal_Shakerail_Lv01.png",
+        "localizedName": {
+            "en_GB": "Eggsecutive VP 400 at Bonerattle Arena Reached!",
+            "en_US": "Eggsecutive VP 400 at Bonerattle Arena Reached!",
+            "es_ES": "Has logrado el grado \u00abdirector 400\u00bb en Coliseo \u00d3seo.",
+            "es_MX": "Lograste el grado \"director 400\" en Coliseo \u00d3seo.",
+            "fr_FR": "Colis\u00e9e enlis\u00e9 : Niveau L\u00e9gende 400 atteint",
+            "fr_CA": "Colis\u00e9e enlis\u00e9 : Niveau L\u00e9gende 400 atteint",
+            "de_DE": "Krawallhalla: Legenden-Stufe 400 erreicht!",
+            "nl_NL": "Vechtfuik: legendeniveau 400 bereikt!",
+            "ru_RU": "\u041a\u043e\u0441\u0442\u043e\u043b\u0438\u0437\u0435\u0439: \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u00ab\u0413\u0435\u043d\u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440 400\u00bb",
+            "it_IT": "Arena Ossoscosso: Dirigente livello 400 raggiunto!",
+            "ja_JP": "\u3069\u3093\u3074\u3053\u95d8\u6280\u5834\u3067\u300c\u3067\u3093\u305b\u3064\uff14\uff10\uff10\u300d\u306b\u306a\u3063\u305f"
+        },
+        "id": 518,
+        "internal": "Badge_CoopGrade_Normal_Shakerail_Lv01"
+    },
+    {
+        "name": "Eggsecutive VP 600 at Bonerattle Arena Reached!",
+        "image": "../common/assets/img/badges/Badge_CoopGrade_Normal_Shakerail_Lv02.png",
+        "localizedName": {
+            "en_GB": "Eggsecutive VP 600 at Bonerattle Arena Reached!",
+            "en_US": "Eggsecutive VP 600 at Bonerattle Arena Reached!",
+            "es_ES": "Has logrado el grado \u00abdirector 600\u00bb en Coliseo \u00d3seo.",
+            "es_MX": "Lograste el grado \"director 600\" en Coliseo \u00d3seo.",
+            "fr_FR": "Colis\u00e9e enlis\u00e9 : Niveau L\u00e9gende 600 atteint",
+            "fr_CA": "Colis\u00e9e enlis\u00e9 : Niveau L\u00e9gende 600 atteint",
+            "de_DE": "Krawallhalla: Legenden-Stufe 600 erreicht!",
+            "nl_NL": "Vechtfuik: legendeniveau 600 bereikt!",
+            "ru_RU": "\u041a\u043e\u0441\u0442\u043e\u043b\u0438\u0437\u0435\u0439: \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u00ab\u0413\u0435\u043d\u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440 600\u00bb",
+            "it_IT": "Arena Ossoscosso: Dirigente livello 600 raggiunto!",
+            "ja_JP": "\u3069\u3093\u3074\u3053\u95d8\u6280\u5834\u3067\u300c\u3067\u3093\u305b\u3064\uff16\uff10\uff10\u300d\u306b\u306a\u3063\u305f"
+        },
+        "id": 519,
+        "internal": "Badge_CoopGrade_Normal_Shakerail_Lv02"
+    },
+    {
+        "name": "Eggsecutive VP 999 at Bonerattle Arena Reached!",
+        "image": "../common/assets/img/badges/Badge_CoopGrade_Normal_Shakerail_Lv03.png",
+        "localizedName": {
+            "en_GB": "Eggsecutive VP 999 at Bonerattle Arena Reached!",
+            "en_US": "Eggsecutive VP 999 at Bonerattle Arena Reached!",
+            "es_ES": "Has logrado el grado \u00abdirector 999\u00bb en Coliseo \u00d3seo.",
+            "es_MX": "Lograste el grado \"director 999\" en Coliseo \u00d3seo.",
+            "fr_FR": "Colis\u00e9e enlis\u00e9 : Niveau L\u00e9gende 999 atteint",
+            "fr_CA": "Colis\u00e9e enlis\u00e9 : Niveau L\u00e9gende 999 atteint",
+            "de_DE": "Krawallhalla: Legenden-Stufe 999 erreicht!",
+            "nl_NL": "Vechtfuik: legendeniveau 999 bereikt!",
+            "ru_RU": "\u041a\u043e\u0441\u0442\u043e\u043b\u0438\u0437\u0435\u0439: \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u00ab\u0413\u0435\u043d\u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440 999\u00bb",
+            "it_IT": "Arena Ossoscosso: Dirigente livello 999 raggiunto!",
+            "ja_JP": "\u3069\u3093\u3074\u3053\u95d8\u6280\u5834\u3067\u300c\u3067\u3093\u305b\u3064\uff19\uff19\uff19\u300d\u306b\u306a\u3063\u305f"
+        },
+        "id": 520,
+        "internal": "Badge_CoopGrade_Normal_Shakerail_Lv03"
+    },
+    {
+        "name": "Organized a 16-Player Tournament with Tournament Manager!",
+        "image": "../common/assets/img/badges/Badge_HammerHostTournament_Lv00.png",
+        "localizedName": {
+            "en_GB": "Organized a 16-Player Tournament with Tournament Manager!",
+            "en_US": "Organized a 16-Player Tournament with Tournament Manager!",
+            "es_ES": "Has organizado un torneo de 16 participantes con la aplicaci\u00f3n de gesti\u00f3n.",
+            "es_MX": "Organizaste un torneo de 16 participantes con\nla aplicaci\u00f3n Gesti\u00f3n de torneos.",
+            "fr_FR": "Tournoi \u00e0 16 joueurs organis\u00e9 avec l'Organisateur de tournois",
+            "fr_CA": "Tournoi \u00e0 16 joueurs organis\u00e9 avec l'Organisateur de tournois",
+            "de_DE": "16-Spieler-Turnier mithilfe des Turnier-Managers organisiert!",
+            "nl_NL": "Toernooi met 16 spelers georganiseerd via de toernooiplanner!",
+            "ru_RU": "\u0412 \u00ab\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0435 \u0442\u0443\u0440\u043d\u0438\u0440\u043e\u0432\u00bb \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043e\u0432\u0430\u043d \u0442\u0443\u0440\u043d\u0438\u0440 \u043d\u0430 16 \u0438\u0433\u0440\u043e\u043a\u043e\u0432!",
+            "it_IT": "Organizzato un torneo da 16 giocatori con Gestione tornei!",
+            "ja_JP": "\u30bf\u30a4\u30ab\u30a4\u30b5\u30dd\u30fc\u30c8\u3067\u4e3b\u50ac\u3057\u305f\u5927\u4f1a\u306e\u53c2\u52a0\u8005\u304c\u5408\u8a08\uff11\uff16\u4eba\u306b\u306a\u3063\u305f"
+        },
+        "id": 521,
+        "internal": "Badge_HammerHostTournament_Lv00"
+    },
+    {
+        "name": "Organized a 250-Player Tournament with Tournament Manager!",
+        "image": "../common/assets/img/badges/Badge_HammerHostTournament_Lv01.png",
+        "localizedName": {
+            "en_GB": "Organized a 250-Player Tournament with Tournament Manager!",
+            "en_US": "Organized a 250-Player Tournament with Tournament Manager!",
+            "es_ES": "Has organizado un torneo de 250 participantes con la aplicaci\u00f3n de gesti\u00f3n.",
+            "es_MX": "Organizaste un torneo de 250 participantes con\nla aplicaci\u00f3n Gesti\u00f3n de torneos.",
+            "fr_FR": "Tournoi \u00e0 250 joueurs organis\u00e9 avec l'Organisateur de tournois",
+            "fr_CA": "Tournoi \u00e0 250 joueurs organis\u00e9 avec l'Organisateur de tournois",
+            "de_DE": "250-Spieler-Turnier mithilfe des Turnier-Managers organisiert!",
+            "nl_NL": "Toernooi met 250 spelers georganiseerd via de toernooiplanner!",
+            "ru_RU": "\u0412 \u00ab\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0435 \u0442\u0443\u0440\u043d\u0438\u0440\u043e\u0432\u00bb \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043e\u0432\u0430\u043d \u0442\u0443\u0440\u043d\u0438\u0440 \u043d\u0430 250 \u0438\u0433\u0440\u043e\u043a\u043e\u0432!",
+            "it_IT": "Organizzato un torneo da 250 giocatori con Gestione tornei!",
+            "ja_JP": "\u30bf\u30a4\u30ab\u30a4\u30b5\u30dd\u30fc\u30c8\u3067\u4e3b\u50ac\u3057\u305f\u5927\u4f1a\u306e\u53c2\u52a0\u8005\u304c\u5408\u8a08\uff12\uff15\uff10\u4eba\u306b\u306a\u3063\u305f"
+        },
+        "id": 522,
+        "internal": "Badge_HammerHostTournament_Lv01"
+    },
+    {
+        "name": "Organized a 1,000-Player Tournament with Tournament Manager!",
+        "image": "../common/assets/img/badges/Badge_HammerHostTournament_Lv02.png",
+        "localizedName": {
+            "en_GB": "Organized a 1,000-Player Tournament with Tournament Manager!",
+            "en_US": "Organized a 1,000-Player Tournament with Tournament Manager!",
+            "es_ES": "Has organizado un torneo de 1000 participantes con la aplicaci\u00f3n de gesti\u00f3n.",
+            "es_MX": "Organizaste un torneo de 1000 participantes con\nla aplicaci\u00f3n Gesti\u00f3n de torneos.",
+            "fr_FR": "Tournoi \u00e0 1 000 joueurs organis\u00e9 avec l'Organisateur de tournois",
+            "fr_CA": "Tournoi \u00e0 1000 joueurs organis\u00e9 avec l'Organisateur de tournois",
+            "de_DE": "1000-Spieler-Turnier mithilfe des Turnier-Managers organisiert!",
+            "nl_NL": "Toernooi met 1000 spelers georganiseerd via de toernooiplanner!",
+            "ru_RU": "\u0412 \u00ab\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0435 \u0442\u0443\u0440\u043d\u0438\u0440\u043e\u0432\u00bb \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043e\u0432\u0430\u043d \u0442\u0443\u0440\u043d\u0438\u0440 \u043d\u0430 1000 \u0438\u0433\u0440\u043e\u043a\u043e\u0432!",
+            "it_IT": "Organizzato un torneo da 1000 giocatori con Gestione tornei!",
+            "ja_JP": "\u30bf\u30a4\u30ab\u30a4\u30b5\u30dd\u30fc\u30c8\u3067\u4e3b\u50ac\u3057\u305f\u5927\u4f1a\u306e\u53c2\u52a0\u8005\u304c\u5408\u8a08\uff11\uff10\uff10\uff10\u4eba\u306b\u306a\u3063\u305f"
+        },
+        "id": 523,
+        "internal": "Badge_HammerHostTournament_Lv02"
+    },
+    {
+        "name": "100K Ye Olde Cloth Shoppe Club",
+        "image": "../common/assets/img/badges/Badge_SpendShop_Clothes_Sdodr_Lv00.png",
+        "localizedName": {
+            "en_GB": "100K Ye Olde Cloth Shoppe Club",
+            "en_US": "100K Ye Olde Cloth Shoppe Club",
+            "es_ES": "Tu gasto en la tienda de ropa de Crom\u00f3polis ha llegado a 100 000.",
+            "es_MX": "Gastaste 100 000 en Pr\u00eat-\u00e0-Poulpe.",
+            "fr_FR": "Somme de 100 000 d\u00e9pens\u00e9e \u00e0 Culture Couture",
+            "fr_CA": "Somme de 100 000 d\u00e9pens\u00e9e \u00e0 Culture Couture",
+            "de_DE": "F\u00fcr 100.000 bei Zierfesch eingekauft!",
+            "nl_NL": "100.000 uitgegeven bij Kwallietijd!",
+            "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u00ab\u0421\u0442\u0438\u043b\u042a\u00bb: 100 000",
+            "it_IT": "Speso 100.000 da Atelier Celenteron",
+            "ja_JP": "\u30cf\u30a4\u30ab\u30e9\u30b9\u30af\u30a8\u30a2\u306e\u30d5\u30af\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+        },
+        "id": 524,
+        "internal": "Badge_SpendShop_Clothes_Sdodr_Lv00"
+    },
+    {
+        "name": "1MM Ye Olde Cloth Shoppe Club",
+        "image": "../common/assets/img/badges/Badge_SpendShop_Clothes_Sdodr_Lv01.png",
+        "localizedName": {
+            "en_GB": "1MM Ye Olde Cloth Shoppe Club",
+            "en_US": "1MM Ye Olde Cloth Shoppe Club",
+            "es_ES": "Tu gasto en la tienda de ropa de Crom\u00f3polis ha llegado a 1 000 000.",
+            "es_MX": "Gastaste 1 000 000 en Pr\u00eat-\u00e0-Poulpe.",
+            "fr_FR": "Somme d'un million d\u00e9pens\u00e9e \u00e0 Culture Couture",
+            "fr_CA": "Somme d'un million d\u00e9pens\u00e9e \u00e0 Culture Couture",
+            "de_DE": "F\u00fcr 1.000.000 bei Zierfesch eingekauft!",
+            "nl_NL": "1 miljoen uitgegeven bij Kwallietijd!",
+            "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u00ab\u0421\u0442\u0438\u043b\u042a\u00bb: 1 000 000",
+            "it_IT": "Speso 1.000.000 da Atelier Celenteron",
+            "ja_JP": "\u30cf\u30a4\u30ab\u30e9\u30b9\u30af\u30a8\u30a2\u306e\u30d5\u30af\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11,\uff10\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+        },
+        "id": 525,
+        "internal": "Badge_SpendShop_Clothes_Sdodr_Lv01"
+    },
+    {
+        "name": "100K Headspace Club",
+        "image": "../common/assets/img/badges/Badge_SpendShop_Head_Sdodr_Lv00.png",
+        "localizedName": {
+            "en_GB": "100K Headspace Club",
+            "en_US": "100K Headspace Club",
+            "es_ES": "Tu gasto en la tienda de accesorios de Tintelia ha llegado a 100 000.",
+            "es_MX": "Gastaste 100 000 en Palasesera.",
+            "fr_FR": "Somme de 100 000 d\u00e9pens\u00e9e \u00e0 Couvre-seiche",
+            "fr_CA": "Somme de 100 000 d\u00e9pens\u00e9e \u00e0 Couvre-seiche",
+            "de_DE": "F\u00fcr 100.000 bei Kopfsache eingekauft!",
+            "nl_NL": "100.000 uitgegeven bij Hoofdmoot!",
+            "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u00ab\u0410\u0443\u0440\u0435\u043b\u0438\u044f\u00bb: 100 000",
+            "it_IT": "Speso 100.000 da Karma & Cappelli",
+            "ja_JP": "\u30cf\u30a4\u30ab\u30e9\u30b9\u30af\u30a8\u30a2\u306e\u30a2\u30bf\u30de\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+        },
+        "id": 526,
+        "internal": "Badge_SpendShop_Head_Sdodr_Lv00"
+    },
+    {
+        "name": "1MM Headspace Club",
+        "image": "../common/assets/img/badges/Badge_SpendShop_Head_Sdodr_Lv01.png",
+        "localizedName": {
+            "en_GB": "1MM Headspace Club",
+            "en_US": "1MM Headspace Club",
+            "es_ES": "Tu gasto en la tienda de accesorios de Tintelia ha llegado a 1 000 000.",
+            "es_MX": "Gastaste 1 000 000 en Palasesera.",
+            "fr_FR": "Somme d'un million d\u00e9pens\u00e9e \u00e0 Couvre-seiche",
+            "fr_CA": "Somme d'un million d\u00e9pens\u00e9e \u00e0 Couvre-seiche",
+            "de_DE": "F\u00fcr 1.000.000 bei Kopfsache eingekauft!",
+            "nl_NL": "1 miljoen uitgegeven bij Hoofdmoot!",
+            "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u00ab\u0410\u0443\u0440\u0435\u043b\u0438\u044f\u00bb: 1 000 000",
+            "it_IT": "Speso 1.000.000 da Karma & Cappelli",
+            "ja_JP": "\u30cf\u30a4\u30ab\u30e9\u30b9\u30af\u30a8\u30a2\u306e\u30a2\u30bf\u30de\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11,\uff10\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+        },
+        "id": 527,
+        "internal": "Badge_SpendShop_Head_Sdodr_Lv01"
+    },
+    {
+        "name": "100K Shella Fresh Club",
+        "image": "../common/assets/img/badges/Badge_SpendShop_Shoes_Sdodr_Lv00.png",
+        "localizedName": {
+            "en_GB": "100K Shella Fresh Club",
+            "en_US": "100K Shella Fresh Club",
+            "es_ES": "Tu gasto en la tienda de zapatos de Tintelia ha llegado a 100 000.",
+            "es_MX": "Gastaste 100 000 en Ochosuelas.",
+            "fr_FR": "Somme de 100 000 d\u00e9pens\u00e9e au Pied malin",
+            "fr_CA": "Somme de 100 000 d\u00e9pens\u00e9e au Pied malin",
+            "de_DE": "F\u00fcr 100.000 bei Krabkicks eingekauft!",
+            "nl_NL": "100.000 uitgegeven bij Fish & Kicks!",
+            "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u00ab\u041a\u0440\u0430\u0431\u043e\u043b\u0430\u043f\u00bb: 100 000",
+            "it_IT": "Speso 100.000 da Carpe coi Tacchi",
+            "ja_JP": "\u30cf\u30a4\u30ab\u30e9\u30b9\u30af\u30a8\u30a2\u306e\u30af\u30c4\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+        },
+        "id": 528,
+        "internal": "Badge_SpendShop_Shoes_Sdodr_Lv00"
+    },
+    {
+        "name": "1MM Shella Fresh Club",
+        "image": "../common/assets/img/badges/Badge_SpendShop_Shoes_Sdodr_Lv01.png",
+        "localizedName": {
+            "en_GB": "1MM Shella Fresh Club",
+            "en_US": "1MM Shella Fresh Club",
+            "es_ES": "Tu gasto en la tienda de zapatos de Tintelia ha llegado a 1 000 000.",
+            "es_MX": "Gastaste 1 000 000 en Ochosuelas.",
+            "fr_FR": "Somme d'un million d\u00e9pens\u00e9e au Pied malin",
+            "fr_CA": "Somme d'un million d\u00e9pens\u00e9e au Pied malin",
+            "de_DE": "F\u00fcr 1.000.000 bei Krabkicks eingekauft!",
+            "nl_NL": "1 miljoen uitgegeven bij Fish & Kicks!",
+            "ru_RU": "\u041a\u043e\u043b-\u0432\u043e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043d\u0435\u0433 \u0432 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u00ab\u041a\u0440\u0430\u0431\u043e\u043b\u0430\u043f\u00bb: 1 000 000",
+            "it_IT": "Speso 1.000.000 da Carpe coi Tacchi",
+            "ja_JP": "\u30cf\u30a4\u30ab\u30e9\u30b9\u30af\u30a8\u30a2\u306e\u30af\u30c4\u5c4b\u3067\u304a\u30ab\u30cd\u3092\uff11,\uff10\uff10\uff10,\uff10\uff10\uff10\u30b2\u30bd\u4f7f\u3063\u305f"
+        },
+        "id": 529,
+        "internal": "Badge_SpendShop_Shoes_Sdodr_Lv01"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Auto_A.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 530,
+        "internal": "Badge_TipColorComplete_Sdodr_Auto_A"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Auto_B.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 531,
+        "internal": "Badge_TipColorComplete_Sdodr_Auto_B"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Auto_C.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 532,
+        "internal": "Badge_TipColorComplete_Sdodr_Auto_C"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Continuity_A.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 533,
+        "internal": "Badge_TipColorComplete_Sdodr_Continuity_A"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Continuity_B.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 534,
+        "internal": "Badge_TipColorComplete_Sdodr_Continuity_B"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Continuity_C.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 535,
+        "internal": "Badge_TipColorComplete_Sdodr_Continuity_C"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Fire_A.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 536,
+        "internal": "Badge_TipColorComplete_Sdodr_Fire_A"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Fire_B.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 537,
+        "internal": "Badge_TipColorComplete_Sdodr_Fire_B"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Fire_C.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 538,
+        "internal": "Badge_TipColorComplete_Sdodr_Fire_C"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Luck_A.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 539,
+        "internal": "Badge_TipColorComplete_Sdodr_Luck_A"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Luck_B.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 540,
+        "internal": "Badge_TipColorComplete_Sdodr_Luck_B"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Luck_C.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 541,
+        "internal": "Badge_TipColorComplete_Sdodr_Luck_C"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Move_A.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 542,
+        "internal": "Badge_TipColorComplete_Sdodr_Move_A"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Move_B.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 543,
+        "internal": "Badge_TipColorComplete_Sdodr_Move_B"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Move_C.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 544,
+        "internal": "Badge_TipColorComplete_Sdodr_Move_C"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Range_A.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 545,
+        "internal": "Badge_TipColorComplete_Sdodr_Range_A"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Range_B.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 546,
+        "internal": "Badge_TipColorComplete_Sdodr_Range_B"
+    },
+    {
+        "name": "Collected Data for All Color Chips of the Same Tone",
+        "image": "../common/assets/img/badges/Badge_TipColorComplete_Sdodr_Range_C.png",
+        "localizedName": {
+            "en_GB": "Collected Data for All Color Chips of the Same Tone",
+            "en_US": "Collected Data for All Color Chips of the Same Tone",
+            "es_ES": "Has reunido todos los datos de los cromochips del mismo color.",
+            "es_MX": "Reuniste todos los datos de los cromochips del mismo color.",
+            "fr_FR": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "fr_CA": "Donn\u00e9es de toutes les puces chrom. de la m\u00eame teinte obtenues",
+            "de_DE": "Daten f\u00fcr alle Farbchips desselben Farbtons gesammelt.",
+            "nl_NL": "Gegevens verzameld over alle kleurenchips met dezelfde tint.",
+            "ru_RU": "\u0421\u043e\u0431\u0440\u0430\u043d\u044b \u0434\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0442\u043e\u043d-\u0436\u0435\u0442\u043e\u043d\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+            "it_IT": "Raccolti dettagli su tutte le schede colore della stessa tonalit\u00e0",
+            "ja_JP": "\u540c\u3058\u8272\u306e\u30ab\u30e9\u30fc\u30c1\u30c3\u30d7\u306e\u60c5\u5831\u3092\u5168\u3066\u96c6\u3081\u305f"
+        },
+        "id": 547,
+        "internal": "Badge_TipColorComplete_Sdodr_Range_C"
+    },
+    {
+        "name": "4\u2605 Order Blaster Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Blaster_Short_O_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Order Blaster Replica User",
+            "en_US": "4\u2605 Order Blaster Replica User",
+            "es_ES": "Tu destreza con Devastador orden (r\u00e9plica) ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Lanzamotas orden r\u00e9plica",
+            "fr_FR": "Blaster d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "fr_CA": "Blasteur d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "de_DE": "Ordnung-Blaster Replik: 4 Sterne erreicht!",
+            "nl_NL": "Ordeblaster (replica): 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0411\u043b\u0430\u0441\u0442\u0435\u0440 \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Blaster Ordine replica: 4\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30d6\u30e9\u30b9\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 548,
+        "internal": "Badge_WeaponLevel_Blaster_Short_O_Lv00"
+    },
+    {
+        "name": "5\u2605 Order Blaster Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Blaster_Short_O_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Order Blaster Replica User",
+            "en_US": "5\u2605 Order Blaster Replica User",
+            "es_ES": "Tu destreza con Devastador orden (r\u00e9plica) ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Lanzamotas orden r\u00e9plica",
+            "fr_FR": "Blaster d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "fr_CA": "Blasteur d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "de_DE": "Ordnung-Blaster Replik: 5 Sterne erreicht!",
+            "nl_NL": "Ordeblaster (replica): 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0411\u043b\u0430\u0441\u0442\u0435\u0440 \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Blaster Ordine replica: 5\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30d6\u30e9\u30b9\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 549,
+        "internal": "Badge_WeaponLevel_Blaster_Short_O_Lv01"
+    },
+    {
+        "name": "4\u2605 Orderbrush Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Brush_Normal_O_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Orderbrush Replica User",
+            "en_US": "4\u2605 Orderbrush Replica User",
+            "es_ES": "Tu destreza con Brocha orden (r\u00e9plica) ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Pincel caligraf\u00eda orden r\u00e9plica",
+            "fr_FR": "Pinceau d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "fr_CA": "Pinceau d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "de_DE": "Ordnung-Kalligraf Replik: 4 Sterne erreicht!",
+            "nl_NL": "Ordekwast (replica): 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041a\u0438\u0441\u0442\u044c \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Pennello Ordine replica: 4\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30d6\u30e9\u30b7 \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 550,
+        "internal": "Badge_WeaponLevel_Brush_Normal_O_Lv00"
+    },
+    {
+        "name": "5\u2605 Orderbrush Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Brush_Normal_O_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Orderbrush Replica User",
+            "en_US": "5\u2605 Orderbrush Replica User",
+            "es_ES": "Tu destreza con Brocha orden (r\u00e9plica) ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Pincel caligraf\u00eda orden r\u00e9plica",
+            "fr_FR": "Pinceau d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "fr_CA": "Pinceau d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "de_DE": "Ordnung-Kalligraf Replik: 5 Sterne erreicht!",
+            "nl_NL": "Ordekwast (replica): 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041a\u0438\u0441\u0442\u044c \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Pennello Ordine replica: 5\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30d6\u30e9\u30b7 \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 551,
+        "internal": "Badge_WeaponLevel_Brush_Normal_O_Lv01"
+    },
+    {
+        "name": "4\u2605 Custom E-liter 4K Scope User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Charger_LongScope_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Custom E-liter 4K Scope User",
+            "en_US": "4\u2605 Custom E-liter 4K Scope User",
+            "es_ES": "Tu destreza con Telentintador 4K SP ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Telentintador 4K adaptado",
+            "fr_FR": "Extraceur + zoom modifi\u00e9 : niveau 4\u2605 atteint",
+            "fr_CA": "X-traceur + zoom modifi\u00e9 : niveau 4\u2605 atteint",
+            "de_DE": "Ziel-E-liter 4K SE: 4 Sterne erreicht!",
+            "nl_NL": "Gemodde E-liter 4K met vizier: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043d\u0430\u0439\u043f-\u044d-\u043b\u0438\u0442\u0440 95 \u00ab\u041f\u043e\u043d\u0442\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Tinter con mirino 4K CM: 4\u2605",
+            "ja_JP": "4K\u30b9\u30b3\u30fc\u30d7\u30ab\u30b9\u30bf\u30e0\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 552,
+        "internal": "Badge_WeaponLevel_Charger_LongScope_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Custom E-liter 4K Scope User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Charger_LongScope_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Custom E-liter 4K Scope User",
+            "en_US": "5\u2605 Custom E-liter 4K Scope User",
+            "es_ES": "Tu destreza con Telentintador 4K SP ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Telentintador 4K adaptado",
+            "fr_FR": "Extraceur + zoom modifi\u00e9 : niveau 5\u2605 atteint",
+            "fr_CA": "X-traceur + zoom modifi\u00e9 : niveau 5\u2605 atteint",
+            "de_DE": "Ziel-E-liter 4K SE: 5 Sterne erreicht!",
+            "nl_NL": "Gemodde E-liter 4K met vizier: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043d\u0430\u0439\u043f-\u044d-\u043b\u0438\u0442\u0440 95 \u00ab\u041f\u043e\u043d\u0442\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Tinter con mirino 4K CM: 5\u2605",
+            "ja_JP": "4K\u30b9\u30b3\u30fc\u30d7\u30ab\u30b9\u30bf\u30e0\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 553,
+        "internal": "Badge_WeaponLevel_Charger_LongScope_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Custom E-liter 4K User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Charger_Long_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Custom E-liter 4K User",
+            "en_US": "4\u2605 Custom E-liter 4K User",
+            "es_ES": "Tu destreza con Entintador 4K SP ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Entintador 4K adaptado",
+            "fr_FR": "Extraceur + modifi\u00e9 : niveau 4\u2605 atteint",
+            "fr_CA": "X-traceur + modifi\u00e9 : niveau 4\u2605 atteint",
+            "de_DE": "E-liter 4K SE: 4 Sterne erreicht!",
+            "nl_NL": "Gemodde E-liter 4K: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u042d-\u043b\u0438\u0442\u0440 95 \u00ab\u041f\u043e\u043d\u0442\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Tinter a carica 4K CM: 4\u2605",
+            "ja_JP": "\u30ea\u30c3\u30bf\u30fc4K\u30ab\u30b9\u30bf\u30e0\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 554,
+        "internal": "Badge_WeaponLevel_Charger_Long_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Custom E-liter 4K User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Charger_Long_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Custom E-liter 4K User",
+            "en_US": "5\u2605 Custom E-liter 4K User",
+            "es_ES": "Tu destreza con Entintador 4K SP ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Entintador 4K adaptado",
+            "fr_FR": "Extraceur + modifi\u00e9 : niveau 5\u2605 atteint",
+            "fr_CA": "X-traceur + modifi\u00e9 : niveau 5\u2605 atteint",
+            "de_DE": "E-liter 4K SE: 5 Sterne erreicht!",
+            "nl_NL": "Gemodde E-liter 4K: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u042d-\u043b\u0438\u0442\u0440 95 \u00ab\u041f\u043e\u043d\u0442\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Tinter a carica 4K CM: 5\u2605",
+            "ja_JP": "\u30ea\u30c3\u30bf\u30fc4K\u30ab\u30b9\u30bf\u30e0\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 555,
+        "internal": "Badge_WeaponLevel_Charger_Long_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Order Charger Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Charger_Normal_O_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Order Charger Replica User",
+            "en_US": "4\u2605 Order Charger Replica User",
+            "es_ES": "Tu destreza con Cargatintas orden (r\u00e9plica) ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Cargatintas orden r\u00e9plica",
+            "fr_FR": "Fusil d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "fr_CA": "Fusil d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "de_DE": "Ordnung-Konzentrator Replik: 4 Sterne erreicht!",
+            "nl_NL": "Ordelader (replica): 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u043b\u0430\u0442\u0433\u0430\u043d \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Splatter Ordine replica: 4\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 556,
+        "internal": "Badge_WeaponLevel_Charger_Normal_O_Lv00"
+    },
+    {
+        "name": "5\u2605 Order Charger Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Charger_Normal_O_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Order Charger Replica User",
+            "en_US": "5\u2605 Order Charger Replica User",
+            "es_ES": "Tu destreza con Cargatintas orden (r\u00e9plica) ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Cargatintas orden r\u00e9plica",
+            "fr_FR": "Fusil d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "fr_CA": "Fusil d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "de_DE": "Ordnung-Konzentrator Replik: 5 Sterne erreicht!",
+            "nl_NL": "Ordelader (replica): 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u043b\u0430\u0442\u0433\u0430\u043d \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Splatter Ordine replica: 5\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 557,
+        "internal": "Badge_WeaponLevel_Charger_Normal_O_Lv01"
+    },
+    {
+        "name": "4\u2605 New Squiffer User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Charger_Quick_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 New Squiffer User",
+            "en_US": "4\u2605 New Squiffer User",
+            "es_ES": "Tu destreza con Kalarrapid \u03b2 ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Delineador Y",
+            "fr_FR": "D\u00e9cap'express B\u00eata : niveau 4\u2605 atteint",
+            "fr_CA": "Lignizateur b\u00eata : niveau 4\u2605 atteint",
+            "de_DE": "Sepiator \u03b2: 4 Sterne erreicht!",
+            "nl_NL": "Octopoets Ultra: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u0442\u0438\u0440\u0430\u0442\u0435\u043b\u044c-II\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Kalamarapid \u03b2: 4\u2605",
+            "ja_JP": "\u30b9\u30af\u30a4\u30c3\u30af\u30ea\u30f3\u03b2\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 558,
+        "internal": "Badge_WeaponLevel_Charger_Quick_01_Lv00"
+    },
+    {
+        "name": "5\u2605 New Squiffer User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Charger_Quick_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 New Squiffer User",
+            "en_US": "5\u2605 New Squiffer User",
+            "es_ES": "Tu destreza con Kalarrapid \u03b2 ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Delineador Y",
+            "fr_FR": "D\u00e9cap'express B\u00eata : niveau 5\u2605 atteint",
+            "fr_CA": "Lignizateur b\u00eata : niveau 5\u2605 atteint",
+            "de_DE": "Sepiator \u03b2: 5 Sterne erreicht!",
+            "nl_NL": "Octopoets Ultra: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u0442\u0438\u0440\u0430\u0442\u0435\u043b\u044c-II\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Kalamarapid \u03b2: 5\u2605",
+            "ja_JP": "\u30b9\u30af\u30a4\u30c3\u30af\u30ea\u30f3\u03b2\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 559,
+        "internal": "Badge_WeaponLevel_Charger_Quick_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Glooga Dualies Deco User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Maneuver_Gallon_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Glooga Dualies Deco User",
+            "en_US": "4\u2605 Glooga Dualies Deco User",
+            "es_ES": "Tu destreza con Fundidora 525 dual DX ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Fundidora 525 dual chic",
+            "fr_FR": "Double Kelvin 525 chic : niveau 4\u2605 atteint",
+            "fr_CA": "Double Kelvin 525 chic : niveau 4\u2605 atteint",
+            "de_DE": "Kelvin 525 Deko: 4 Sterne erreicht!",
+            "nl_NL": "Kelvin 525 Deco: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0422\u0435\u0440\u043c\u043e\u043f\u043b\u044e\u0445\u0438 525 \u00ab\u0414\u0435\u043a\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Kelvin duplo 525 DX: 4\u2605",
+            "ja_JP": "\u30b1\u30eb\u30d3\u30f3525\u30c7\u30b3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 560,
+        "internal": "Badge_WeaponLevel_Maneuver_Gallon_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Glooga Dualies Deco User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Maneuver_Gallon_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Glooga Dualies Deco User",
+            "en_US": "5\u2605 Glooga Dualies Deco User",
+            "es_ES": "Tu destreza con Fundidora 525 dual DX ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Fundidora 525 dual chic",
+            "fr_FR": "Double Kelvin 525 chic : niveau 5\u2605 atteint",
+            "fr_CA": "Double Kelvin 525 chic : niveau 5\u2605 atteint",
+            "de_DE": "Kelvin 525 Deko: 5 Sterne erreicht!",
+            "nl_NL": "Kelvin 525 Deco: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0422\u0435\u0440\u043c\u043e\u043f\u043b\u044e\u0445\u0438 525 \u00ab\u0414\u0435\u043a\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Kelvin duplo 525 DX: 5\u2605",
+            "ja_JP": "\u30b1\u30eb\u30d3\u30f3525\u30c7\u30b3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 561,
+        "internal": "Badge_WeaponLevel_Maneuver_Gallon_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Douser Dualies FF User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Maneuver_Long_00_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Douser Dualies FF User",
+            "en_US": "4\u2605 Douser Dualies FF User",
+            "es_ES": "Tu destreza con Extintor Dual FF ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Extintor dual FF",
+            "fr_FR": "Double ignifugeur : niveau 4\u2605 atteint",
+            "fr_CA": "Double ignifugeur : niveau 4\u2605 atteint",
+            "de_DE": "L\u00f6sch-Doppler FW: 4 Sterne erreicht!",
+            "nl_NL": "Blusknallers BW: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041a\u0440\u0430\u0441\u043a\u043e\u0442\u0443\u0448\u0438\u0442\u0435\u043b\u0438 255\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Repolper estintori FF: 4\u2605",
+            "ja_JP": "\u30ac\u30a8\u30f3FF\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 562,
+        "internal": "Badge_WeaponLevel_Maneuver_Long_00_Lv00"
+    },
+    {
+        "name": "5\u2605 Douser Dualies FF User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Maneuver_Long_00_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Douser Dualies FF User",
+            "en_US": "5\u2605 Douser Dualies FF User",
+            "es_ES": "Tu destreza con Extintor Dual FF ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Extintor dual FF",
+            "fr_FR": "Double ignifugeur : niveau 5\u2605 atteint",
+            "fr_CA": "Double ignifugeur : niveau 5\u2605 atteint",
+            "de_DE": "L\u00f6sch-Doppler FW: 5 Sterne erreicht!",
+            "nl_NL": "Blusknallers BW: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041a\u0440\u0430\u0441\u043a\u043e\u0442\u0443\u0448\u0438\u0442\u0435\u043b\u0438 255\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Repolper estintori FF: 5\u2605",
+            "ja_JP": "\u30ac\u30a8\u30f3FF\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 563,
+        "internal": "Badge_WeaponLevel_Maneuver_Long_00_Lv01"
+    },
+    {
+        "name": "4\u2605 Order Dualie Replicas User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Maneuver_Normal_O_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Order Dualie Replicas User",
+            "en_US": "4\u2605 Order Dualie Replicas User",
+            "es_ES": "Tu destreza con Difusor dual orden (r\u00e9plica) ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Difusor dual orden r\u00e9plica",
+            "fr_FR": "Arme double d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "fr_CA": "Arme double d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "de_DE": "Ordnung-Doppler Replik: 4 Sterne erreicht!",
+            "nl_NL": "Ordeknallers (replica): 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u0443\u0440\u0442\u043e\u043c\u0435\u0442\u044b \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b.)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Repolper Ordine replica: 4\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30de\u30cb\u30e5\u30fc\u30d0\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 564,
+        "internal": "Badge_WeaponLevel_Maneuver_Normal_O_Lv00"
+    },
+    {
+        "name": "5\u2605 Order Dualie Replicas User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Maneuver_Normal_O_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Order Dualie Replicas User",
+            "en_US": "5\u2605 Order Dualie Replicas User",
+            "es_ES": "Tu destreza con Difusor dual orden (r\u00e9plica) ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Difusor dual orden r\u00e9plica",
+            "fr_FR": "Arme double d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "fr_CA": "Arme double d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "de_DE": "Ordnung-Doppler Replik: 5 Sterne erreicht!",
+            "nl_NL": "Ordeknallers (replica): 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u0443\u0440\u0442\u043e\u043c\u0435\u0442\u044b \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b.)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Repolper Ordine replica: 5\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30de\u30cb\u30e5\u30fc\u30d0\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 565,
+        "internal": "Badge_WeaponLevel_Maneuver_Normal_O_Lv01"
+    },
+    {
+        "name": "4\u2605 Foil Flingza Roller User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Roller_Hunter_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Foil Flingza Roller User",
+            "en_US": "4\u2605 Foil Flingza Roller User",
+            "es_ES": "Tu destreza con Rodillo vers\u00e1til B ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Rodillo vers\u00e1til Foil",
+            "fr_FR": "Flexi-rouleau alu : niveau 4\u2605 atteint",
+            "fr_CA": "Flexi-rouleau aluminium : niveau 4\u2605 atteint",
+            "de_DE": "Flex-Roller Fol: 4 Sterne erreicht!",
+            "nl_NL": "Foil Flexroller: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041e\u043c\u043d\u0438\u0432\u0430\u043b\u0438\u043a \u00ab\u0411\u043b\u0435\u0441\u043a\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Flexi-rullo B: 4\u2605",
+            "ja_JP": "\u30f4\u30a1\u30ea\u30a2\u30d6\u30eb\u30ed\u30fc\u30e9\u30fc\u30d5\u30a9\u30a4\u30eb\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 566,
+        "internal": "Badge_WeaponLevel_Roller_Hunter_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Foil Flingza Roller User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Roller_Hunter_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Foil Flingza Roller User",
+            "en_US": "5\u2605 Foil Flingza Roller User",
+            "es_ES": "Tu destreza con Rodillo vers\u00e1til B ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Rodillo vers\u00e1til Foil",
+            "fr_FR": "Flexi-rouleau alu : niveau 5\u2605 atteint",
+            "fr_CA": "Flexi-rouleau aluminium : niveau 5\u2605 atteint",
+            "de_DE": "Flex-Roller Fol: 5 Sterne erreicht!",
+            "nl_NL": "Foil Flexroller: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041e\u043c\u043d\u0438\u0432\u0430\u043b\u0438\u043a \u00ab\u0411\u043b\u0435\u0441\u043a\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Flexi-rullo B: 5\u2605",
+            "ja_JP": "\u30f4\u30a1\u30ea\u30a2\u30d6\u30eb\u30ed\u30fc\u30e9\u30fc\u30d5\u30a9\u30a4\u30eb\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 567,
+        "internal": "Badge_WeaponLevel_Roller_Hunter_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Order Roller Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Roller_Normal_O_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Order Roller Replica User",
+            "en_US": "4\u2605 Order Roller Replica User",
+            "es_ES": "Tu destreza con Rodillo orden (r\u00e9plica) ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Rodillo orden r\u00e9plica",
+            "fr_FR": "Rouleau d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "fr_CA": "Rouleau d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "de_DE": "Ordnung-Roller Replik: 4 Sterne erreicht!",
+            "nl_NL": "Orderoller (replica): 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0412\u0430\u043b\u0438\u043a \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Rullo Ordine replica: 4\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30ed\u30fc\u30e9\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 568,
+        "internal": "Badge_WeaponLevel_Roller_Normal_O_Lv00"
+    },
+    {
+        "name": "5\u2605 Order Roller Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Roller_Normal_O_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Order Roller Replica User",
+            "en_US": "5\u2605 Order Roller Replica User",
+            "es_ES": "Tu destreza con Rodillo orden (r\u00e9plica) ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Rodillo orden r\u00e9plica",
+            "fr_FR": "Rouleau d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "fr_CA": "Rouleau d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "de_DE": "Ordnung-Roller Replik: 5 Sterne erreicht!",
+            "nl_NL": "Orderoller (replica): 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0412\u0430\u043b\u0438\u043a \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Rullo Ordine replica: 5\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30ed\u30fc\u30e9\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 569,
+        "internal": "Badge_WeaponLevel_Roller_Normal_O_Lv01"
+    },
+    {
+        "name": "4\u2605 Order Splatana Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Saber_Normal_O_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Order Splatana Replica User",
+            "en_US": "4\u2605 Order Splatana Replica User",
+            "es_ES": "Tu destreza con Azotintador orden (r\u00e9plica) ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Azotintador orden r\u00e9plica",
+            "fr_FR": "\u00c9clatana d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "fr_CA": "\u00c9clatana d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "de_DE": "Ordnung-Splatana Replik: 4 Sterne erreicht!",
+            "nl_NL": "Ordezwieper (replica): 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u043b\u0430\u0442-\u043a\u0430\u0442\u0430\u043d\u0430 \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b.)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Lama Ordine replica: 4\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30ef\u30a4\u30d1\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 570,
+        "internal": "Badge_WeaponLevel_Saber_Normal_O_Lv00"
+    },
+    {
+        "name": "5\u2605 Order Splatana Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Saber_Normal_O_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Order Splatana Replica User",
+            "en_US": "5\u2605 Order Splatana Replica User",
+            "es_ES": "Tu destreza con Azotintador orden (r\u00e9plica) ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Azotintador orden r\u00e9plica",
+            "fr_FR": "\u00c9clatana d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "fr_CA": "\u00c9clatana d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "de_DE": "Ordnung-Splatana Replik: 5 Sterne erreicht!",
+            "nl_NL": "Ordezwieper (replica): 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u043f\u043b\u0430\u0442-\u043a\u0430\u0442\u0430\u043d\u0430 \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b.)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Lama Ordine replica: 5\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30ef\u30a4\u30d1\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 571,
+        "internal": "Badge_WeaponLevel_Saber_Normal_O_Lv01"
+    },
+    {
+        "name": "4\u2605 Recycled Brella 24 Mk I User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shelter_Focus_00_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Recycled Brella 24 Mk I User",
+            "en_US": "4\u2605 Recycled Brella 24 Mk I User",
+            "es_ES": "Tu destreza con Prototintas 24-I ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Prototintas 24-I",
+            "fr_FR": "Para-encre R\u00e9-gen 24 Mk I : niveau 4\u2605 atteint",
+            "fr_CA": "Para-encre R\u00e9-gen 24 Mk I : niveau 4\u2605 atteint",
+            "de_DE": "Bast-Pluviator 24-A: 4 Sterne erreicht!",
+            "nl_NL": "Protoplenzer 24-I: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0420\u0435\u0431\u0443\u0442-\u0437\u043e\u043d\u0442\u0433\u0430\u043d \u041c-1\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Sparasole riciclo 24-I: 4\u2605",
+            "ja_JP": "24\u5f0f\u5f35\u66ff\u5098\u30fb\u7532\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 572,
+        "internal": "Badge_WeaponLevel_Shelter_Focus_00_Lv00"
+    },
+    {
+        "name": "5\u2605 Recycled Brella 24 Mk I User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shelter_Focus_00_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Recycled Brella 24 Mk I User",
+            "en_US": "5\u2605 Recycled Brella 24 Mk I User",
+            "es_ES": "Tu destreza con Prototintas 24-I ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Prototintas 24-I",
+            "fr_FR": "Para-encre R\u00e9-gen 24 Mk I : niveau 5\u2605 atteint",
+            "fr_CA": "Para-encre R\u00e9-gen 24 Mk I : niveau 5\u2605 atteint",
+            "de_DE": "Bast-Pluviator 24-A: 5 Sterne erreicht!",
+            "nl_NL": "Protoplenzer 24-I: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0420\u0435\u0431\u0443\u0442-\u0437\u043e\u043d\u0442\u0433\u0430\u043d \u041c-1\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Sparasole riciclo 24-I: 5\u2605",
+            "ja_JP": "24\u5f0f\u5f35\u66ff\u5098\u30fb\u7532\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 573,
+        "internal": "Badge_WeaponLevel_Shelter_Focus_00_Lv01"
+    },
+    {
+        "name": "4\u2605 Order Brella Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shelter_Normal_O_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Order Brella Replica User",
+            "en_US": "4\u2605 Order Brella Replica User",
+            "es_ES": "Tu destreza con Paratintas orden (r\u00e9plica) ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Paratintas orden r\u00e9plica",
+            "fr_FR": "Para-encre d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "fr_CA": "Para-encre d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "de_DE": "Ordnung-Pluviator Replik: 4 Sterne erreicht!",
+            "nl_NL": "Ordeplenzer (replica): 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0417\u043e\u043d\u0442\u0433\u0430\u043d \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Sparasole Ordine replica: 4\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b7\u30a7\u30eb\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 574,
+        "internal": "Badge_WeaponLevel_Shelter_Normal_O_Lv00"
+    },
+    {
+        "name": "5\u2605 Order Brella Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shelter_Normal_O_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Order Brella Replica User",
+            "en_US": "5\u2605 Order Brella Replica User",
+            "es_ES": "Tu destreza con Paratintas orden (r\u00e9plica) ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Paratintas orden r\u00e9plica",
+            "fr_FR": "Para-encre d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "fr_CA": "Para-encre d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "de_DE": "Ordnung-Pluviator Replik: 5 Sterne erreicht!",
+            "nl_NL": "Ordeplenzer (replica): 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0417\u043e\u043d\u0442\u0433\u0430\u043d \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Sparasole Ordine replica: 5\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b7\u30a7\u30eb\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 575,
+        "internal": "Badge_WeaponLevel_Shelter_Normal_O_Lv01"
+    },
+    {
+        "name": "4\u2605 .52 Gal Deco User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_Gravity_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 .52 Gal Deco User",
+            "en_US": "4\u2605 .52 Gal Deco User",
+            "es_ES": "Tu destreza con Salpicadora 2000 DX ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Salpicadora 2000 chic",
+            "fr_FR": "Calibre 2000 chic : niveau 4\u2605 atteint",
+            "fr_CA": "Calibre 2000 chic : niveau 4\u2605 atteint",
+            "de_DE": ".52 Gallon Deko: 4 Sterne erreicht!",
+            "nl_NL": ".52 Kaliter Deco: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u0442\u0440\u0443\u0435\u0432\u0438\u043a .52 \u00ab\u0414\u0435\u043a\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Calibro 2000 DX: 4\u2605",
+            "ja_JP": ".52\u30ac\u30ed\u30f3\u30c7\u30b3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 576,
+        "internal": "Badge_WeaponLevel_Shooter_Gravity_01_Lv00"
+    },
+    {
+        "name": "5\u2605 .52 Gal Deco User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_Gravity_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 .52 Gal Deco User",
+            "en_US": "5\u2605 .52 Gal Deco User",
+            "es_ES": "Tu destreza con Salpicadora 2000 DX ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Salpicadora 2000 chic",
+            "fr_FR": "Calibre 2000 chic : niveau 5\u2605 atteint",
+            "fr_CA": "Calibre 2000 chic : niveau 5\u2605 atteint",
+            "de_DE": ".52 Gallon Deko: 5 Sterne erreicht!",
+            "nl_NL": ".52 Kaliter Deco: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0421\u0442\u0440\u0443\u0435\u0432\u0438\u043a .52 \u00ab\u0414\u0435\u043a\u043e\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Calibro 2000 DX: 5\u2605",
+            "ja_JP": ".52\u30ac\u30ed\u30f3\u30c7\u30b3\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 577,
+        "internal": "Badge_WeaponLevel_Shooter_Gravity_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Order Shot Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_Normal_O_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Order Shot Replica User",
+            "en_US": "4\u2605 Order Shot Replica User",
+            "es_ES": "Tu destreza con Lanzatintas orden (r\u00e9plica) ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Rociador orden r\u00e9plica",
+            "fr_FR": "Lanceur d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "fr_CA": "Lanceur d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "de_DE": "Ordnung-Kleckser Replik: 4 Sterne erreicht!",
+            "nl_NL": "Ordespetter (replica): 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041a\u0430\u043f\u043b\u0435\u0441\u0442\u0440\u0435\u043b \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Pistola Ordine replica: 4\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b7\u30e5\u30fc\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 578,
+        "internal": "Badge_WeaponLevel_Shooter_Normal_O_Lv00"
+    },
+    {
+        "name": "5\u2605 Order Shot Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_Normal_O_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Order Shot Replica User",
+            "en_US": "5\u2605 Order Shot Replica User",
+            "es_ES": "Tu destreza con Lanzatintas orden (r\u00e9plica) ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Rociador orden r\u00e9plica",
+            "fr_FR": "Lanceur d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "fr_CA": "Lanceur d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "de_DE": "Ordnung-Kleckser Replik: 5 Sterne erreicht!",
+            "nl_NL": "Ordespetter (replica): 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041a\u0430\u043f\u043b\u0435\u0441\u0442\u0440\u0435\u043b \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Pistola Ordine replica: 5\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b7\u30e5\u30fc\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 579,
+        "internal": "Badge_WeaponLevel_Shooter_Normal_O_Lv01"
+    },
+    {
+        "name": "4\u2605 Octo Shot Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_Normal_Oct_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Octo Shot Replica User",
+            "en_US": "4\u2605 Octo Shot Replica User",
+            "es_ES": "Tu destreza con Pistola octariana (r\u00e9plica) ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Rociador octariano r\u00e9plica",
+            "fr_FR": "Lanceur Octaling (r\u00e9plique) : niveau 4\u2605 atteint",
+            "fr_CA": "Lanceur octaling (r\u00e9plique) : niveau 4\u2605 atteint",
+            "de_DE": "Okto-Kleckser Replik: 4 Sterne erreicht!",
+            "nl_NL": "Octospetter (replica): 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041e\u0441\u044c\u043c\u043e\u0441\u0442\u0440\u0435\u043b (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Octosplasher replica: 4\u2605",
+            "ja_JP": "\u30aa\u30af\u30bf\u30b7\u30e5\u30fc\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 580,
+        "internal": "Badge_WeaponLevel_Shooter_Normal_Oct_Lv00"
+    },
+    {
+        "name": "5\u2605 Octo Shot Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Shooter_Normal_Oct_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Octo Shot Replica User",
+            "en_US": "5\u2605 Octo Shot Replica User",
+            "es_ES": "Tu destreza con Pistola octariana (r\u00e9plica) ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Rociador octariano r\u00e9plica",
+            "fr_FR": "Lanceur Octaling (r\u00e9plique) : niveau 5\u2605 atteint",
+            "fr_CA": "Lanceur octaling (r\u00e9plique) : niveau 5\u2605 atteint",
+            "de_DE": "Okto-Kleckser Replik: 5 Sterne erreicht!",
+            "nl_NL": "Octospetter (replica): 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041e\u0441\u044c\u043c\u043e\u0441\u0442\u0440\u0435\u043b (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Octosplasher replica: 5\u2605",
+            "ja_JP": "\u30aa\u30af\u30bf\u30b7\u30e5\u30fc\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 581,
+        "internal": "Badge_WeaponLevel_Shooter_Normal_Oct_Lv01"
+    },
+    {
+        "name": "4\u2605 Dread Wringer D User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Slosher_Double_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Dread Wringer D User",
+            "en_US": "4\u2605 Dread Wringer D User",
+            "es_ES": "Tu destreza con Friegamatic D ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Friegamatic D",
+            "fr_FR": "Seau S-Horreur C\u00e9tac\u00e9 : niveau 4\u2605 atteint",
+            "fr_CA": "Seau S-Horreur requin : niveau 4\u2605 atteint",
+            "de_DE": "Schwappwascher D: 4 Sterne erreicht!",
+            "nl_NL": "Wringmorser D: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041e\u0442\u0436\u0438\u043c\u0430\u0442\u0435\u043b\u044c 2.0\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Secchiapavimenti D: 4\u2605",
+            "ja_JP": "\u30e2\u30c3\u30d7\u30ea\u30f3D\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 582,
+        "internal": "Badge_WeaponLevel_Slosher_Double_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Dread Wringer D User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Slosher_Double_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Dread Wringer D User",
+            "en_US": "5\u2605 Dread Wringer D User",
+            "es_ES": "Tu destreza con Friegamatic D ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Friegamatic D",
+            "fr_FR": "Seau S-Horreur C\u00e9tac\u00e9 : niveau 5\u2605 atteint",
+            "fr_CA": "Seau S-Horreur requin : niveau 5\u2605 atteint",
+            "de_DE": "Schwappwascher D: 5 Sterne erreicht!",
+            "nl_NL": "Wringmorser D: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041e\u0442\u0436\u0438\u043c\u0430\u0442\u0435\u043b\u044c 2.0\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Secchiapavimenti D: 5\u2605",
+            "ja_JP": "\u30e2\u30c3\u30d7\u30ea\u30f3D\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 583,
+        "internal": "Badge_WeaponLevel_Slosher_Double_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Order Slosher Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Slosher_Strong_O_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Order Slosher Replica User",
+            "en_US": "4\u2605 Order Slosher Replica User",
+            "es_ES": "Tu destreza con Derramatic orden (r\u00e9plica) ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Derramatic orden r\u00e9plica",
+            "fr_FR": "Seau d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "fr_CA": "Seau d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "de_DE": "Ordnung-Schwapper Replik: 4 Sterne erreicht!",
+            "nl_NL": "Ordemorser (replica): 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0412\u0435\u0434\u0440\u043e\u0433\u0430\u043d \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Secchiostro Ordine replica: 4\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 584,
+        "internal": "Badge_WeaponLevel_Slosher_Strong_O_Lv00"
+    },
+    {
+        "name": "5\u2605 Order Slosher Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Slosher_Strong_O_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Order Slosher Replica User",
+            "en_US": "5\u2605 Order Slosher Replica User",
+            "es_ES": "Tu destreza con Derramatic orden (r\u00e9plica) ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Derramatic orden r\u00e9plica",
+            "fr_FR": "Seau d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "fr_CA": "Seau d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "de_DE": "Ordnung-Schwapper Replik: 5 Sterne erreicht!",
+            "nl_NL": "Ordemorser (replica): 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0412\u0435\u0434\u0440\u043e\u0433\u0430\u043d \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Secchiostro Ordine replica: 5\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 585,
+        "internal": "Badge_WeaponLevel_Slosher_Strong_O_Lv01"
+    },
+    {
+        "name": "4\u2605 Custom Explosher User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Slosher_Washtub_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Custom Explosher User",
+            "en_US": "4\u2605 Custom Explosher User",
+            "es_ES": "Tu destreza con Derramatic turbo SP ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Derramatic XP adaptado",
+            "fr_FR": "D\u00e9toneur modifi\u00e9 : niveau 4\u2605 atteint",
+            "fr_CA": "D\u00e9toneur modifi\u00e9 : niveau 4\u2605 atteint",
+            "de_DE": "Knall-Schwapper SE: 4 Sterne erreicht!",
+            "nl_NL": "Gemodde Kliederkachel: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0428\u043f\u0430\u0440\u0433\u0430\u043d \u00ab\u041f\u043e\u043d\u0442\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Termosecchiostro master: 4\u2605",
+            "ja_JP": "\u30a8\u30af\u30b9\u30d7\u30ed\u30c3\u30b7\u30e3\u30fc\u30ab\u30b9\u30bf\u30e0\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 586,
+        "internal": "Badge_WeaponLevel_Slosher_Washtub_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Custom Explosher User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Slosher_Washtub_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Custom Explosher User",
+            "en_US": "5\u2605 Custom Explosher User",
+            "es_ES": "Tu destreza con Derramatic turbo SP ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Derramatic XP adaptado",
+            "fr_FR": "D\u00e9toneur modifi\u00e9 : niveau 5\u2605 atteint",
+            "fr_CA": "D\u00e9toneur modifi\u00e9 : niveau 5\u2605 atteint",
+            "de_DE": "Knall-Schwapper SE: 5 Sterne erreicht!",
+            "nl_NL": "Gemodde Kliederkachel: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0428\u043f\u0430\u0440\u0433\u0430\u043d \u00ab\u041f\u043e\u043d\u0442\u00bb\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Termosecchiostro master: 5\u2605",
+            "ja_JP": "\u30a8\u30af\u30b9\u30d7\u30ed\u30c3\u30b7\u30e3\u30fc\u30ab\u30b9\u30bf\u30e0\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 587,
+        "internal": "Badge_WeaponLevel_Slosher_Washtub_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Nautilus 79 User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Spinner_Serein_01_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Nautilus 79 User",
+            "en_US": "4\u2605 Nautilus 79 User",
+            "es_ES": "Tu destreza con Subtralladora 79 ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Nautilo 79",
+            "fr_FR": "Nautilus 79 : niveau 4\u2605 atteint",
+            "fr_CA": "Nautilus 79 : niveau 4\u2605 atteint",
+            "de_DE": "Nautilus 79: 4 Sterne erreicht!",
+            "nl_NL": "Nautilus 79: 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041d\u0430\u0443\u0442\u0438\u043b\u0443\u0441-79\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Nautilus 79: 4\u2605",
+            "ja_JP": "\u30ce\u30fc\u30c1\u30e9\u30b979\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 588,
+        "internal": "Badge_WeaponLevel_Spinner_Serein_01_Lv00"
+    },
+    {
+        "name": "5\u2605 Nautilus 79 User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Spinner_Serein_01_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Nautilus 79 User",
+            "en_US": "5\u2605 Nautilus 79 User",
+            "es_ES": "Tu destreza con Subtralladora 79 ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Nautilo 79",
+            "fr_FR": "Nautilus 79 : niveau 5\u2605 atteint",
+            "fr_CA": "Nautilus 79 : niveau 5\u2605 atteint",
+            "de_DE": "Nautilus 79: 5 Sterne erreicht!",
+            "nl_NL": "Nautilus 79: 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u041d\u0430\u0443\u0442\u0438\u043b\u0443\u0441-79\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Nautilus 79: 5\u2605",
+            "ja_JP": "\u30ce\u30fc\u30c1\u30e9\u30b979\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 589,
+        "internal": "Badge_WeaponLevel_Spinner_Serein_01_Lv01"
+    },
+    {
+        "name": "4\u2605 Order Splatling Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Spinner_Standard_O_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Order Splatling Replica User",
+            "en_US": "4\u2605 Order Splatling Replica User",
+            "es_ES": "Tu destreza con Tintralladora orden (r\u00e9plica) ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Garabateador orden r\u00e9plica",
+            "fr_FR": "Badigeonneur d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "fr_CA": "Badigeonneur d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "de_DE": "Ordnung-Splatling Replik: 4 Sterne erreicht!",
+            "nl_NL": "Ordespetling (replica): 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0411\u0440\u044b\u0437\u0433\u043e\u043c\u0435\u0442 \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Splatling Ordine replica: 4\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b9\u30d4\u30ca\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 590,
+        "internal": "Badge_WeaponLevel_Spinner_Standard_O_Lv00"
+    },
+    {
+        "name": "5\u2605 Order Splatling Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Spinner_Standard_O_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Order Splatling Replica User",
+            "en_US": "5\u2605 Order Splatling Replica User",
+            "es_ES": "Tu destreza con Tintralladora orden (r\u00e9plica) ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Garabateador orden r\u00e9plica",
+            "fr_FR": "Badigeonneur d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "fr_CA": "Badigeonneur d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "de_DE": "Ordnung-Splatling Replik: 5 Sterne erreicht!",
+            "nl_NL": "Ordespetling (replica): 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0411\u0440\u044b\u0437\u0433\u043e\u043c\u0435\u0442 \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Splatling Ordine replica: 5\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b9\u30d4\u30ca\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 591,
+        "internal": "Badge_WeaponLevel_Spinner_Standard_O_Lv01"
+    },
+    {
+        "name": "4\u2605 Order Stringer Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Stringer_Normal_O_Lv00.png",
+        "localizedName": {
+            "en_GB": "4\u2605 Order Stringer Replica User",
+            "en_US": "4\u2605 Order Stringer Replica User",
+            "es_ES": "Tu destreza con Arcromatizador orden (r\u00e9plica) ha alcanzado 4\u2605.",
+            "es_MX": "4\u2605 con Arcromatizador orden r\u00e9plica",
+            "fr_FR": "Transperceur d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "fr_CA": "Transperceur d'Ordre (r\u00e9plique) : niveau 4\u2605 atteint",
+            "de_DE": "Ordnung-Stringer Replik: 4 Sterne erreicht!",
+            "nl_NL": "Ordespanner (replica): 4\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0422\u0435\u0442\u0438\u0432\u0430\u0442\u043e\u0440 \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 4 \u2605",
+            "it_IT": "Calamarco Ordine replica: 4\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b9\u30c8\u30ea\u30f3\u30ac\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff14\u306b\u306a\u3063\u305f"
+        },
+        "id": 592,
+        "internal": "Badge_WeaponLevel_Stringer_Normal_O_Lv00"
+    },
+    {
+        "name": "5\u2605 Order Stringer Replica User",
+        "image": "../common/assets/img/badges/Badge_WeaponLevel_Stringer_Normal_O_Lv01.png",
+        "localizedName": {
+            "en_GB": "5\u2605 Order Stringer Replica User",
+            "en_US": "5\u2605 Order Stringer Replica User",
+            "es_ES": "Tu destreza con Arcromatizador orden (r\u00e9plica) ha alcanzado 5\u2605.",
+            "es_MX": "5\u2605 con Arcromatizador orden r\u00e9plica",
+            "fr_FR": "Transperceur d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "fr_CA": "Transperceur d'Ordre (r\u00e9plique) : niveau 5\u2605 atteint",
+            "de_DE": "Ordnung-Stringer Replik: 5 Sterne erreicht!",
+            "nl_NL": "Ordespanner (replica): 5\u2605!",
+            "ru_RU": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043e\u0440\u0443\u0436\u0438\u044f \u00ab\u0422\u0435\u0442\u0438\u0432\u0430\u0442\u043e\u0440 \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)\u00bb \u0443\u0440\u043e\u0432\u043d\u044f 5 \u2605",
+            "it_IT": "Calamarco Ordine replica: 5\u2605",
+            "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b9\u30c8\u30ea\u30f3\u30ac\u30fc \u30ec\u30d7\u30ea\u30ab\u306e\u3058\u3085\u304f\u308c\u3093\u5ea6\u304c\u2605\uff15\u306b\u306a\u3063\u305f"
+        },
+        "id": 593,
+        "internal": "Badge_WeaponLevel_Stringer_Normal_O_Lv01"
     }
 ]

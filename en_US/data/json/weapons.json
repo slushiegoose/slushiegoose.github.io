@@ -288,6 +288,28 @@
                     "ja_JP": "S-BLAST91"
                 },
                 "internal": "Blaster_Precision_01"
+            },
+            {
+                "id": 13,
+                "name": "Order Blaster Replica",
+                "image": "../common/assets/img/weapons/Blaster_Short_O.png",
+                "class": "Blaster",
+                "sub": "Splat Bomb",
+                "special": "Zipcaster",
+                "localizedName": {
+                    "en_GB": "Order Blaster Replica",
+                    "en_US": "Order Blaster Replica",
+                    "es_ES": "Devastador orden (r\u00e9plica)",
+                    "es_MX": "Lanzamotas orden r\u00e9plica",
+                    "fr_FR": "Blaster d'Ordre (r\u00e9plique)",
+                    "fr_CA": "Blasteur d'Ordre (r\u00e9plique)",
+                    "de_DE": "Ordnung-Blaster Replik",
+                    "nl_NL": "Ordeblaster (replica)",
+                    "ru_RU": "\u0411\u043b\u0430\u0441\u0442\u0435\u0440 \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)",
+                    "it_IT": "Blaster Ordine replica",
+                    "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30d6\u30e9\u30b9\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab"
+                },
+                "internal": "Blaster_Short_O"
             }
         ],
         "localizedName": {
@@ -439,6 +461,28 @@
                     "ja_JP": "\u30d5\u30a3\u30f3\u30bb\u30f3\u30c8\u30fb\u30d2\u30e5\u30fc"
                 },
                 "internal": "Brush_Heavy_01"
+            },
+            {
+                "id": 6,
+                "name": "Orderbrush Replica",
+                "image": "../common/assets/img/weapons/Brush_Normal_O.png",
+                "class": "Brush",
+                "sub": "Suction Bomb",
+                "special": "Zipcaster",
+                "localizedName": {
+                    "en_GB": "Orderbrush Replica",
+                    "en_US": "Orderbrush Replica",
+                    "es_ES": "Brocha orden (r\u00e9plica)",
+                    "es_MX": "Pincel caligraf\u00eda orden r\u00e9plica",
+                    "fr_FR": "Pinceau d'Ordre (r\u00e9plique)",
+                    "fr_CA": "Pinceau d'Ordre (r\u00e9plique)",
+                    "de_DE": "Ordnung-Kalligraf Replik",
+                    "nl_NL": "Ordekwast (replica)",
+                    "ru_RU": "\u041a\u0438\u0441\u0442\u044c \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)",
+                    "it_IT": "Pennello Ordine replica",
+                    "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30d6\u30e9\u30b7 \u30ec\u30d7\u30ea\u30ab"
+                },
+                "internal": "Brush_Normal_O"
             }
         ],
         "localizedName": {
@@ -722,6 +766,94 @@
                     "ja_JP": "R-PEN/5B"
                 },
                 "internal": "Charger_Pencil_01"
+            },
+            {
+                "id": 12,
+                "name": "Custom E-liter 4K Scope",
+                "image": "../common/assets/img/weapons/Charger_LongScope_01.png",
+                "class": "Charger",
+                "sub": "Squid Beakon",
+                "special": "Kraken Royale",
+                "localizedName": {
+                    "en_GB": "Custom E-liter 4K Scope",
+                    "en_US": "Custom E-liter 4K Scope",
+                    "es_ES": "Telentintador 4K SP",
+                    "es_MX": "Telentintador 4K adaptado",
+                    "fr_FR": "Extraceur + zoom modifi\u00e9",
+                    "fr_CA": "X-traceur + zoom modifi\u00e9",
+                    "de_DE": "Ziel-E-liter 4K SE",
+                    "nl_NL": "Gemodde E-liter 4K met vizier",
+                    "ru_RU": "\u0421\u043d\u0430\u0439\u043f-\u044d-\u043b\u0438\u0442\u0440 95 \u00ab\u041f\u043e\u043d\u0442\u00bb",
+                    "it_IT": "Tinter con mirino 4K CM",
+                    "ja_JP": "4K\u30b9\u30b3\u30fc\u30d7\u30ab\u30b9\u30bf\u30e0"
+                },
+                "internal": "Charger_LongScope_01"
+            },
+            {
+                "id": 13,
+                "name": "Custom E-liter 4K",
+                "image": "../common/assets/img/weapons/Charger_Long_01.png",
+                "class": "Charger",
+                "sub": "Squid Beakon",
+                "special": "Kraken Royale",
+                "localizedName": {
+                    "en_GB": "Custom E-liter 4K",
+                    "en_US": "Custom E-liter 4K",
+                    "es_ES": "Entintador 4K SP",
+                    "es_MX": "Entintador 4K adaptado",
+                    "fr_FR": "Extraceur + modifi\u00e9",
+                    "fr_CA": "X-traceur + modifi\u00e9",
+                    "de_DE": "E-liter 4K SE",
+                    "nl_NL": "Gemodde E-liter 4K",
+                    "ru_RU": "\u042d-\u043b\u0438\u0442\u0440 95 \u00ab\u041f\u043e\u043d\u0442\u00bb",
+                    "it_IT": "Tinter a carica 4K CM",
+                    "ja_JP": "\u30ea\u30c3\u30bf\u30fc4K\u30ab\u30b9\u30bf\u30e0"
+                },
+                "internal": "Charger_Long_01"
+            },
+            {
+                "id": 14,
+                "name": "Order Charger Replica",
+                "image": "../common/assets/img/weapons/Charger_Normal_O.png",
+                "class": "Charger",
+                "sub": "Splat Bomb",
+                "special": "Ink Vac",
+                "localizedName": {
+                    "en_GB": "Order Charger Replica",
+                    "en_US": "Order Charger Replica",
+                    "es_ES": "Cargatintas orden (r\u00e9plica)",
+                    "es_MX": "Cargatintas orden r\u00e9plica",
+                    "fr_FR": "Fusil d'Ordre (r\u00e9plique)",
+                    "fr_CA": "Fusil d'Ordre (r\u00e9plique)",
+                    "de_DE": "Ordnung-Konzentrator Replik",
+                    "nl_NL": "Ordelader (replica)",
+                    "ru_RU": "\u0421\u043f\u043b\u0430\u0442\u0433\u0430\u043d \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)",
+                    "it_IT": "Splatter Ordine replica",
+                    "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc \u30ec\u30d7\u30ea\u30ab"
+                },
+                "internal": "Charger_Normal_O"
+            },
+            {
+                "id": 15,
+                "name": "New Squiffer",
+                "image": "../common/assets/img/weapons/Charger_Quick_01.png",
+                "class": "Charger",
+                "sub": "Autobomb",
+                "special": "Zipcaster",
+                "localizedName": {
+                    "en_GB": "New Squiffer",
+                    "en_US": "New Squiffer",
+                    "es_ES": "Kalarrapid \u03b2",
+                    "es_MX": "Delineador Y",
+                    "fr_FR": "D\u00e9cap'express B\u00eata",
+                    "fr_CA": "Lignizateur b\u00eata",
+                    "de_DE": "Sepiator \u03b2",
+                    "nl_NL": "Octopoets Ultra",
+                    "ru_RU": "\u0421\u0442\u0438\u0440\u0430\u0442\u0435\u043b\u044c-II",
+                    "it_IT": "Kalamarapid \u03b2",
+                    "ja_JP": "\u30b9\u30af\u30a4\u30c3\u30af\u30ea\u30f3\u03b2"
+                },
+                "internal": "Charger_Quick_01"
             }
         ],
         "localizedName": {
@@ -939,6 +1071,72 @@
                     "ja_JP": "\u30b9\u30d7\u30e9\u30de\u30cb\u30e5\u30fc\u30d0\u30fc\u30b3\u30e9\u30dc"
                 },
                 "internal": "Maneuver_Normal_01"
+            },
+            {
+                "id": 9,
+                "name": "Glooga Dualies Deco",
+                "image": "../common/assets/img/weapons/Maneuver_Gallon_01.png",
+                "class": "Maneuver",
+                "sub": "Point Sensor",
+                "special": "Trizooka",
+                "localizedName": {
+                    "en_GB": "Glooga Dualies Deco",
+                    "en_US": "Glooga Dualies Deco",
+                    "es_ES": "Fundidora 525 dual DX",
+                    "es_MX": "Fundidora 525 dual chic",
+                    "fr_FR": "Double Kelvin 525 chic",
+                    "fr_CA": "Double Kelvin 525 chic",
+                    "de_DE": "Kelvin 525 Deko",
+                    "nl_NL": "Kelvin 525 Deco",
+                    "ru_RU": "\u0422\u0435\u0440\u043c\u043e\u043f\u043b\u044e\u0445\u0438 525 \u00ab\u0414\u0435\u043a\u043e\u00bb",
+                    "it_IT": "Kelvin duplo 525 DX",
+                    "ja_JP": "\u30b1\u30eb\u30d3\u30f3525\u30c7\u30b3"
+                },
+                "internal": "Maneuver_Gallon_01"
+            },
+            {
+                "id": 10,
+                "name": "Douser Dualies FF",
+                "image": "../common/assets/img/weapons/Maneuver_Long_00.png",
+                "class": "Maneuver",
+                "sub": "Ink Mine",
+                "special": "Killer Wail 5.1",
+                "localizedName": {
+                    "en_GB": "Douser Dualies FF",
+                    "en_US": "Douser Dualies FF",
+                    "es_ES": "Extintor Dual FF",
+                    "es_MX": "Extintor dual FF",
+                    "fr_FR": "Double ignifugeur",
+                    "fr_CA": "Double ignifugeur",
+                    "de_DE": "L\u00f6sch-Doppler FW",
+                    "nl_NL": "Blusknallers BW",
+                    "ru_RU": "\u041a\u0440\u0430\u0441\u043a\u043e\u0442\u0443\u0448\u0438\u0442\u0435\u043b\u0438 255",
+                    "it_IT": "Repolper estintori FF",
+                    "ja_JP": "\u30ac\u30a8\u30f3FF"
+                },
+                "internal": "Maneuver_Long_00"
+            },
+            {
+                "id": 11,
+                "name": "Order Dualie Replicas",
+                "image": "../common/assets/img/weapons/Maneuver_Normal_O.png",
+                "class": "Maneuver",
+                "sub": "Suction Bomb",
+                "special": "Crab Tank",
+                "localizedName": {
+                    "en_GB": "Order Dualie Replicas",
+                    "en_US": "Order Dualie Replicas",
+                    "es_ES": "Difusor dual orden (r\u00e9plica)",
+                    "es_MX": "Difusor dual orden r\u00e9plica",
+                    "fr_FR": "Arme double d'Ordre (r\u00e9plique)",
+                    "fr_CA": "Arme double d'Ordre (r\u00e9plique)",
+                    "de_DE": "Ordnung-Doppler Replik",
+                    "nl_NL": "Ordeknallers (replica)",
+                    "ru_RU": "\u0421\u043f\u0443\u0440\u0442\u043e\u043c\u0435\u0442\u044b \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b.)",
+                    "it_IT": "Repolper Ordine replica",
+                    "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30de\u30cb\u30e5\u30fc\u30d0\u30fc \u30ec\u30d7\u30ea\u30ab"
+                },
+                "internal": "Maneuver_Normal_O"
             }
         ],
         "localizedName": {
@@ -1156,6 +1354,50 @@
                     "ja_JP": "\u30c0\u30a4\u30ca\u30e2\u30ed\u30fc\u30e9\u30fc\u30c6\u30b9\u30e9"
                 },
                 "internal": "Roller_Heavy_01"
+            },
+            {
+                "id": 9,
+                "name": "Foil Flingza Roller",
+                "image": "../common/assets/img/weapons/Roller_Hunter_01.png",
+                "class": "Roller",
+                "sub": "Suction Bomb",
+                "special": "Splattercolor Screen",
+                "localizedName": {
+                    "en_GB": "Foil Flingza Roller",
+                    "en_US": "Foil Flingza Roller",
+                    "es_ES": "Rodillo vers\u00e1til B",
+                    "es_MX": "Rodillo vers\u00e1til Foil",
+                    "fr_FR": "Flexi-rouleau alu",
+                    "fr_CA": "Flexi-rouleau aluminium",
+                    "de_DE": "Flex-Roller Fol",
+                    "nl_NL": "Foil Flexroller",
+                    "ru_RU": "\u041e\u043c\u043d\u0438\u0432\u0430\u043b\u0438\u043a \u00ab\u0411\u043b\u0435\u0441\u043a\u00bb",
+                    "it_IT": "Flexi-rullo B",
+                    "ja_JP": "\u30f4\u30a1\u30ea\u30a2\u30d6\u30eb\u30ed\u30fc\u30e9\u30fc\u30d5\u30a9\u30a4\u30eb"
+                },
+                "internal": "Roller_Hunter_01"
+            },
+            {
+                "id": 10,
+                "name": "Order Roller Replica",
+                "image": "../common/assets/img/weapons/Roller_Normal_O.png",
+                "class": "Roller",
+                "sub": "Curling Bomb",
+                "special": "Big Bubbler",
+                "localizedName": {
+                    "en_GB": "Order Roller Replica",
+                    "en_US": "Order Roller Replica",
+                    "es_ES": "Rodillo orden (r\u00e9plica)",
+                    "es_MX": "Rodillo orden r\u00e9plica",
+                    "fr_FR": "Rouleau d'Ordre (r\u00e9plique)",
+                    "fr_CA": "Rouleau d'Ordre (r\u00e9plique)",
+                    "de_DE": "Ordnung-Roller Replik",
+                    "nl_NL": "Orderoller (replica)",
+                    "ru_RU": "\u0412\u0430\u043b\u0438\u043a \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)",
+                    "it_IT": "Rullo Ordine replica",
+                    "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30ed\u30fc\u30e9\u30fc \u30ec\u30d7\u30ea\u30ab"
+                },
+                "internal": "Roller_Normal_O"
             }
         ],
         "localizedName": {
@@ -1244,25 +1486,47 @@
             },
             {
                 "id": 3,
-                "name": "Neo Splatana Stamper",
+                "name": "Splatana Stamper Nouveau",
                 "image": "../common/assets/img/weapons/Saber_Normal_01.png",
                 "class": "Saber",
                 "sub": "Toxic Mist",
                 "special": "Crab Tank",
                 "localizedName": {
-                    "en_GB": "Neo Splatana Stamper",
-                    "en_US": "Neo Splatana Stamper",
+                    "en_GB": "Splatana Stamper Nouveau",
+                    "en_US": "Splatana Stamper Nouveau",
                     "es_ES": "Azotintador pro maestro",
-                    "es_MX": "Azotintador Pro neo",
-                    "fr_FR": "\u00c9clatana d'estampe N\u00e9o",
-                    "fr_CA": "\u00c9clatana d'estampe n\u00e9o",
-                    "de_DE": "Stempel-Splatana Neo",
-                    "nl_NL": "Stempelzwieper Neo",
-                    "ru_RU": "\u0421\u043f\u043b\u0430\u0442-\u043f\u0435\u0447\u0430\u0442\u0435\u043b\u044c \u00ab\u041d\u0435\u043e\u00bb",
-                    "it_IT": "Splattalama Neo",
+                    "es_MX": "Azotintador Pro maestro",
+                    "fr_FR": "\u00c9clatana d'estampe nuanc\u00e9",
+                    "fr_CA": "\u00c9clatana d'estampe nuanc\u00e9",
+                    "de_DE": "Stempel-Splatana Fresco",
+                    "nl_NL": "Stempelzwieper Nouveau",
+                    "ru_RU": "\u0421\u043f\u043b\u0430\u0442-\u043f\u0435\u0447\u0430\u0442\u0435\u043b\u044c \u00ab\u041d\u0443\u0412\u043e\u00bb",
+                    "it_IT": "Splattalama master",
                     "ja_JP": "\u30b8\u30e0\u30ef\u30a4\u30d1\u30fc\u30fb\u30d2\u30e5\u30fc"
                 },
                 "internal": "Saber_Normal_01"
+            },
+            {
+                "id": 4,
+                "name": "Order Splatana Replica",
+                "image": "../common/assets/img/weapons/Saber_Normal_O.png",
+                "class": "Saber",
+                "sub": "Burst Bomb",
+                "special": "Zipcaster",
+                "localizedName": {
+                    "en_GB": "Order Splatana Replica",
+                    "en_US": "Order Splatana Replica",
+                    "es_ES": "Azotintador orden (r\u00e9plica)",
+                    "es_MX": "Azotintador orden r\u00e9plica",
+                    "fr_FR": "\u00c9clatana d'Ordre (r\u00e9plique)",
+                    "fr_CA": "\u00c9clatana d'Ordre (r\u00e9plique)",
+                    "de_DE": "Ordnung-Splatana Replik",
+                    "nl_NL": "Ordezwieper (replica)",
+                    "ru_RU": "\u0421\u043f\u043b\u0430\u0442-\u043a\u0430\u0442\u0430\u043d\u0430 \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b.)",
+                    "it_IT": "Lama Ordine replica",
+                    "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30ef\u30a4\u30d1\u30fc \u30ec\u30d7\u30ea\u30ab"
+                },
+                "internal": "Saber_Normal_O"
             }
         ],
         "localizedName": {
@@ -1414,6 +1678,50 @@
                     "ja_JP": "\u30b9\u30d1\u30a4\u30ac\u30b8\u30a7\u30c3\u30c8\u30bd\u30ec\u30fc\u30e9"
                 },
                 "internal": "Shelter_Compact_01"
+            },
+            {
+                "id": 6,
+                "name": "Recycled Brella 24 Mk I",
+                "image": "../common/assets/img/weapons/Shelter_Focus_00.png",
+                "class": "Shelter",
+                "sub": "Angle Shooter",
+                "special": "Big Bubbler",
+                "localizedName": {
+                    "en_GB": "Recycled Brella 24 Mk I",
+                    "en_US": "Recycled Brella 24 Mk I",
+                    "es_ES": "Prototintas 24-I",
+                    "es_MX": "Prototintas 24-I",
+                    "fr_FR": "Para-encre R\u00e9-gen 24 Mk I",
+                    "fr_CA": "Para-encre R\u00e9-gen 24 Mk I",
+                    "de_DE": "Bast-Pluviator 24-A",
+                    "nl_NL": "Protoplenzer 24-I",
+                    "ru_RU": "\u0420\u0435\u0431\u0443\u0442-\u0437\u043e\u043d\u0442\u0433\u0430\u043d \u041c-1",
+                    "it_IT": "Sparasole riciclo 24-I",
+                    "ja_JP": "24\u5f0f\u5f35\u66ff\u5098\u30fb\u7532"
+                },
+                "internal": "Shelter_Focus_00"
+            },
+            {
+                "id": 7,
+                "name": "Order Brella Replica",
+                "image": "../common/assets/img/weapons/Shelter_Normal_O.png",
+                "class": "Shelter",
+                "sub": "Sprinkler",
+                "special": "Triple Inkstrike",
+                "localizedName": {
+                    "en_GB": "Order Brella Replica",
+                    "en_US": "Order Brella Replica",
+                    "es_ES": "Paratintas orden (r\u00e9plica)",
+                    "es_MX": "Paratintas orden r\u00e9plica",
+                    "fr_FR": "Para-encre d'Ordre (r\u00e9plique)",
+                    "fr_CA": "Para-encre d'Ordre (r\u00e9plique)",
+                    "de_DE": "Ordnung-Pluviator Replik",
+                    "nl_NL": "Ordeplenzer (replica)",
+                    "ru_RU": "\u0417\u043e\u043d\u0442\u0433\u0430\u043d \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)",
+                    "it_IT": "Sparasole Ordine replica",
+                    "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b7\u30a7\u30eb\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab"
+                },
+                "internal": "Shelter_Normal_O"
             }
         ],
         "localizedName": {
@@ -2049,6 +2357,72 @@
                     "ja_JP": "\u30dc\u30c8\u30eb\u30ac\u30a4\u30b6\u30fc\u30d5\u30a9\u30a4\u30eb"
                 },
                 "internal": "Shooter_Flash_01"
+            },
+            {
+                "id": 28,
+                "name": ".52 Gal Deco",
+                "image": "../common/assets/img/weapons/Shooter_Gravity_01.png",
+                "class": "Shooter",
+                "sub": "Curling Bomb",
+                "special": "Splattercolor Screen",
+                "localizedName": {
+                    "en_GB": ".52 Gal Deco",
+                    "en_US": ".52 Gal Deco",
+                    "es_ES": "Salpicadora 2000 DX",
+                    "es_MX": "Salpicadora 2000 chic",
+                    "fr_FR": "Calibre 2000 chic",
+                    "fr_CA": "Calibre 2000 chic",
+                    "de_DE": ".52 Gallon Deko",
+                    "nl_NL": ".52 Kaliter Deco",
+                    "ru_RU": "\u0421\u0442\u0440\u0443\u0435\u0432\u0438\u043a .52 \u00ab\u0414\u0435\u043a\u043e\u00bb",
+                    "it_IT": "Calibro 2000 DX",
+                    "ja_JP": ".52\u30ac\u30ed\u30f3\u30c7\u30b3"
+                },
+                "internal": "Shooter_Gravity_01"
+            },
+            {
+                "id": 29,
+                "name": "Order Shot Replica",
+                "image": "../common/assets/img/weapons/Shooter_Normal_O.png",
+                "class": "Shooter",
+                "sub": "Suction Bomb",
+                "special": "Trizooka",
+                "localizedName": {
+                    "en_GB": "Order Shot Replica",
+                    "en_US": "Order Shot Replica",
+                    "es_ES": "Lanzatintas orden (r\u00e9plica)",
+                    "es_MX": "Rociador orden r\u00e9plica",
+                    "fr_FR": "Lanceur d'Ordre (r\u00e9plique)",
+                    "fr_CA": "Lanceur d'Ordre (r\u00e9plique)",
+                    "de_DE": "Ordnung-Kleckser Replik",
+                    "nl_NL": "Ordespetter (replica)",
+                    "ru_RU": "\u041a\u0430\u043f\u043b\u0435\u0441\u0442\u0440\u0435\u043b \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)",
+                    "it_IT": "Pistola Ordine replica",
+                    "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b7\u30e5\u30fc\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab"
+                },
+                "internal": "Shooter_Normal_O"
+            },
+            {
+                "id": 30,
+                "name": "Octo Shot Replica",
+                "image": "../common/assets/img/weapons/Shooter_Normal_Oct.png",
+                "class": "Shooter",
+                "sub": "Splat Bomb",
+                "special": "Triple Inkstrike",
+                "localizedName": {
+                    "en_GB": "Octo Shot Replica",
+                    "en_US": "Octo Shot Replica",
+                    "es_ES": "Pistola octariana (r\u00e9plica)",
+                    "es_MX": "Rociador octariano r\u00e9plica",
+                    "fr_FR": "Lanceur Octaling (r\u00e9plique)",
+                    "fr_CA": "Lanceur octaling (r\u00e9plique)",
+                    "de_DE": "Okto-Kleckser Replik",
+                    "nl_NL": "Octospetter (replica)",
+                    "ru_RU": "\u041e\u0441\u044c\u043c\u043e\u0441\u0442\u0440\u0435\u043b (\u043a\u043b\u043e\u043d)",
+                    "it_IT": "Octosplasher replica",
+                    "ja_JP": "\u30aa\u30af\u30bf\u30b7\u30e5\u30fc\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab"
+                },
+                "internal": "Shooter_Normal_Oct"
             }
         ],
         "localizedName": {
@@ -2288,6 +2662,72 @@
                     "ja_JP": "\u30b9\u30af\u30ea\u30e5\u30fc\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc\u30cd\u30aa"
                 },
                 "internal": "Slosher_Launcher_01"
+            },
+            {
+                "id": 10,
+                "name": "Dread Wringer D",
+                "image": "../common/assets/img/weapons/Slosher_Double_01.png",
+                "class": "Slosher",
+                "sub": "Squid Beakon",
+                "special": "Wave Breaker",
+                "localizedName": {
+                    "en_GB": "Dread Wringer D",
+                    "en_US": "Dread Wringer D",
+                    "es_ES": "Friegamatic D",
+                    "es_MX": "Friegamatic D",
+                    "fr_FR": "Seau S-Horreur C\u00e9tac\u00e9",
+                    "fr_CA": "Seau S-Horreur requin",
+                    "de_DE": "Schwappwascher D",
+                    "nl_NL": "Wringmorser D",
+                    "ru_RU": "\u041e\u0442\u0436\u0438\u043c\u0430\u0442\u0435\u043b\u044c 2.0",
+                    "it_IT": "Secchiapavimenti D",
+                    "ja_JP": "\u30e2\u30c3\u30d7\u30ea\u30f3D"
+                },
+                "internal": "Slosher_Double_01"
+            },
+            {
+                "id": 11,
+                "name": "Order Slosher Replica",
+                "image": "../common/assets/img/weapons/Slosher_Strong_O.png",
+                "class": "Slosher",
+                "sub": "Splat Bomb",
+                "special": "Triple Inkstrike",
+                "localizedName": {
+                    "en_GB": "Order Slosher Replica",
+                    "en_US": "Order Slosher Replica",
+                    "es_ES": "Derramatic orden (r\u00e9plica)",
+                    "es_MX": "Derramatic orden r\u00e9plica",
+                    "fr_FR": "Seau d'Ordre (r\u00e9plique)",
+                    "fr_CA": "Seau d'Ordre (r\u00e9plique)",
+                    "de_DE": "Ordnung-Schwapper Replik",
+                    "nl_NL": "Ordemorser (replica)",
+                    "ru_RU": "\u0412\u0435\u0434\u0440\u043e\u0433\u0430\u043d \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)",
+                    "it_IT": "Secchiostro Ordine replica",
+                    "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc \u30ec\u30d7\u30ea\u30ab"
+                },
+                "internal": "Slosher_Strong_O"
+            },
+            {
+                "id": 12,
+                "name": "Custom Explosher",
+                "image": "../common/assets/img/weapons/Slosher_Washtub_01.png",
+                "class": "Slosher",
+                "sub": "Splash Wall",
+                "special": "Triple Splashdown",
+                "localizedName": {
+                    "en_GB": "Custom Explosher",
+                    "en_US": "Custom Explosher",
+                    "es_ES": "Derramatic turbo SP",
+                    "es_MX": "Derramatic XP adaptado",
+                    "fr_FR": "D\u00e9toneur modifi\u00e9",
+                    "fr_CA": "D\u00e9toneur modifi\u00e9",
+                    "de_DE": "Knall-Schwapper SE",
+                    "nl_NL": "Gemodde Kliederkachel",
+                    "ru_RU": "\u0428\u043f\u0430\u0440\u0433\u0430\u043d \u00ab\u041f\u043e\u043d\u0442\u00bb",
+                    "it_IT": "Termosecchiostro master",
+                    "ja_JP": "\u30a8\u30af\u30b9\u30d7\u30ed\u30c3\u30b7\u30e3\u30fc\u30ab\u30b9\u30bf\u30e0"
+                },
+                "internal": "Slosher_Washtub_01"
             }
         ],
         "localizedName": {
@@ -2505,6 +2945,50 @@
                     "ja_JP": "\u30a4\u30b0\u30b6\u30df\u30ca\u30fc"
                 },
                 "internal": "Spinner_HyperShort_00"
+            },
+            {
+                "id": 9,
+                "name": "Nautilus 79",
+                "image": "../common/assets/img/weapons/Spinner_Serein_01.png",
+                "class": "Spinner",
+                "sub": "Suction Bomb",
+                "special": "Triple Splashdown",
+                "localizedName": {
+                    "en_GB": "Nautilus 79",
+                    "en_US": "Nautilus 79",
+                    "es_ES": "Subtralladora 79",
+                    "es_MX": "Nautilo 79",
+                    "fr_FR": "Nautilus 79",
+                    "fr_CA": "Nautilus 79",
+                    "de_DE": "Nautilus 79",
+                    "nl_NL": "Nautilus 79",
+                    "ru_RU": "\u041d\u0430\u0443\u0442\u0438\u043b\u0443\u0441-79",
+                    "it_IT": "Nautilus 79",
+                    "ja_JP": "\u30ce\u30fc\u30c1\u30e9\u30b979"
+                },
+                "internal": "Spinner_Serein_01"
+            },
+            {
+                "id": 10,
+                "name": "Order Splatling Replica",
+                "image": "../common/assets/img/weapons/Spinner_Standard_O.png",
+                "class": "Spinner",
+                "sub": "Sprinkler",
+                "special": "Wave Breaker",
+                "localizedName": {
+                    "en_GB": "Order Splatling Replica",
+                    "en_US": "Order Splatling Replica",
+                    "es_ES": "Tintralladora orden (r\u00e9plica)",
+                    "es_MX": "Garabateador orden r\u00e9plica",
+                    "fr_FR": "Badigeonneur d'Ordre (r\u00e9plique)",
+                    "fr_CA": "Badigeonneur d'Ordre (r\u00e9plique)",
+                    "de_DE": "Ordnung-Splatling Replik",
+                    "nl_NL": "Ordespetling (replica)",
+                    "ru_RU": "\u0411\u0440\u044b\u0437\u0433\u043e\u043c\u0435\u0442 \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)",
+                    "it_IT": "Splatling Ordine replica",
+                    "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b9\u30d4\u30ca\u30fc \u30ec\u30d7\u30ea\u30ab"
+                },
+                "internal": "Spinner_Standard_O"
             }
         ],
         "localizedName": {
@@ -2612,6 +3096,28 @@
                     "ja_JP": "LACT-450\u30c7\u30b3"
                 },
                 "internal": "Stringer_Short_01"
+            },
+            {
+                "id": 4,
+                "name": "Order Stringer Replica",
+                "image": "../common/assets/img/weapons/Stringer_Normal_O.png",
+                "class": "Stringer",
+                "sub": "Toxic Mist",
+                "special": "Killer Wail 5.1",
+                "localizedName": {
+                    "en_GB": "Order Stringer Replica",
+                    "en_US": "Order Stringer Replica",
+                    "es_ES": "Arcromatizador orden (r\u00e9plica)",
+                    "es_MX": "Arcromatizador orden r\u00e9plica",
+                    "fr_FR": "Transperceur d'Ordre (r\u00e9plique)",
+                    "fr_CA": "Transperceur d'Ordre (r\u00e9plique)",
+                    "de_DE": "Ordnung-Stringer Replik",
+                    "nl_NL": "Ordespanner (replica)",
+                    "ru_RU": "\u0422\u0435\u0442\u0438\u0432\u0430\u0442\u043e\u0440 \u041f\u043e\u0440\u044f\u0434\u043a\u0430 (\u043a\u043b\u043e\u043d)",
+                    "it_IT": "Calamarco Ordine replica",
+                    "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b9\u30c8\u30ea\u30f3\u30ac\u30fc \u30ec\u30d7\u30ea\u30ab"
+                },
+                "internal": "Stringer_Normal_O"
             }
         ],
         "localizedName": {
