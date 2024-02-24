@@ -217,16 +217,15 @@ angular.module('splatApp').controller('ModalCtrl', function($scope, $rootScope, 
     `,
         update: `<div class="row">
     <div class="col-md-12">
-    <div class="card purplestripes" id="dialog">
+    <div class="card neonstripes" id="dialog">
     <div class="row cardheader">
     There's been an update!
     </div>
     <div class="row basic-content readable" id="update">
-    <img src="/common/assets/img/ui/update.jpg" width="100%" height="100%"></img>
     <h2 style="text-align:center;">
-    Loadout v` +
-            $scope.appVersionToString() +
-            `</h2></div><div class="row buttons">
+    New gear and splashtag details have been added from Side Order DLC. <br>
+    Spoilers ahead - <b style="color: red">This is your warning!</b>
+    </h2></div><div class="row buttons">
     <div class="col-xs-12">
     <button class="btn" type="button" onclick="animateButton(this)" ng-click="ok()"><span>Got it!</span></button>
     </div>
