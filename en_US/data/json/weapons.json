@@ -310,6 +310,28 @@
                     "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30d6\u30e9\u30b9\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab"
                 },
                 "internal": "Blaster_Short_O"
+            },
+            {
+                "id": 14,
+                "name": "Custom Range Blaster",
+                "image": "../common/assets/img/weapons/Blaster_Long_01.png",
+                "class": "Blaster",
+                "sub": "Splat Bomb",
+                "special": "Kraken Royale",
+                "localizedName": {
+                    "en_GB": "Custom Range Blaster",
+                    "en_US": "Custom Range Blaster",
+                    "es_ES": "Teledevastador SP",
+                    "es_MX": "Telelanzamotas adaptado",
+                    "fr_FR": "\u00c9clablaster XL griff\u00e9",
+                    "fr_CA": "\u00c9clablasteur LP modifi\u00e9",
+                    "de_DE": "Fern-Blaster SE",
+                    "nl_NL": "Gemodde Teleblaster",
+                    "ru_RU": "\u0414\u0430\u043b\u044c\u043d\u043e\u0431\u043b\u0430\u0441\u0442\u0435\u0440 \u00ab\u041f\u043e\u043d\u0442\u00bb",
+                    "it_IT": "Blaster a distanza CM",
+                    "ja_JP": "\u30ed\u30f3\u30b0\u30d6\u30e9\u30b9\u30bf\u30fc\u30ab\u30b9\u30bf\u30e0"
+                },
+                "internal": "Blaster_Long_01"
             }
         ],
         "localizedName": {
@@ -854,6 +876,28 @@
                     "ja_JP": "\u30b9\u30af\u30a4\u30c3\u30af\u30ea\u30f3\u03b2"
                 },
                 "internal": "Charger_Quick_01"
+            },
+            {
+                "id": 16,
+                "name": "Bamboozler 14 Mk II",
+                "image": "../common/assets/img/weapons/Charger_Light_01.png",
+                "class": "Charger",
+                "sub": "Fizzy Bomb",
+                "special": "Super Chump",
+                "localizedName": {
+                    "en_GB": "Bamboozler 14 Mk II",
+                    "en_US": "Bamboozler 14 Mk II",
+                    "es_ES": "Bambufusil 14-II",
+                    "es_MX": "Bamzuka 14-II",
+                    "fr_FR": "Bimbamboum Mk II",
+                    "fr_CA": "Bimbamboum Mk II",
+                    "de_DE": "Klotzer 14-B",
+                    "nl_NL": "Bamboem 14-B",
+                    "ru_RU": "\u0411\u0430\u043c\u0431\u0443\u0445 14-II",
+                    "it_IT": "Bimbamboom 14-II",
+                    "ja_JP": "14\u5f0f\u7af9\u7b52\u9283\u30fb\u4e59"
+                },
+                "internal": "Charger_Light_01"
             }
         ],
         "localizedName": {
@@ -1137,6 +1181,28 @@
                     "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30de\u30cb\u30e5\u30fc\u30d0\u30fc \u30ec\u30d7\u30ea\u30ab"
                 },
                 "internal": "Maneuver_Normal_O"
+            },
+            {
+                "id": 12,
+                "name": "Custom Douser Dualies FF",
+                "image": "../common/assets/img/weapons/Maneuver_Long_01.png",
+                "class": "Maneuver",
+                "sub": "Burst Bomb",
+                "special": "Triple Inkstrike",
+                "localizedName": {
+                    "en_GB": "Custom Douser Dualies FF",
+                    "en_US": "Custom Douser Dualies FF",
+                    "es_ES": "Extintor Dual FF SP",
+                    "es_MX": "Extintor dual FF adaptado",
+                    "fr_FR": "Double ignifugeur modifi\u00e9",
+                    "fr_CA": "Double ignifugeur modifi\u00e9",
+                    "de_DE": "L\u00f6sch-Doppler FW SE",
+                    "nl_NL": "Gemodde Blusknallers BW",
+                    "ru_RU": "\u041a\u0440\u0430\u0441\u043a\u043e\u0442\u0443\u0448\u0438\u0442\u0435\u043b\u0438 \u00ab\u041f\u043e\u043d\u0442\u00bb",
+                    "it_IT": "Repolper estintori FF CM",
+                    "ja_JP": "\u30ac\u30a8\u30f3FF\u30ab\u30b9\u30bf\u30e0"
+                },
+                "internal": "Maneuver_Long_01"
             }
         ],
         "localizedName": {
@@ -1527,6 +1593,50 @@
                     "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30ef\u30a4\u30d1\u30fc \u30ec\u30d7\u30ea\u30ab"
                 },
                 "internal": "Saber_Normal_O"
+            },
+            {
+                "id": 5,
+                "name": "Mint Decavitator",
+                "image": "../common/assets/img/weapons/Saber_Heavy_00.png",
+                "class": "Saber",
+                "sub": "Suction Bomb",
+                "special": "Big Bubbler",
+                "localizedName": {
+                    "en_GB": "Mint Decavitator",
+                    "en_US": "Mint Decavitator",
+                    "es_ES": "Odontintador menta",
+                    "es_MX": "Odontintador menta",
+                    "fr_FR": "Sabrifrice menthe",
+                    "fr_CA": "Sabrifrice menthe",
+                    "de_DE": "Minz-Prophylator",
+                    "nl_NL": "Schrobbehak PM",
+                    "ru_RU": "\u041c\u044f\u0442\u043d\u0430\u044f \u0434\u0435\u043d\u0442\u0430\u043d\u0430",
+                    "it_IT": "Spazzolama menta",
+                    "ja_JP": "\u30c7\u30f3\u30bf\u30eb\u30ef\u30a4\u30d1\u30fc\u30df\u30f3\u30c8"
+                },
+                "internal": "Saber_Heavy_00"
+            },
+            {
+                "id": 6,
+                "name": "Charcoal Decavitator",
+                "image": "../common/assets/img/weapons/Saber_Heavy_01.png",
+                "class": "Saber",
+                "sub": "Splash Wall",
+                "special": "Inkjet",
+                "localizedName": {
+                    "en_GB": "Charcoal Decavitator",
+                    "en_US": "Charcoal Decavitator",
+                    "es_ES": "Odontintador carb\u00f3n",
+                    "es_MX": "Odontintador carb\u00f3n",
+                    "fr_FR": "Sabrifrice charbon",
+                    "fr_CA": "Sabrifrice charbon",
+                    "de_DE": "Carbo-Prophylator",
+                    "nl_NL": "Schrobbehak HK",
+                    "ru_RU": "\u0423\u0433\u043e\u043b\u044c\u043d\u0430\u044f \u0434\u0435\u043d\u0442\u0430\u043d\u0430",
+                    "it_IT": "Spazzolama carbone",
+                    "ja_JP": "\u30c7\u30f3\u30bf\u30eb\u30ef\u30a4\u30d1\u30fc\u30b9\u30df"
+                },
+                "internal": "Saber_Heavy_01"
             }
         ],
         "localizedName": {
@@ -1722,6 +1832,28 @@
                     "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b7\u30a7\u30eb\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab"
                 },
                 "internal": "Shelter_Normal_O"
+            },
+            {
+                "id": 8,
+                "name": "Recycled Brella 24 Mk II",
+                "image": "../common/assets/img/weapons/Shelter_Focus_01.png",
+                "class": "Shelter",
+                "sub": "Toxic Mist",
+                "special": "Triple Splashdown",
+                "localizedName": {
+                    "en_GB": "Recycled Brella 24 Mk II",
+                    "en_US": "Recycled Brella 24 Mk II",
+                    "es_ES": "Prototintas 24-II",
+                    "es_MX": "Prototintas 24-II",
+                    "fr_FR": "Para-encre R\u00e9-gen 24 Mk II",
+                    "fr_CA": "Para-encre R\u00e9-gen 24 Mk II",
+                    "de_DE": "Bast-Pluviator 24-B",
+                    "nl_NL": "Protoplenzer 24-II",
+                    "ru_RU": "\u0420\u0435\u0431\u0443\u0442-\u0437\u043e\u043d\u0442\u0433\u0430\u043d \u041c-2",
+                    "it_IT": "Sparasole riciclo 24-II",
+                    "ja_JP": "24\u5f0f\u5f35\u66ff\u5098\u30fb\u4e59"
+                },
+                "internal": "Shelter_Focus_01"
             }
         ],
         "localizedName": {
@@ -2989,6 +3121,50 @@
                     "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b9\u30d4\u30ca\u30fc \u30ec\u30d7\u30ea\u30ab"
                 },
                 "internal": "Spinner_Standard_O"
+            },
+            {
+                "id": 11,
+                "name": "Heavy Edit Splatling Nouveau",
+                "image": "../common/assets/img/weapons/Spinner_HyperShort_01.png",
+                "class": "Spinner",
+                "sub": "Splat Bomb",
+                "special": "Crab Tank",
+                "localizedName": {
+                    "en_GB": "Heavy Edit Splatling Nouveau",
+                    "en_US": "Heavy Edit Splatling Nouveau",
+                    "es_ES": "Corrigetintas maestro",
+                    "es_MX": "Corrigetintas maestro",
+                    "fr_FR": "Correcteur nuanc\u00e9",
+                    "fr_CA": "Correcteur nuanc\u00e9",
+                    "de_DE": "Kartuschierer Fresco",
+                    "nl_NL": "Examinator Nouveau",
+                    "ru_RU": "\u041a\u043e\u0440\u0440\u0435\u043a\u0442\u043e\u0440 \u00ab\u041d\u0443\u0412\u043e\u00bb",
+                    "it_IT": "Splatling a pennarelli master",
+                    "ja_JP": "\u30a4\u30b0\u30b6\u30df\u30ca\u30fc\u30fb\u30d2\u30e5\u30fc"
+                },
+                "internal": "Spinner_HyperShort_01"
+            },
+            {
+                "id": 12,
+                "name": "Custom Hydra Splatling",
+                "image": "../common/assets/img/weapons/Spinner_Hyper_01.png",
+                "class": "Spinner",
+                "sub": "Ink Mine",
+                "special": "Splattercolor Screen",
+                "localizedName": {
+                    "en_GB": "Custom Hydra Splatling",
+                    "en_US": "Custom Hydra Splatling",
+                    "es_ES": "Extintador SP",
+                    "es_MX": "Garabateador HD adaptado",
+                    "fr_FR": "Exteinteur modifi\u00e9",
+                    "fr_CA": "Exteinteur modifi\u00e9",
+                    "de_DE": "Hydrant SE",
+                    "nl_NL": "Gemodde Blusling",
+                    "ru_RU": "\u00ab\u041f\u043e\u043d\u0442-\u0413\u043e\u0440\u044b\u043d\u044b\u0447\u00bb",
+                    "it_IT": "Idrante CM",
+                    "ja_JP": "\u30cf\u30a4\u30c9\u30e9\u30f3\u30c8\u30ab\u30b9\u30bf\u30e0"
+                },
+                "internal": "Spinner_Hyper_01"
             }
         ],
         "localizedName": {
@@ -3118,6 +3294,50 @@
                     "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30b9\u30c8\u30ea\u30f3\u30ac\u30fc \u30ec\u30d7\u30ea\u30ab"
                 },
                 "internal": "Stringer_Normal_O"
+            },
+            {
+                "id": 5,
+                "name": "Wellstring V",
+                "image": "../common/assets/img/weapons/Stringer_Explosion_00.png",
+                "class": "Stringer",
+                "sub": "Autobomb",
+                "special": "Ultra Stamp",
+                "localizedName": {
+                    "en_GB": "Wellstring V",
+                    "en_US": "Wellstring V",
+                    "es_ES": "Arcrotensor V",
+                    "es_MX": "Arcrotensor V",
+                    "fr_FR": "Multisperceur V",
+                    "fr_CA": "Multisperceur V",
+                    "de_DE": "Penta-Pumper",
+                    "nl_NL": "Pentapomper",
+                    "ru_RU": "\u041a\u0432\u0438\u043d\u0442\u0438\u0432\u0430\u0442\u043e\u0440 \u00ab\u041a\u043e\u043b\u043e\u0434\u0435\u0437\u044c\u00bb",
+                    "it_IT": "Fontanarco V",
+                    "ja_JP": "\u30d5\u30eb\u30a4\u30c9V"
+                },
+                "internal": "Stringer_Explosion_00"
+            },
+            {
+                "id": 6,
+                "name": "Custom Wellstring V",
+                "image": "../common/assets/img/weapons/Stringer_Explosion_01.png",
+                "class": "Stringer",
+                "sub": "Point Sensor",
+                "special": "Wave Breaker",
+                "localizedName": {
+                    "en_GB": "Custom Wellstring V",
+                    "en_US": "Custom Wellstring V",
+                    "es_ES": "Arcrotensor V SP",
+                    "es_MX": "Arcrotensor V adaptado",
+                    "fr_FR": "Multisperceur V modifi\u00e9",
+                    "fr_CA": "Multisperceur V modifi\u00e9",
+                    "de_DE": "Penta-Pumper SE",
+                    "nl_NL": "Gemodde Pentapomper",
+                    "ru_RU": "\u041a\u0432\u0438\u043d\u0442\u0438\u0432\u0430\u0442\u043e\u0440 \u00ab\u041f\u043e\u043d\u0442\u00bb",
+                    "it_IT": "Fontanarco V CM",
+                    "ja_JP": "\u30d5\u30eb\u30a4\u30c9V\u30ab\u30b9\u30bf\u30e0"
+                },
+                "internal": "Stringer_Explosion_01"
             }
         ],
         "localizedName": {

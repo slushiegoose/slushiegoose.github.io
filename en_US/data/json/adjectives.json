@@ -31317,7 +31317,7 @@
             "es_ES": "pastiv\u00e9rsic",
             "es_MX": "del Pastiverso",
             "fr_FR": "du Poulpivers",
-            "fr_CA": "du Poulpiverse",
+            "fr_CA": "du Poulpivers",
             "de_DE": "Memoversal",
             "nl_NL": "Herinniversa",
             "ru_RU": "\u043a\u043e\u043d\u0441\u0435\u0440\u0432\u0430\u0442\u043e\u0440\u043d",
@@ -31866,5 +31866,191 @@
         },
         "id": 1027,
         "internal": "3304"
+    },
+    {
+        "name": "Lemuria Hub",
+        "localizedName": {
+            "en_GB": "Lemuria Hub",
+            "en_US": "Lemuria Hub",
+            "es_ES": "en Terminal Drag\u00f3n",
+            "es_MX": "en Terminal Drag\u00f3n",
+            "fr_FR": "de la gare Aiguillat",
+            "fr_CA": "de la gare Aiguillat",
+            "de_DE": "Bahnhof-Lemuria-",
+            "nl_NL": "Lemuri\u00eb Centraal-",
+            "ru_RU": "\u0430\u043a\u0442\u0438\u0432\u043d \u043d\u0430 \u0432\u043e\u043a\u0437\u0430\u043b\u0435 \u041b\u0435\u043c\u0443\u0440\u0438\u044f",
+            "it_IT": "della stazione Lemuria",
+            "ja_JP": "\u30ea\u30e5\u30a6\u30b0\u30a6\u30bf\u30fc\u30df\u30ca\u30eb\u306e"
+        },
+        "available": {
+            "en_GB": true,
+            "en_US": true,
+            "es_ES": "Unknown",
+            "es_MX": "Unknown",
+            "fr_FR": "Unknown",
+            "fr_CA": "Unknown",
+            "de_DE": "Unknown",
+            "nl_NL": "Unknown",
+            "ru_RU": "Unknown",
+            "it_IT": "Unknown",
+            "ja_JP": true
+        },
+        "id": 1028,
+        "internal": "0023"
+    },
+    {
+        "name": "Cherished",
+        "localizedName": {
+            "en_GB": "Cherished",
+            "en_US": "Cherished",
+            "es_ES": "apreciad",
+            "es_MX": "apreciad",
+            "fr_FR": "ador\u00e9",
+            "fr_CA": "ch\u00e9ri",
+            "de_DE": "Gehegt",
+            "nl_NL": "Gekoesterd",
+            "ru_RU": "\u0445\u043e\u043b\u0438\u043c",
+            "it_IT": "preziosissim",
+            "ja_JP": "\u306e"
+        },
+        "available": {
+            "en_GB": true,
+            "en_US": true,
+            "es_ES": "Unknown",
+            "es_MX": "Unknown",
+            "fr_FR": "Unknown",
+            "fr_CA": "Unknown",
+            "de_DE": "Unknown",
+            "nl_NL": "Unknown",
+            "ru_RU": "Unknown",
+            "it_IT": "Unknown",
+            "ja_JP": true
+        },
+        "id": 1029,
+        "internal": "0750"
+    },
+    {
+        "name": "Peak-Condition",
+        "localizedName": {
+            "en_GB": "Peak-Condition",
+            "en_US": "Peak-Condition",
+            "es_ES": "en perfecto estado",
+            "es_MX": "en perfecto estado",
+            "fr_FR": "en pleine forme",
+            "fr_CA": "en pleine forme",
+            "de_DE": "Topgest\u00e4hlt",
+            "nl_NL": "Topvorm-",
+            "ru_RU": "\u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044e\u0449 \u0444\u043e\u0440\u043c\u0443",
+            "it_IT": "in perfetta forma",
+            "ja_JP": "\u306e"
+        },
+        "available": {
+            "en_GB": true,
+            "en_US": true,
+            "es_ES": "Unknown",
+            "es_MX": "Unknown",
+            "fr_FR": "Unknown",
+            "fr_CA": "Unknown",
+            "de_DE": "Unknown",
+            "nl_NL": "Unknown",
+            "ru_RU": "Unknown",
+            "it_IT": "Unknown",
+            "ja_JP": true
+        },
+        "id": 1030,
+        "internal": "2014"
+    },
+    {
+        "name": "Thank You for",
+        "localizedName": {
+            "en_GB": "Thank You for",
+            "en_US": "Thank You for",
+            "es_ES": "por jugar",
+            "es_MX": "por jugar",
+            "fr_FR": "d'avoir jou\u00e9",
+            "fr_CA": "d'avoir jou\u00e9",
+            "de_DE": "F\u00fcr alle ",
+            "nl_NL": "Bedankt voor ",
+            "ru_RU": "\u0433\u043e\u0432\u043e\u0440\u044f\u0449",
+            "it_IT": "per aver giocato",
+            "ja_JP": "Thank You For "
+        },
+        "available": {
+            "en_GB": true,
+            "en_US": true,
+            "es_ES": "Unknown",
+            "es_MX": "Unknown",
+            "fr_FR": "Unknown",
+            "fr_CA": "Unknown",
+            "de_DE": "Unknown",
+            "nl_NL": "Unknown",
+            "ru_RU": "Unknown",
+            "it_IT": "Unknown",
+            "ja_JP": true
+        },
+        "id": 1031,
+        "internal": "2015"
+    },
+    {
+        "name": "Shell-Out",
+        "localizedName": {
+            "en_GB": "Shell-Out",
+            "en_US": "Shell-Out",
+            "es_ES": "sacapremios",
+            "es_MX": "del premiotr\u00f3n",
+            "fr_FR": "du Capsulomate",
+            "fr_CA": "du Capsulomate",
+            "de_DE": "Gl\u00fcckskapselnd",
+            "nl_NL": "Prijsschelpen-",
+            "ru_RU": "\u043a\u0430\u043f\u0441\u0443\u043b\u044c\u043d",
+            "it_IT": "al Premi-o-matic",
+            "ja_JP": "\u304f\u3058\u304d\u306e"
+        },
+        "available": {
+            "en_GB": true,
+            "en_US": true,
+            "es_ES": "Unknown",
+            "es_MX": "Unknown",
+            "fr_FR": "Unknown",
+            "fr_CA": "Unknown",
+            "de_DE": "Unknown",
+            "nl_NL": "Unknown",
+            "ru_RU": "Unknown",
+            "it_IT": "Unknown",
+            "ja_JP": true
+        },
+        "id": 1032,
+        "internal": "2507"
+    },
+    {
+        "name": "Moving",
+        "localizedName": {
+            "en_GB": "Moving",
+            "en_US": "Moving",
+            "es_ES": "conmovedor",
+            "es_MX": "conmovedor",
+            "fr_FR": "\u00e9mouvant",
+            "fr_CA": "\u00e9mouvant",
+            "de_DE": "Wild bewegt",
+            "nl_NL": "Beweeglijk",
+            "ru_RU": "\u044d\u043c\u043e\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d",
+            "it_IT": "commovente",
+            "ja_JP": "\u306e"
+        },
+        "available": {
+            "en_GB": true,
+            "en_US": true,
+            "es_ES": "Unknown",
+            "es_MX": "Unknown",
+            "fr_FR": "Unknown",
+            "fr_CA": "Unknown",
+            "de_DE": "Unknown",
+            "nl_NL": "Unknown",
+            "ru_RU": "Unknown",
+            "it_IT": "Unknown",
+            "ja_JP": true
+        },
+        "id": 1033,
+        "internal": "3305"
     }
 ]
