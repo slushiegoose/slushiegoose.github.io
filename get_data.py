@@ -14,6 +14,7 @@ VERSIONS = [
     "600",
     "700",
     "800",
+    "900",
 ]
 
 hats = "https://leanny.github.io/splat3/data/mush/{VERSION}/GearInfoHead.json"
@@ -116,10 +117,16 @@ async def gear(type, type2, listies, locale_data):
     eyedees = []
     i = 0
     for listie in listies:
+
+        mission = [g for g in listie if "MSN" in g["__RowId"]]
+        for m in mission:
+            listie.remove(m)
+            if listie in listies[8:]:
+                listie.append(m)
         for gear_piece in listie:
             eyedee = gear_piece["__RowId"]
             internal_id = gear_piece["Id"]
-            if not (gear_piece["Id"] > 0 and gear_piece["HowToGet"] != "Impossible" and "_MSN" not in eyedee):
+            if not (gear_piece["Id"] > 0 and gear_piece["HowToGet"] != "Impossible"):
                 continue
             if internal_id in eyedees: continue
 

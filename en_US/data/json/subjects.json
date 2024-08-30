@@ -32052,5 +32052,36 @@
         },
         "id": 1033,
         "internal": "3305"
+    },
+    {
+        "name": "Now or Never Seven Fan",
+        "localizedName": {
+            "en_GB": "Now or Never Seven Fan",
+            "en_US": "Now or Never Seven Fan",
+            "es_ES": "Fan de Now or Never Seven",
+            "es_MX": "Fan de Now or Never Seven",
+            "fr_FR": "Fan de Now or Never Seven",
+            "fr_CA": "Fan de Now or Never Seven",
+            "de_DE": "Now or Never Seven-Fan",
+            "nl_NL": "Now or Never Seven-fan",
+            "ru_RU": "\u0444\u0430\u043d\u0430\u0442 Now or Never Seven",
+            "it_IT": "Fan dei Now or Never Seven",
+            "ja_JP": "\u30cc\u30e9\u30cd\u30d0\u30bb\u30d6\u30f3\u30d5\u30a1\u30f3"
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 1034,
+        "internal": "0197"
     }
 ]

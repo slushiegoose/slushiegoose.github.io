@@ -2408,5 +2408,45 @@
             "b": 0.007155037
         },
         "internal": "Npl_News_Season08_Lv01"
+    },
+    {
+        "id": 241,
+        "image": "../common/assets/img/splashtags/Npl_News_Season09_Lv01.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_News_Season09_Lv01"
+    },
+    {
+        "id": 242,
+        "image": "../common/assets/img/splashtags/Npl_News_Season09_Lv02.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_News_Season09_Lv02"
+    },
+    {
+        "id": 243,
+        "image": "../common/assets/img/splashtags/Npl_News_Season09_Lv03.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_News_Season09_Lv03"
+    },
+    {
+        "id": 244,
+        "image": "../common/assets/img/splashtags/Npl_Trg_Season08_Lv01.png",
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+        },
+        "internal": "Npl_Trg_Season08_Lv01"
     }
 ]
