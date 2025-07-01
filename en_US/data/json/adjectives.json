@@ -32083,5 +32083,36 @@
         },
         "id": 1034,
         "internal": "1146"
+    },
+    {
+        "name": "Urchin Underpass",
+        "localizedName": {
+            "en_GB": "Urchin Underpass",
+            "en_US": "Urchin Underpass",
+            "es_ES": "en Parque Viaducto",
+            "es_MX": "en Parque Viaducto",
+            "fr_FR": "du passage Turbot",
+            "fr_CA": "du passage Turbot",
+            "de_DE": "Dekabahnstation-",
+            "nl_NL": "Knooppunt Kabeljauw-",
+            "ru_RU": "\u0430\u043a\u0442\u0438\u0432\u043d \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u0414\u0435\u043a\u0430",
+            "it_IT": "della Periferia urbana",
+            "ja_JP": "\u30c7\u30ab\u30e9\u30a4\u30f3\u9ad8\u67b6\u4e0b\u306e"
+        },
+        "available": {
+            "en_GB": true,
+            "en_US": true,
+            "es_ES": "Unknown",
+            "es_MX": "Unknown",
+            "fr_FR": "Unknown",
+            "fr_CA": "Unknown",
+            "de_DE": "Unknown",
+            "nl_NL": "Unknown",
+            "ru_RU": "Unknown",
+            "it_IT": "Unknown",
+            "ja_JP": true
+        },
+        "id": 1035,
+        "internal": "0024"
     }
 ]

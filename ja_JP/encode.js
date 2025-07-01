@@ -1,6 +1,6 @@
 /// MAIN
 function encode(selectedSetId, loadout) {
-    return encodev1(selectedSetId, loadout);
+    return encodev2(selectedSetId, loadout);
 }
 
 function decode(code) {
@@ -8,6 +8,8 @@ function decode(code) {
         return decodev0(code);
     } else if (code[0] == 1) {
         return decodev1(code);
+    } else if (code[0] == 2) {
+        return decodev2(code);
     } else {
         console.log("invalid code")
         return false;
@@ -253,6 +255,17 @@ function encodev1(selectedSetId, loadout) {
     return hexString;
 };
 
+function encodev2(selectedSetId, loadout) {
+    var hexString = '2' // version number
+    hexString += hex(selectedSetId, 1)
+    hexString += hex(loadout.weapon.id, 2);
+    hexString += encodeGearv1(loadout.head);
+    hexString += encodeGearv1(loadout.clothes);
+    hexString += encodeGearv1(loadout.shoes);
+    hexString += encodeSplashtagv2(loadout.splashtag);
+    return hexString;
+};
+
 function encodeSplashtagv1(item) {
     var string = "";
     var title = "";
@@ -267,6 +280,28 @@ function encodeSplashtagv1(item) {
             bgbadge += bin(0, 10)
         } else {
             bgbadge += bin(item.badges[i].id, 10)
+        }
+    }
+    string += binaryToHex(bgbadge).result
+    string += dec(item.discriminator, 4)
+    string += encodeURIComponent(item.name)
+    return string
+}
+
+function encodeSplashtagv2(item) {
+    var string = "";
+    var title = "";
+    title += bin(item.adjective.id, 12)
+    title += bin(item.subject.id, 12)
+    string += binaryToHex(title).result
+
+    var bgbadge = "";
+    bgbadge += bin(item.bg.id, 11)
+    for (var i = 0; i < item.badges.length; i++) {
+        if (item.badges[i] == null) {
+            bgbadge += bin(0, 11)
+        } else {
+            bgbadge += bin(item.badges[i].id, 11)
         }
     }
     string += binaryToHex(bgbadge).result
@@ -296,6 +331,31 @@ function decodeSplashtagv1(code) {
     splashtag.discriminator = parseInt(code.substring(16, 20), 10)
     splashtag.name = decodeURIComponent(code.substring(20))
     console.log("Decoded Splastag (v1):")
+    console.log(splashtag)
+    return splashtag
+}
+
+function decodeSplashtagv2(code) {
+    var splashtag = {
+        adjective: null,
+        subject: null,
+        bg: null,
+        badges: [null, null, null],
+        name: "",
+        discriminator: 0
+    }
+    var title = hexToBinary(code.substring(0, 6)).result
+    splashtag.adjective = parseInt(title.substring(0, 12), 2)
+    splashtag.subject = parseInt(title.substring(12, 24), 2)
+
+    var bgbadge = hexToBinary(code.substring(6, 17)).result
+    splashtag.bg = parseInt(bgbadge.substring(0, 11), 2)
+    for (var i = 0; i < 3; i++) {
+        splashtag.badges[i] = parseInt(bgbadge.substring(11 + i * 11, 22 + i * 11), 2)
+    }
+    splashtag.discriminator = parseInt(code.substring(17, 21), 10)
+    splashtag.name = decodeURIComponent(code.substring(21))
+    console.log("Decoded Splastag (v2):")
     console.log(splashtag)
     return splashtag
 }
@@ -343,6 +403,25 @@ function decodev1(code) {
         var clothes = decodeGearv1(code.substring(12, 20))
         var shoes = decodeGearv1(code.substring(20, 28))
         var splashtag = decodeSplashtagv1(code.substring(28))
+    } catch (err) {
+        console.log("Invalid code: " + err.message)
+        return false;
+    }
+    return { set: weaponset, weapon: weaponid, head: head, clothes: clothes, shoes: shoes, splashtag: splashtag };
+}
+
+function decodev2(code) {
+    if (code[0] != 2) {
+        console.log("invalid code")
+        return false;
+    }
+    try {
+        var weaponset = parseInt(code[1], 16)
+        var weaponid = parseInt(code.substring(2, 4), 16)
+        var head = decodeGearv1(code.substring(4, 12))
+        var clothes = decodeGearv1(code.substring(12, 20))
+        var shoes = decodeGearv1(code.substring(20, 28))
+        var splashtag = decodeSplashtagv2(code.substring(28))
     } catch (err) {
         console.log("Invalid code: " + err.message)
         return false;

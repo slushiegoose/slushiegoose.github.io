@@ -18,12 +18,20 @@
 1 2 3  4       5       6       7                  8
 ```
 
-## Version 1 (Fresh Season 2024)
+## Version 1 (Fresh Season 2024 - Sizzle Season 2025)
 
 ```txt
 1 X XX XXXXXXXX XXXXXXXX XXXXXXXX XXXXXXXXXXXXXXXXDDDD PlayerName
 ^ ^ ^  ^        ^        ^        ^                    ^
 1 2 3  4        5        6        7                    8
+```
+
+## Version 2 (Sizzle Season 2025 - current)
+
+```txt
+2 X XX XXXXXXXX XXXXXXXX XXXXXXXX XXXXXXXXXXXXXXXXXDDDD PlayerName
+^ ^ ^  ^        ^        ^        ^                     ^
+1 2 3  4        5        6        7                     8
 ```
 
 ## Key
@@ -47,7 +55,7 @@ XX XXXXX
 1  2
 ```
 
-### Version 1
+### Version 1 & Version 2
 
 ```txt
 XXX XXXXX
@@ -92,6 +100,14 @@ XXXXXX XXXXXXXXXX DDDD
 1      2          3
 ```
 
+### Version 2
+
+```txt
+XXXXXX XXXXXXXXXXX DDDD
+^      ^           ^
+1      2           3
+```
+
 1. [Encoded Title](#title-encoding)
 2. [Encoded Background And Badges](#background-and-badges-encoding)
 3. Discriminator
@@ -107,7 +123,7 @@ XXXXX - Hex to Binary
 1          2
 ```
 
-### Version 1
+### Version 1 & 2
 
 ```txt
 
@@ -122,7 +138,7 @@ XXXXXX - Hex to Binary
 
 Version 0 - 2 groups of 10 bits, converted to a 5-digit hexadecimal number.
 
-Version 1 - 2 groups of 12 bits, converted to a 6-digit hexadecimal number.
+Version 1 & 2 - 2 groups of 12 bits, converted to a 6-digit hexadecimal number.
 
 ## Background and Badges Encoding
 
@@ -144,6 +160,15 @@ XXXXXXXXXX - Hex to Binary
 1          2          3          4
 ```
 
+### Version 2
+
+```txt
+XXXXXXXXXXX - Hex to Binary
+00000000000 00000000000 00000000000 00000000000
+^           ^           ^           ^
+1           2           3           4
+```
+
 1. Background
 2. Badge 1
 3. Badge 2
@@ -153,14 +178,16 @@ Version 0 - 4 groups of 9 bits, converted to a 9-digit hexadecimal number.
 
 Version 1 - 4 groups of 10 bits, converted to a 10-digit hexadecimal number.
 
+Version 2 - 4 groups of 11 bits, converted to an 11-digit hexadecimal number.
+
 ## Max Values
 
 - Weapon Set: 16
 - Weapon: 256
-- Gear: 256 (v0), 1024 (v1)
+- Gear: 256 (v0), 1024 (v1/v2)
 - Ability: 32
-- Adjective: 1024 (v0), 4096 (v1)
-- Subject: 1024 (v0), 4096 (v1)
-- Background: 512 (v0), 1024 (v1)
-- Badge: 512 (v0), 1024 (v1)
+- Adjective: 1024 (v0), 4096 (v1/v2)
+- Subject: 1024 (v0), 4096 (v1/v2)
+- Background: 512 (v0), 1024 (v1), 2048 (v2)
+- Badge: 512 (v0), 1024 (v1), 2048 (v2)
 - Discriminator: 9999

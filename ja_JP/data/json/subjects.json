@@ -32083,5 +32083,36 @@
         },
         "id": 1034,
         "internal": "0197"
+    },
+    {
+        "name": "Defender",
+        "localizedName": {
+            "en_GB": "Defender",
+            "en_US": "Defender",
+            "es_ES": "Basti\u00f3n defensivo",
+            "es_MX": "Basti\u00f3n defensivo",
+            "fr_FR": "D\u00e9fenseur",
+            "fr_CA": "D\u00e9fenseur",
+            "de_DE": "Verteidiger",
+            "nl_NL": "verdediger",
+            "ru_RU": "\u0437\u0430\u0441\u0442\u0443\u043f\u043d\u0438\u043a",
+            "it_IT": "Difensore",
+            "ja_JP": ""
+        },
+        "available": {
+            "en_GB": false,
+            "en_US": false,
+            "es_ES": false,
+            "es_MX": false,
+            "fr_FR": false,
+            "fr_CA": false,
+            "de_DE": false,
+            "nl_NL": false,
+            "ru_RU": false,
+            "it_IT": false,
+            "ja_JP": false
+        },
+        "id": 1035,
+        "internal": "1171"
     }
 ]

@@ -332,6 +332,50 @@
                     "ja_JP": "\u30ed\u30f3\u30b0\u30d6\u30e9\u30b9\u30bf\u30fc\u30ab\u30b9\u30bf\u30e0"
                 },
                 "internal": "Blaster_Long_01"
+            },
+            {
+                "id": 15,
+                "name": "Rapid Blaster Pro WNT-R",
+                "image": "../common/assets/img/weapons/Blaster_LightLong_02.png",
+                "class": "Blaster",
+                "sub": "Suction Bomb",
+                "special": "Tacticooler",
+                "localizedName": {
+                    "en_GB": "Rapid Blaster Pro WNT-R",
+                    "en_US": "Rapid Blaster Pro WNT-R",
+                    "es_ES": "Superdevastador INV",
+                    "es_MX": "Turbolanzamotas INV",
+                    "fr_FR": "Turboblaster pro POL-R",
+                    "fr_CA": "Turboblasteur pro POL-R",
+                    "de_DE": "Turbo-Blaster Plus WNT-R",
+                    "nl_NL": "Flitsblaster Pro WNT-R",
+                    "ru_RU": "\u0411\u043b\u0430\u0441\u0442\u0435\u0440\u043c\u0430\u0442 \u041f\u0420\u041e \u00ab\u041a-\u041b\u041e\u0422\u0423\u041d\u00bb",
+                    "it_IT": "Blaster \u00e9lite INV-N",
+                    "ja_JP": "R\u30d6\u30e9\u30b9\u30bf\u30fc\u30a8\u30ea\u30fc\u30c8WNTR"
+                },
+                "internal": "Blaster_LightLong_02"
+            },
+            {
+                "id": 16,
+                "name": "Gleamz Blaster",
+                "image": "../common/assets/img/weapons/Blaster_Middle_02.png",
+                "class": "Blaster",
+                "sub": "Squid Beakon",
+                "special": "Crab Tank",
+                "localizedName": {
+                    "en_GB": "Gleamz Blaster",
+                    "en_US": "Gleamz Blaster",
+                    "es_ES": "Devastador LUX",
+                    "es_MX": "Lanzamotas DSX",
+                    "fr_FR": "\u00c9clablaster mirapex",
+                    "fr_CA": "\u00c9clablasteur miragius",
+                    "de_DE": "Blaster GLAM",
+                    "nl_NL": "Klodderblaster Sch\u00ffn",
+                    "ru_RU": "\u0411\u043b\u0430\u0441\u0442\u0435\u0440 \u00ab\u041b\u043e\u0441\u043a\u00bb",
+                    "it_IT": "Blaster glam-bon",
+                    "ja_JP": "\u30db\u30c3\u30c8\u30d6\u30e9\u30b9\u30bf\u30fc\u8276"
+                },
+                "internal": "Blaster_Middle_02"
             }
         ],
         "localizedName": {
@@ -505,6 +549,50 @@
                     "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30d6\u30e9\u30b7 \u30ec\u30d7\u30ea\u30ab"
                 },
                 "internal": "Brush_Normal_O"
+            },
+            {
+                "id": 7,
+                "name": "Painbrush BRN-Z",
+                "image": "../common/assets/img/weapons/Brush_Heavy_02.png",
+                "class": "Brush",
+                "sub": "Splash Wall",
+                "special": "Trizooka",
+                "localizedName": {
+                    "en_GB": "Painbrush BRN-Z",
+                    "en_US": "Painbrush BRN-Z",
+                    "es_ES": "Brocha abanico BNC",
+                    "es_MX": "Pincel abanico BNC",
+                    "fr_FR": "\u00c9pinceau \u00e9ca\u00efe BRN-Z",
+                    "fr_CA": "\u00c9pinceau \u00e9ca\u00efe BRN-Z",
+                    "de_DE": "F\u00e4cherf\u00e4rber BRN-Z",
+                    "nl_NL": "Kwistkwast BRN-S",
+                    "ru_RU": "\u0412\u0435\u0435\u0440\u043e\u043a\u0438\u0441\u0442\u044c \u00ab\u0411\u0420\u041e\u041d-\u0417\u00bb",
+                    "it_IT": "Tonnoretto BRN-Z",
+                    "ja_JP": "\u30d5\u30a3\u30f3\u30bb\u30f3\u30c8BRNZ"
+                },
+                "internal": "Brush_Heavy_02"
+            },
+            {
+                "id": 8,
+                "name": "Cometz Octobrush",
+                "image": "../common/assets/img/weapons/Brush_Normal_02.png",
+                "class": "Brush",
+                "sub": "Autobomb",
+                "special": "Kraken Royale",
+                "localizedName": {
+                    "en_GB": "Cometz Octobrush",
+                    "en_US": "Cometz Octobrush",
+                    "es_ES": "Brocha cometa",
+                    "es_MX": "Pincel caligraf\u00eda CMX",
+                    "fr_FR": "\u00c9pinceau brosse stellapex",
+                    "fr_CA": "\u00c9pinceau brosse stellius",
+                    "de_DE": "Kalligraf Astro",
+                    "nl_NL": "Octokwast K\u00f6sm\u00f6s",
+                    "ru_RU": "\u0410\u0440\u0442-\u043a\u0438\u0441\u0442\u044c \u00ab\u041a\u043e\u043c\u0435\u0442\u0430\u00bb",
+                    "it_IT": "Tinturicchio comet-bon",
+                    "ja_JP": "\u30db\u30af\u30b5\u30a4\u5f57"
+                },
+                "internal": "Brush_Normal_02"
             }
         ],
         "localizedName": {
@@ -898,6 +986,50 @@
                     "ja_JP": "14\u5f0f\u7af9\u7b52\u9283\u30fb\u4e59"
                 },
                 "internal": "Charger_Light_01"
+            },
+            {
+                "id": 17,
+                "name": "Splatterscope CAM-O",
+                "image": "../common/assets/img/weapons/Charger_NormalScope_02.png",
+                "class": "Charger",
+                "sub": "Sprinkler",
+                "special": "Crab Tank",
+                "localizedName": {
+                    "en_GB": "Splatterscope CAM-O",
+                    "en_US": "Splatterscope CAM-O",
+                    "es_ES": "Cargatintas con mira BSQ",
+                    "es_MX": "Telecargatintas BSQ",
+                    "fr_FR": "Concentraceur zoom CAM-O",
+                    "fr_CA": "Concentraceur zoom CAM-O",
+                    "de_DE": "Ziel-Konzentrator TAR-N",
+                    "nl_NL": "Schelpschutter CAM-O",
+                    "ru_RU": "\u0421\u043d\u0430\u0439\u043f\u043e\u043a\u0440\u0430\u0441 \u00ab\u041a-\u0424\u041b\u042f\u0416\u00bb",
+                    "it_IT": "Splatter con mirino FRS-T",
+                    "ja_JP": "\u30b9\u30d7\u30e9\u30b9\u30b3\u30fc\u30d7FRST"
+                },
+                "internal": "Charger_NormalScope_02"
+            },
+            {
+                "id": 18,
+                "name": "Splat Charger CAM-O",
+                "image": "../common/assets/img/weapons/Charger_Normal_02.png",
+                "class": "Charger",
+                "sub": "Sprinkler",
+                "special": "Crab Tank",
+                "localizedName": {
+                    "en_GB": "Splat Charger CAM-O",
+                    "en_US": "Splat Charger CAM-O",
+                    "es_ES": "Cargatintas BSQ",
+                    "es_MX": "Cargatintas BSQ",
+                    "fr_FR": "Concentraceur CAM-O",
+                    "fr_CA": "Concentraceur CAM-O",
+                    "de_DE": "Klecks-Konzentrator TAR-N",
+                    "nl_NL": "Bloplader CAM-O",
+                    "ru_RU": "\u0421\u043f\u043b\u0430\u0442\u0433\u0430\u043d \u00ab\u041a-\u0424\u041b\u042f\u0416\u00bb",
+                    "it_IT": "Splatter a carica FRS-T",
+                    "ja_JP": "\u30b9\u30d7\u30e9\u30c1\u30e3\u30fc\u30b8\u30e3\u30fcFRST"
+                },
+                "internal": "Charger_Normal_02"
             }
         ],
         "localizedName": {
@@ -1203,6 +1335,72 @@
                     "ja_JP": "\u30ac\u30a8\u30f3FF\u30ab\u30b9\u30bf\u30e0"
                 },
                 "internal": "Maneuver_Long_01"
+            },
+            {
+                "id": 13,
+                "name": "Hoofz Dualie Squelchers",
+                "image": "../common/assets/img/weapons/Maneuver_Dual_02.png",
+                "class": "Maneuver",
+                "sub": "Point Sensor",
+                "special": "Splattercolor Screen",
+                "localizedName": {
+                    "en_GB": "Hoofz Dualie Squelchers",
+                    "en_US": "Hoofz Dualie Squelchers",
+                    "es_ES": "Barredora dual rayas",
+                    "es_MX": "Soplador dual RYX",
+                    "fr_FR": "Double nettoyeur z\u00e9brapex",
+                    "fr_CA": "Double nettoyeur z\u00e9branius",
+                    "de_DE": "Dual-Platscher ZBR",
+                    "nl_NL": "Dubbelplonzers Z\u00ebbra",
+                    "ru_RU": "\u0421\u043f\u0443\u0440\u0442-\u043f\u043b\u0435\u0441\u043a\u0430\u0440\u0438 \u00ab\u041a\u043e\u043f\u044b\u0442\u0430\u00bb",
+                    "it_IT": "Sweeper duplo zebra-bon",
+                    "ja_JP": "\u30c7\u30e5\u30a2\u30eb\u30b9\u30a4\u30fc\u30d1\u30fc\u8e44"
+                },
+                "internal": "Maneuver_Dual_02"
+            },
+            {
+                "id": 14,
+                "name": "Twinklez Splat Dualies",
+                "image": "../common/assets/img/weapons/Maneuver_Normal_02.png",
+                "class": "Maneuver",
+                "sub": "Fizzy Bomb",
+                "special": "Big Bubbler",
+                "localizedName": {
+                    "en_GB": "Twinklez Splat Dualies",
+                    "en_US": "Twinklez Splat Dualies",
+                    "es_ES": "Difusor dual chispa",
+                    "es_MX": "Difusor dual CHX",
+                    "fr_FR": "Double encreur flambapex",
+                    "fr_CA": "Double encreur flambius",
+                    "de_DE": "Glitz-Klecks-Doppler",
+                    "nl_NL": "Dubbelknallers F\u00f6nkel",
+                    "ru_RU": "\u0421\u043f\u0443\u0440\u0442\u043e\u043c\u0435\u0442\u044b \u00ab\u0418\u0441\u043a\u0440\u0430\u00bb",
+                    "it_IT": "Repolper duplo metal-bon",
+                    "ja_JP": "\u30b9\u30d7\u30e9\u30de\u30cb\u30e5\u30fc\u30d0\u30fc\u8000"
+                },
+                "internal": "Maneuver_Normal_02"
+            },
+            {
+                "id": 15,
+                "name": "Dapple Dualies NOC-T",
+                "image": "../common/assets/img/weapons/Maneuver_Short_02.png",
+                "class": "Maneuver",
+                "sub": "Splat Bomb",
+                "special": "Killer Wail 5.1",
+                "localizedName": {
+                    "en_GB": "Dapple Dualies NOC-T",
+                    "en_US": "Dapple Dualies NOC-T",
+                    "es_ES": "Atomizador dual b\u00faho",
+                    "es_MX": "Atomizador dual NCT",
+                    "fr_FR": "Double moucheteur NOC-T",
+                    "fr_CA": "Double moucheteur NOC-T",
+                    "de_DE": "Sprenkler U-HU",
+                    "nl_NL": "Dubbelspatters VLR-M",
+                    "ru_RU": "\u0418\u043c\u043f\u0440\u0435\u0441\u0441\u0438\u043e\u043c\u0435\u0442\u044b \u00ab\u0424-\u041b\u0418\u041d\u00bb",
+                    "it_IT": "Ripolpella duplo NOT-T",
+                    "ja_JP": "\u30b9\u30d1\u30c3\u30bf\u30ea\u30fcOWL"
+                },
+                "internal": "Maneuver_Short_02"
             }
         ],
         "localizedName": {
@@ -1464,6 +1662,72 @@
                     "ja_JP": "\u30aa\u30fc\u30c0\u30fc\u30ed\u30fc\u30e9\u30fc \u30ec\u30d7\u30ea\u30ab"
                 },
                 "internal": "Roller_Normal_O"
+            },
+            {
+                "id": 11,
+                "name": "Carbon Roller ANG-L",
+                "image": "../common/assets/img/weapons/Roller_Compact_02.png",
+                "class": "Roller",
+                "sub": "Fizzy Bomb",
+                "special": "Super Chump",
+                "localizedName": {
+                    "en_GB": "Carbon Roller ANG-L",
+                    "en_US": "Carbon Roller ANG-L",
+                    "es_ES": "Rodillo de carbono ABSL",
+                    "es_MX": "Rodillo de carbono ABL",
+                    "fr_FR": "Rouleau carbone BOD-RWA",
+                    "fr_CA": "Rouleau carbone BOD-RWA",
+                    "de_DE": "Karbonroller ANG-LR",
+                    "nl_NL": "Carbonroller HNG-L",
+                    "ru_RU": "\u0412\u0430\u043b\u0438\u043a \u041b\u0410\u0419\u0422 \u00ab\u0423-\u0414\u0418\u041b\u042c\u00bb",
+                    "it_IT": "Rullo di carbonio PSC-AB",
+                    "ja_JP": "\u30ab\u30fc\u30dc\u30f3\u30ed\u30fc\u30e9\u30fcANGL"
+                },
+                "internal": "Roller_Compact_02"
+            },
+            {
+                "id": 12,
+                "name": "Starz Dynamo Roller",
+                "image": "../common/assets/img/weapons/Roller_Heavy_02.png",
+                "class": "Roller",
+                "sub": "Point Sensor",
+                "special": "Killer Wail 5.1",
+                "localizedName": {
+                    "en_GB": "Starz Dynamo Roller",
+                    "en_US": "Starz Dynamo Roller",
+                    "es_ES": "Dinamorrodillo cosmos",
+                    "es_MX": "Rodillo Pro CSX",
+                    "fr_FR": "Dynamo-rouleau galapex",
+                    "fr_CA": "Dynamo-rouleau galaxius",
+                    "de_DE": "Dynaroller Galaxa",
+                    "nl_NL": "Dynamoroller Astr\u00f6",
+                    "ru_RU": "\u041c\u043e\u0442\u043e\u0432\u0430\u043b\u0438\u043a \u00ab\u041f\u0443\u043b\u044c\u0441\u0430\u0440\u00bb",
+                    "it_IT": "Rullo dinamo galax-bon",
+                    "ja_JP": "\u30c0\u30a4\u30ca\u30e2\u30ed\u30fc\u30e9\u30fc\u51a5"
+                },
+                "internal": "Roller_Heavy_02"
+            },
+            {
+                "id": 13,
+                "name": "Planetz Big Swig Roller",
+                "image": "../common/assets/img/weapons/Roller_Wide_02.png",
+                "class": "Roller",
+                "sub": "Torpedo",
+                "special": "Triple Splashdown",
+                "localizedName": {
+                    "en_GB": "Planetz Big Swig Roller",
+                    "en_US": "Planetz Big Swig Roller",
+                    "es_ES": "Rodillo m\u00e1gnum SAT",
+                    "es_MX": "Rodillo m\u00e1gnum PLX",
+                    "fr_FR": "Rouleau large astrapex",
+                    "fr_CA": "Rouleau large astralius",
+                    "de_DE": "Breitroller Exzell",
+                    "nl_NL": "Breedroller F\u00fct\u00fcr",
+                    "ru_RU": "\u041c\u0430\u043a\u0441\u0438-\u0432\u0430\u043b\u0438\u043a \u00ab\u041f\u043b\u0430\u043d\u0435\u0442\u0430\u00bb",
+                    "it_IT": "Ampiorullo astra-bon",
+                    "ja_JP": "\u30ef\u30a4\u30c9\u30ed\u30fc\u30e9\u30fc\u60d1"
+                },
+                "internal": "Roller_Wide_02"
             }
         ],
         "localizedName": {
@@ -1637,6 +1901,50 @@
                     "ja_JP": "\u30c7\u30f3\u30bf\u30eb\u30ef\u30a4\u30d1\u30fc\u30b9\u30df"
                 },
                 "internal": "Saber_Heavy_01"
+            },
+            {
+                "id": 7,
+                "name": "Splatana Wiper RUS-T",
+                "image": "../common/assets/img/weapons/Saber_Lite_02.png",
+                "class": "Saber",
+                "sub": "Curling Bomb",
+                "special": "Trizooka",
+                "localizedName": {
+                    "en_GB": "Splatana Wiper RUS-T",
+                    "en_US": "Splatana Wiper RUS-T",
+                    "es_ES": "Azotintador brisa \u00f3xido",
+                    "es_MX": "Azotintador brisa OXD",
+                    "fr_FR": "\u00c9clatana Doto OXY-D",
+                    "fr_CA": "\u00c9clatana Doto OXY-D",
+                    "de_DE": "Wischer-Splatana RST-G",
+                    "nl_NL": "Wisserbladzwieper O-XID",
+                    "ru_RU": "\u0421\u043f\u043b\u0430\u0442-\u0434\u0432\u043e\u0440\u043d\u0438\u043a \u00ab\u0420\u0416\u0410\u0412-\u0427\u00bb",
+                    "it_IT": "Tergilama RUG-N",
+                    "ja_JP": "\u30c9\u30e9\u30a4\u30d6\u30ef\u30a4\u30d1\u30fcRUST"
+                },
+                "internal": "Saber_Lite_02"
+            },
+            {
+                "id": 8,
+                "name": "Stickerz Splatana Stamper",
+                "image": "../common/assets/img/weapons/Saber_Normal_02.png",
+                "class": "Saber",
+                "sub": "Autobomb",
+                "special": "Booyah Bomb",
+                "localizedName": {
+                    "en_GB": "Stickerz Splatana Stamper",
+                    "en_US": "Stickerz Splatana Stamper",
+                    "es_ES": "Azotintador pro pegatas",
+                    "es_MX": "Azotintador Pro CLX",
+                    "fr_FR": "\u00c9clatana d'estampe d\u00e9capex",
+                    "fr_CA": "\u00c9clatana d'estampe d\u00e9colius",
+                    "de_DE": "Stempel-Splatana Sticker",
+                    "nl_NL": "Stempelzwieper Pl\u00e4kkerz",
+                    "ru_RU": "\u0421\u043f\u043b\u0430\u0442-\u043f\u0435\u0447\u0430\u0442\u0435\u043b\u044c \u00ab\u0423\u043a\u043b\u0435\u0439\u043a\u0430\u00bb",
+                    "it_IT": "Splattalama adesi-bon",
+                    "ja_JP": "\u30b8\u30e0\u30ef\u30a4\u30d1\u30fc\u5c01"
+                },
+                "internal": "Saber_Normal_02"
             }
         ],
         "localizedName": {
@@ -1854,6 +2162,50 @@
                     "ja_JP": "24\u5f0f\u5f35\u66ff\u5098\u30fb\u4e59"
                 },
                 "internal": "Shelter_Focus_01"
+            },
+            {
+                "id": 9,
+                "name": "Patternz Undercover Brella",
+                "image": "../common/assets/img/weapons/Shelter_Compact_02.png",
+                "class": "Shelter",
+                "sub": "Curling Bomb",
+                "special": "Killer Wail 5.1",
+                "localizedName": {
+                    "en_GB": "Patternz Undercover Brella",
+                    "en_US": "Patternz Undercover Brella",
+                    "es_ES": "Paratintas cl\u00e1sico MIX",
+                    "es_MX": "Paratintas discreto PTX",
+                    "fr_FR": "Para-encre espion amalgapex",
+                    "fr_CA": "Para-encre espion m\u00e9langius",
+                    "de_DE": "Flair-UnderCover",
+                    "nl_NL": "Paraplenzer Fr\u00e4ppant",
+                    "ru_RU": "\u0428\u043f\u0438\u043e\u043d\u0441\u043a\u0438\u0439 \u0437\u043e\u043d\u0442 \u00ab\u041a\u043e\u043b\u043b\u0430\u0436\u00bb",
+                    "it_IT": "Bombrello sgargia-bon",
+                    "ja_JP": "\u30b9\u30d1\u30a4\u30ac\u30b8\u30a7\u30c3\u30c8\u7e5a"
+                },
+                "internal": "Shelter_Compact_02"
+            },
+            {
+                "id": 10,
+                "name": "Tenta Brella CRE-M",
+                "image": "../common/assets/img/weapons/Shelter_Wide_02.png",
+                "class": "Shelter",
+                "sub": "Toxic Mist",
+                "special": "Super Chump",
+                "localizedName": {
+                    "en_GB": "Tenta Brella CRE-M",
+                    "en_US": "Tenta Brella CRE-M",
+                    "es_ES": "Paratintas maxi crema",
+                    "es_MX": "Paratintas forestal CRM",
+                    "fr_FR": "Para-encre XL CRM-A",
+                    "fr_CA": "M\u00e9ga para-encre CRM-A",
+                    "de_DE": "Camp-Pluviator CR-MA",
+                    "nl_NL": "Kampeerplenzer CRE-M",
+                    "ru_RU": "\u0417\u043e\u043d\u0442\u0435\u043d\u0442 \u00ab\u0421\u041b\u0418\u0412-\u041a\u00bb",
+                    "it_IT": "Sparatenda CRM-A",
+                    "ja_JP": "\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30b7\u30a7\u30eb\u30bf\u30fcCREM"
+                },
+                "internal": "Shelter_Wide_02"
             }
         ],
         "localizedName": {
@@ -2555,6 +2907,182 @@
                     "ja_JP": "\u30aa\u30af\u30bf\u30b7\u30e5\u30fc\u30bf\u30fc \u30ec\u30d7\u30ea\u30ab"
                 },
                 "internal": "Shooter_Normal_Oct"
+            },
+            {
+                "id": 31,
+                "name": "Colorz Aerospray",
+                "image": "../common/assets/img/weapons/Shooter_Blaze_02.png",
+                "class": "Shooter",
+                "sub": "Burst Bomb",
+                "special": "Splattercolor Screen",
+                "localizedName": {
+                    "en_GB": "Colorz Aerospray",
+                    "en_US": "Colorz Aerospray",
+                    "es_ES": "Aer\u00f3grafo arco\u00edris",
+                    "es_MX": "Aer\u00f3grafo ARX",
+                    "fr_FR": "A\u00e9rogun chromapex",
+                    "fr_CA": "Pouche-pouche chromius",
+                    "de_DE": "Airbrush RGB",
+                    "nl_NL": "Kladderwerper B\u00f6nt",
+                    "ru_RU": "\u0410\u044d\u0440\u043e\u0441\u043f\u0440\u0435\u0439 \u00ab\u041f\u0435\u0440\u0435\u043b\u0438\u0432\u00bb",
+                    "it_IT": "Aerografo color-bon",
+                    "ja_JP": "\u30d7\u30ed\u30e2\u30c7\u30e9\u30fc\u5f69"
+                },
+                "internal": "Shooter_Blaze_02"
+            },
+            {
+                "id": 32,
+                "name": "Splattershot Pro FRZ-N",
+                "image": "../common/assets/img/weapons/Shooter_Expert_02.png",
+                "class": "Shooter",
+                "sub": "Splat Bomb",
+                "special": "Tenta Missiles",
+                "localizedName": {
+                    "en_GB": "Splattershot Pro FRZ-N",
+                    "en_US": "Splattershot Pro FRZ-N",
+                    "es_ES": "Lanzatintas plus g\u00e9lido",
+                    "es_MX": "Rociador Pro GLD",
+                    "fr_FR": "Liquidateur pro GLA-C",
+                    "fr_CA": "Liqu\u00e9ficateur pro GLA-C",
+                    "de_DE": "Profi-Kleckser CH-LL",
+                    "nl_NL": "Superspetter Pro BIB-R",
+                    "ru_RU": "\u041a\u0430\u043f\u043b\u0435\u0441\u0442\u0440\u0435\u043b \u041f\u0420\u041e \u00ab\u0421\u0422\u0423-\u0416\u00bb",
+                    "it_IT": "Splasher \u00e9lite GLA-C",
+                    "ja_JP": "\u30d7\u30e9\u30a4\u30e0\u30b7\u30e5\u30fc\u30bf\u30fcFRZN"
+                },
+                "internal": "Shooter_Expert_02"
+            },
+            {
+                "id": 33,
+                "name": "Clawz .96 Gal",
+                "image": "../common/assets/img/weapons/Shooter_Heavy_02.png",
+                "class": "Shooter",
+                "sub": "Angle Shooter",
+                "special": "Tacticooler",
+                "localizedName": {
+                    "en_GB": "Clawz .96 Gal",
+                    "en_US": "Clawz .96 Gal",
+                    "es_ES": "Salpicadora 3000 garra",
+                    "es_MX": "Salpicadora 3000 GRX",
+                    "fr_FR": "Calibre 3000 gu\u00e9papex",
+                    "fr_CA": "Calibre 3000 gu\u00e9pius",
+                    "de_DE": ".96 Gallon Leo",
+                    "nl_NL": ".96 Kaliter P\u00e4nter",
+                    "ru_RU": "\u0421\u0442\u0440\u0443\u0435\u0432\u0438\u043a .96 \u00ab\u0426\u0430\u0440\u0430\u043f\u00bb",
+                    "it_IT": "Calibro 3000 leo-bon",
+                    "ja_JP": ".96\u30ac\u30ed\u30f3\u722a"
+                },
+                "internal": "Shooter_Heavy_02"
+            },
+            {
+                "id": 34,
+                "name": "Jet Squelcher COB-R",
+                "image": "../common/assets/img/weapons/Shooter_Long_02.png",
+                "class": "Shooter",
+                "sub": "Burst Bomb",
+                "special": "Triple Splashdown",
+                "localizedName": {
+                    "en_GB": "Jet Squelcher COB-R",
+                    "en_US": "Jet Squelcher COB-R",
+                    "es_ES": "Megabarredora cobra",
+                    "es_MX": "Megasoplador CBR",
+                    "fr_FR": "Nettoyeur XL COB-R",
+                    "fr_CA": "M\u00e9ganettoyeur COB-R",
+                    "de_DE": "Platscher KB-RA",
+                    "nl_NL": "Straalplonzer COB-R",
+                    "ru_RU": "\u041f\u043b\u0435\u0441\u043a\u0430\u0440\u044c \u00ab\u041a\u041e\u0411-\u0420\u00bb",
+                    "it_IT": "Sweeper COB-R",
+                    "ja_JP": "\u30b8\u30a7\u30c3\u30c8\u30b9\u30a4\u30fc\u30d1\u30fcCOBR"
+                },
+                "internal": "Shooter_Long_02"
+            },
+            {
+                "id": 35,
+                "name": "Glamorz Splattershot",
+                "image": "../common/assets/img/weapons/Shooter_Normal_02.png",
+                "class": "Shooter",
+                "sub": "Burst Bomb",
+                "special": "Kraken Royale",
+                "localizedName": {
+                    "en_GB": "Glamorz Splattershot",
+                    "en_US": "Glamorz Splattershot",
+                    "es_ES": "Lanzatintas ZAS",
+                    "es_MX": "Rociador GLX",
+                    "fr_FR": "Liquidateur glamapex",
+                    "fr_CA": "Liqu\u00e9ficateur glamius",
+                    "de_DE": "Chroma-Kleckser",
+                    "nl_NL": "Superspetter Gl\u00e4nz",
+                    "ru_RU": "\u041a\u0430\u043f\u043b\u0435\u0441\u0442\u0440\u0435\u043b \u00ab\u0411\u043b\u0435\u0441\u043d\u0430\u00bb",
+                    "it_IT": "Splasher iride-bon",
+                    "ja_JP": "\u30b9\u30d7\u30e9\u30b7\u30e5\u30fc\u30bf\u30fc\u714c"
+                },
+                "internal": "Shooter_Normal_02"
+            },
+            {
+                "id": 36,
+                "name": "Splash-o-matic GCK-O",
+                "image": "../common/assets/img/weapons/Shooter_Precision_02.png",
+                "class": "Shooter",
+                "sub": "Toxic Mist",
+                "special": "Ink Storm",
+                "localizedName": {
+                    "en_GB": "Splash-o-matic GCK-O",
+                    "en_US": "Splash-o-matic GCK-O",
+                    "es_ES": "Marcador fino geco",
+                    "es_MX": "Plum\u00f3n GCO",
+                    "fr_FR": "Marqueur l\u00e9ger G-KO",
+                    "fr_CA": "Marqueur l\u00e9ger G-KO",
+                    "de_DE": "Fein-Disperser GK-KO",
+                    "nl_NL": "Spetterspuit GKK-O",
+                    "ru_RU": "\u041f\u043b\u044e\u0445\u043e\u043c\u0435\u0442 \u00ab\u0413-\u041a\u041e\u041d\u00bb",
+                    "it_IT": "Marker d'assalto GEC-O",
+                    "ja_JP": "\u30b7\u30e3\u30fc\u30d7\u30de\u30fc\u30ab\u30fcGECK"
+                },
+                "internal": "Shooter_Precision_02"
+            },
+            {
+                "id": 37,
+                "name": "H-3 Nozzlenose VIP-R",
+                "image": "../common/assets/img/weapons/Shooter_TripleMiddle_02.png",
+                "class": "Shooter",
+                "sub": "Suction Bomb",
+                "special": "Triple Inkstrike",
+                "localizedName": {
+                    "en_GB": "H-3 Nozzlenose VIP-R",
+                    "en_US": "H-3 Nozzlenose VIP-R",
+                    "es_ES": "Tintambor pesado \u00e1spid",
+                    "es_MX": "Manguera pesada PTN",
+                    "fr_FR": "Arroseur lourd VIP-R",
+                    "fr_CA": "Arroseur lourd VIP-R",
+                    "de_DE": "S3 Tintenwerfer VIP-R",
+                    "nl_NL": "H-3 Langsnuit ANC-D",
+                    "ru_RU": "\u0422-\u043a\u0430\u043f\u043b\u0435\u0442\u0440\u043e\u043d \u00ab\u041c\u0410\u041c-\u0411\u00bb",
+                    "it_IT": "Triplete VIP-R",
+                    "ja_JP": "H3\u30ea\u30fc\u30eb\u30ac\u30f3SNAK"
+                },
+                "internal": "Shooter_TripleMiddle_02"
+            },
+            {
+                "id": 38,
+                "name": "Glitterz L-3 Nozzlenose",
+                "image": "../common/assets/img/weapons/Shooter_TripleQuick_02.png",
+                "class": "Shooter",
+                "sub": "Splat Bomb",
+                "special": "Inkjet",
+                "localizedName": {
+                    "en_GB": "Glitterz L-3 Nozzlenose",
+                    "en_US": "Glitterz L-3 Nozzlenose",
+                    "es_ES": "Tintambor ligero chapa",
+                    "es_MX": "Manguera ligera BRX",
+                    "fr_FR": "Arroseur l\u00e9ger \u00e9clapex",
+                    "fr_CA": "Arroseur l\u00e9ger \u00e9clatius",
+                    "de_DE": "L3 Tintenwerfer Oro",
+                    "nl_NL": "L-3 Stompsnuit Spr\u00e4nkel",
+                    "ru_RU": "\u041a\u0430\u043f\u043b\u0435\u0442\u0440\u043e\u043d \u00ab\u0421\u0442\u0440\u0430\u0437\u00bb",
+                    "it_IT": "Triplete compatto lucci-bon",
+                    "ja_JP": "L3\u30ea\u30fc\u30eb\u30ac\u30f3\u7b94"
+                },
+                "internal": "Shooter_TripleQuick_02"
             }
         ],
         "localizedName": {
@@ -2860,6 +3388,50 @@
                     "ja_JP": "\u30a8\u30af\u30b9\u30d7\u30ed\u30c3\u30b7\u30e3\u30fc\u30ab\u30b9\u30bf\u30e0"
                 },
                 "internal": "Slosher_Washtub_01"
+            },
+            {
+                "id": 13,
+                "name": "Tri-Slosher ASH-N",
+                "image": "../common/assets/img/weapons/Slosher_Diffusion_02.png",
+                "class": "Slosher",
+                "sub": "Splat Bomb",
+                "special": "Splattercolor Screen",
+                "localizedName": {
+                    "en_GB": "Tri-Slosher ASH-N",
+                    "en_US": "Tri-Slosher ASH-N",
+                    "es_ES": "Derramatic triple ceniza",
+                    "es_MX": "Derramatic triple CNZ",
+                    "fr_FR": "D\u00e9poteur 100-DR\u00c9",
+                    "fr_CA": "Seauceur trio 100-DR\u00c9",
+                    "de_DE": "3R-Schwapper OX-D",
+                    "nl_NL": "Triomorser GRW-G",
+                    "ru_RU": "\u0412\u0435\u0434\u0440\u043e\u0433\u0430\u043d 3 \u0432 1 \u00ab\u0413\u0410\u041b\u042c-\u041d\u00bb",
+                    "it_IT": "Secchiostro triplo POL-V",
+                    "ja_JP": "\u30d2\u30c3\u30bb\u30f3ASH"
+                },
+                "internal": "Slosher_Diffusion_02"
+            },
+            {
+                "id": 14,
+                "name": "Hornz Dread Wringer",
+                "image": "../common/assets/img/weapons/Slosher_Double_02.png",
+                "class": "Slosher",
+                "sub": "Curling Bomb",
+                "special": "Crab Tank",
+                "localizedName": {
+                    "en_GB": "Hornz Dread Wringer",
+                    "en_US": "Hornz Dread Wringer",
+                    "es_ES": "Friegamatic asta",
+                    "es_MX": "Friegamatic ATX",
+                    "fr_FR": "Seau S-Horreur k\u00e9rapex",
+                    "fr_CA": "Seau S-Horreur k\u00e9ratius",
+                    "de_DE": "Schwappwascher Horn",
+                    "nl_NL": "Wringmorser H\u00f6rnz",
+                    "ru_RU": "\u041e\u0442\u0436\u0438\u043c\u0430\u0442\u0435\u043b\u044c \u00ab\u0420\u043e\u0433\u0430\u00bb",
+                    "it_IT": "Secchiapavimenti acu-bon",
+                    "ja_JP": "\u30e2\u30c3\u30d7\u30ea\u30f3\u89d2"
+                },
+                "internal": "Slosher_Double_02"
             }
         ],
         "localizedName": {
@@ -3165,6 +3737,50 @@
                     "ja_JP": "\u30cf\u30a4\u30c9\u30e9\u30f3\u30c8\u30ab\u30b9\u30bf\u30e0"
                 },
                 "internal": "Spinner_Hyper_01"
+            },
+            {
+                "id": 13,
+                "name": "Torrentz Hydra Splatling",
+                "image": "../common/assets/img/weapons/Spinner_Hyper_02.png",
+                "class": "Spinner",
+                "sub": "Sprinkler",
+                "special": "Big Bubbler",
+                "localizedName": {
+                    "en_GB": "Torrentz Hydra Splatling",
+                    "en_US": "Torrentz Hydra Splatling",
+                    "es_ES": "Extintador presi\u00f3n",
+                    "es_MX": "Garabateador HD TRX",
+                    "fr_FR": "Exteinteur cascapex",
+                    "fr_CA": "Exteinteur cascadius",
+                    "de_DE": "Hydrant AT\u00dc",
+                    "nl_NL": "Blusling St\u00f6rtvlud",
+                    "ru_RU": "\u00ab\u0411\u0430\u043b\u043b\u043e\u043d-\u0413\u043e\u0440\u044b\u043d\u044b\u0447\u00bb",
+                    "it_IT": "Idrante spray-bon",
+                    "ja_JP": "\u30cf\u30a4\u30c9\u30e9\u30f3\u30c8\u5727"
+                },
+                "internal": "Spinner_Hyper_02"
+            },
+            {
+                "id": 14,
+                "name": "Mini Splatling RTL-R",
+                "image": "../common/assets/img/weapons/Spinner_Quick_02.png",
+                "class": "Spinner",
+                "sub": "Squid Beakon",
+                "special": "Trizooka",
+                "localizedName": {
+                    "en_GB": "Mini Splatling RTL-R",
+                    "en_US": "Mini Splatling RTL-R",
+                    "es_ES": "Tintralladora ligera pit\u00f3n",
+                    "es_MX": "Garabateador CSB",
+                    "fr_FR": "Badigeonneur XS VN-1",
+                    "fr_CA": "Badigeonneur XP VN-1",
+                    "de_DE": "Klecks-Splatling KLP-R",
+                    "nl_NL": "Mini-Spetling PYT-N",
+                    "ru_RU": "\u0411\u0440\u044b\u0437\u0433\u043e\u043c\u0435\u0442-\u041c \u00ab\u0413-\u0414\u042e\u041a\u00bb",
+                    "it_IT": "Mini splatling PIT-N",
+                    "ja_JP": "\u30b9\u30d7\u30e9\u30b9\u30d4\u30ca\u30fcPYTN"
+                },
+                "internal": "Spinner_Quick_02"
             }
         ],
         "localizedName": {
@@ -3338,6 +3954,50 @@
                     "ja_JP": "\u30d5\u30eb\u30a4\u30c9V\u30ab\u30b9\u30bf\u30e0"
                 },
                 "internal": "Stringer_Explosion_01"
+            },
+            {
+                "id": 7,
+                "name": "Bulbz Tri-Stringer",
+                "image": "../common/assets/img/weapons/Stringer_Normal_02.png",
+                "class": "Stringer",
+                "sub": "Angle Shooter",
+                "special": "Inkjet",
+                "localizedName": {
+                    "en_GB": "Bulbz Tri-Stringer",
+                    "en_US": "Bulbz Tri-Stringer",
+                    "es_ES": "Arcromatizador triple LUZ",
+                    "es_MX": "Arcromatizador triple FCX",
+                    "fr_FR": "Trisperceur prismapex",
+                    "fr_CA": "Trisperceur prismalius",
+                    "de_DE": "Prisma-Tri-Stringer",
+                    "nl_NL": "Triospanner L\u00fcminus",
+                    "ru_RU": "\u0422\u0440\u0438\u0442\u0438\u0432\u0430\u0442\u043e\u0440 \u00ab\u0414\u0438\u043e\u0434\u00bb",
+                    "it_IT": "Tri-calamarco LED-bon",
+                    "ja_JP": "\u30c8\u30e9\u30a4\u30b9\u30c8\u30ea\u30f3\u30ac\u30fc\u71c8"
+                },
+                "internal": "Stringer_Normal_02"
+            },
+            {
+                "id": 8,
+                "name": "REEF-LUX 450 MIL-K",
+                "image": "../common/assets/img/weapons/Stringer_Short_02.png",
+                "class": "Stringer",
+                "sub": "Torpedo",
+                "special": "Booyah Bomb",
+                "localizedName": {
+                    "en_GB": "REEF-LUX 450 MIL-K",
+                    "en_US": "REEF-LUX 450 MIL-K",
+                    "es_ES": "AR-CR0 450 l\u00e1cteo",
+                    "es_MX": "AR-CR0 450 LCT",
+                    "fr_FR": "Coralux 450 LACTO",
+                    "fr_CA": "Coralux 450 LACTO",
+                    "de_DE": "LACT-450 Q-MLCH",
+                    "nl_NL": "RIF-LEX 450 MEL-K",
+                    "ru_RU": "\u041a\u041e-\u0420\u0410\u041b\u041b 450 \u00ab\u041c-\u041b\u041e\u041a\u041e\u00bb",
+                    "it_IT": "ARCO-RAL 450 LAT-T",
+                    "ja_JP": "LACT-450MILK"
+                },
+                "internal": "Stringer_Short_02"
             }
         ],
         "localizedName": {

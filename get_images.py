@@ -13,7 +13,7 @@ except ImportError:
 VERSION = "latest"
 
 hats = f"https://leanny.github.io/splat3/data/mush//{VERSION}/GearInfoHead.json"
-shirts = f"https    ://leanny.github.io/splat3/data/mush//{VERSION}/GearInfoClothes.json"
+shirts = f"https://leanny.github.io/splat3/data/mush//{VERSION}/GearInfoClothes.json"
 shoes = f"https://leanny.github.io/splat3/data/mush//{VERSION}/GearInfoShoes.json"
 weapons = f"https://leanny.github.io/splat3/data/mush//{VERSION}/WeaponInfoMain.json"
 subs = f"https://leanny.github.io/splat3/data/mush//{VERSION}/WeaponInfoSub.json"
